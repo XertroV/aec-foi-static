@@ -84,6 +84,9 @@
                 <div class="foi-tab-bar">
                   <button type="button" class="foi-tab active" onclick="showTab(this, 'innerpdf-{{ zip_idx }}-{{ loop.index0 }}-orig')">Embedded PDF</button>
                   <button type="button" class="foi-tab" onclick="showTab(this, 'innerpdf-{{ zip_idx }}-{{ loop.index0 }}-text')">Extracted Text</button>
+                  {% if inner.ai_summary and inner.ai_summary.text %}
+                    <button type="button" class="foi-tab" onclick="showTab(this, 'innerpdf-{{ zip_idx }}-{{ loop.index0 }}-ai')">AI Overview</button>
+                  {% endif %}
                 </div>
                 <div class="tab-content" id="innerpdf-{{ zip_idx }}-{{ loop.index0 }}-orig" style="display:block;">
                   <iframe src="{{ inner.download_path }}" width="100%" height="400px" style="border: none;"></iframe>
@@ -91,6 +94,16 @@
                 <div class="tab-content" id="innerpdf-{{ zip_idx }}-{{ loop.index0 }}-text" style="display:none;">
                   <pre style="white-space: pre-wrap; background: #f8f8f8; padding: 0.5em; border-radius: 4px;">{{ inner.extracted_text }}</pre>
                 </div>
+                {% if inner.ai_summary and inner.ai_summary.text %}
+                <div class="tab-content" id="innerpdf-{{ zip_idx }}-{{ loop.index0 }}-ai" style="display:none;">
+                  <div class="ai-summary-markdown-content">
+                    {{ inner.ai_summary.text | markdown }}
+                  </div>
+                  {% set summary_model = inner.ai_summary.model %}
+                  {% set summary_date = inner.ai_summary.generated_at %}
+                  {% include 'ai_summary_label.html' %}
+                </div>
+                {% endif %}
               </div>
             {% elif inner.type in ['jpg', 'jpeg', 'png', 'gif'] %}
               <img src="{{ inner.download_path }}" alt="{{ inner.filename }}" style="max-width: 100%; height: auto;">
@@ -115,6 +128,9 @@
               <div class="foi-tab-bar">
                 <button type="button" class="foi-tab active" onclick="showTab(this, 'pdf-{{ loop.index0 }}-orig')">Original PDF</button>
                 <button type="button" class="foi-tab" onclick="showTab(this, 'pdf-{{ loop.index0 }}-text')">Extracted Text</button>
+                {% if file.ai_summary and file.ai_summary.text %}
+                  <button type="button" class="foi-tab" onclick="showTab(this, 'pdf-{{ loop.index0 }}-ai')">AI Overview</button>
+                {% endif %}
               </div>
               <div class="tab-content" id="pdf-{{ loop.index0 }}-orig" style="display:block;">
                 <iframe src="{{ file.output_file_path }}" width="100%" height="600px" style="border: none;"></iframe>
@@ -122,6 +138,16 @@
               <div class="tab-content" id="pdf-{{ loop.index0 }}-text" style="display:none;">
                 <pre style="white-space: pre-wrap; background: #f8f8f8; padding: 1em; border-radius: 4px;">{{ file.extracted_text }}</pre>
               </div>
+              {% if file.ai_summary and file.ai_summary.text %}
+              <div class="tab-content" id="pdf-{{ loop.index0 }}-ai" style="display:none;">
+                <div class="ai-summary-markdown-content">
+                  {{ file.ai_summary.text | markdown }}
+                </div>
+                {% set summary_model = file.ai_summary.model %}
+                {% set summary_date = file.ai_summary.generated_at %}
+                {% include 'ai_summary_label.html' %}
+              </div>
+              {% endif %}
             </div>
           {% elif file.type in ['jpg', 'jpeg', 'png', 'gif', 'webp'] %}
             <img src="{{ file.output_file_path }}" alt="{{ file.filename }}" style="max-width: 100%; height: auto;">
