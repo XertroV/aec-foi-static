@@ -123,50 +123,5 @@
     {% endfor %}
   </main>
 </div>
-<script>
-  function showTab(btn, tabId) {
-    var container = btn.closest('.tabbed-view');
-    var buttons = container.querySelectorAll('.tab-btn');
-    var tabs = container.querySelectorAll('.tab-content');
-    buttons.forEach(function(b) { b.classList.remove('active'); });
-    tabs.forEach(function(t) { t.style.display = 'none'; });
-    btn.classList.add('active');
-    var tab = container.querySelector('#' + tabId);
-    if (tab) tab.style.display = 'block';
-  }
-  function selectFile(idx) {
-    var sections = document.querySelectorAll('.foi-file-section');
-    var sidebarItems = document.querySelectorAll('.foi-sidebar-item');
-    sections.forEach(function(sec) { sec.style.display = 'none'; });
-    sidebarItems.forEach(function(item) { item.classList.remove('active'); });
-    var section = document.getElementById('foi-file-' + idx);
-    var sidebarItem = document.querySelector('.foi-sidebar-item[data-file-idx="' + idx + '"]');
-    if (section) section.style.display = 'block';
-    if (sidebarItem) sidebarItem.classList.add('active');
-  }
-  document.addEventListener('DOMContentLoaded', function() {
-    // Show the first file or first zip overview by default
-    var first = document.querySelector('.foi-file-section');
-    if (first) first.style.display = 'block';
-    var firstSidebar = document.querySelector('.foi-sidebar-item');
-    if (firstSidebar) firstSidebar.classList.add('active');
-  });
-</script>
-<style>
-  .foi-detail-layout { display: flex; gap: 2em; }
-  .foi-sidebar { min-width: 220px; max-width: 300px; border-right: 1px solid #eee; padding-right: 1em; }
-  .foi-sidebar-list, .foi-zip-inner-list { list-style: none; padding: 0; margin: 0; }
-  .foi-sidebar-item { margin-bottom: 0.5em; }
-  .foi-sidebar-btn { width: 100%; text-align: left; background: none; border: none; padding: 0.5em 0.7em; border-radius: 4px; cursor: pointer; transition: background 0.2s; }
-  .foi-sidebar-item.active > .foi-sidebar-btn, .foi-sidebar-btn:hover { background: #e0e7ef; font-weight: bold; }
-  .foi-zip-inner-list { margin-left: 1.2em; border-left: 2px solid #e0e7ef; padding-left: 0.7em; }
-  .file-label { margin-right: 0.5em; }
-  .file-type { color: #888; font-size: 0.95em; }
-  .foi-main-content { flex: 1; min-width: 0; }
-  .tab-buttons { margin-bottom: 0.5em; }
-  .tab-btn { background: #eee; border: 1px solid #ccc; border-bottom: none; padding: 0.4em 1em; cursor: pointer; border-radius: 4px 4px 0 0; margin-right: 0.2em; }
-  .tab-btn.active { background: #fff; border-bottom: 1px solid #fff; font-weight: bold; }
-  .tab-content { background: #fff; border: 1px solid #ccc; border-radius: 0 0 4px 4px; padding: 0.5em; }
-  .tabbed-view { margin-bottom: 1em; }
-</style>
+<script src="/static/detail.js" defer></script>
 {% endblock %}

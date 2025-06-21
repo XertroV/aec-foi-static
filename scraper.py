@@ -312,7 +312,15 @@ def generate_static_site(all_foi_data, output_base_dir):
     # Copy static assets
     if Path('static').exists():
         shutil.copytree('static', output_base_dir / 'static', dirs_exist_ok=True)
-        generated_files.append(str(output_base_dir / 'static'))
+        # List all files copied from static
+        static_files = []
+        for root, dirs, files in os.walk('static'):
+            for file in files:
+                rel_path = os.path.relpath(os.path.join(root, file), 'static')
+                out_path = output_base_dir / 'static' / rel_path
+                static_files.append(str(out_path))
+                print(f"Copied static asset: {out_path}")
+        generated_files.extend(static_files)
     # --- Lunr.js search index generation ---
     search_index_data = []
     for req_data in renderable_foi_data:
