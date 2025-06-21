@@ -56,12 +56,12 @@
             {% endfor %}
             {% if doc.original_url %}<div class="doc-original-link"><a href="{{ doc.original_url }}" target="_blank">Original AEC URL</a></div>{% endif %}
             {% if doc.ai_short_summary and doc.ai_short_summary.text %}
-              <div class="ai-summary-block">
-                <p class="ai-summary-text">{{ doc.ai_short_summary.text }}</p>
-                {% set summary_model = doc.ai_short_summary.model %}
-                {% set summary_date = doc.ai_short_summary.generated_at %}
-                {% include 'ai_summary_label.html' %}
-              </div>
+                <div class="ai-summary-block">
+                  <div class="ai-summary-text">{{ doc.ai_short_summary.text | markdown }}</div>
+                  {% set summary_model = doc.ai_short_summary.model %}
+                  {% set summary_date = doc.ai_short_summary.generated_at %}
+                  {% include 'ai_summary_label.html' %}
+                </div>
             {% endif %}
         </li>
         {% endfor %}

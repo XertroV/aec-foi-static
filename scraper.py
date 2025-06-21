@@ -323,7 +323,8 @@ def load_text_content(text_file_path, output_base_dir):
     return ""
 
 def markdown_filter(text):
-    return md.markdown(text or "")
+    # Enable 'extra' for lists, tables, etc. and 'nl2br' for newlines
+    return md.markdown(text or "", extensions=["extra", "nl2br"])
 
 def generate_static_site(all_foi_data, output_base_dir):
     output_base_dir = Path(output_base_dir)
