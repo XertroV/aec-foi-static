@@ -4,35 +4,169 @@
   <a href="/index.html">Home</a> &raquo; <span>{{ request.title }}</span>
 {% endblock %}
 {% block content %}
-  <h1>{{ request.title }}</h1>
-  <p><strong>Date:</strong> {{ request.date }}</p>
-  <h2>Files for this FOI request</h2>
-  <ul class="foi-file-list">
+<h1>{{ request.title }}</h1>
+<p><strong>Date:</strong> {{ request.date }}</p>
+<div class="foi-detail-layout">
+  <aside class="foi-sidebar">
+    <h3>Files</h3>
+    <ul class="foi-sidebar-list">
+      {% for file in request.files %}
+        {% if file.type == 'zip' and file.content_files %}
+          {% set zip_idx = loop.index0 %}
+          <li class="foi-sidebar-item" data-file-idx="zip-{{ zip_idx }}">
+            <button type="button" class="foi-sidebar-btn" onclick="selectFile('zip-{{ zip_idx }}')">
+              <span class="file-label">{{ file.link_text }}</span>
+              <span class="file-type">(zip)</span>
+            </button>
+            <ul class="foi-zip-inner-list">
+              {% for inner in file.content_files %}
+                <li class="foi-sidebar-item" data-file-idx="zip-{{ zip_idx }}-{{ loop.index0 }}">
+                  <button type="button" class="foi-sidebar-btn foi-inner-btn" onclick="selectFile('zip-{{ zip_idx }}-{{ loop.index0 }}')">
+                    <span class="file-label">{{ inner.filename }}</span>
+                    <span class="file-type">({{ inner.type }})</span>
+                  </button>
+                </li>
+              {% endfor %}
+            </ul>
+          </li>
+        {% else %}
+          <li class="foi-sidebar-item" data-file-idx="{{ loop.index0 }}">
+            <button type="button" class="foi-sidebar-btn" onclick="selectFile('{{ loop.index0 }}')">
+              <span class="file-label">{{ file.link_text }}</span>
+              <span class="file-type">({{ file.type }})</span>
+            </button>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </aside>
+  <main class="foi-main-content">
+    {# Top-level files #}
     {% for file in request.files %}
-      <li style="margin-bottom:1.5em;">
-        <strong>{{ file.link_text }}</strong> ({{ file.type }})<br>
-        <a href="{{ file.output_file_path }}" download>Download cached file</a>
-        &nbsp;|&nbsp;
-        <a href="{{ file.original_url }}" target="_blank" rel="noopener">Download from AEC</a>
-        {% if file.type == 'pdf' and file.extracted_text %}
-          <h3>Extracted Text</h3>
-          <pre style="white-space: pre-wrap;">{{ file.extracted_text }}</pre>
-        {% elif file.type == 'zip' and file.content_files %}
-          <h3>Contents of ZIP Archive</h3>
-          <ul class="zip-contents">
-            {% for item in file.content_files %}
+      {% if file.type == 'zip' and file.content_files %}
+        {% set zip_idx = loop.index0 %}
+        <section class="foi-file-section" id="foi-file-zip-{{ zip_idx }}" style="display:none;">
+          <h2>{{ file.link_text }} <span style="font-size:0.8em; color:#888;">(zip)</span></h2>
+          <a href="{{ file.output_file_path }}" download>Download cached ZIP</a>
+          &nbsp;|&nbsp;
+          <a href="{{ file.original_url }}" target="_blank" rel="noopener">Download from AEC</a>
+          <h3>ZIP Contents</h3>
+          <ul>
+            {% for inner in file.content_files %}
               <li>
-                <strong>{{ item.filename }}</strong> ({{ item.type }})
-                - <a href="{{ item.download_path }}" download>Download</a>
-                {% if item.type == 'pdf' and item.extracted_text %}
-                  <h4>Text from {{ item.filename }}</h4>
-                  <pre style="white-space: pre-wrap;">{{ item.extracted_text }}</pre>
-                {% endif %}
+                <a href="javascript:void(0);" onclick="selectFile('zip-{{ zip_idx }}-{{ loop.index0 }}')">{{ inner.filename }}</a>
+                <span class="file-type">({{ inner.type }})</span>
               </li>
             {% endfor %}
           </ul>
-        {% endif %}
-      </li>
+        </section>
+        {% for inner in file.content_files %}
+          <section class="foi-file-section" id="foi-file-zip-{{ zip_idx }}-{{ loop.index0 }}" style="display:none;">
+            <h2>{{ inner.filename }} <span style="font-size:0.8em; color:#888;">({{ inner.type }})</span></h2>
+            <a href="{{ inner.download_path }}" download>Download file</a>
+            {% if inner.type == 'pdf' %}
+              <div class="tabbed-view">
+                <div class="tab-buttons">
+                  <button type="button" class="tab-btn active" onclick="showTab(this, 'innerpdf-{{ zip_idx }}-{{ loop.index0 }}-orig')">Embedded PDF</button>
+                  <button type="button" class="tab-btn" onclick="showTab(this, 'innerpdf-{{ zip_idx }}-{{ loop.index0 }}-text')">Extracted Text</button>
+                </div>
+                <div class="tab-content" id="innerpdf-{{ zip_idx }}-{{ loop.index0 }}-orig" style="display:block;">
+                  <iframe src="{{ inner.download_path }}" width="100%" height="400px" style="border: none;"></iframe>
+                </div>
+                <div class="tab-content" id="innerpdf-{{ zip_idx }}-{{ loop.index0 }}-text" style="display:none;">
+                  <pre style="white-space: pre-wrap; background: #f8f8f8; padding: 0.5em; border-radius: 4px;">{{ inner.extracted_text }}</pre>
+                </div>
+              </div>
+            {% elif inner.type in ['jpg', 'jpeg', 'png', 'gif'] %}
+              <img src="{{ inner.download_path }}" alt="{{ inner.filename }}" style="max-width: 100%; height: auto;">
+            {% elif inner.type in ['mp4', 'webm', 'ogg'] %}
+              <video controls style="max-width: 100%; height: auto;">
+                <source src="{{ inner.download_path }}" type="video/{{ inner.type }}">
+                Your browser does not support the video tag.
+              </video>
+            {% else %}
+              <p>File type: {{ inner.type|upper }}. <a href="{{ inner.download_path }}" target="_blank">Download</a></p>
+            {% endif %}
+          </section>
+        {% endfor %}
+      {% else %}
+        <section class="foi-file-section" id="foi-file-{{ loop.index0 }}" style="display:none;">
+          <h2>{{ file.link_text }} <span style="font-size:0.8em; color:#888;">({{ file.type }})</span></h2>
+          <a href="{{ file.output_file_path }}" download>Download cached file</a>
+          &nbsp;|&nbsp;
+          <a href="{{ file.original_url }}" target="_blank" rel="noopener">Download from AEC</a>
+          {% if file.type == 'pdf' %}
+            <div class="tabbed-view">
+              <div class="tab-buttons">
+                <button type="button" class="tab-btn active" onclick="showTab(this, 'pdf-{{ loop.index0 }}-orig')">Original PDF</button>
+                <button type="button" class="tab-btn" onclick="showTab(this, 'pdf-{{ loop.index0 }}-text')">Extracted Text</button>
+              </div>
+              <div class="tab-content" id="pdf-{{ loop.index0 }}-orig" style="display:block;">
+                <iframe src="{{ file.output_file_path }}" width="100%" height="600px" style="border: none;"></iframe>
+              </div>
+              <div class="tab-content" id="pdf-{{ loop.index0 }}-text" style="display:none;">
+                <pre style="white-space: pre-wrap; background: #f8f8f8; padding: 1em; border-radius: 4px;">{{ file.extracted_text }}</pre>
+              </div>
+            </div>
+          {% elif file.type in ['jpg', 'jpeg', 'png', 'gif', 'webp'] %}
+            <img src="{{ file.output_file_path }}" alt="{{ file.filename }}" style="max-width: 100%; height: auto;">
+          {% elif file.type in ['mp4', 'webm', 'ogg'] %}
+            <video controls style="max-width: 100%; height: auto;">
+              <source src="{{ file.output_file_path }}" type="video/{{ file.type }}">
+              Your browser does not support the video tag.
+            </video>
+          {% else %}
+            <p>File type: {{ file.type|upper }}. <a href="{{ file.output_file_path }}" target="_blank">Download</a></p>
+          {% endif %}
+        </section>
+      {% endif %}
     {% endfor %}
-  </ul>
+  </main>
+</div>
+<script>
+  function showTab(btn, tabId) {
+    var container = btn.closest('.tabbed-view');
+    var buttons = container.querySelectorAll('.tab-btn');
+    var tabs = container.querySelectorAll('.tab-content');
+    buttons.forEach(function(b) { b.classList.remove('active'); });
+    tabs.forEach(function(t) { t.style.display = 'none'; });
+    btn.classList.add('active');
+    var tab = container.querySelector('#' + tabId);
+    if (tab) tab.style.display = 'block';
+  }
+  function selectFile(idx) {
+    var sections = document.querySelectorAll('.foi-file-section');
+    var sidebarItems = document.querySelectorAll('.foi-sidebar-item');
+    sections.forEach(function(sec) { sec.style.display = 'none'; });
+    sidebarItems.forEach(function(item) { item.classList.remove('active'); });
+    var section = document.getElementById('foi-file-' + idx);
+    var sidebarItem = document.querySelector('.foi-sidebar-item[data-file-idx="' + idx + '"]');
+    if (section) section.style.display = 'block';
+    if (sidebarItem) sidebarItem.classList.add('active');
+  }
+  document.addEventListener('DOMContentLoaded', function() {
+    // Show the first file or first zip overview by default
+    var first = document.querySelector('.foi-file-section');
+    if (first) first.style.display = 'block';
+    var firstSidebar = document.querySelector('.foi-sidebar-item');
+    if (firstSidebar) firstSidebar.classList.add('active');
+  });
+</script>
+<style>
+  .foi-detail-layout { display: flex; gap: 2em; }
+  .foi-sidebar { min-width: 220px; max-width: 300px; border-right: 1px solid #eee; padding-right: 1em; }
+  .foi-sidebar-list, .foi-zip-inner-list { list-style: none; padding: 0; margin: 0; }
+  .foi-sidebar-item { margin-bottom: 0.5em; }
+  .foi-sidebar-btn { width: 100%; text-align: left; background: none; border: none; padding: 0.5em 0.7em; border-radius: 4px; cursor: pointer; transition: background 0.2s; }
+  .foi-sidebar-item.active > .foi-sidebar-btn, .foi-sidebar-btn:hover { background: #e0e7ef; font-weight: bold; }
+  .foi-zip-inner-list { margin-left: 1.2em; border-left: 2px solid #e0e7ef; padding-left: 0.7em; }
+  .file-label { margin-right: 0.5em; }
+  .file-type { color: #888; font-size: 0.95em; }
+  .foi-main-content { flex: 1; min-width: 0; }
+  .tab-buttons { margin-bottom: 0.5em; }
+  .tab-btn { background: #eee; border: 1px solid #ccc; border-bottom: none; padding: 0.4em 1em; cursor: pointer; border-radius: 4px 4px 0 0; margin-right: 0.2em; }
+  .tab-btn.active { background: #fff; border-bottom: 1px solid #fff; font-weight: bold; }
+  .tab-content { background: #fff; border: 1px solid #ccc; border-radius: 0 0 4px 4px; padding: 0.5em; }
+  .tabbed-view { margin-bottom: 1em; }
+</style>
 {% endblock %}

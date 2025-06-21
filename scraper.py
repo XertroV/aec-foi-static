@@ -13,6 +13,7 @@ import shutil
 import tempfile
 from jinja2 import Environment, FileSystemLoader
 import concurrent.futures
+import hashlib
 
 # Note: AEC server can easily handle 100 MB/s of requests.
 # We won't sleep between requests since it's already single threaded.
@@ -62,25 +63,44 @@ def get_foi_documents_metadata(year=2025):
                     print(f"⚠️⚠️⚠️   Skipping unsupported file type: {href}")
     return list(grouped_requests.values())
 
-def download_document(url, filename, download_dir):
+def file_hash(path, block_size=65536):
+    h = hashlib.sha256()
+    with open(path, 'rb') as f:
+        for chunk in iter(lambda: f.read(block_size), b''):
+            h.update(chunk)
+    return h.hexdigest()
+
+def download_document(url, filename, download_dir, metadata, metadata_path):
     download_dir = Path(download_dir)
     download_dir.mkdir(parents=True, exist_ok=True)
     file_path = download_dir / filename
+    # Check metadata for this file
+    meta = metadata.get(str(file_path))
     try:
-        # Check if file exists and compare size with HEAD request
+        # Check if file exists and compare size/hash with metadata
         if file_path.exists():
-            try:
-                head = requests.head(url, allow_redirects=True, timeout=10)
-                head.raise_for_status()
-                remote_size = int(head.headers.get('Content-Length', 0))
-                local_size = file_path.stat().st_size
-                if remote_size > 0 and local_size == remote_size:
-                    print(f"Skipping {filename}: already exists and size matches ({local_size} bytes)")
-                    return True
-                print(f"File {filename} exists but size differs: local {local_size} bytes, remote {remote_size} bytes; abs diff = {abs(remote_size - local_size)} bytes")
-            except Exception as e:
-                print(f"Warning: Could not verify remote file size for {filename}: {e}")
-                # Proceed to download if HEAD fails
+            stat = file_path.stat()
+            file_info = {
+                'size': stat.st_size,
+                'mtime': int(stat.st_mtime),
+                'hash': file_hash(file_path)
+            }
+            if meta and meta.get('size') == file_info['size'] and meta.get('hash') == file_info['hash']:
+                print(f"Skipping {filename}: already exists and matches metadata")
+                return True
+        # Check remote file size with HEAD request
+        try:
+            head = requests.head(url, allow_redirects=True, timeout=10)
+            head.raise_for_status()
+            remote_size = int(head.headers.get('Content-Length', 0))
+            local_size = file_path.stat().st_size if file_path.exists() else 0
+            if remote_size > 0 and local_size == remote_size:
+                print(f"Skipping {filename}: already exists and size matches ({local_size} bytes)")
+                return True
+            print(f"File {filename} exists but size differs: local {local_size} bytes, remote {remote_size} bytes; abs diff = {abs(remote_size - local_size)} bytes")
+        except Exception as e:
+            print(f"Warning: Could not verify remote file size for {filename}: {e}")
+            # Proceed to download if HEAD fails
         size = 0
         with requests.get(url, stream=True, timeout=30) as r:
             r.raise_for_status()
@@ -90,6 +110,17 @@ def download_document(url, filename, download_dir):
                         f.write(chunk)
                         size += len(chunk)
         print(f"Downloaded: {filename} ({size} bytes)")
+        # Update metadata after download
+        stat = file_path.stat()
+        metadata[str(file_path)] = {
+            'url': url,
+            'size': stat.st_size,
+            'mtime': int(stat.st_mtime),
+            'hash': file_hash(file_path),
+            'extracted': False,
+            'resources': []
+        }
+        save_metadata(metadata, metadata_path)
         return True
     except Exception as e:
         print(f"Failed to download {url}: {e}")
@@ -196,16 +227,30 @@ def process_foi_entry(entry_metadata, downloaded_file_path, output_base_dir):
         "content_files": content_files
     }
 
-def process_downloaded_file_data(file_data, foi_request_id, downloaded_file_path, output_base_dir):
+def process_downloaded_file_data(file_data, foi_request_id, downloaded_file_path, output_base_dir, metadata, metadata_path):
     main_file_type = downloaded_file_path.suffix.lower()
     extracted_text_path = ""
     content_files = []
     output_file_path = output_base_dir / 'downloaded_originals' / downloaded_file_path.name
     (output_base_dir / 'downloaded_originals').mkdir(parents=True, exist_ok=True)
+    meta = metadata.get(str(downloaded_file_path))
+    # Only extract if not already extracted (or file changed)
+    need_extract = True
+    if meta and meta.get('extracted') and meta.get('hash') == file_hash(downloaded_file_path):
+        need_extract = False
     if main_file_type == '.pdf':
-        extracted_text = extract_text_from_pdf(downloaded_file_path)
-        extracted_text_path = save_text_to_file(extracted_text, foi_request_id, '', output_base_dir)
-        shutil.copy2(downloaded_file_path, output_file_path)
+        if need_extract:
+            extracted_text = extract_text_from_pdf(downloaded_file_path)
+            extracted_text_path = save_text_to_file(extracted_text, foi_request_id, '', output_base_dir)
+            shutil.copy2(downloaded_file_path, output_file_path)
+            meta = meta or {}
+            meta['extracted'] = True
+            meta['resources'] = meta.get('resources', []) + ['extracted_text']
+            metadata[str(downloaded_file_path)] = meta
+            save_metadata(metadata, metadata_path)
+        else:
+            # Find the extracted text path if already done
+            extracted_text_path = meta.get('extracted_text_path', '')
     elif main_file_type == '.zip':
         extract_dir = downloaded_file_path.parent / f"_extracted_{downloaded_file_path.stem}"
         extract_dir.mkdir(parents=True, exist_ok=True)
@@ -216,10 +261,23 @@ def process_downloaded_file_data(file_data, foi_request_id, downloaded_file_path
             if not extracted_file_path.is_file():
                 continue
             inner_file_type = extracted_file_path.suffix.lower()
+            inner_extracted_text = ""
             inner_extracted_text_path = ""
+            inner_meta = metadata.get(str(extracted_file_path))
+            need_inner_extract = True
+            if inner_meta and inner_meta.get('extracted') and inner_meta.get('hash') == file_hash(extracted_file_path):
+                need_inner_extract = False
             if inner_file_type == '.pdf':
-                inner_extracted_text = extract_text_from_pdf(extracted_file_path)
-                inner_extracted_text_path = save_text_to_file(inner_extracted_text, foi_request_id, f"_{Path(extracted_file_path.name).stem}", output_base_dir)
+                if need_inner_extract:
+                    inner_extracted_text = extract_text_from_pdf(extracted_file_path)
+                    inner_extracted_text_path = save_text_to_file(inner_extracted_text, foi_request_id, f"_{Path(extracted_file_path.name).stem}", output_base_dir)
+                    inner_meta = inner_meta or {}
+                    inner_meta['extracted'] = True
+                    inner_meta['resources'] = inner_meta.get('resources', []) + ['extracted_text']
+                    metadata[str(extracted_file_path)] = inner_meta
+                    save_metadata(metadata, metadata_path)
+                else:
+                    inner_extracted_text_path = inner_meta.get('extracted_text_path', '')
             inner_download_path = str(Path('/foi_assets') / foi_request_id / extracted_file_path.name)
             shutil.copy2(extracted_file_path, assets_output_subdir / extracted_file_path.name)
             content_files.append({
@@ -231,6 +289,12 @@ def process_downloaded_file_data(file_data, foi_request_id, downloaded_file_path
         shutil.copy2(downloaded_file_path, output_file_path)
     else:
         shutil.copy2(downloaded_file_path, output_file_path)
+    # Update extracted_text_path in metadata for PDFs
+    if main_file_type == '.pdf' and extracted_text_path:
+        meta = metadata.get(str(downloaded_file_path), {})
+        meta['extracted_text_path'] = extracted_text_path
+        metadata[str(downloaded_file_path)] = meta
+        save_metadata(metadata, metadata_path)
     return {
         "original_url": file_data['original_url'],
         "link_text": file_data['link_text'],
@@ -240,6 +304,16 @@ def process_downloaded_file_data(file_data, foi_request_id, downloaded_file_path
         "output_file_path": str(Path('/downloaded_originals') / downloaded_file_path.name),
         "content_files": content_files
     }
+
+def load_metadata(metadata_path):
+    if Path(metadata_path).exists():
+        with open(metadata_path, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    return {}
+
+def save_metadata(metadata, metadata_path):
+    with open(metadata_path, 'w', encoding='utf-8') as f:
+        json.dump(metadata, f, ensure_ascii=False, indent=2)
 
 def extract_text_from_all_pdfs(pdf_paths):
     all_text = ""
@@ -266,6 +340,7 @@ def generate_static_site(all_foi_data, output_base_dir):
     index_template = env.get_template("index.html")
     detail_template = env.get_template("document_detail.html")
     renderable_foi_data = []
+    generated_files = []
     for req_data in all_foi_data:
         render_data = req_data.copy()
         # For each file in the FOI request, load extracted text if present
@@ -277,30 +352,38 @@ def generate_static_site(all_foi_data, output_base_dir):
                 for item in file['content_files']:
                     if item.get('extracted_text_path'):
                         item['extracted_text'] = load_text_content(item['extracted_text_path'], output_base_dir)
+        # Compute all unique file types for this request
+        file_types = sorted(set(f["type"] for f in render_data.get('files', [])))
+        render_data['file_types'] = file_types
         renderable_foi_data.append(render_data)
     index_page_documents = []
     for req_data in renderable_foi_data:
-        # Determine main_file_type for index: use the first file's type, or ''
-        main_file_type = req_data['files'][0]['type'] if req_data['files'] else ''
+        file_types = req_data.get('file_types', [])
+        file_types_str = ', '.join(file_types)
         html_filename = f"{req_data['id']}.html"
         output_html_path = output_base_dir / "documents" / html_filename
         req_data['output_html_path'] = f"/documents/{html_filename}"
-        with open(output_html_path, 'w', encoding='utf-8') as f:
-            f.write(detail_template.render(request=req_data))
+        # Pass the files list to the index page for type counting
         index_page_documents.append({
             'id': req_data['id'],
             'title': req_data['title'],
             'date': req_data['date'],
             'output_html_path': f"/documents/{html_filename}",
-            'main_file_type': main_file_type,
-            'original_url': req_data['files'][0]['original_url'] if req_data['files'] else ''
+            'file_types': file_types_str,
+            'original_url': req_data['files'][0]['original_url'] if req_data['files'] else '',
+            'files': req_data.get('files', [])
         })
-    with open(output_base_dir / "index.html", 'w', encoding='utf-8') as f:
+        with open(output_html_path, 'w', encoding='utf-8') as f:
+            f.write(detail_template.render(request=req_data))
+        generated_files.append(str(output_html_path))
+    index_path = output_base_dir / "index.html"
+    with open(index_path, 'w', encoding='utf-8') as f:
         f.write(index_template.render(documents=index_page_documents))
+    generated_files.append(str(index_path))
     # Copy static assets
     if Path('static').exists():
         shutil.copytree('static', output_base_dir / 'static', dirs_exist_ok=True)
-
+        generated_files.append(str(output_base_dir / 'static'))
     # --- Lunr.js search index generation ---
     search_index_data = []
     for req_data in renderable_foi_data:
@@ -319,10 +402,18 @@ def generate_static_site(all_foi_data, output_base_dir):
             'url': req_data['output_html_path']
         }
         search_index_data.append(search_entry)
-    with open(output_base_dir / "search_index.json", "w", encoding="utf-8") as f:
+    search_index_path = output_base_dir / "search_index.json"
+    with open(search_index_path, "w", encoding="utf-8") as f:
         json.dump(search_index_data, f, ensure_ascii=False, indent=4)
+    generated_files.append(str(search_index_path))
+    # Print summary of generated files
+    print("\nGenerated output files:")
+    for path in generated_files:
+        print(f" - {path}")
 
-if __name__ == "__main__":
+def generate():
+    metadata_path = Path("data") / "file_metadata.json"
+    metadata = load_metadata(metadata_path)
     all_foi_requests = get_foi_documents_metadata()
     print(f"Found {len(all_foi_requests)} FOI requests.")
     download_dir = Path("downloads")
@@ -332,15 +423,13 @@ if __name__ == "__main__":
     (output_base_dir / "foi_assets").mkdir(parents=True, exist_ok=True)
     (output_base_dir / "extracted_texts").mkdir(parents=True, exist_ok=True)
     MAX_WORKERS = 8
-    # Flatten all files to download: (foi_request_id, file_entry)
     download_tasks = []
     for foi_request in all_foi_requests:
         for file_entry in foi_request['files']:
             download_tasks.append((foi_request['id'], file_entry))
-    # Download all files in parallel
     download_results = {}
     with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        future_to_task = {executor.submit(download_document, file_entry['original_url'], file_entry['server_filename'], download_dir): (foi_request_id, file_entry) for foi_request_id, file_entry in download_tasks}
+        future_to_task = {executor.submit(download_document, file_entry['original_url'], file_entry['server_filename'], download_dir, metadata, metadata_path): (foi_request_id, file_entry) for foi_request_id, file_entry in download_tasks}
         for future in concurrent.futures.as_completed(future_to_task):
             foi_request_id, file_entry = future_to_task[future]
             try:
@@ -349,7 +438,6 @@ if __name__ == "__main__":
             except Exception as exc:
                 print(f"Exception during download for {file_entry['server_filename']}: {exc}")
                 download_results[(foi_request_id, file_entry['server_filename'])] = False
-    # Process each FOI request and its files
     final_processed_foi_data = []
     for foi_request in all_foi_requests:
         processed_request_data = {
@@ -362,7 +450,7 @@ if __name__ == "__main__":
             key = (foi_request['id'], file_entry['server_filename'])
             if download_results.get(key):
                 local_path = download_dir / file_entry['server_filename']
-                processed_file_data = process_downloaded_file_data(file_entry, foi_request['id'], local_path, output_base_dir)
+                processed_file_data = process_downloaded_file_data(file_entry, foi_request['id'], local_path, output_base_dir, metadata, metadata_path)
                 processed_request_data['files'].append(processed_file_data)
             else:
                 print(f"Download failed for {file_entry['server_filename']} in {foi_request['id']}")
@@ -370,7 +458,11 @@ if __name__ == "__main__":
     Path("data").mkdir(exist_ok=True)
     with open(Path("data") / "foi_data.json", "w", encoding="utf-8") as f:
         json.dump(final_processed_foi_data, f, ensure_ascii=False, indent=2)
-    # Generate static site
+    with open(metadata_path, 'w', encoding='utf-8') as f:
+        json.dump(metadata, f, ensure_ascii=False, indent=2)
     with open(Path("data") / "foi_data.json", "r", encoding="utf-8") as f:
         all_foi_data = json.load(f)
     generate_static_site(all_foi_data, output_base_dir)
+
+if __name__ == "__main__":
+    generate()

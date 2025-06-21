@@ -3,3 +3,4 @@ beautifulsoup4
 pdfminer.six
 python-docx
 Jinja2
+livereload

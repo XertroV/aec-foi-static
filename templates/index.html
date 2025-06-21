@@ -12,7 +12,35 @@
         {% for doc in documents %}
         <li class="document-item">
             <h3><a href="{{ doc.output_html_path }}">{{ doc.title }} ({{ doc.date }})</a></h3>
-            <p>Type: {{ doc.main_file_type }}</p>
+            <p>
+              Types:
+              {% set type_counts = {} %}
+              {% for file in doc.files %}
+                {% set t = file.type %}
+                {% if t in type_counts %}
+                  {% set _ = type_counts.update({t: type_counts[t]+1}) %}
+                {% else %}
+                  {% set _ = type_counts.update({t: 1}) %}
+                {% endif %}
+              {% endfor %}
+              {% for t, count in type_counts.items() %}
+                {{ t }} ({{ count }}){% if not loop.last %}, {% endif %}
+              {% endfor %}
+              &mdash; {{ doc.files|length }} file{{ '' if doc.files|length == 1 else 's' }}
+            </p>
+            {# --- ZIP contents preview --- #}
+            {% for file in doc.files %}
+              {% if file.type == 'zip' and file.content_files %}
+                <div class="zip-preview">
+                  <strong>ZIP contents:</strong>
+                  <ul class="zip-content-list">
+                    {% for item in file.content_files %}
+                      <li>{{ item.filename }}{% if item.type %} <span class="filetype">({{ item.type }})</span>{% endif %}</li>
+                    {% endfor %}
+                  </ul>
+                </div>
+              {% endif %}
+            {% endfor %}
             {% if doc.original_url %}<p><a href="{{ doc.original_url }}" target="_blank">Original AEC URL</a></p>{% endif %}
         </li>
         {% endfor %}
