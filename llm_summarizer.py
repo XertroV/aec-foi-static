@@ -5,6 +5,7 @@ from config import LLM_CONFIG, CONFIG
 from data_processing import load_text_content
 from pathlib import Path
 import json
+import os
 
 
 def save_llm_response(raw_response, foi_id, summary_type, persona_id, file_id=None):
@@ -19,6 +20,15 @@ def save_llm_response(raw_response, foi_id, summary_type, persona_id, file_id=No
     with open(out_path, 'w', encoding='utf-8') as f:
         json.dump(raw_response, f, ensure_ascii=False, indent=2)
     return str(out_path)
+
+
+def save_foi_data_json(final_processed_foi_data, config):
+    """Save the current FOI data to foi_data.json."""
+    data_dir = config['data_dir'] if 'data_dir' in config else CONFIG['data_dir']
+    os.makedirs(data_dir, exist_ok=True)
+    foi_data_path = Path(data_dir) / "foi_data.json"
+    with open(foi_data_path, "w", encoding="utf-8") as f:
+        json.dump(final_processed_foi_data, f, ensure_ascii=False, indent=2)
 
 
 def generate_all_summaries(final_processed_foi_data, config, metadata):
@@ -77,8 +87,10 @@ def generate_all_summaries(final_processed_foi_data, config, metadata):
                     prompt_tokens = usage.get('prompt_token_count')
                     total_tokens = usage.get('total_token_count')
                     print(f" done. Saved raw response: {resp_path} | Model: {LLM_CONFIG['DEFAULT_MODEL']} | Output tokens: {output_tokens} | Prompt tokens: {prompt_tokens} | Total tokens: {total_tokens} | Summary length: {len(summary_text)}")
+                    # Save foi_data.json after each summary
+                    save_foi_data_json(final_processed_foi_data, config)
                 else:
-                    summary_text = ''
+                    summary_text = None
                     resp_path = None
                     output_tokens = prompt_tokens = total_tokens = None
                 ai_overall_summary = {
@@ -121,8 +133,10 @@ def generate_all_summaries(final_processed_foi_data, config, metadata):
                     prompt_tokens = usage.get('prompt_token_count')
                     total_tokens = usage.get('total_token_count')
                     print(f" done. Saved raw response: {resp_path} | Model: {LLM_CONFIG['DEFAULT_MODEL']} | Output tokens: {output_tokens} | Prompt tokens: {prompt_tokens} | Total tokens: {total_tokens} | Summary length: {len(short_text)}")
+                    # Save foi_data.json after each summary
+                    save_foi_data_json(final_processed_foi_data, config)
                 else:
-                    short_text = ''
+                    short_text = None
                     resp_path = None
                     output_tokens = prompt_tokens = total_tokens = None
                 ai_short_summary = {
@@ -158,6 +172,8 @@ def generate_all_summaries(final_processed_foi_data, config, metadata):
                         reason = 'no previous summary exists'
                     elif persona_file_summary.get('source_hash') != file_hash_val:
                         reason = 'source text changed (hash mismatch)'
+                    elif persona_file_summary.get('source_hash') == file_hash_val and (persona_file_summary.get('text') is None or persona_file_summary.get('text') == ''):
+                        reason = 'previous summary is blank/empty (text is None or empty)'
                     if reason:
                         print(f"[LLM][{foi_request['id']}][{current_persona_id}] Regenerating per-file summary for {file.get('server_filename', file.get('link_text', 'file'))} because: {reason}")
                     if text and reason:
@@ -176,22 +192,26 @@ def generate_all_summaries(final_processed_foi_data, config, metadata):
                         output_tokens = usage.get('candidates_token_count')
                         prompt_tokens = usage.get('prompt_token_count')
                         total_tokens = usage.get('total_token_count')
-                        print(f" done. Saved raw response: {resp_path} | Model: {LLM_CONFIG['DEFAULT_MODEL']} | Output tokens: {output_tokens} | Prompt tokens: {prompt_tokens} | Total tokens: {total_tokens} | Summary length: {len(summary_text)}")
+                        print(f" done. Saved raw response: {resp_path} | Model: {LLM_CONFIG['DEFAULT_MODEL']} | Output tokens: {output_tokens} | Prompt tokens: {prompt_tokens} | Total tokens: {total_tokens} | Summary length: {len(summary_text) if summary_text else 0}")
+                        # Only assign if new summary generated
+                        file['ai_summaries'][current_persona_id] = {
+                            'text': summary_text,
+                            'model': LLM_CONFIG['DEFAULT_MODEL'],
+                            'generated_at': datetime.now().isoformat(),
+                            'source_hash': file_hash_val,
+                            'raw_response_path': resp_path,
+                            'output_tokens': output_tokens,
+                            'prompt_tokens': prompt_tokens,
+                            'total_tokens': total_tokens,
+                            'summary_length': len(summary_text) if summary_text else 0
+                        }
+                        print(f"[DEBUG] Saved per-file summary for {file.get('server_filename', file.get('link_text', 'file'))} [{current_persona_id}] to in-memory data structure. Text length: {len(summary_text) if summary_text else 0}")
                     else:
-                        summary_text = ''
-                        resp_path = None
-                        output_tokens = prompt_tokens = total_tokens = None
-                    file['ai_summaries'][current_persona_id] = {
-                        'text': summary_text,
-                        'model': LLM_CONFIG['DEFAULT_MODEL'],
-                        'generated_at': datetime.now().isoformat(),
-                        'source_hash': file_hash_val,
-                        'raw_response_path': resp_path,
-                        'output_tokens': output_tokens,
-                        'prompt_tokens': prompt_tokens,
-                        'total_tokens': total_tokens,
-                        'summary_length': len(summary_text) if summary_text else 0
-                    }
+                        if not text:
+                            print(f"[LLM][{foi_request['id']}][{current_persona_id}] Skipping per-file summary for {file.get('server_filename', file.get('link_text', 'file'))}: No extracted text.")
+                        elif not reason:
+                            print(f"[LLM][{foi_request['id']}][{current_persona_id}] Skipping per-file summary for {file.get('server_filename', file.get('link_text', 'file'))}: No reason to regenerate (hash matches, summary exists).")
+                        # Do NOT reassign file['ai_summaries'][current_persona_id] here; keep existing value
                 # ZIP inner files
                 if file.get('content_files'):
                     for item in file['content_files']:
@@ -213,6 +233,8 @@ def generate_all_summaries(final_processed_foi_data, config, metadata):
                                 reason = 'no previous summary exists'
                             elif persona_item_summary.get('source_hash') != file_hash_val:
                                 reason = 'source text changed (hash mismatch)'
+                            elif persona_item_summary.get('source_hash') == file_hash_val and (persona_item_summary.get('text') is None or persona_item_summary.get('text') == ''):
+                                reason = 'previous summary is blank/empty (text is None or empty)'
                             if reason:
                                 print(f"[LLM][{foi_request['id']}][{current_persona_id}] Regenerating per-file summary for ZIP inner {item.get('filename', 'file')} because: {reason}")
                             if text and reason:
@@ -231,19 +253,25 @@ def generate_all_summaries(final_processed_foi_data, config, metadata):
                                 output_tokens = usage.get('candidates_token_count')
                                 prompt_tokens = usage.get('prompt_token_count')
                                 total_tokens = usage.get('total_token_count')
-                                print(f" done. Saved raw response: {resp_path} | Model: {LLM_CONFIG['DEFAULT_MODEL']} | Output tokens: {output_tokens} | Prompt tokens: {prompt_tokens} | Total tokens: {total_tokens} | Summary length: {len(summary_text)}")
+                                print(f" done. Saved raw response: {resp_path} | Model: {LLM_CONFIG['DEFAULT_MODEL']} | Output tokens: {output_tokens} | Prompt tokens: {prompt_tokens} | Total tokens: {total_tokens} | Summary length: {len(summary_text) if summary_text else 0}")
+                                # Only assign if new summary generated
+                                item['ai_summaries'][current_persona_id] = {
+                                    'text': summary_text,
+                                    'model': LLM_CONFIG['DEFAULT_MODEL'],
+                                    'generated_at': datetime.now().isoformat(),
+                                    'source_hash': file_hash_val,
+                                    'raw_response_path': resp_path,
+                                    'output_tokens': output_tokens,
+                                    'prompt_tokens': prompt_tokens,
+                                    'total_tokens': total_tokens,
+                                    'summary_length': len(summary_text) if summary_text else 0
+                                }
+                                print(f"[DEBUG] Saved per-file summary for ZIP inner {item.get('filename', 'file')} [{current_persona_id}] to in-memory data structure. Text length: {len(summary_text) if summary_text else 0}")
                             else:
-                                summary_text = ''
-                                resp_path = None
-                                output_tokens = prompt_tokens = total_tokens = None
-                            item['ai_summaries'][current_persona_id] = {
-                                'text': summary_text,
-                                'model': LLM_CONFIG['DEFAULT_MODEL'],
-                                'generated_at': datetime.now().isoformat(),
-                                'source_hash': file_hash_val,
-                                'raw_response_path': resp_path,
-                                'output_tokens': output_tokens,
-                                'prompt_tokens': prompt_tokens,
-                                'total_tokens': total_tokens,
-                                'summary_length': len(summary_text) if summary_text else 0
-                            }
+                                if not text:
+                                    print(f"[LLM][{foi_request['id']}][{current_persona_id}] Skipping per-file summary for ZIP inner {item.get('filename', 'file')}: No extracted text.")
+                                elif not reason:
+                                    print(f"[LLM][{foi_request['id']}][{current_persona_id}] Skipping per-file summary for ZIP inner {item.get('filename', 'file')}: No reason to regenerate (hash matches, summary exists).")
+                                # Do NOT reassign item['ai_summaries'][current_persona_id] here; keep existing value
+
+                save_foi_data_json(final_processed_foi_data, config)

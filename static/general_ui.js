@@ -94,7 +94,7 @@
 
         // Show/hide AI summary tab and update content
         if (tabContent && tabBtn) {
-          if (summaryData && summaryData.text) {
+          if (summaryData && typeof summaryData.text === 'string') {
             const contentDiv = tabContent.querySelector('.ai-summary-markdown-content');
             const label = tabContent.querySelector('.ai-summary-label');
             if (!window.marked) {
@@ -110,7 +110,6 @@
           } else {
             tabContent.style.display = 'none';
             tabBtn.style.display = 'none';
-            // If this tab is currently active, switch to another tab
             if (tabBtn.classList.contains('active')) {
               // Try to find a visible tab to switch to
               const fallbackTab = Array.from(section.querySelectorAll('.foi-tab')).find(t => t.style.display !== 'none');
