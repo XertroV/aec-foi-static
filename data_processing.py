@@ -266,7 +266,7 @@ def save_metadata(metadata, metadata_path):
 
 def load_text_content(text_file_path, output_base_dir):
     try:
-        abs_path = output_base_dir / text_file_path.lstrip('/')
+        abs_path = Path(output_base_dir) / text_file_path.lstrip('/')
         if abs_path.exists():
             with open(abs_path, 'r', encoding='utf-8') as f:
                 return f.read()
