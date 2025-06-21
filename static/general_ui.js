@@ -18,18 +18,21 @@
       try {
         currentPageData = JSON.parse(detailScript.textContent);
         isDetailPage = true;
-      } catch (e) { console.error('Failed to parse current-foi-data:', e); }
+        console.log('[AEC FOI JS] Loaded detail page data:', currentPageData);
+      } catch (e) { console.error('[AEC FOI JS] Failed to parse current-foi-data:', e); }
     }
     if (indexScript) {
       try {
         allDocumentsData = JSON.parse(indexScript.textContent);
         isIndexPage = true;
-      } catch (e) { console.error('Failed to parse documents-data:', e); }
+        console.log('[AEC FOI JS] Loaded index page data:', allDocumentsData);
+      } catch (e) { console.error('[AEC FOI JS] Failed to parse documents-data:', e); }
     }
   }
 
   // --- Persona UI Update ---
   function updatePersonaUI(personaId) {
+    console.log('[AEC FOI JS] updatePersonaUI called with persona:', personaId);
     localStorage.setItem(personaStorageKey, personaId);
     if (personaSelector) personaSelector.value = personaId;
 
@@ -42,6 +45,9 @@
         const summaryDiv = overallBlock.querySelector('.ai-summary-markdown-content');
         const label = overallBlock.querySelector('.ai-summary-label');
         if (summaryData && summaryData.text) {
+          if (!window.marked) {
+            console.warn('[AEC FOI JS] window.marked not found. Markdown will not be rendered.');
+          }
           summaryDiv.innerHTML = window.marked ? window.marked.parse(summaryData.text) : summaryData.text;
           if (label) {
             label.setAttribute('data-summary-model', summaryData.model || '');
@@ -55,8 +61,6 @@
 
       // Per-file summaries in tabs
       document.querySelectorAll('.foi-file-section').forEach(section => {
-        // Determine file/inner indices from section id
-        // e.g. foi-file-0, foi-file-zip-0, foi-file-zip-0-1
         const sectionId = section.id;
         let fileIdx = null, innerIdx = null, isZip = false;
         const zipMatch = sectionId.match(/^foi-file-zip-(\d+)(?:-(\d+))?$/);
@@ -69,14 +73,11 @@
           if (normMatch) fileIdx = parseInt(normMatch[1], 10);
         }
 
-        // Find the AI summary tab and button
         let summaryData = null, tabId = null, tabBtn = null, tabContent = null;
         if (isZip && innerIdx !== null) {
-          // Inner file in zip
           summaryData = currentPageData.files?.[fileIdx]?.content_files?.[innerIdx]?.ai_summaries?.[personaId];
           tabId = `innerpdf-${fileIdx}-${innerIdx}-ai`;
         } else if (isZip) {
-          // Top-level zip file
           summaryData = currentPageData.files?.[fileIdx]?.ai_summaries?.[personaId];
           tabId = `pdf-${fileIdx}-ai`;
         } else if (fileIdx !== null) {
@@ -88,11 +89,17 @@
           tabBtn = section.querySelector(`.foi-tab[onclick*="${tabId}"]`);
         }
 
+        // DEBUG LOGGING
+        console.log('[AEC FOI JS][DEBUG] Tab:', tabId, 'summaryData:', summaryData, 'tabBtn:', tabBtn, 'tabContent:', tabContent);
+
         // Show/hide AI summary tab and update content
         if (tabContent && tabBtn) {
           if (summaryData && summaryData.text) {
             const contentDiv = tabContent.querySelector('.ai-summary-markdown-content');
             const label = tabContent.querySelector('.ai-summary-label');
+            if (!window.marked) {
+              console.warn('[AEC FOI JS] window.marked not found. Markdown will not be rendered.');
+            }
             contentDiv.innerHTML = window.marked ? window.marked.parse(summaryData.text) : summaryData.text;
             if (label) {
               label.setAttribute('data-summary-model', summaryData.model || '');
@@ -106,16 +113,17 @@
             // If this tab is currently active, switch to another tab
             if (tabBtn.classList.contains('active')) {
               // Try to find a visible tab to switch to
-              const fallbackTab = section.querySelector('.foi-tab:not([style*="display: none"])');
-              if (fallbackTab) fallbackTab.click();
+              const fallbackTab = Array.from(section.querySelectorAll('.foi-tab')).find(t => t.style.display !== 'none');
+              if (fallbackTab) {
+                fallbackTab.click();
+                console.log('[AEC FOI JS] Switched to fallback tab:', fallbackTab);
+              } else {
+                console.warn('[AEC FOI JS] No visible fallback tab found in section:', sectionId);
+              }
             }
           }
         }
       });
-
-      // ~~Re-initialize summary toggles~~
-      // Don't collapse the overview if it's visible.
-      // initAiSummaryToggle();
     }
 
     // --- Index Page Logic ---
@@ -129,6 +137,9 @@
         const label = block.querySelector('.ai-summary-label');
         if (summaryData && summaryData.text) {
           const aiSummaryTextDiv = block.querySelector('.ai-summary-text');
+          if (!window.marked) {
+            console.warn('[AEC FOI JS] window.marked not found. Markdown will not be rendered.');
+          }
           aiSummaryTextDiv.innerHTML = window.marked ? window.marked.parse(summaryData.text) : summaryData.text;
           if (label) {
             label.setAttribute('data-summary-model', summaryData.model || '');
@@ -140,6 +151,9 @@
         }
       });
     }
+    // Re-attach popover handlers after UI update
+    setupAiSummaryPopovers();
+    // No need to re-init toggles as event delegation is used
   }
 
   // --- AI Summary Toggle (Event Delegation) ---
@@ -152,6 +166,7 @@
         toggle.textContent = 'Show AI Generated Overview';
       }
     });
+    console.log('[AEC FOI JS] AI summary toggles initialized.');
   }
   // Attach event delegation for toggles
   document.body.addEventListener('click', function(e) {
@@ -173,6 +188,7 @@
       popover.id = 'ai-summary-hover-popover';
       popover.className = 'ai-summary-popover';
       document.body.appendChild(popover);
+      console.log('[AEC FOI JS] Popover created.');
     }
     // Hide popover on scroll/resize
     function hidePopover() {
@@ -214,11 +230,13 @@
       popover.style.maxWidth = '350px';
       popover.style.pointerEvents = 'auto';
       setTimeout(() => popover.classList.add('visible'), 0);
+      console.log('[AEC FOI JS] Popover shown for label:', label);
     });
     document.body.addEventListener('mouseleave', function(e) {
       if (e.target && e.target.classList && e.target.classList.contains('ai-summary-label')) {
         popover.classList.remove('visible');
         popover.style.pointerEvents = 'none';
+        console.log('[AEC FOI JS] Popover hidden.');
       }
     }, true);
     popover.onmouseenter = function() { popover.classList.add('visible'); };
@@ -246,6 +264,7 @@
         window.location.hash = newHash;
       }
     }
+    console.log('[AEC FOI JS] showTab called:', tabId, 'in section', container);
   };
   window.selectFile = function(idx) {
     const sections = document.querySelectorAll('.foi-file-section');
@@ -264,6 +283,7 @@
     if (section && window.location.hash.replace(/^#/, '') !== section.id) {
       window.location.hash = section.id;
     }
+    console.log('[AEC FOI JS] selectFile called for idx:', idx);
   };
 
   // --- Hash Navigation ---
@@ -279,6 +299,7 @@
       }
       const firstTabBtn = document.querySelector('.tabbed-view .foi-tab');
       if (firstTabBtn) firstTabBtn.click();
+      console.log('[AEC FOI JS] handleHashNavigation: defaulted to first file and tab.');
       return;
     }
     // Hash format: sectionId[:tabId]
@@ -292,6 +313,7 @@
       const tabBtn = document.querySelector(`.tabbed-view .foi-tab[onclick*="${tabId}"]`);
       if (tabBtn) tabBtn.click();
     }
+    console.log('[AEC FOI JS] handleHashNavigation: navigated to', hash);
   }
 
   // --- Initialization ---

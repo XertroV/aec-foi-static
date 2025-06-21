@@ -6,3 +6,6 @@ Jinja2
 livereload
 google-generativeai
 markdown
+pytesseract
+Pillow
+pdf2image

@@ -9,6 +9,10 @@ import json
 import markdown as md
 import hashlib
 from config import *
+import logging
+from PIL import Image
+import pytesseract
+from pdf2image import convert_from_path
 
 # Note: AEC server can easily handle 100 MB/s of requests.
 # We won't sleep between requests since it's already single threaded.
@@ -123,15 +127,43 @@ def download_document(url, filename, download_dir, metadata, metadata_path):
 
 def extract_text_from_pdf(pdf_path):
     """
-    Extracts all readable text from a PDF file using pdfminer.six.
+    Extracts all readable text from a PDF file using pdfminer.six, with OCR fallback for image-based PDFs.
     Returns the extracted text as a string, or an empty string on failure.
     """
+    native_text = ""
     try:
-        text = extract_text(pdf_path)
-        return text if text else ""
+        native_text = extract_text(pdf_path)
+        logger.info(f"[PDF] Native text extraction for {pdf_path}: {len(native_text.strip())} chars")
     except (PDFSyntaxError, Exception) as e:
-        print(f"Error extracting text from {pdf_path}: {e}")
-        return ""
+        logger.warning(f"Error extracting text from {pdf_path} with pdfminer: {e}")
+        native_text = ""
+
+    # OCR fallback if native text is insufficient and config allows
+    ocr_text = ""
+    ocr_triggered = False
+    try:
+        if CONFIG.get("USE_OCR_FOR_PDFS", False):
+            if not native_text or len(native_text.strip()) < 50:
+                logger.info(f"[PDF] Native extraction insufficient for {pdf_path}, attempting OCR...")
+                ocr_triggered = True
+                ocr_text_parts = []
+                try:
+                    images = convert_from_path(pdf_path, dpi=300)
+                    for i, page_image in enumerate(images):
+                        page_ocr_text = pytesseract.image_to_string(page_image)
+                        if page_ocr_text.strip():
+                            ocr_text_parts.append(f"\n\n--- Page {i+1} ---\n\n{page_ocr_text.strip()}")
+                    ocr_text = "\n".join(ocr_text_parts)
+                    logger.info(f"[PDF] OCR text extraction for {pdf_path}: {len(ocr_text.strip())} chars")
+                except Exception as ocr_e:
+                    logger.error(f"OCR extraction failed for {pdf_path}: {ocr_e}")
+    except Exception as e:
+        logger.error(f"Unexpected error during OCR fallback for {pdf_path}: {e}")
+
+    # Decide which text to use
+    if ocr_triggered and ocr_text and (not native_text or len(ocr_text.strip()) > len(native_text.strip()) * 1.5):
+        return ocr_text
+    return native_text if native_text else ocr_text
 
 def extract_zip_file(zip_path, extract_to_dir=None):
     """
@@ -273,3 +305,6 @@ def load_text_content(text_file_path, output_base_dir):
     except Exception as e:
         print(f"Error loading text from {text_file_path}: {e}")
     return ""
+
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
