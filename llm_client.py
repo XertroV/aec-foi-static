@@ -4,12 +4,6 @@ load_env_var_from_dotenv('GEMINI_API_KEY') # Assuming this loads the .env file
 import google.generativeai as genai
 import os
 from datetime import datetime
-# Explicitly import the necessary types for clarity
-from google.generativeai.types import (
-    HarmCategory,
-    HarmBlockThreshold,
-    SafetySetting,
-)
 
 # Initialize Gemini API key from environment
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
@@ -28,47 +22,30 @@ def generate_summary(text_content, prompt_template, model_name, max_output_token
     Returns:
         str or (str, dict): The generated summary, or (summary, raw_response) if requested.
     """
+    prompt = None  # Always define prompt in this scope
     try:
         genai.configure(api_key=GEMINI_API_KEY)
 
-        # CORRECT WAY to set safety_settings:
-        # Create a list of SafetySetting objects, each specifying a category and threshold.
-        # This explicitly tells the API to BLOCK_NONE for all relevant categories.
+        # Use string-based safety_settings for compatibility (removed problematic category)
         safety_settings = [
-            SafetySetting(
-                category=HarmCategory.HARM_CATEGORY_HATE_SPEECH,
-                threshold=HarmBlockThreshold.BLOCK_NONE,
-            ),
-            SafetySetting(
-                category=HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT,
-                threshold=HarmBlockThreshold.BLOCK_NONE,
-            ),
-            SafetySetting(
-                category=HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT,
-                threshold=HarmBlockThreshold.BLOCK_NONE,
-            ),
-            SafetySetting(
-                category=HarmCategory.HARM_CATEGORY_HARASSMENT,
-                threshold=HarmBlockThreshold.BLOCK_NONE,
-            ),
-            SafetySetting(
-                category=HarmCategory.HARM_CATEGORY_CIVIC_INTEGRITY,
-                threshold=HarmBlockThreshold.BLOCK_NONE,
-            ),
-            # Add any other categories you wish to explicitly set to BLOCK_NONE
-            # For example, to unblock medical content if your data might contain it:
-            # SafetySetting(
-            #     category=HarmCategory.HARM_CATEGORY_MEDICAL,
-            #     threshold=HarmBlockThreshold.BLOCK_NONE,
-            # ),
+            {"category": "HARM_CATEGORY_HATE_SPEECH", "threshold": "BLOCK_NONE"},
+            {"category": "HARM_CATEGORY_SEXUALLY_EXPLICIT", "threshold": "BLOCK_NONE"},
+            {"category": "HARM_CATEGORY_DANGEROUS_CONTENT", "threshold": "BLOCK_NONE"},
+            {"category": "HARM_CATEGORY_HARASSMENT", "threshold": "BLOCK_NONE"},
+            # Removed 'HARM_CATEGORY_CIVIC_INTEGRITY' due to API error
+            # Add more categories as needed
         ]
 
         model = genai.GenerativeModel(
             model_name,
-            safety_settings=safety_settings # Pass the correctly formatted list here
+            safety_settings=safety_settings # Pass the list of dicts here
         )
 
         prompt = prompt_template.format(text=text_content)
+        # Print the start of the prompt for transparency
+        prompt_preview = prompt[:200].replace('\n', ' ')
+        print(f"[LLM] Prompt start: {prompt_preview}{'...' if len(prompt) > 200 else ''}")
+
         gen_config = {}
         if max_output_tokens is not None: # Use 'is not None' for clarity with potential 0
             gen_config['max_output_tokens'] = max_output_tokens
@@ -78,7 +55,9 @@ def generate_summary(text_content, prompt_template, model_name, max_output_token
         # Check for empty response or blocked content
         if not response or not hasattr(response, 'text') or not response.text:
             print(f"[Gemini] No response or empty response text for prompt.")
-            return ("", {}) if return_full_response else ""
+            if return_full_response:
+                return ("", {"prompt": prompt})
+            return ""
 
         if return_full_response:
             # Try to convert response to dict for saving
@@ -87,12 +66,21 @@ def generate_summary(text_content, prompt_template, model_name, max_output_token
             except Exception as e:
                 print(f"[Gemini] Warning: Could not convert response to dict: {e}")
                 raw = str(response)
+            # Always include the prompt in the raw response dict for transparency
+            if isinstance(raw, dict):
+                raw['prompt'] = prompt
+            else:
+                raw = {"raw_response": raw, "prompt": prompt}
             return response.text.strip(), raw
         return response.text.strip()
     except ValueError as ve:
         # This often catches cases where response.text is empty because content was blocked
         print(f"[Gemini] ValueError (likely content blocked or empty response): {ve}")
-        return ("", {}) if return_full_response else ""
+        if return_full_response:
+            return ("", {"prompt": prompt if prompt else ''})
+        return ""
     except Exception as e:
         print(f"[Gemini] An unexpected error occurred: {e}")
-        return ("", {}) if return_full_response else ""
+        if return_full_response:
+            return ("", {"prompt": prompt if prompt else ''})
+        return ""
