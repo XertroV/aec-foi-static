@@ -19,6 +19,7 @@ def main():
     args = parser.parse_args()
     config = CONFIG
     LLM_CONFIG['FORCE_SUMMARY_REGENERATION'] = args.force_summaries
+    config['FORCE_EXTRACT'] = args.force_extract  # <--- propagate to config
     # Parse personas flag
     selected_personas = None
     if args.personas:
