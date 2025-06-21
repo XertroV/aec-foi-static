@@ -263,32 +263,85 @@ ul.zip-contents li {
   border-left: 3px solid #b3b3e6;
   border-radius: 4px;
 }
-.ai-summary-text {
-  margin: 0 0 0.2em 0;
-  font-size: 1em;
-  color: #333;
+.overall-ai-summary {
+  margin: 1.5em 0 2em 0;
+  padding: 1em 1.5em;
+  background: #f3f6ff;
+  border-left: 4px solid #7a8be7;
+  border-radius: 5px;
 }
-.ai-summary-label {
-  display: inline-flex;
-  align-items: center;
-  font-size: 0.85em;
-  color: #888;
+.ai-summary-toggle {
+  display: inline-block;
+  margin-bottom: 0.5em;
   background: #ededf7;
+  color: #5a5a8a;
+  border: none;
   border-radius: 2em;
-  padding: 0.1em 0.7em 0.1em 0.5em;
-  margin-left: 0.2em;
+  padding: 0.3em 1.2em;
+  font-size: 1em;
   cursor: pointer;
   transition: background 0.2s;
 }
-.ai-summary-label:hover {
+.ai-summary-toggle:hover {
   background: #e0e0f0;
 }
-.ai-summary-label .info-icon {
-  font-style: normal;
+.ai-summary-markdown {
+  transition: max-height 0.3s, opacity 0.3s;
+  overflow: hidden;
+  max-height: 2000px;
+  opacity: 1;
+}
+.ai-summary-markdown.collapsed {
+  max-height: 0;
+  opacity: 0;
+  pointer-events: none;
+  padding: 0;
+}
+.ai-summary-markdown-content {
+  margin-bottom: 0.3em;
   font-size: 1em;
-  margin-left: 0.3em;
-  color: #6a6a9a;
-  opacity: 0.7;
-  vertical-align: middle;
+  color: #222;
+}
+.per-file-ai-summary {
+  margin: 1em 0 1.5em 0;
+  padding: 0.8em 1.2em;
+  background: #f7f7fa;
+  border-left: 3px solid #b3b3e6;
+  border-radius: 4px;
+}
+
+/* Tabbed interface for PDF/Text toggle */
+.foi-tab-bar {
+  display: flex;
+  border-bottom: 2px solid #e0e0f0;
+  margin-bottom: 0.5em;
+  margin-top: 1em;
+}
+.foi-tab {
+  appearance: none;
+  border: none;
+  background: none;
+  padding: 0.6em 1.5em;
+  font-size: 1em;
+  color: #5a5a8a;
   cursor: pointer;
+  border-bottom: 3px solid transparent;
+  border-radius: 0.5em 0.5em 0 0;
+  margin-right: 0.2em;
+  transition: background 0.2s, border-bottom 0.2s, color 0.2s;
+}
+.foi-tab.active, .foi-tab:focus, .foi-tab[aria-selected="true"] {
+  background: #f3f6ff;
+  border-bottom: 3px solid #7a8be7;
+  color: #222;
+  outline: none;
+}
+.foi-tab:not(.active):hover {
+  background: #f7f7fa;
+  color: #444;
+}
+
+/* Hide default button styles for tab look */
+.foi-tab::-moz-focus-inner {
+  border: 0;
 }

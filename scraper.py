@@ -15,6 +15,7 @@ import json
 import shutil
 import tempfile
 from jinja2 import Environment, FileSystemLoader
+import markdown as md
 import concurrent.futures
 import hashlib
 import llm_client
@@ -36,14 +37,14 @@ LLM_CONFIG = {
     'DEFAULT_MODEL': 'gemini-2.5-flash',
     'PROMPT_TEMPLATES': {
         'overall': (
-            "Summarize the following documents. These documents are the released documents associated with an FOI request. "
+            "Summarize the following documents in markdown format. These documents are the released documents associated with an FOI request. "
             "The summary should focus on: the main purpose of the FOI request, the documents from the FOI request, and the main content from the FOI request documents that relates to the FOI request.\n\nDocuments:\n\n{text}"
         ),
         'short_index': (
-            "Create a single paragraph summary of the following FOI request summary:\n\nSummary:\n\n{text}"
+            "Create a single paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\n{text}"
         ),
         'per_file': (
-            "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request. "
+            "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. "
             "FYI the overview of the FOI request is: {overall_short_summary}\n\nDocument Text:\n\n{text}"
         ),
     },
@@ -321,11 +322,15 @@ def load_text_content(text_file_path, output_base_dir):
         print(f"Error loading text from {text_file_path}: {e}")
     return ""
 
+def markdown_filter(text):
+    return md.markdown(text or "")
+
 def generate_static_site(all_foi_data, output_base_dir):
     output_base_dir = Path(output_base_dir)
     (output_base_dir / "documents").mkdir(parents=True, exist_ok=True)
     (output_base_dir / "static").mkdir(parents=True, exist_ok=True)
     env = Environment(loader=FileSystemLoader(CONFIG['template_dir']))
+    env.filters['markdown'] = markdown_filter
     index_template = env.get_template("index.html")
     detail_template = env.get_template("document_detail.html")
     renderable_foi_data = []

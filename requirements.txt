@@ -5,3 +5,4 @@ python-docx
 Jinja2
 livereload
 google-generativeai
+markdown
