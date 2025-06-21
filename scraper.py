@@ -15,6 +15,16 @@ from jinja2 import Environment, FileSystemLoader
 import concurrent.futures
 import hashlib
 
+# --- CONFIGURATION ---
+CONFIG = {
+    "year": 2025,
+    "base_url": "https://www.aec.gov.au/information-access/foi/{year}/",
+    "data_dir": "data",
+    "output_dir": "docs",
+    "download_dir": "downloads",
+    "template_dir": "templates"
+}
+
 # Note: AEC server can easily handle 100 MB/s of requests.
 # We won't sleep between requests since it's already single threaded.
 
@@ -171,139 +181,68 @@ def save_text_to_file(text, foi_id, filename_suffix, output_base_dir):
         f.write(text)
     return str(Path('/extracted_texts') / generated_filename)
 
-def process_foi_entry(entry_metadata, downloaded_file_path, output_base_dir):
-    # Determine unique foi_id
-    if entry_metadata.get('lex'):
-        foi_id = f"foi-{entry_metadata['lex']}"
-    else:
-        # Slug from server_filename or title
-        base = entry_metadata.get('server_filename') or entry_metadata.get('title', 'foi')
-        foi_id = re.sub(r'[^a-zA-Z0-9_-]+', '-', base).strip('-').lower()
-    main_file_type = downloaded_file_path.suffix.lower()
-    extracted_text = ""
-    content_files = []
-    output_file_path = output_base_dir / 'downloaded_originals' / downloaded_file_path.name
-    (output_base_dir / 'downloaded_originals').mkdir(parents=True, exist_ok=True)
-    extracted_text_path = ""
-    if main_file_type == '.pdf':
-        extracted_text = extract_text_from_pdf(downloaded_file_path)
-        extracted_text_path = save_text_to_file(extracted_text, foi_id, '', output_base_dir)
-        shutil.copy2(downloaded_file_path, output_file_path)
-    elif main_file_type == '.zip':
-        # Use a persistent extraction directory under downloads
-        extract_dir = downloaded_file_path.parent / f"_extracted_{downloaded_file_path.stem}"
+def process_file(file_metadata, local_path, config, metadata_cache):
+    """
+    Process a file (PDF, ZIP, etc.), extract text or unpack as needed, and return artifact info.
+    Idempotent: checks metadata_cache to avoid redundant work.
+    Handles both top-level and ZIP-contained files.
+    """
+    from pathlib import Path
+    import shutil
+    file_path = Path(local_path)
+    file_type = file_path.suffix.lower().lstrip('.')
+    output_base_dir = Path(config['output_dir'])
+    foi_id = file_metadata.get('foi_id', file_metadata.get('id', 'foi'))
+    meta = metadata_cache.get(str(file_path))
+    stat = file_path.stat()
+    file_hash_val = file_hash(file_path)
+    # Check if already processed
+    if meta and meta.get('hash') == file_hash_val and meta.get('extracted'):
+        # Return cached artifact info
+        result = meta.get('artifact_info', {})
+        result['type'] = file_type
+        return result
+    artifact_info = {
+        'type': file_type,
+        'output_file_path': str(Path('/downloaded_originals') / file_path.name),
+        'content_files': [],
+        'extracted_text_path': ''
+    }
+    if file_type == 'pdf':
+        extracted_text = extract_text_from_pdf(file_path)
+        extracted_text_path = save_text_to_file(extracted_text, foi_id, f"_{file_path.stem}", output_base_dir)
+        shutil.copy2(file_path, output_base_dir / 'downloaded_originals' / file_path.name)
+        artifact_info['extracted_text_path'] = extracted_text_path
+    elif file_type == 'zip':
+        extract_dir = file_path.parent / f"_extracted_{file_path.stem}"
         extract_dir.mkdir(parents=True, exist_ok=True)
-        extracted_paths = extract_zip_file(downloaded_file_path, extract_to_dir=extract_dir)
+        extracted_paths = extract_zip_file(file_path, extract_to_dir=extract_dir)
         assets_output_subdir = output_base_dir / 'foi_assets' / foi_id
         assets_output_subdir.mkdir(parents=True, exist_ok=True)
         for extracted_file_path in extracted_paths:
             if not extracted_file_path.is_file():
                 continue
-            inner_file_type = extracted_file_path.suffix.lower()
-            inner_extracted_text = ""
-            inner_extracted_text_path = ""
-            if inner_file_type == '.pdf':
-                inner_extracted_text = extract_text_from_pdf(extracted_file_path)
-                inner_extracted_text_path = save_text_to_file(inner_extracted_text, foi_id, f"_{Path(extracted_file_path.name).stem}", output_base_dir)
-            inner_download_path = str(Path('/foi_assets') / foi_id / extracted_file_path.name)
+            inner_file_metadata = {
+                'foi_id': foi_id,
+                'filename': extracted_file_path.name
+            }
+            inner_info = process_file(inner_file_metadata, extracted_file_path, config, metadata_cache)
+            inner_info['filename'] = extracted_file_path.name
+            inner_info['download_path'] = str(Path('/foi_assets') / foi_id / extracted_file_path.name)
             shutil.copy2(extracted_file_path, assets_output_subdir / extracted_file_path.name)
-            content_files.append({
-                'filename': extracted_file_path.name,
-                'type': inner_file_type.lstrip('.'),
-                'extracted_text_path': inner_extracted_text_path,
-                'download_path': inner_download_path
-            })
-        shutil.copy2(downloaded_file_path, output_file_path)
+            artifact_info['content_files'].append(inner_info)
+        shutil.copy2(file_path, output_base_dir / 'downloaded_originals' / file_path.name)
     else:
-        shutil.copy2(downloaded_file_path, output_file_path)
-    return {
-        "id": foi_id,
-        "title": entry_metadata['title'],
-        "date": entry_metadata['date'],
-        "original_url": entry_metadata['url'],
-        "main_file_type": main_file_type.lstrip('.'),
-        "extracted_text_path": extracted_text_path,
-        "output_file_path": str(Path('/downloaded_originals') / downloaded_file_path.name),
-        "content_files": content_files
+        shutil.copy2(file_path, output_base_dir / 'downloaded_originals' / file_path.name)
+    # Update metadata
+    metadata_cache[str(file_path)] = {
+        'size': stat.st_size,
+        'mtime': int(stat.st_mtime),
+        'hash': file_hash_val,
+        'extracted': True,
+        'artifact_info': artifact_info
     }
-
-def process_downloaded_file_data(file_data, foi_request_id, downloaded_file_path, output_base_dir, metadata, metadata_path):
-    main_file_type = downloaded_file_path.suffix.lower()
-    extracted_text_path = ""
-    content_files = []
-    output_file_path = output_base_dir / 'downloaded_originals' / downloaded_file_path.name
-    (output_base_dir / 'downloaded_originals').mkdir(parents=True, exist_ok=True)
-    meta = metadata.get(str(downloaded_file_path))
-    # Only extract if not already extracted (or file changed)
-    need_extract = True
-    if meta and meta.get('extracted') and meta.get('hash') == file_hash(downloaded_file_path):
-        need_extract = False
-    if main_file_type == '.pdf':
-        if need_extract:
-            extracted_text = extract_text_from_pdf(downloaded_file_path)
-            extracted_text_path = save_text_to_file(extracted_text, foi_request_id, '', output_base_dir)
-            shutil.copy2(downloaded_file_path, output_file_path)
-            meta = meta or {}
-            meta['extracted'] = True
-            meta['resources'] = meta.get('resources', []) + ['extracted_text']
-            metadata[str(downloaded_file_path)] = meta
-            save_metadata(metadata, metadata_path)
-        else:
-            # Find the extracted text path if already done
-            extracted_text_path = meta.get('extracted_text_path', '')
-    elif main_file_type == '.zip':
-        extract_dir = downloaded_file_path.parent / f"_extracted_{downloaded_file_path.stem}"
-        extract_dir.mkdir(parents=True, exist_ok=True)
-        extracted_paths = extract_zip_file(downloaded_file_path, extract_to_dir=extract_dir)
-        assets_output_subdir = output_base_dir / 'foi_assets' / foi_request_id
-        assets_output_subdir.mkdir(parents=True, exist_ok=True)
-        for extracted_file_path in extracted_paths:
-            if not extracted_file_path.is_file():
-                continue
-            inner_file_type = extracted_file_path.suffix.lower()
-            inner_extracted_text = ""
-            inner_extracted_text_path = ""
-            inner_meta = metadata.get(str(extracted_file_path))
-            need_inner_extract = True
-            if inner_meta and inner_meta.get('extracted') and inner_meta.get('hash') == file_hash(extracted_file_path):
-                need_inner_extract = False
-            if inner_file_type == '.pdf':
-                if need_inner_extract:
-                    inner_extracted_text = extract_text_from_pdf(extracted_file_path)
-                    inner_extracted_text_path = save_text_to_file(inner_extracted_text, foi_request_id, f"_{Path(extracted_file_path.name).stem}", output_base_dir)
-                    inner_meta = inner_meta or {}
-                    inner_meta['extracted'] = True
-                    inner_meta['resources'] = inner_meta.get('resources', []) + ['extracted_text']
-                    metadata[str(extracted_file_path)] = inner_meta
-                    save_metadata(metadata, metadata_path)
-                else:
-                    inner_extracted_text_path = inner_meta.get('extracted_text_path', '')
-            inner_download_path = str(Path('/foi_assets') / foi_request_id / extracted_file_path.name)
-            shutil.copy2(extracted_file_path, assets_output_subdir / extracted_file_path.name)
-            content_files.append({
-                'filename': extracted_file_path.name,
-                'type': inner_file_type.lstrip('.'),
-                'extracted_text_path': inner_extracted_text_path,
-                'download_path': inner_download_path
-            })
-        shutil.copy2(downloaded_file_path, output_file_path)
-    else:
-        shutil.copy2(downloaded_file_path, output_file_path)
-    # Update extracted_text_path in metadata for PDFs
-    if main_file_type == '.pdf' and extracted_text_path:
-        meta = metadata.get(str(downloaded_file_path), {})
-        meta['extracted_text_path'] = extracted_text_path
-        metadata[str(downloaded_file_path)] = meta
-        save_metadata(metadata, metadata_path)
-    return {
-        "original_url": file_data['original_url'],
-        "link_text": file_data['link_text'],
-        "server_filename": file_data['server_filename'],
-        "type": file_data['type'],
-        "extracted_text_path": extracted_text_path,
-        "output_file_path": str(Path('/downloaded_originals') / downloaded_file_path.name),
-        "content_files": content_files
-    }
+    return artifact_info
 
 def load_metadata(metadata_path):
     if Path(metadata_path).exists():
@@ -336,7 +275,7 @@ def generate_static_site(all_foi_data, output_base_dir):
     output_base_dir = Path(output_base_dir)
     (output_base_dir / "documents").mkdir(parents=True, exist_ok=True)
     (output_base_dir / "static").mkdir(parents=True, exist_ok=True)
-    env = Environment(loader=FileSystemLoader('templates'))
+    env = Environment(loader=FileSystemLoader(CONFIG['template_dir']))
     index_template = env.get_template("index.html")
     detail_template = env.get_template("document_detail.html")
     renderable_foi_data = []
@@ -352,27 +291,20 @@ def generate_static_site(all_foi_data, output_base_dir):
                 for item in file['content_files']:
                     if item.get('extracted_text_path'):
                         item['extracted_text'] = load_text_content(item['extracted_text_path'], output_base_dir)
-        # Compute all unique file types for this request
-        file_types = sorted(set(f["type"] for f in render_data.get('files', [])))
-        render_data['file_types'] = file_types
+        # Pre-calculate type_counts
+        type_counts = {}
+        for file in render_data.get('files', []):
+            t = file.get('type')
+            if t:
+                type_counts[t] = type_counts.get(t, 0) + 1
+        render_data['type_counts'] = type_counts
         renderable_foi_data.append(render_data)
     index_page_documents = []
     for req_data in renderable_foi_data:
-        file_types = req_data.get('file_types', [])
-        file_types_str = ', '.join(file_types)
         html_filename = f"{req_data['id']}.html"
         output_html_path = output_base_dir / "documents" / html_filename
         req_data['output_html_path'] = f"/documents/{html_filename}"
-        # Pass the files list to the index page for type counting
-        index_page_documents.append({
-            'id': req_data['id'],
-            'title': req_data['title'],
-            'date': req_data['date'],
-            'output_html_path': f"/documents/{html_filename}",
-            'file_types': file_types_str,
-            'original_url': req_data['files'][0]['original_url'] if req_data['files'] else '',
-            'files': req_data.get('files', [])
-        })
+        index_page_documents.append(req_data)
         with open(output_html_path, 'w', encoding='utf-8') as f:
             f.write(detail_template.render(request=req_data))
         generated_files.append(str(output_html_path))
@@ -412,13 +344,14 @@ def generate_static_site(all_foi_data, output_base_dir):
         print(f" - {path}")
 
 def generate():
-    metadata_path = Path("data") / "file_metadata.json"
+    config = CONFIG
+    metadata_path = Path(config['data_dir']) / "file_metadata.json"
     metadata = load_metadata(metadata_path)
-    all_foi_requests = get_foi_documents_metadata()
+    all_foi_requests = get_foi_documents_metadata(year=config['year'])
     print(f"Found {len(all_foi_requests)} FOI requests.")
-    download_dir = Path("downloads")
+    download_dir = Path(config['download_dir'])
     download_dir.mkdir(exist_ok=True)
-    output_base_dir = Path("docs")
+    output_base_dir = Path(config['output_dir'])
     (output_base_dir / "downloaded_originals").mkdir(parents=True, exist_ok=True)
     (output_base_dir / "foi_assets").mkdir(parents=True, exist_ok=True)
     (output_base_dir / "extracted_texts").mkdir(parents=True, exist_ok=True)
@@ -450,17 +383,24 @@ def generate():
             key = (foi_request['id'], file_entry['server_filename'])
             if download_results.get(key):
                 local_path = download_dir / file_entry['server_filename']
-                processed_file_data = process_downloaded_file_data(file_entry, foi_request['id'], local_path, output_base_dir, metadata, metadata_path)
+                file_metadata = dict(file_entry)
+                file_metadata['foi_id'] = foi_request['id']
+                processed_file_data = process_file(file_metadata, local_path, config, metadata)
+                processed_file_data.update({
+                    'original_url': file_entry['original_url'],
+                    'link_text': file_entry['link_text'],
+                    'server_filename': file_entry['server_filename']
+                })
                 processed_request_data['files'].append(processed_file_data)
             else:
                 print(f"Download failed for {file_entry['server_filename']} in {foi_request['id']}")
         final_processed_foi_data.append(processed_request_data)
-    Path("data").mkdir(exist_ok=True)
-    with open(Path("data") / "foi_data.json", "w", encoding="utf-8") as f:
+    Path(config['data_dir']).mkdir(exist_ok=True)
+    with open(Path(config['data_dir']) / "foi_data.json", "w", encoding="utf-8") as f:
         json.dump(final_processed_foi_data, f, ensure_ascii=False, indent=2)
     with open(metadata_path, 'w', encoding='utf-8') as f:
         json.dump(metadata, f, ensure_ascii=False, indent=2)
-    with open(Path("data") / "foi_data.json", "r", encoding="utf-8") as f:
+    with open(Path(config['data_dir']) / "foi_data.json", "r", encoding="utf-8") as f:
         all_foi_data = json.load(f)
     generate_static_site(all_foi_data, output_base_dir)
 
