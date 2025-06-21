@@ -196,12 +196,9 @@ def process_file(file_metadata, local_path, config, metadata_cache):
     meta = metadata_cache.get(str(file_path))
     stat = file_path.stat()
     file_hash_val = file_hash(file_path)
-    # Check if already processed
-    if meta and meta.get('hash') == file_hash_val and meta.get('extracted'):
-        # Return cached artifact info
-        result = meta.get('artifact_info', {})
-        result['type'] = file_type
-        return result
+    # Check if already processed and return full artifact info if so
+    if meta and meta.get('hash') == file_hash_val and meta.get('extracted') and meta.get('artifact_info'):
+        return meta['artifact_info']
     artifact_info = {
         'type': file_type,
         'output_file_path': str(Path('/downloaded_originals') / file_path.name),
@@ -234,7 +231,7 @@ def process_file(file_metadata, local_path, config, metadata_cache):
         shutil.copy2(file_path, output_base_dir / 'downloaded_originals' / file_path.name)
     else:
         shutil.copy2(file_path, output_base_dir / 'downloaded_originals' / file_path.name)
-    # Update metadata
+    # Update metadata with full artifact_info
     metadata_cache[str(file_path)] = {
         'size': stat.st_size,
         'mtime': int(stat.st_mtime),
