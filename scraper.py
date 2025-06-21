@@ -407,12 +407,16 @@ def process_file(file_metadata, local_path, config, metadata_cache):
                 ai_summaries[persona_id] = {'needs_summary': True, 'source_hash': current_text_hash}
             else:
                 ai_summaries[persona_id] = prev
+    else:
+        # For non-PDFs or if extracted_text_path was not set (e.g., DOCX, image, video)
+        for persona_id in LLM_CONFIG['PROMPT_TEMPLATES'].keys():
+            ai_summaries[persona_id] = None
     artifact_info['ai_summaries'] = ai_summaries
-    # For ZIPs, propagate ai_summaries logic to content_files
+    # For ZIPs, propagate ai_summaries logic to content_files - make sure it defaults to None as well
     if file_type == 'zip' and artifact_info.get('content_files'):
         for idx, item in enumerate(artifact_info['content_files']):
-            if 'ai_summaries' not in item:
-                artifact_info['content_files'][idx]['ai_summaries'] = {}
+            if 'ai_summaries' not in item or not item['ai_summaries']:
+                item['ai_summaries'] = {p: None for p in LLM_CONFIG['PROMPT_TEMPLATES'].keys()}
     metadata_cache[str(file_path)] = {
         'size': stat.st_size,
         'mtime': int(stat.st_mtime),
@@ -495,7 +499,10 @@ def generate_static_site(all_foi_data, output_base_dir):
         generated_files.append(str(output_html_path))
     index_path = output_base_dir / "index.html"
     with open(index_path, 'w', encoding='utf-8') as f:
-        f.write(index_template.render(documents=index_page_documents))
+        f.write(index_template.render(
+            documents=index_page_documents,
+            documents_data_json=json.dumps(index_page_documents, ensure_ascii=False)
+        ))
     generated_files.append(str(index_path))
     # Copy static assets
     if Path('static').exists():

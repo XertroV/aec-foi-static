@@ -34,6 +34,10 @@
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script src="/static/lunr.min.js"></script>
     <script src="/static/search.js"></script>
+    <script>
+      window.PERSONAS_LIST = {{ PERSONAS | tojson | safe }};
+      window.DEFAULT_PERSONA = '{{ DEFAULT_PERSONA }}';
+    </script>
     <script src="/static/general_ui.js" defer></script>
     {% block scripts %}{% endblock %}
 </body>

@@ -68,3 +68,8 @@
     </ul>
 </section>
 {% endblock %}
+{% block scripts %}
+<script type="application/json" id="documents-data">
+  {{ documents_data_json | safe }}
+</script>
+{% endblock %}
