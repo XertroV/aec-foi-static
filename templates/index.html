@@ -55,6 +55,14 @@
               {% endif %}
             {% endfor %}
             {% if doc.original_url %}<div class="doc-original-link"><a href="{{ doc.original_url }}" target="_blank">Original AEC URL</a></div>{% endif %}
+            {% if doc.ai_short_summary and doc.ai_short_summary.text %}
+              <div class="ai-summary-block">
+                <p class="ai-summary-text">{{ doc.ai_short_summary.text }}</p>
+                <span class="ai-summary-label" data-summary-model="{{ doc.ai_short_summary.model }}" data-summary-date="{{ doc.ai_short_summary.generated_at }}">
+                  AI Generated <i class="info-icon">?</i>
+                </span>
+              </div>
+            {% endif %}
         </li>
         {% endfor %}
     </ul>
@@ -77,5 +85,9 @@
 .zip-content-list.compact li { display: inline; margin-right: 0.7em; }
 .filetype { color: #888; font-size: 0.93em; margin-left: 0.1em; }
 .doc-original-link { margin-top: 0.1em; }
+.ai-summary-block { margin: 0.2em 0; padding: 0.5em; border: 1px solid #d1e7dd; border-radius: 0.375rem; background-color: #d1e7dd; }
+.ai-summary-text { margin: 0; font-size: 0.95em; color: #0f5132; }
+.ai-summary-label { font-size: 0.85em; color: #0c5460; font-weight: 500; margin-left: 0.3em; }
+.info-icon { font-size: 0.9em; vertical-align: middle; margin-left: 0.2em; }
 </style>
 {% endblock %}
