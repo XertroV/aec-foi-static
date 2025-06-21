@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block title %}AEC FOI Disclosure Log{% endblock %}
+{% block content %}
+<h1>FOI Disclosure Log Entries</h1>
+<div class="search-container">
+    <input type="text" id="search-input" placeholder="Search documents..." aria-label="Search FOI documents">
+    <div id="search-results"></div>
+</div>
+<section class="document-list-section">
+    <h2>All FOI Requests</h2>
+    <ul class="document-list">
+        {% for doc in documents %}
+        <li class="document-item">
+            <h3><a href="{{ doc.output_html_path }}">{{ doc.title }} ({{ doc.date }})</a></h3>
+            <p>Type: {{ doc.main_file_type }}</p>
+            {% if doc.original_url %}<p><a href="{{ doc.original_url }}" target="_blank">Original AEC URL</a></p>{% endif %}
+        </li>
+        {% endfor %}
+    </ul>
+</section>
+{% endblock %}

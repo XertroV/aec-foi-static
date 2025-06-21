@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block title %}FOI: {{ document.title }}{% endblock %}
+{% block content %}
+  <h1>{{ document.title }}</h1>
+  <p><strong>Date:</strong> {{ document.date }}</p>
+  <p><a href="{{ document.output_file_path }}" download>Download original file</a></p>
+
+  {% if document.main_file_type == 'pdf' %}
+    <h2>Extracted Text</h2>
+    <pre style="white-space: pre-wrap;">{{ document.extracted_text }}</pre>
+  {% elif document.main_file_type == 'zip' %}
+    <h2>Contents of ZIP Archive</h2>
+    <ul>
+      {% for item in document.content_files %}
+        <li>
+          <strong>{{ item.filename }}</strong> ({{ item.type }})
+          - <a href="{{ item.download_path }}" download>Download</a>
+          {% if item.type == 'pdf' and item.extracted_text %}
+            <h3>Text from {{ item.filename }}</h3>
+            <pre style="white-space: pre-wrap;">{{ item.extracted_text }}</pre>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p>This file type is not directly viewable. <a href="{{ document.output_file_path }}" download>Download the file</a>.</p>
+  {% endif %}
+{% endblock %}
