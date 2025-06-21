@@ -338,7 +338,7 @@ def save_text_to_file(text, foi_id, filename_suffix, output_base_dir):
         f.write(text)
     return str(Path('/extracted_texts') / generated_filename)
 
-def process_file(file_metadata, local_path, config, metadata_cache):
+def process_file(file_metadata, local_path, config, metadata_cache, force_extract=False):
     """
     Process a file (PDF, ZIP, etc.), extract text or unpack as needed, and return artifact info.
     Idempotent: checks metadata_cache to avoid redundant work.
@@ -354,7 +354,7 @@ def process_file(file_metadata, local_path, config, metadata_cache):
     stat = file_path.stat()
     file_hash_val = file_hash(file_path)
     # Check if already processed and return full artifact info if so
-    if meta and meta.get('hash') == file_hash_val and meta.get('extracted') and meta.get('artifact_info'):
+    if not force_extract and meta and meta.get('hash') == file_hash_val and meta.get('extracted') and meta.get('artifact_info'):
         return meta['artifact_info']
     artifact_info = {
         'type': file_type,
@@ -380,7 +380,7 @@ def process_file(file_metadata, local_path, config, metadata_cache):
                 'foi_id': foi_id,
                 'filename': extracted_file_path.name
             }
-            inner_info = process_file(inner_file_metadata, extracted_file_path, config, metadata_cache)
+            inner_info = process_file(inner_file_metadata, extracted_file_path, config, metadata_cache, force_extract=force_extract)
             inner_info['filename'] = extracted_file_path.name
             inner_info['download_path'] = str(Path('/foi_assets') / foi_id / extracted_file_path.name)
             shutil.copy2(extracted_file_path, assets_output_subdir / extracted_file_path.name)
@@ -543,7 +543,7 @@ def generate_static_site(all_foi_data, output_base_dir):
     for path in generated_files:
         print(f" - {path}")
 
-def generate(force_summaries=False):
+def generate(force_summaries=False, force_extract=False):
     config = CONFIG
     LLM_CONFIG['FORCE_SUMMARY_REGENERATION'] = force_summaries
     metadata_path = Path(config['data_dir']) / "file_metadata.json"
@@ -601,7 +601,7 @@ def generate(force_summaries=False):
                 local_path = download_dir / file_entry['server_filename']
                 file_metadata = dict(file_entry)
                 file_metadata['foi_id'] = foi_request['id']
-                processed_file_data = process_file(file_metadata, local_path, config, metadata)
+                processed_file_data = process_file(file_metadata, local_path, config, metadata, force_extract=force_extract)
                 processed_file_data.update({
                     'original_url': file_entry['original_url'],
                     'link_text': file_entry['link_text'],
@@ -872,5 +872,6 @@ if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser(description="Build AEC FOI static archive.")
     parser.add_argument('--force-summaries', action='store_true', help='Force regeneration of all AI summaries')
+    parser.add_argument('--force-extract', action='store_true', help='Force re-extraction of text from PDFs (does not force summary regeneration unless text changes)')
     args = parser.parse_args()
-    generate(force_summaries=args.force_summaries)
+    generate(force_summaries=args.force_summaries, force_extract=args.force_extract)
