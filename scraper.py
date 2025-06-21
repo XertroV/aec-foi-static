@@ -15,9 +15,14 @@ def main():
     parser.add_argument('--force-summaries', action='store_true', help='Force regeneration of all AI summaries')
     parser.add_argument('--force-extract', action='store_true', help='Force re-extraction of text from PDFs (does not force summary regeneration unless text changes)')
     parser.add_argument('--year', type=int, help='Process only a specific year (e.g., 2023)')
+    parser.add_argument('--personas', type=str, help='Comma-separated list of persona IDs to generate summaries for (others will be skipped, existing summaries for other personas will be untouched)')
     args = parser.parse_args()
     config = CONFIG
     LLM_CONFIG['FORCE_SUMMARY_REGENERATION'] = args.force_summaries
+    # Parse personas flag
+    selected_personas = None
+    if args.personas:
+        selected_personas = set([p.strip() for p in args.personas.split(',') if p.strip()])
     metadata_path = Path(config['data_dir']) / "file_metadata.json"
     metadata = load_metadata(metadata_path)
     # Determine years to process
@@ -110,7 +115,7 @@ def main():
         final_processed_foi_data.append(processed_request_data)
 
     # --- AI SUMMARY GENERATION ---
-    generate_all_summaries(final_processed_foi_data, config, metadata)
+    generate_all_summaries(final_processed_foi_data, config, metadata, selected_personas=selected_personas)
 
     # --- Merge with cache: always update/add processed requests, keep others ---
     for req in final_processed_foi_data:

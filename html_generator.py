@@ -24,6 +24,30 @@ def markdown_filter(text):
     # Enable 'extra' for lists, tables, etc. and 'nl2br' for newlines
     return md.markdown(text or "", extensions=["extra", "nl2br"])
 
+def ensure_default_persona_ai_summaries(data, default_persona):
+    # For each FOI request
+    for req in data:
+        if 'ai_summaries' not in req or not isinstance(req['ai_summaries'], dict):
+            req['ai_summaries'] = {}
+        if default_persona not in req['ai_summaries']:
+            req['ai_summaries'][default_persona] = {'overall': {'text': ''}, 'short_index': {'text': ''}}
+        else:
+            if 'overall' not in req['ai_summaries'][default_persona]:
+                req['ai_summaries'][default_persona]['overall'] = {'text': ''}
+            if 'short_index' not in req['ai_summaries'][default_persona]:
+                req['ai_summaries'][default_persona]['short_index'] = {'text': ''}
+        for file in req.get('files', []):
+            if 'ai_summaries' not in file or not isinstance(file['ai_summaries'], dict):
+                file['ai_summaries'] = {}
+            if default_persona not in file['ai_summaries']:
+                file['ai_summaries'][default_persona] = {'text': ''}
+            if file.get('content_files'):
+                for item in file['content_files']:
+                    if 'ai_summaries' not in item or not isinstance(item['ai_summaries'], dict):
+                        item['ai_summaries'] = {}
+                    if default_persona not in item['ai_summaries']:
+                        item['ai_summaries'][default_persona] = {'text': ''}
+
 def generate_static_site(all_foi_data, output_base_dir):
     output_base_dir = Path(output_base_dir)
     (output_base_dir / "documents").mkdir(parents=True, exist_ok=True)
@@ -34,6 +58,8 @@ def generate_static_site(all_foi_data, output_base_dir):
     env.globals['DEFAULT_PERSONA'] = LLM_CONFIG['DEFAULT_PERSONA']
     index_template = env.get_template("index.html")
     detail_template = env.get_template("document_detail.html")
+    # --- PATCH: Ensure every FOI request, file, and inner file has ai_summaries[DEFAULT_PERSONA] ---
+    ensure_default_persona_ai_summaries(all_foi_data, LLM_CONFIG['DEFAULT_PERSONA'])
     renderable_foi_data = []
     generated_files = []
     for req_data in all_foi_data:

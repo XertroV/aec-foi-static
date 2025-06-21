@@ -95,6 +95,7 @@ def deep_merge_content_files(new_list, cached_list):
 
 def save_foi_data_json(final_processed_foi_data, config):
     """Save the current FOI data to foi_data.json, merging with existing data."""
+    print("[LLM] Saving FOI data to foi_data.json...")
     data_dir = config['data_dir'] if 'data_dir' in config else CONFIG['data_dir']
     os.makedirs(data_dir, exist_ok=True)
     foi_data_path = Path(data_dir) / "foi_data.json"
@@ -115,12 +116,30 @@ def save_foi_data_json(final_processed_foi_data, config):
         json.dump(merged_data, f, ensure_ascii=False, indent=2)
 
 
-def generate_all_summaries(final_processed_foi_data, config, metadata):
+def generate_all_summaries(final_processed_foi_data, config, metadata, selected_personas=None):
     """
-    For each FOI request, generate all required summaries for all personas.
+    For each FOI request, generate all required summaries for all personas (or only those in selected_personas).
     Modifies final_processed_foi_data in place.
     """
+    default_persona = LLM_CONFIG.get('DEFAULT_PERSONA', 'balanced')
     for foi_request in final_processed_foi_data:
+        # Ensure ai_summaries exists and has DEFAULT_PERSONA for request
+        if 'ai_summaries' not in foi_request or not isinstance(foi_request['ai_summaries'], dict):
+            foi_request['ai_summaries'] = {}
+        if default_persona not in foi_request['ai_summaries']:
+            foi_request['ai_summaries'][default_persona] = {'overall': {'text': ''}, 'short_index': {'text': ''}}
+        # Ensure all files and inner files have ai_summaries[DEFAULT_PERSONA]
+        for file in foi_request.get('files', []):
+            if 'ai_summaries' not in file or not isinstance(file['ai_summaries'], dict):
+                file['ai_summaries'] = {}
+            if default_persona not in file['ai_summaries']:
+                file['ai_summaries'][default_persona] = {'text': ''}
+            if file.get('content_files'):
+                for item in file['content_files']:
+                    if 'ai_summaries' not in item or not isinstance(item['ai_summaries'], dict):
+                        item['ai_summaries'] = {}
+                    if default_persona not in item['ai_summaries']:
+                        item['ai_summaries'][default_persona] = {'text': ''}
         # Aggregate all extracted text for overall summary
         all_texts = []
         for file in foi_request['files']:
@@ -139,7 +158,10 @@ def generate_all_summaries(final_processed_foi_data, config, metadata):
         combined_text = '\n\n'.join(all_texts)
         combined_text_hash = hashlib.sha256(combined_text.encode('utf-8')).hexdigest() if combined_text else None
         # Persona loop
-        for current_persona_id in LLM_CONFIG['PROMPT_TEMPLATES'].keys():
+        persona_ids = LLM_CONFIG['PROMPT_TEMPLATES'].keys()
+        if selected_personas is not None:
+            persona_ids = [pid for pid in persona_ids if pid in selected_personas]
+        for current_persona_id in persona_ids:
             if 'ai_summaries' not in foi_request:
                 foi_request['ai_summaries'] = {}
             if current_persona_id not in foi_request['ai_summaries']:
@@ -239,6 +261,8 @@ def generate_all_summaries(final_processed_foi_data, config, metadata):
             for file in foi_request['files']:
                 if 'ai_summaries' not in file:
                     file['ai_summaries'] = {}
+                if current_persona_id not in file['ai_summaries']:
+                    file['ai_summaries'][current_persona_id] = {'text': ''}
                 # Top-level file
                 persona_file_summary = file['ai_summaries'].get(current_persona_id)
                 file_hash_val = None
@@ -303,6 +327,8 @@ def generate_all_summaries(final_processed_foi_data, config, metadata):
                     for item in file['content_files']:
                         if 'ai_summaries' not in item:
                             item['ai_summaries'] = {}
+                        if current_persona_id not in item['ai_summaries']:
+                            item['ai_summaries'][current_persona_id] = {'text': ''}
                         persona_item_summary = item['ai_summaries'].get(current_persona_id)
                         file_hash_val = None
                         if item.get('extracted_text_path'):
@@ -359,4 +385,6 @@ def generate_all_summaries(final_processed_foi_data, config, metadata):
                                 elif not reason:
                                     print(f"[LLM][{foi_request['id']}][{current_persona_id}] Skipping per-file summary for ZIP inner {item.get('filename', 'file')}: No reason to regenerate (hash matches, summary exists).")
                                 # Do NOT reassign item['ai_summaries'][current_persona_id] here; keep existing value
+                        save_foi_data_json(final_processed_foi_data, config)
                 save_foi_data_json(final_processed_foi_data, config)
+            save_foi_data_json(final_processed_foi_data, config)
