@@ -22,13 +22,97 @@ def save_llm_response(raw_response, foi_id, summary_type, persona_id, file_id=No
     return str(out_path)
 
 
+def deep_merge_foi_request(new_req, cached_req):
+    merged = dict(cached_req) if cached_req else {}
+    for k in new_req:
+        if k != 'files':
+            merged[k] = new_req[k]
+    cached_files = {f.get('server_filename'): f for f in cached_req.get('files', [])} if cached_req else {}
+    merged_files = []
+    for new_file in new_req.get('files', []):
+        fname = new_file.get('server_filename')
+        cached_file = cached_files.get(fname)
+        if cached_file:
+            merged_file = dict(cached_file)
+            for k in new_file:
+                if k not in ('ai_summaries', 'content_files'):
+                    merged_file[k] = new_file[k]
+            merged_file['ai_summaries'] = deep_merge_ai_summaries(new_file.get('ai_summaries', {}), cached_file.get('ai_summaries', {}))
+            if 'content_files' in new_file or 'content_files' in cached_file:
+                merged_file['content_files'] = deep_merge_content_files(new_file.get('content_files', []), cached_file.get('content_files', []))
+            merged_files.append(merged_file)
+        else:
+            merged_files.append(new_file)
+    new_fnames = {f.get('server_filename') for f in new_req.get('files', [])}
+    for fname, cached_file in cached_files.items():
+        if fname not in new_fnames:
+            merged_files.append(cached_file)
+    merged['files'] = merged_files
+    merged['ai_summaries'] = deep_merge_ai_summaries(new_req.get('ai_summaries', {}), cached_req.get('ai_summaries', {})) if cached_req else new_req.get('ai_summaries', {})
+    return merged
+
+def deep_merge_ai_summaries(new, cached):
+    # If either is None, treat as empty dict
+    if not isinstance(new, dict):
+        new = {} if new is not None else {}
+    if not isinstance(cached, dict):
+        cached = {} if cached is not None else {}
+    merged = dict(cached)
+    for persona, new_summ in new.items():
+        if persona not in merged or merged[persona] is None:
+            merged[persona] = new_summ
+        else:
+            merged[persona] = dict(merged[persona]) if isinstance(merged[persona], dict) else {}
+            for summ_type, new_val in (new_summ or {}).items():
+                cached_val = merged[persona].get(summ_type)
+                if new_val and (not cached_val or (isinstance(new_val, dict) and new_val.get('text'))):
+                    merged[persona][summ_type] = new_val
+    return merged
+
+def deep_merge_content_files(new_list, cached_list):
+    cached_map = {f.get('filename'): f for f in cached_list}
+    merged = []
+    for new_item in new_list:
+        fname = new_item.get('filename')
+        cached_item = cached_map.get(fname)
+        if cached_item:
+            merged_item = dict(cached_item)
+            for k in new_item:
+                if k not in ('ai_summaries', 'content_files'):
+                    merged_item[k] = new_item[k]
+            merged_item['ai_summaries'] = deep_merge_ai_summaries(new_item.get('ai_summaries', {}), cached_item.get('ai_summaries', {}))
+            if 'content_files' in new_item or 'content_files' in cached_item:
+                merged_item['content_files'] = deep_merge_content_files(new_item.get('content_files', []), cached_item.get('content_files', []))
+            merged.append(merged_item)
+        else:
+            merged.append(new_item)
+    new_fnames = {f.get('filename') for f in new_list}
+    for fname, cached_item in cached_map.items():
+        if fname not in new_fnames:
+            merged.append(cached_item)
+    return merged
+
+
 def save_foi_data_json(final_processed_foi_data, config):
-    """Save the current FOI data to foi_data.json."""
+    """Save the current FOI data to foi_data.json, merging with existing data."""
     data_dir = config['data_dir'] if 'data_dir' in config else CONFIG['data_dir']
     os.makedirs(data_dir, exist_ok=True)
     foi_data_path = Path(data_dir) / "foi_data.json"
+    # Load existing data if present
+    if foi_data_path.exists():
+        with open(foi_data_path, "r", encoding="utf-8") as f:
+            try:
+                cached_data = {req['id']: req for req in json.load(f)}
+            except Exception:
+                cached_data = {}
+    else:
+        cached_data = {}
+    # Deep merge new data into cached data
+    for req in final_processed_foi_data:
+        cached_data[req['id']] = deep_merge_foi_request(req, cached_data.get(req['id']))
+    merged_data = list(cached_data.values())
     with open(foi_data_path, "w", encoding="utf-8") as f:
-        json.dump(final_processed_foi_data, f, ensure_ascii=False, indent=2)
+        json.dump(merged_data, f, ensure_ascii=False, indent=2)
 
 
 def generate_all_summaries(final_processed_foi_data, config, metadata):
@@ -206,12 +290,14 @@ def generate_all_summaries(final_processed_foi_data, config, metadata):
                             'summary_length': len(summary_text) if summary_text else 0
                         }
                         print(f"[DEBUG] Saved per-file summary for {file.get('server_filename', file.get('link_text', 'file'))} [{current_persona_id}] to in-memory data structure. Text length: {len(summary_text) if summary_text else 0}")
+
                     else:
                         if not text:
                             print(f"[LLM][{foi_request['id']}][{current_persona_id}] Skipping per-file summary for {file.get('server_filename', file.get('link_text', 'file'))}: No extracted text.")
                         elif not reason:
                             print(f"[LLM][{foi_request['id']}][{current_persona_id}] Skipping per-file summary for {file.get('server_filename', file.get('link_text', 'file'))}: No reason to regenerate (hash matches, summary exists).")
                         # Do NOT reassign file['ai_summaries'][current_persona_id] here; keep existing value
+
                 # ZIP inner files
                 if file.get('content_files'):
                     for item in file['content_files']:
@@ -273,5 +359,4 @@ def generate_all_summaries(final_processed_foi_data, config, metadata):
                                 elif not reason:
                                     print(f"[LLM][{foi_request['id']}][{current_persona_id}] Skipping per-file summary for ZIP inner {item.get('filename', 'file')}: No reason to regenerate (hash matches, summary exists).")
                                 # Do NOT reassign item['ai_summaries'][current_persona_id] here; keep existing value
-
                 save_foi_data_json(final_processed_foi_data, config)

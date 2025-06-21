@@ -29,15 +29,20 @@ def get_foi_documents_metadata(year=2025):
     soup = BeautifulSoup(response.text, "html.parser")
     grouped_requests = {}
     for h2 in soup.find_all("h2"):
-        if h2.has_attr("id") and h2["id"].startswith("lex"):
+        # Accept id starting with 'lex' or 'ls' (case-insensitive)
+        if h2.has_attr("id") and re.match(r"^(lex|ls)", h2["id"], re.IGNORECASE):
             title = h2.get_text(strip=True)
-            lex_match = re.search(r"LEX(\d+)", title)
-            lex = lex_match.group(1) if lex_match else ""
-            if not lex:
+            # Accept both LEX and LS numbers in the title
+            lex_match = re.search(r"(LEX|LS)(\d+)", title, re.IGNORECASE)
+            if lex_match:
+                full_id = f"{lex_match.group(1).upper()}{lex_match.group(2)}"
+            else:
+                full_id = h2["id"].upper()
+            if not full_id:
                 continue
-            if lex not in grouped_requests:
-                grouped_requests[lex] = {
-                    "id": f"LEX{lex}",
+            if full_id not in grouped_requests:
+                grouped_requests[full_id] = {
+                    "id": full_id,
                     "title": title,
                     "date": str(year),
                     "files": []
@@ -52,7 +57,7 @@ def get_foi_documents_metadata(year=2025):
                     link_text = a.get_text(strip=True)
                     server_filename = Path(href).name
                     doc_type = Path(href).suffix.lstrip('.')
-                    grouped_requests[lex]["files"].append({
+                    grouped_requests[full_id]["files"].append({
                         "original_url": doc_url,
                         "link_text": link_text,
                         "server_filename": server_filename,

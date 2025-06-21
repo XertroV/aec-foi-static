@@ -3,23 +3,38 @@ load_env_var_from_dotenv('GEMINI_API_KEY')
 from config import *
 from data_processing import *
 from html_generator import markdown_filter, generate_static_site
-from llm_summarizer import generate_all_summaries
+from llm_summarizer import deep_merge_foi_request, generate_all_summaries
 from pathlib import Path
 import concurrent.futures
 import json
 
 def main():
     import argparse
+    import datetime
     parser = argparse.ArgumentParser(description="Build AEC FOI static archive.")
     parser.add_argument('--force-summaries', action='store_true', help='Force regeneration of all AI summaries')
     parser.add_argument('--force-extract', action='store_true', help='Force re-extraction of text from PDFs (does not force summary regeneration unless text changes)')
+    parser.add_argument('--year', type=int, help='Process only a specific year (e.g., 2023)')
     args = parser.parse_args()
     config = CONFIG
     LLM_CONFIG['FORCE_SUMMARY_REGENERATION'] = args.force_summaries
     metadata_path = Path(config['data_dir']) / "file_metadata.json"
     metadata = load_metadata(metadata_path)
-    all_foi_requests = get_foi_documents_metadata(year=config['year'])
-    print(f"Found {len(all_foi_requests)} FOI requests.")
+    # Determine years to process
+    if args.year:
+        years = [args.year]
+    else:
+        current_year = datetime.datetime.now().year
+        years = list(range(2012, current_year + 1))
+    all_foi_requests = []
+    for year in years:
+        print(f"Fetching FOI requests for year {year}...")
+        config['year'] = year
+        foi_requests = get_foi_documents_metadata(year=year)
+        for req in foi_requests:
+            req['year'] = year
+        all_foi_requests.extend(foi_requests)
+    print(f"Found {len(all_foi_requests)} FOI requests across years {years}.")
     download_dir = Path(config['download_dir'])
     download_dir.mkdir(exist_ok=True)
     output_base_dir = Path(config['output_dir'])
@@ -58,6 +73,7 @@ def main():
             "id": foi_request['id'],
             "title": foi_request['title'],
             "date": foi_request['date'],
+            "year": foi_request.get('year', config['year']),
             "files": []
         }
         # Copy cached summaries if available
@@ -95,15 +111,22 @@ def main():
 
     # --- AI SUMMARY GENERATION ---
     generate_all_summaries(final_processed_foi_data, config, metadata)
+
+    # --- Merge with cache: always update/add processed requests, keep others ---
+    for req in final_processed_foi_data:
+        cached_foi_data[req['id']] = deep_merge_foi_request(req, cached_foi_data.get(req['id']))
+    merged_foi_data = list(cached_foi_data.values())
+
     # Save after all summaries
     Path(config['data_dir']).mkdir(exist_ok=True)
     with open(Path(config['data_dir']) / "foi_data.json", "w", encoding="utf-8") as f:
-        json.dump(final_processed_foi_data, f, ensure_ascii=False, indent=2)
+        json.dump(merged_foi_data, f, ensure_ascii=False, indent=2)
     with open(metadata_path, 'w', encoding='utf-8') as f:
         json.dump(metadata, f, ensure_ascii=False, indent=2)
     with open(Path(config['data_dir']) / "foi_data.json", "r", encoding="utf-8") as f:
         all_foi_data = json.load(f)
     generate_static_site(all_foi_data, output_base_dir)
+
 
 if __name__ == "__main__":
     main()
