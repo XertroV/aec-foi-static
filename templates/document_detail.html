@@ -14,9 +14,9 @@
       <div class="ai-summary-markdown-content">
         {{ request.ai_overall_summary.text | markdown }}
       </div>
-      <span class="ai-summary-label" data-summary-model="{{ request.ai_overall_summary.model }}" data-summary-date="{{ request.ai_overall_summary.generated_at }}">
-        AI Generated <i class="info-icon">?</i>
-      </span>
+      {% set summary_model = request.ai_overall_summary.model %}
+      {% set summary_date = request.ai_overall_summary.generated_at %}
+      {% include 'ai_summary_label.html' %}
     </div>
   </div>
 {% endif %}
@@ -136,7 +136,23 @@
         </section>
       {% endif %}
     {% endfor %}
+    {% for file in request.files %}
+      {% if file.extracted_text_path and file.ai_summary and file.ai_summary.text %}
+        <div class="per-file-ai-summary">
+          <h3>AI Summary of this Document</h3>
+          <div class="ai-summary-markdown-content">
+            {{ file.ai_summary.text | markdown }}
+          </div>
+          {% set summary_model = file.ai_summary.model %}
+          {% set summary_date = file.ai_summary.generated_at %}
+          {% include 'ai_summary_label.html' %}
+        </div>
+      {% endif %}
+    {% endfor %}
   </main>
 </div>
+{% endblock %}
+{% block scripts %}
 <script src="/static/detail.js" defer></script>
+<script src="/static/ai_summary_popover.js" defer></script>
 {% endblock %}

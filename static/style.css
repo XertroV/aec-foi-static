@@ -345,3 +345,37 @@ ul.zip-contents li {
 .foi-tab::-moz-focus-inner {
   border: 0;
 }
+
+.ai-summary-popover {
+  display: none;
+  opacity: 0;
+  position: absolute;
+  background: #fff;
+  color: #222;
+  border: 1px solid #b3b3e6;
+  box-shadow: 0 4px 16px rgba(60,60,120,0.13);
+  padding: 1em 1.2em;
+  z-index: 1000;
+  max-width: 350px;
+  min-width: 250px;
+  border-radius: 8px;
+  font-size: 0.98em;
+  pointer-events: none;
+  transition: opacity 0.18s;
+  line-height: 1.5;
+}
+.ai-summary-popover.visible {
+  display: block;
+  opacity: 1;
+  pointer-events: auto;
+}
+.ai-summary-popover strong {
+  color: #4a4a8a;
+  font-weight: 600;
+}
+.ai-summary-popover .popover-date {
+  color: #666;
+  font-size: 0.97em;
+  margin-top: 0.2em;
+  display: block;
+}

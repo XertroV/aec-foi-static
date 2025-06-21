@@ -58,9 +58,9 @@
             {% if doc.ai_short_summary and doc.ai_short_summary.text %}
               <div class="ai-summary-block">
                 <p class="ai-summary-text">{{ doc.ai_short_summary.text }}</p>
-                <span class="ai-summary-label" data-summary-model="{{ doc.ai_short_summary.model }}" data-summary-date="{{ doc.ai_short_summary.generated_at }}">
-                  AI Generated <i class="info-icon">?</i>
-                </span>
+                {% set summary_model = doc.ai_short_summary.model %}
+                {% set summary_date = doc.ai_short_summary.generated_at %}
+                {% include 'ai_summary_label.html' %}
               </div>
             {% endif %}
         </li>
@@ -90,4 +90,7 @@
 .ai-summary-label { font-size: 0.85em; color: #0c5460; font-weight: 500; margin-left: 0.3em; }
 .info-icon { font-size: 0.9em; vertical-align: middle; margin-left: 0.2em; }
 </style>
+{% endblock %}
+{% block scripts %}
+<script src="/static/ai_summary_popover.js" defer></script>
 {% endblock %}
