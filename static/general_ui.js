@@ -43,7 +43,14 @@
         const summaryDiv = overallBlock.querySelector('.ai-summary-markdown-content');
         const label = overallBlock.querySelector('.ai-summary-label');
         if (overall.text && overall.text !== '') {
-          summaryDiv.innerHTML = window.marked ? window.marked.parse(overall.text) : overall.text;
+          if (window.marked && typeof window.marked.parse === 'function') {
+            summaryDiv.innerHTML = window.marked.parse(overall.text);
+          } else {
+            summaryDiv.innerHTML = overall.text;
+            if (!window.marked) {
+              console.warn('[AEC FOI] window.marked is not defined. AI summary markdown will not be rendered.');
+            }
+          }
           if (label) {
             label.setAttribute('data-summary-model', overall.model || '');
             label.setAttribute('data-summary-date', overall.generated_at || '');
@@ -59,7 +66,15 @@
         const personaData = findPersonaDataForTab(currentPageData, fileId, personaId);
         const label = tab.querySelector('.ai-summary-label');
         if (personaData && personaData.text && personaData.text !== '') {
-          tab.querySelector('.ai-summary-markdown-content').innerHTML = window.marked ? window.marked.parse(personaData.text) : personaData.text;
+          const contentDiv = tab.querySelector('.ai-summary-markdown-content');
+          if (window.marked && typeof window.marked.parse === 'function') {
+            contentDiv.innerHTML = window.marked.parse(personaData.text);
+          } else {
+            contentDiv.innerHTML = personaData.text;
+            if (!window.marked) {
+              console.warn('[AEC FOI] window.marked is not defined. AI summary markdown will not be rendered.');
+            }
+          }
           if (label) {
             label.setAttribute('data-summary-model', personaData.model || '');
             label.setAttribute('data-summary-date', personaData.generated_at || '');
@@ -90,7 +105,15 @@
         const shortIndex = personaData.short_index || {};
         const label = block.querySelector('.ai-summary-label');
         if (shortIndex.text && shortIndex.text !== '') {
-          block.querySelector('.ai-summary-text').innerHTML = window.marked ? window.marked.parse(shortIndex.text) : shortIndex.text;
+          const aiSummaryTextDiv = block.querySelector('.ai-summary-text');
+          if (window.marked && typeof window.marked.parse === 'function') {
+            aiSummaryTextDiv.innerHTML = window.marked.parse(shortIndex.text);
+          } else {
+            aiSummaryTextDiv.innerHTML = shortIndex.text;
+            if (!window.marked) {
+              console.warn('[AEC FOI] window.marked is not defined. AI summary markdown will not be rendered.');
+            }
+          }
           if (label) {
             label.setAttribute('data-summary-model', shortIndex.model || '');
             label.setAttribute('data-summary-date', shortIndex.generated_at || '');
@@ -127,13 +150,17 @@
 
   // --- AI Summary Toggle ---
   function initAiSummaryToggle() {
+    // Remove previous click handlers to avoid duplicates
     document.querySelectorAll('.ai-summary-toggle').forEach(toggle => {
       const summary = toggle.parentNode.querySelector('.ai-summary-markdown');
-      toggle.textContent = 'Show AI Generated Overview';
+      // Remove previous event listeners by cloning
+      const newToggle = toggle.cloneNode(true);
+      toggle.parentNode.replaceChild(newToggle, toggle);
+      newToggle.textContent = 'Show AI Generated Overview';
       summary.classList.add('collapsed');
-      toggle.onclick = function() {
+      newToggle.onclick = function() {
         summary.classList.toggle('collapsed');
-        toggle.textContent = summary.classList.contains('collapsed') ? 'Show AI Generated Overview' : 'Hide AI Generated Overview';
+        newToggle.textContent = summary.classList.contains('collapsed') ? 'Show AI Generated Overview' : 'Hide AI Generated Overview';
         console.log('[AEC FOI] AI summary toggle clicked, collapsed:', summary.classList.contains('collapsed'));
       };
     });
@@ -149,6 +176,15 @@
       popover.className = 'ai-summary-popover';
       document.body.appendChild(popover);
     }
+    // Hide popover on scroll or resize
+    function hidePopover() {
+      popover.classList.remove('visible');
+      popover.style.pointerEvents = 'none';
+    }
+    window.removeEventListener('scroll', hidePopover);
+    window.removeEventListener('resize', hidePopover);
+    window.addEventListener('scroll', hidePopover);
+    window.addEventListener('resize', hidePopover);
     document.querySelectorAll('.ai-summary-label').forEach(label => {
       label.onmouseenter = function(e) {
         const model = label.getAttribute('data-summary-model') || '';
@@ -194,6 +230,7 @@
   window.showTab = function(btn, tabId) {
     console.log('[AEC FOI] showTab', tabId);
     const container = btn.closest('.tabbed-view');
+    if (!container) return;
     const buttons = container.querySelectorAll('.foi-tab, .tab-btn');
     const tabs = container.querySelectorAll('.tab-content');
     buttons.forEach(b => b.classList.remove('active'));
@@ -214,7 +251,9 @@
       }
     }
   };
-  window.selectFile = function(idx) {
+
+  // --- File Selection Logic ---
+  function selectFile(idx) {
     console.log('[AEC FOI] selectFile', idx);
     const sections = document.querySelectorAll('.foi-file-section');
     const sidebarItems = document.querySelectorAll('.foi-sidebar-item');
@@ -232,7 +271,8 @@
     if (section && window.location.hash.replace(/^#/, '') !== section.id) {
       window.location.hash = section.id;
     }
-  };
+  }
+  window.selectFile = selectFile;
 
   // --- Hash-based navigation for file/tab selection ---
   function handleHashNavigation() {
@@ -264,18 +304,9 @@
   }
 
   // --- Initialization ---
-  document.addEventListener('DOMContentLoaded', function() {
-    loadPageData();
-    if (personaSelector) {
-      personaSelector.value = selectedPersona;
-      personaSelector.onchange = function() {
-        updateSummaries(this.value);
-        setTimeout(handleHashNavigation, 0); // ensure DOM is updated first
-      };
-    }
-    updateSummaries(selectedPersona);
-    setTimeout(handleHashNavigation, 0);
-    // Also re-run on hashchange (for manual navigation)
-    window.addEventListener('hashchange', handleHashNavigation);
-  });
+  loadPageData();
+  updateSummaries(selectedPersona);
+  setTimeout(handleHashNavigation, 0); // Ensure hash navigation after DOM and summaries are ready
+  window.addEventListener('hashchange', handleHashNavigation);
+  console.log('[AEC FOI] Initialization complete');
 })();
