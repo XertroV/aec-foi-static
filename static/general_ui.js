@@ -9,6 +9,7 @@
   const personaStorageKey = 'aec_foi_selected_persona';
   let selectedPersona = null;
   let popover = null;
+  let suppressHashUpdate = false;
 
   // --- Data Loading ---
   function loadPageData() {
@@ -253,9 +254,9 @@
     btn.classList.add('active');
     const tab = container.querySelector('#' + tabId);
     if (tab) tab.style.display = 'block';
-    // Save tab state in hash if possible
+    // Save tab state in hash if possible, but only if different and not suppressed
     const section = btn.closest('.foi-file-section');
-    if (section && section.id) {
+    if (section && section.id && !suppressHashUpdate) {
       const hash = window.location.hash.replace(/^#/, '');
       const sectionId = section.id;
       const newHash = sectionId + (tabId ? ':' + tabId : '');
@@ -278,9 +279,11 @@
     if (section) section.style.display = 'block';
     if (sidebarItem) sidebarItem.classList.add('active');
     if (tabBtn) tabBtn.setAttribute('aria-selected', 'true');
-    // Save file state in hash
-    if (section && window.location.hash.replace(/^#/, '') !== section.id) {
-      window.location.hash = section.id;
+    // Save file state in hash only if different and not suppressed
+    if (section && !suppressHashUpdate) {
+      if (window.location.hash.replace(/^#/, '') !== section.id) {
+        window.location.hash = section.id;
+      }
     }
     console.log('[AEC FOI JS] selectFile called for idx:', idx);
   };
@@ -289,30 +292,35 @@
   function handleHashNavigation() {
     const hash = window.location.hash.replace(/^#/, '');
     if (!isDetailPage) return;
-    if (!hash) {
-      // Default: select first file section and first tab
-      const firstSidebar = document.querySelector('.foi-sidebar-item');
-      if (firstSidebar) {
-        const idx = firstSidebar.getAttribute('data-file-idx');
-        if (idx !== null) window.selectFile(idx);
+    suppressHashUpdate = true;
+    try {
+      if (!hash) {
+        // Default: select first file section and first tab
+        const firstSidebar = document.querySelector('.foi-sidebar-item');
+        if (firstSidebar) {
+          const idx = firstSidebar.getAttribute('data-file-idx');
+          if (idx !== null) window.selectFile(idx);
+        }
+        const firstTabBtn = document.querySelector('.tabbed-view .foi-tab');
+        if (firstTabBtn) firstTabBtn.click();
+        console.log('[AEC FOI JS] handleHashNavigation: defaulted to first file and tab.');
+        return;
       }
-      const firstTabBtn = document.querySelector('.tabbed-view .foi-tab');
-      if (firstTabBtn) firstTabBtn.click();
-      console.log('[AEC FOI JS] handleHashNavigation: defaulted to first file and tab.');
-      return;
+      // Hash format: sectionId[:tabId]
+      const [sectionId, tabId] = hash.split(':');
+      if (sectionId) {
+        const idx = sectionId.replace('foi-file-', '');
+        window.selectFile(idx);
+      }
+      if (tabId) {
+        // Only click the tab if it is not already active
+        const tabBtn = document.querySelector(`.tabbed-view .foi-tab[onclick*="${tabId}"]`);
+        if (tabBtn && !tabBtn.classList.contains('active')) tabBtn.click();
+      }
+      console.log('[AEC FOI JS] handleHashNavigation: navigated to', hash);
+    } finally {
+      suppressHashUpdate = false;
     }
-    // Hash format: sectionId[:tabId]
-    const [sectionId, tabId] = hash.split(':');
-    if (sectionId) {
-      const idx = sectionId.replace('foi-file-', '');
-      window.selectFile(idx);
-    }
-    if (tabId) {
-      // Find the tab button for this tabId and click it
-      const tabBtn = document.querySelector(`.tabbed-view .foi-tab[onclick*="${tabId}"]`);
-      if (tabBtn) tabBtn.click();
-    }
-    console.log('[AEC FOI JS] handleHashNavigation: navigated to', hash);
   }
 
   // --- Initialization ---
