@@ -26,40 +26,96 @@ document.addEventListener('DOMContentLoaded', function () {
       console.error('Failed to load search index:', err);
     });
 
-  function generateSnippet(body, matchData, queryTerms) {
-    // Find first match position in body
-    let firstPos = null;
-    let firstTerm = null;
-    for (const term of queryTerms) {
+  function generateSnippet(body, matchData) {
+    let earliestMatchPos = null;
+    let allHighlightedRanges = [];
+    // Find all match positions in body
+    for (const term in matchData.metadata) {
       const meta = matchData.metadata[term];
-      if (meta && meta.body && meta.body.position && meta.body.position.length > 0) {
-        const [start, len] = meta.body.position[0];
-        if (firstPos === null || start < firstPos) {
-          firstPos = start;
-          firstTerm = term;
+      if (meta && meta.body && meta.body.position) {
+        for (const pos of meta.body.position) {
+          if (!earliestMatchPos || pos[0] < earliestMatchPos[0]) {
+            earliestMatchPos = pos;
+          }
+          allHighlightedRanges.push({ start: pos[0], end: pos[0] + pos[1] });
         }
       }
     }
-    if (firstPos === null) {
-      // fallback: show start of body
-      return body.slice(0, 140) + (body.length > 140 ? '...' : '');
+    let matchCount = allHighlightedRanges.length;
+    if (!earliestMatchPos) {
+      // fallback: try to find the first occurrence of any matched term in the body
+      const matchedTerms = Object.keys(matchData.metadata).filter(Boolean);
+      let firstIdx = -1;
+      let firstTerm = '';
+      for (const term of matchedTerms) {
+        const idx = body.toLowerCase().indexOf(term.toLowerCase());
+        if (idx !== -1 && (firstIdx === -1 || idx < firstIdx)) {
+          firstIdx = idx;
+          firstTerm = term;
+        }
+      }
+      let snippet = '';
+      if (firstIdx !== -1) {
+        const contextWindow = 70;
+        const snippetStart = Math.max(0, firstIdx - contextWindow);
+        const snippetEnd = Math.min(body.length, firstIdx + firstTerm.length + contextWindow);
+        snippet = body.substring(snippetStart, snippetEnd);
+        const prefix = snippetStart > 0 ? '...' : '';
+        const suffix = snippetEnd < body.length ? '...' : '';
+        snippet = prefix + highlightTermsInSnippet(snippet, matchedTerms) + suffix;
+      } else {
+        snippet = body.slice(0, 140) + (body.length > 140 ? '...' : '');
+        snippet = highlightTermsInSnippet(snippet, matchedTerms);
+      }
+      if (matchCount > 1) {
+        snippet += ` <span class="search-match-count">and ${matchCount - 1} other match${matchCount - 1 === 1 ? '' : 'es'}</span>`;
+      }
+      return snippet;
     }
-    const context = 70;
-    const startIdx = Math.max(0, firstPos - context);
-    const endIdx = Math.min(body.length, firstPos + context);
-    let snippet = body.slice(startIdx, endIdx);
-    // Highlight all query terms (case-insensitive)
-    queryTerms.forEach(term => {
+    const contextWindow = 70;
+    const snippetStart = Math.max(0, earliestMatchPos[0] - contextWindow);
+    const snippetEnd = Math.min(body.length, earliestMatchPos[0] + earliestMatchPos[1] + contextWindow);
+    const snippetText = body.substring(snippetStart, snippetEnd);
+    const prefix = snippetStart > 0 ? '...' : '';
+    const suffix = snippetEnd < body.length ? '...' : '';
+    // Only highlight matches that intersect with the snippet
+    const relevantHighlights = allHighlightedRanges
+      .filter(r => r.end > snippetStart && r.start < snippetEnd)
+      .map(r => ({ start: Math.max(0, r.start - snippetStart), end: Math.min(snippetText.length, r.end - snippetStart) }))
+      .sort((a, b) => a.start - b.start);
+    // Build snippet with <strong> tags
+    let finalSnippetHtml = '';
+    let lastIndex = 0;
+    for (const range of relevantHighlights) {
+      if (range.start > lastIndex) {
+        finalSnippetHtml += snippetText.substring(lastIndex, range.start);
+      }
+      finalSnippetHtml += '<strong>' + snippetText.substring(range.start, range.end) + '</strong>';
+      lastIndex = range.end;
+    }
+    finalSnippetHtml += snippetText.substring(lastIndex);
+    // Also highlight any other matched terms in the snippet (for partial/fallback matches)
+    const matchedTerms = Object.keys(matchData.metadata);
+    finalSnippetHtml = highlightTermsInSnippet(finalSnippetHtml, matchedTerms);
+    let matchCountHtml = '';
+    if (matchCount > 1) {
+      matchCountHtml = ` <span class="search-match-count">and ${matchCount - 1} other match${matchCount - 1 === 1 ? '' : 'es'}</span>`;
+    }
+    return prefix + finalSnippetHtml + suffix + matchCountHtml;
+  }
+
+  // Helper to highlight all matched terms in a snippet (case-insensitive, avoids double-highlighting)
+  function highlightTermsInSnippet(snippet, terms) {
+    terms.forEach(term => {
       if (!term) return;
-      const re = new RegExp(term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi');
-      snippet = snippet.replace(re, match => `<strong>${match}</strong>`);
+      // Only highlight if not already inside <strong>
+      const re = new RegExp('(?<!<strong>)(' + term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')(?![^<]*<\/strong>)', 'gi');
+      snippet = snippet.replace(re, '<strong>$1</strong>');
     });
-    if (startIdx > 0) snippet = '...' + snippet;
-    if (endIdx < body.length) snippet = snippet + '...';
     return snippet;
   }
 
-  function renderResults(results, queryTerms) {
+  function renderResults(results) {
     searchResults.innerHTML = '';
     if (results.length === 0) {
       searchResults.innerHTML = '<div class="no-results">No results found.</div>';
@@ -74,7 +130,7 @@ document.addEventListener('DOMContentLoaded', function () {
       li.className = 'search-result-item';
       li.innerHTML = `<a href="${doc.url}"><strong>${doc.title}</strong></a>`;
       // Add contextual snippet
-      const snippet = generateSnippet(doc.body, result.matchData, queryTerms);
+      const snippet = generateSnippet(doc.body, result.matchData);
       const snippetP = document.createElement('p');
       snippetP.className = 'search-snippet';
       snippetP.innerHTML = snippet;
@@ -91,16 +147,15 @@ document.addEventListener('DOMContentLoaded', function () {
         searchResults.innerHTML = '';
         return;
       }
-      // Partial matching: add wildcard to last word
-      const words = query.split(/\s+/);
-      if (words.length > 0 && words[words.length - 1]) {
-        words[words.length - 1] = words[words.length - 1] + '*';
-      }
-      const lunrQuery = words.join(' ');
-      const results = idx.search(lunrQuery);
-      // Pass original query terms (lowercased, no wildcards)
-      const queryTerms = e.target.value.trim().toLowerCase().split(/\s+/).filter(Boolean);
-      renderResults(results, queryTerms);
+      // For true partial matching, add trailing wildcard to every part
+      const queryParts = query.split(/\s+/).filter(Boolean).map(part => part.toLowerCase());
+      let results = idx.query(function (q) {
+        queryParts.forEach(function (part) {
+          if (!part) return;
+          q.term(part, { wildcard: lunr.Query.wildcard.TRAILING });
+        });
+      });
+      renderResults(results);
     });
   }
 });

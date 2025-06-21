@@ -250,3 +250,8 @@ ul.zip-contents li {
   font-weight: bold;
   color: #111;
 }
+.search-match-count {
+  color: #888;
+  font-size: 0.85em;
+  margin-left: 0.5em;
+}
