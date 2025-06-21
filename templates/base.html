@@ -10,11 +10,16 @@
     <header>
         <h1>AEC FOI Disclosure Log Archive</h1>
     </header>
+    <nav class="breadcrumbs">
+        {% block breadcrumbs %}
+        <a href="/index.html">Home</a>
+        {% endblock %}
+    </nav>
     <main>
         {% block content %}{% endblock %}
     </main>
     <footer>
-        <p>&copy; 2025 AEC FOI Archive</p>
+        <!-- todo: link to AEC foi log original page or something -->
     </footer>
     <script src="/static/lunr.min.js"></script>
     <script src="/static/search.js"></script>

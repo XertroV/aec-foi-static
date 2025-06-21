@@ -1,0 +1,34 @@
+name: Deploy AEC FOI Archive to GitHub Pages
+
+on:
+  push:
+    branches:
+      - master # Trigger on pushes to the master branch
+  schedule:
+    - cron: '0 9 * * 1-5' # Run every weekday (Monday to Friday) at 19:00 Canberra time (AEST/AEDT, which is UTC+10/UTC+11)
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10' # IMPORTANT: Set to your development Python version
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper and generate site
+        run: python scraper.py
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        if: github.ref == 'refs/heads/master' # Only deploy if pushing to the master branch
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs # The directory where your static site files are generated
+          publish_branch: gh-pages # The branch where GitHub Pages will serve from

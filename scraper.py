@@ -243,6 +243,26 @@ def generate_static_site(all_foi_data, output_base_dir):
     if Path('static').exists():
         shutil.copytree('static', output_base_dir / 'static', dirs_exist_ok=True)
 
+    # --- Lunr.js search index generation ---
+    search_index_data = []
+    for doc_data in renderable_foi_data:
+        searchable_text = doc_data['title'] + " "
+        if doc_data.get('extracted_text'):
+            searchable_text += doc_data['extracted_text']
+        if doc_data.get('main_file_type') == 'zip' and doc_data.get('content_files'):
+            for item in doc_data['content_files']:
+                if item.get('type') == 'pdf' and item.get('extracted_text'):
+                    searchable_text += " " + item['extracted_text']
+        search_entry = {
+            'id': doc_data['id'],
+            'title': doc_data['title'],
+            'body': searchable_text,
+            'url': doc_data['output_html_path']
+        }
+        search_index_data.append(search_entry)
+    with open(output_base_dir / "search_index.json", "w", encoding="utf-8") as f:
+        json.dump(search_index_data, f, ensure_ascii=False, indent=4)
+
 if __name__ == "__main__":
     metadata = get_foi_documents_metadata()
     print(f"Found {len(metadata)} FOI document entries.")
