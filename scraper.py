@@ -25,6 +25,31 @@ CONFIG = {
     "template_dir": "templates"
 }
 
+# --- LLM CONFIGURATION ---
+LLM_CONFIG = {
+    'GEMINI_API_KEY_ENV_VAR': 'GEMINI_API_KEY',
+    'DEFAULT_MODEL': 'gemini-2.5-flash',
+    'PROMPT_TEMPLATES': {
+        'overall': (
+            "Summarize the following documents. These documents are the released documents associated with an FOI request. "
+            "The summary should focus on: the main purpose of the FOI request, the documents from the FOI request, and the main content from the FOI request documents that relates to the FOI request.\n\nDocuments:\n\n{text}"
+        ),
+        'short_index': (
+            "Create a single paragraph summary of the following FOI request summary:\n\nSummary:\n\n{text}"
+        ),
+        'per_file': (
+            "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request. "
+            "FYI the overview of the FOI request is: {overall_short_summary}\n\nDocument Text:\n\n{text}"
+        ),
+    },
+    'MAX_TOKENS': {
+        'overall': None,
+        'short_index': None,
+        'per_file': None,
+    },
+    'FORCE_SUMMARY_REGENERATION': False,
+}
+
 # Note: AEC server can easily handle 100 MB/s of requests.
 # We won't sleep between requests since it's already single threaded.
 

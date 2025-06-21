@@ -4,3 +4,4 @@ pdfminer.six
 python-docx
 Jinja2
 livereload
+google-generativeai
