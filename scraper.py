@@ -27,17 +27,21 @@ def get_foi_documents_metadata(year=2025):
         return []
 
     soup = BeautifulSoup(response.text, "html.parser")
-    results = []
-
-    # Find all FOI request sections by h2 with id starting with 'lex'
-    for h2 in soup.find_all("h2"):  # h2s for each FOI request
+    grouped_requests = {}
+    for h2 in soup.find_all("h2"):
         if h2.has_attr("id") and h2["id"].startswith("lex"):
             title = h2.get_text(strip=True)
-            # title format "FOI Request LEX7512"
             lex_match = re.search(r"LEX(\d+)", title)
             lex = lex_match.group(1) if lex_match else ""
-
-            # The next sibling ul with class 'linkList' contains the document links
+            if not lex:
+                continue
+            if lex not in grouped_requests:
+                grouped_requests[lex] = {
+                    "id": f"LEX{lex}",
+                    "title": title,
+                    "date": str(year),
+                    "files": []
+                }
             ul = h2.find_next_sibling("ul", class_="linkList")
             if not ul:
                 continue
@@ -47,17 +51,16 @@ def get_foi_documents_metadata(year=2025):
                     doc_url = href if href.startswith("http") else f"https://www.aec.gov.au{href}"
                     link_text = a.get_text(strip=True)
                     server_filename = Path(href).name
-                    results.append({
-                        "title": title,
-                        "lex": lex,
-                        "date": f"{year}",  # Date extraction can be improved if date is present
-                        "url": doc_url,
+                    doc_type = Path(href).suffix.lstrip('.')
+                    grouped_requests[lex]["files"].append({
+                        "original_url": doc_url,
                         "link_text": link_text,
                         "server_filename": server_filename,
+                        "type": doc_type
                     })
                 else:
                     print(f"⚠️⚠️⚠️   Skipping unsupported file type: {href}")
-    return results
+    return list(grouped_requests.values())
 
 def download_document(url, filename, download_dir):
     download_dir = Path(download_dir)
@@ -193,6 +196,58 @@ def process_foi_entry(entry_metadata, downloaded_file_path, output_base_dir):
         "content_files": content_files
     }
 
+def process_downloaded_file_data(file_data, foi_request_id, downloaded_file_path, output_base_dir):
+    main_file_type = downloaded_file_path.suffix.lower()
+    extracted_text_path = ""
+    content_files = []
+    output_file_path = output_base_dir / 'downloaded_originals' / downloaded_file_path.name
+    (output_base_dir / 'downloaded_originals').mkdir(parents=True, exist_ok=True)
+    if main_file_type == '.pdf':
+        extracted_text = extract_text_from_pdf(downloaded_file_path)
+        extracted_text_path = save_text_to_file(extracted_text, foi_request_id, '', output_base_dir)
+        shutil.copy2(downloaded_file_path, output_file_path)
+    elif main_file_type == '.zip':
+        extract_dir = downloaded_file_path.parent / f"_extracted_{downloaded_file_path.stem}"
+        extract_dir.mkdir(parents=True, exist_ok=True)
+        extracted_paths = extract_zip_file(downloaded_file_path, extract_to_dir=extract_dir)
+        assets_output_subdir = output_base_dir / 'foi_assets' / foi_request_id
+        assets_output_subdir.mkdir(parents=True, exist_ok=True)
+        for extracted_file_path in extracted_paths:
+            if not extracted_file_path.is_file():
+                continue
+            inner_file_type = extracted_file_path.suffix.lower()
+            inner_extracted_text_path = ""
+            if inner_file_type == '.pdf':
+                inner_extracted_text = extract_text_from_pdf(extracted_file_path)
+                inner_extracted_text_path = save_text_to_file(inner_extracted_text, foi_request_id, f"_{Path(extracted_file_path.name).stem}", output_base_dir)
+            inner_download_path = str(Path('/foi_assets') / foi_request_id / extracted_file_path.name)
+            shutil.copy2(extracted_file_path, assets_output_subdir / extracted_file_path.name)
+            content_files.append({
+                'filename': extracted_file_path.name,
+                'type': inner_file_type.lstrip('.'),
+                'extracted_text_path': inner_extracted_text_path,
+                'download_path': inner_download_path
+            })
+        shutil.copy2(downloaded_file_path, output_file_path)
+    else:
+        shutil.copy2(downloaded_file_path, output_file_path)
+    return {
+        "original_url": file_data['original_url'],
+        "link_text": file_data['link_text'],
+        "server_filename": file_data['server_filename'],
+        "type": file_data['type'],
+        "extracted_text_path": extracted_text_path,
+        "output_file_path": str(Path('/downloaded_originals') / downloaded_file_path.name),
+        "content_files": content_files
+    }
+
+def extract_text_from_all_pdfs(pdf_paths):
+    all_text = ""
+    for pdf_path in pdf_paths:
+        text = extract_text_from_pdf(pdf_path)
+        all_text += text + "\n\n"  # Separate texts by double newline
+    return all_text.strip()
+
 def load_text_content(text_file_path, output_base_dir):
     try:
         abs_path = output_base_dir / text_file_path.lstrip('/')
@@ -211,31 +266,34 @@ def generate_static_site(all_foi_data, output_base_dir):
     index_template = env.get_template("index.html")
     detail_template = env.get_template("document_detail.html")
     renderable_foi_data = []
-    for doc_data in all_foi_data:
-        render_data = doc_data.copy()
-        # Load main document text
-        if render_data.get('extracted_text_path'):
-            render_data['extracted_text'] = load_text_content(render_data['extracted_text_path'], output_base_dir)
-        # Load inner file text for ZIPs
-        if render_data.get('content_files'):
-            for item in render_data['content_files']:
-                if item.get('extracted_text_path'):
-                    item['extracted_text'] = load_text_content(item['extracted_text_path'], output_base_dir)
+    for req_data in all_foi_data:
+        render_data = req_data.copy()
+        # For each file in the FOI request, load extracted text if present
+        for file in render_data.get('files', []):
+            if file.get('extracted_text_path'):
+                file['extracted_text'] = load_text_content(file['extracted_text_path'], output_base_dir)
+            # For ZIPs, load inner file text
+            if file.get('content_files'):
+                for item in file['content_files']:
+                    if item.get('extracted_text_path'):
+                        item['extracted_text'] = load_text_content(item['extracted_text_path'], output_base_dir)
         renderable_foi_data.append(render_data)
     index_page_documents = []
-    for doc_data in renderable_foi_data:
-        html_filename = f"{doc_data['id']}.html"
+    for req_data in renderable_foi_data:
+        # Determine main_file_type for index: use the first file's type, or ''
+        main_file_type = req_data['files'][0]['type'] if req_data['files'] else ''
+        html_filename = f"{req_data['id']}.html"
         output_html_path = output_base_dir / "documents" / html_filename
-        doc_data['output_html_path'] = f"/documents/{html_filename}"
+        req_data['output_html_path'] = f"/documents/{html_filename}"
         with open(output_html_path, 'w', encoding='utf-8') as f:
-            f.write(detail_template.render(document=doc_data))
+            f.write(detail_template.render(request=req_data))
         index_page_documents.append({
-            'id': doc_data['id'],
-            'title': doc_data['title'],
-            'date': doc_data['date'],
+            'id': req_data['id'],
+            'title': req_data['title'],
+            'date': req_data['date'],
             'output_html_path': f"/documents/{html_filename}",
-            'main_file_type': doc_data['main_file_type'],
-            'original_url': doc_data.get('original_url', '')
+            'main_file_type': main_file_type,
+            'original_url': req_data['files'][0]['original_url'] if req_data['files'] else ''
         })
     with open(output_base_dir / "index.html", 'w', encoding='utf-8') as f:
         f.write(index_template.render(documents=index_page_documents))
@@ -245,52 +303,73 @@ def generate_static_site(all_foi_data, output_base_dir):
 
     # --- Lunr.js search index generation ---
     search_index_data = []
-    for doc_data in renderable_foi_data:
-        searchable_text = doc_data['title'] + " "
-        if doc_data.get('extracted_text'):
-            searchable_text += doc_data['extracted_text']
-        if doc_data.get('main_file_type') == 'zip' and doc_data.get('content_files'):
-            for item in doc_data['content_files']:
-                if item.get('type') == 'pdf' and item.get('extracted_text'):
-                    searchable_text += " " + item['extracted_text']
+    for req_data in renderable_foi_data:
+        searchable_text = req_data['title'] + " "
+        for file in req_data.get('files', []):
+            if file.get('extracted_text'):
+                searchable_text += file['extracted_text'] + " "
+            if file.get('content_files'):
+                for item in file['content_files']:
+                    if item.get('type') == 'pdf' and item.get('extracted_text'):
+                        searchable_text += item['extracted_text'] + " "
         search_entry = {
-            'id': doc_data['id'],
-            'title': doc_data['title'],
-            'body': searchable_text,
-            'url': doc_data['output_html_path']
+            'id': req_data['id'],
+            'title': req_data['title'],
+            'body': searchable_text.strip(),
+            'url': req_data['output_html_path']
         }
         search_index_data.append(search_entry)
     with open(output_base_dir / "search_index.json", "w", encoding="utf-8") as f:
         json.dump(search_index_data, f, ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
-    metadata = get_foi_documents_metadata()
-    print(f"Found {len(metadata)} FOI document entries.")
+    all_foi_requests = get_foi_documents_metadata()
+    print(f"Found {len(all_foi_requests)} FOI requests.")
     download_dir = Path("downloads")
     download_dir.mkdir(exist_ok=True)
     output_base_dir = Path("docs")
     (output_base_dir / "downloaded_originals").mkdir(parents=True, exist_ok=True)
     (output_base_dir / "foi_assets").mkdir(parents=True, exist_ok=True)
     (output_base_dir / "extracted_texts").mkdir(parents=True, exist_ok=True)
-    all_foi_data = []
-    MAX_WORKERS = 8  # Adjust as needed for your system/network
+    MAX_WORKERS = 8
+    # Flatten all files to download: (foi_request_id, file_entry)
+    download_tasks = []
+    for foi_request in all_foi_requests:
+        for file_entry in foi_request['files']:
+            download_tasks.append((foi_request['id'], file_entry))
+    # Download all files in parallel
+    download_results = {}
     with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        future_to_entry = {executor.submit(download_document, entry["url"], entry["server_filename"], download_dir): entry for entry in metadata}
-        for future in concurrent.futures.as_completed(future_to_entry):
-            entry = future_to_entry[future]
+        future_to_task = {executor.submit(download_document, file_entry['original_url'], file_entry['server_filename'], download_dir): (foi_request_id, file_entry) for foi_request_id, file_entry in download_tasks}
+        for future in concurrent.futures.as_completed(future_to_task):
+            foi_request_id, file_entry = future_to_task[future]
             try:
                 result = future.result()
-                if result:
-                    local_path = download_dir / entry["server_filename"]
-                    processed_data = process_foi_entry(entry, local_path, output_base_dir)
-                    all_foi_data.append(processed_data)
-                else:
-                    print(f"Download failed for {entry['server_filename']}")
+                download_results[(foi_request_id, file_entry['server_filename'])] = result
             except Exception as exc:
-                print(f"Exception during download for {entry['server_filename']}: {exc}")
+                print(f"Exception during download for {file_entry['server_filename']}: {exc}")
+                download_results[(foi_request_id, file_entry['server_filename'])] = False
+    # Process each FOI request and its files
+    final_processed_foi_data = []
+    for foi_request in all_foi_requests:
+        processed_request_data = {
+            "id": foi_request['id'],
+            "title": foi_request['title'],
+            "date": foi_request['date'],
+            "files": []
+        }
+        for file_entry in foi_request['files']:
+            key = (foi_request['id'], file_entry['server_filename'])
+            if download_results.get(key):
+                local_path = download_dir / file_entry['server_filename']
+                processed_file_data = process_downloaded_file_data(file_entry, foi_request['id'], local_path, output_base_dir)
+                processed_request_data['files'].append(processed_file_data)
+            else:
+                print(f"Download failed for {file_entry['server_filename']} in {foi_request['id']}")
+        final_processed_foi_data.append(processed_request_data)
     Path("data").mkdir(exist_ok=True)
     with open(Path("data") / "foi_data.json", "w", encoding="utf-8") as f:
-        json.dump(all_foi_data, f, ensure_ascii=False, indent=2)
+        json.dump(final_processed_foi_data, f, ensure_ascii=False, indent=2)
     # Generate static site
     with open(Path("data") / "foi_data.json", "r", encoding="utf-8") as f:
         all_foi_data = json.load(f)

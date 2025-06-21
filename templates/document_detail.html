@@ -1,35 +1,38 @@
 {% extends "base.html" %}
-{% block title %}FOI: {{ document.title }}{% endblock %}
+{% block title %}FOI: {{ request.title }}{% endblock %}
 {% block breadcrumbs %}
-  <a href="/index.html">Home</a> &raquo; <span>{{ document.title }}</span>
+  <a href="/index.html">Home</a> &raquo; <span>{{ request.title }}</span>
 {% endblock %}
 {% block content %}
-  <h1>{{ document.title }}</h1>
-  <p><strong>Date:</strong> {{ document.date }}</p>
-  <p>
-    <a href="{{ document.output_file_path }}" download>Download cached file</a>
-    &nbsp;|&nbsp;
-    <a href="{{ document.original_url }}" target="_blank" rel="noopener">Download from AEC</a>
-  </p>
-
-  {% if document.main_file_type == 'pdf' %}
-    <h2>Extracted Text</h2>
-    <pre style="white-space: pre-wrap;">{{ document.extracted_text }}</pre>
-  {% elif document.main_file_type == 'zip' %}
-    <h2>Contents of ZIP Archive</h2>
-    <ul>
-      {% for item in document.content_files %}
-        <li>
-          <strong>{{ item.filename }}</strong> ({{ item.type }})
-          - <a href="{{ item.download_path }}" download>Download</a>
-          {% if item.type == 'pdf' and item.extracted_text %}
-            <h3>Text from {{ item.filename }}</h3>
-            <pre style="white-space: pre-wrap;">{{ item.extracted_text }}</pre>
-          {% endif %}
-        </li>
-      {% endfor %}
-    </ul>
-  {% else %}
-    <p>This file type is not directly viewable. <a href="{{ document.output_file_path }}" download>Download cached file</a> &nbsp;|&nbsp; <a href="{{ document.original_url }}" target="_blank" rel="noopener">Download from AEC</a>.</p>
-  {% endif %}
+  <h1>{{ request.title }}</h1>
+  <p><strong>Date:</strong> {{ request.date }}</p>
+  <h2>Files for this FOI request</h2>
+  <ul class="foi-file-list">
+    {% for file in request.files %}
+      <li style="margin-bottom:1.5em;">
+        <strong>{{ file.link_text }}</strong> ({{ file.type }})<br>
+        <a href="{{ file.output_file_path }}" download>Download cached file</a>
+        &nbsp;|&nbsp;
+        <a href="{{ file.original_url }}" target="_blank" rel="noopener">Download from AEC</a>
+        {% if file.type == 'pdf' and file.extracted_text %}
+          <h3>Extracted Text</h3>
+          <pre style="white-space: pre-wrap;">{{ file.extracted_text }}</pre>
+        {% elif file.type == 'zip' and file.content_files %}
+          <h3>Contents of ZIP Archive</h3>
+          <ul class="zip-contents">
+            {% for item in file.content_files %}
+              <li>
+                <strong>{{ item.filename }}</strong> ({{ item.type }})
+                - <a href="{{ item.download_path }}" download>Download</a>
+                {% if item.type == 'pdf' and item.extracted_text %}
+                  <h4>Text from {{ item.filename }}</h4>
+                  <pre style="white-space: pre-wrap;">{{ item.extracted_text }}</pre>
+                {% endif %}
+              </li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
 {% endblock %}
