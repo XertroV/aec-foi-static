@@ -9,19 +9,19 @@
 <div class="foi-detail-layout">
   <aside class="foi-sidebar">
     <h3>Files</h3>
-    <ul class="foi-sidebar-list">
+    <ul class="foi-sidebar-list" role="tablist">
       {% for file in request.files %}
         {% if file.type == 'zip' and file.content_files %}
           {% set zip_idx = loop.index0 %}
           <li class="foi-sidebar-item" data-file-idx="zip-{{ zip_idx }}">
-            <button type="button" class="foi-sidebar-btn" onclick="selectFile('zip-{{ zip_idx }}')">
+            <button type="button" class="foi-sidebar-btn" id="tab-zip-{{ zip_idx }}" role="tab" aria-selected="false" aria-controls="foi-file-zip-{{ zip_idx }}" onclick="selectFile('zip-{{ zip_idx }}')">
               <span class="file-label">{{ file.link_text }}</span>
               <span class="file-type">(zip)</span>
             </button>
             <ul class="foi-zip-inner-list">
               {% for inner in file.content_files %}
                 <li class="foi-sidebar-item" data-file-idx="zip-{{ zip_idx }}-{{ loop.index0 }}">
-                  <button type="button" class="foi-sidebar-btn foi-inner-btn" onclick="selectFile('zip-{{ zip_idx }}-{{ loop.index0 }}')">
+                  <button type="button" class="foi-sidebar-btn foi-inner-btn" id="tab-zip-{{ zip_idx }}-{{ loop.index0 }}" role="tab" aria-selected="false" aria-controls="foi-file-zip-{{ zip_idx }}-{{ loop.index0 }}" onclick="selectFile('zip-{{ zip_idx }}-{{ loop.index0 }}')">
                     <span class="file-label">{{ inner.filename }}</span>
                     <span class="file-type">({{ inner.type }})</span>
                   </button>
@@ -31,7 +31,7 @@
           </li>
         {% else %}
           <li class="foi-sidebar-item" data-file-idx="{{ loop.index0 }}">
-            <button type="button" class="foi-sidebar-btn" onclick="selectFile('{{ loop.index0 }}')">
+            <button type="button" class="foi-sidebar-btn" id="tab-{{ loop.index0 }}" role="tab" aria-selected="false" aria-controls="foi-file-{{ loop.index0 }}" onclick="selectFile('{{ loop.index0 }}')">
               <span class="file-label">{{ file.link_text }}</span>
               <span class="file-type">({{ file.type }})</span>
             </button>
@@ -45,7 +45,7 @@
     {% for file in request.files %}
       {% if file.type == 'zip' and file.content_files %}
         {% set zip_idx = loop.index0 %}
-        <section class="foi-file-section" id="foi-file-zip-{{ zip_idx }}" style="display:none;">
+        <section class="foi-file-section" id="foi-file-zip-{{ zip_idx }}" style="display:none;" role="tabpanel" aria-labelledby="tab-zip-{{ zip_idx }}">
           <h2>{{ file.link_text }} <span style="font-size:0.8em; color:#888;">(zip)</span></h2>
           <a href="{{ file.output_file_path }}" download>Download cached ZIP</a>
           &nbsp;|&nbsp;
@@ -61,7 +61,7 @@
           </ul>
         </section>
         {% for inner in file.content_files %}
-          <section class="foi-file-section" id="foi-file-zip-{{ zip_idx }}-{{ loop.index0 }}" style="display:none;">
+          <section class="foi-file-section" id="foi-file-zip-{{ zip_idx }}-{{ loop.index0 }}" style="display:none;" role="tabpanel" aria-labelledby="tab-zip-{{ zip_idx }}-{{ loop.index0 }}">
             <h2>{{ inner.filename }} <span style="font-size:0.8em; color:#888;">({{ inner.type }})</span></h2>
             <a href="{{ inner.download_path }}" download>Download file</a>
             {% if inner.type == 'pdf' %}
@@ -90,7 +90,7 @@
           </section>
         {% endfor %}
       {% else %}
-        <section class="foi-file-section" id="foi-file-{{ loop.index0 }}" style="display:none;">
+        <section class="foi-file-section" id="foi-file-{{ loop.index0 }}" style="display:none;" role="tabpanel" aria-labelledby="tab-{{ loop.index0 }}">
           <h2>{{ file.link_text }} <span style="font-size:0.8em; color:#888;">({{ file.type }})</span></h2>
           <a href="{{ file.output_file_path }}" download>Download cached file</a>
           &nbsp;|&nbsp;
