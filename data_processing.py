@@ -14,6 +14,11 @@ import logging
 from PIL import Image
 import pytesseract
 from pdf2image import convert_from_path
+from pdfminer.pdfpage import PDFPage
+from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
+from pdfminer.converter import TextConverter
+from pdfminer.layout import LAParams
+import io
 
 # Note: AEC server can easily handle 100 MB/s of requests.
 # We won't sleep between requests since it's already single threaded.
@@ -131,76 +136,79 @@ def download_document(url, filename, download_dir, metadata, metadata_path):
         print(f"Failed to download {url}: {e}")
         return False
 
-def extract_text_from_pdf(pdf_path, min_native_chars=50):
+def extract_text_from_pdf(pdf_path, min_native_chars=10, min_good_native_chars=50):
     """
-    Extracts all readable text from a PDF file using pdfminer.six, with OCR fallback for image-based PDFs.
-    - Native extraction first.
-    - If native text is sparse (<min_native_chars) and CONFIG["USE_OCR_FOR_PDFS"] is True, do OCR with orientation correction.
-    - Returns the best available text (OCR if much better, else native, or combined if appropriate).
+    Extract text from a PDF page by page. For each page, try native extraction first; if insufficient, do OCR (with orientation correction).
+    Returns the concatenated text for the whole document.
     """
     logger = logging.getLogger(__name__)
-    native_text = ""
+    all_document_text = []
     try:
-        native_text = extract_text(pdf_path)
-        logger.info(f"[PDF] Native text extraction for {pdf_path}: {len(native_text.strip())} chars")
-    except (PDFSyntaxError, Exception) as e:
-        logger.warning(f"Error extracting text from {pdf_path} with pdfminer: {e}")
-        native_text = ""
-
-    ocr_text = ""
-    ocr_triggered = False
-    ocr_text_parts = []
-    if CONFIG.get("USE_OCR_FOR_PDFS", False):
-        if not native_text or len(native_text.strip()) < min_native_chars:
-            logger.info(f"[PDF] Native extraction insufficient for {pdf_path} (chars: {len(native_text.strip())}), attempting OCR...")
-            ocr_triggered = True
-            try:
-                images = convert_from_path(pdf_path, dpi=300)
-                for i, page_image in enumerate(images):
+        # Convert all pages to images for OCR (once)
+        try:
+            images = convert_from_path(pdf_path, dpi=300)
+        except Exception as e:
+            logger.error(f"[PDF] Could not convert PDF to images for OCR: {e}")
+            images = []
+        # Open PDF for pdfminer page-by-page extraction
+        with open(pdf_path, 'rb') as fp:
+            for page_num, (page, page_image) in enumerate(zip(PDFPage.get_pages(fp), images), 1):
+                page_native_text = ""
+                page_ocr_text = ""
+                # Native extraction for this page
+                try:
+                    rsrcmgr = PDFResourceManager()
+                    retstr = io.StringIO()
+                    laparams = LAParams()
+                    device = TextConverter(rsrcmgr, retstr, laparams=laparams)
+                    interpreter = PDFPageInterpreter(rsrcmgr, device)
+                    interpreter.process_page(page)
+                    page_native_text = retstr.getvalue()
+                    device.close()
+                    retstr.close()
+                    logger.info(f"[PDF] Page {page_num}: native extraction {len(page_native_text.strip())} chars")
+                except Exception as e:
+                    logger.warning(f"[PDF] Page {page_num}: native extraction failed: {e}")
+                    page_native_text = ""
+                # Decide if OCR is needed
+                use_ocr = False
+                if CONFIG.get("USE_OCR_FOR_PDFS", False):
+                    if not page_native_text or len(page_native_text.strip()) < min_native_chars:
+                        use_ocr = True
+                if use_ocr and page_image is not None:
                     try:
-                        # Detect orientation using pytesseract.image_to_osd
+                        # Detect orientation
                         osd = pytesseract.image_to_osd(page_image)
                         rotate_angle = 0
                         match = re.search(r"Rotate: (\d+)", osd)
                         if match:
                             rotate_angle = int(match.group(1))
                         if rotate_angle != 0:
-                            logger.info(f"[PDF][OCR] Rotating page {i+1} by {rotate_angle} degrees for {pdf_path}")
+                            logger.info(f"[PDF][OCR] Rotating page {page_num} by {rotate_angle} degrees for {pdf_path}")
                             page_image = page_image.rotate(360 - rotate_angle, expand=True)
-                        page_ocr_text = pytesseract.image_to_string(page_image)
-                        if page_ocr_text.strip():
-                            ocr_text_parts.append(f"\n\n--- Page {i+1} ---\n\n{page_ocr_text.strip()}")
-                    except Exception as page_e:
-                        logger.error(f"[PDF][OCR] Error processing page {i+1} of {pdf_path}: {page_e}")
-                ocr_text = "\n".join(ocr_text_parts)
-                logger.info(f"[PDF] OCR text extraction for {pdf_path}: {len(ocr_text.strip())} chars")
-            except Exception as ocr_e:
-                logger.error(f"OCR extraction failed for {pdf_path}: {ocr_e}")
-
-    # Decide which text to use
-    def text_quality(text):
-        # Heuristic: length, number of lines, and non-whitespace ratio
-        if not text:
-            return 0
-        lines = text.splitlines()
-        non_empty_lines = [l for l in lines if l.strip()]
-        return len(text.strip()) + 10 * len(non_empty_lines)
-
-    native_quality = text_quality(native_text)
-    ocr_quality = text_quality(ocr_text)
-
-    if ocr_triggered and ocr_quality > native_quality * 1.5:
-        logger.info(f"[PDF] Using OCR text for {pdf_path} (better quality: {ocr_quality} vs {native_quality})")
-        return ocr_text
-    elif native_quality > 0:
-        logger.info(f"[PDF] Using native text for {pdf_path} (quality: {native_quality})")
-        return native_text
-    elif ocr_quality > 0:
-        logger.info(f"[PDF] Using OCR text for {pdf_path} (native empty)")
-        return ocr_text
-    else:
-        logger.warning(f"[PDF] No text extracted from {pdf_path} (native and OCR both empty)")
-        return ""
+                        page_ocr_text = pytesseract.image_to_string(page_image, config='--psm 3')
+                        logger.info(f"[PDF][OCR] Page {page_num}: OCR extraction {len(page_ocr_text.strip())} chars")
+                    except Exception as ocr_e:
+                        logger.error(f"[PDF][OCR] Page {page_num}: OCR failed: {ocr_e}")
+                        page_ocr_text = ""
+                # Select best text for this page
+                if page_native_text and len(page_native_text.strip()) > min_good_native_chars:
+                    chosen_text = page_native_text
+                elif page_ocr_text and len(page_ocr_text.strip()) > min_good_native_chars:
+                    chosen_text = page_ocr_text
+                elif page_native_text and len(page_native_text.strip()) > 0:
+                    chosen_text = page_native_text
+                elif page_ocr_text:
+                    chosen_text = page_ocr_text
+                else:
+                    chosen_text = ""
+                all_document_text.append(f"\n\n--- Page {page_num} ---\n\n{chosen_text.strip()}")
+        # If images and pages are mismatched, log a warning
+        if len(images) != page_num:
+            logger.warning(f"[PDF] Number of images ({len(images)}) and pages ({page_num}) do not match for {pdf_path}")
+    except Exception as e:
+        logger.error(f"[PDF] Error extracting text from {pdf_path}: {e}")
+    return "\n".join(all_document_text)
 
 def extract_zip_file(zip_path, extract_to_dir=None):
     """
