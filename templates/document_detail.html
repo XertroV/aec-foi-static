@@ -123,45 +123,30 @@
           <a href="{{ file.output_file_path }}" download>Download cached file</a>
           &nbsp;|&nbsp;
           <a href="{{ file.original_url }}" target="_blank" rel="noopener">Download from AEC</a>
-          {% set has_text = file.extracted_text %}
-          {% set has_ai = file.ai_summary and file.ai_summary.text %}
-          {% set show_pdf = file.type == 'pdf' %}
-          {% set text_active = not show_pdf %}
-          {% set ai_active = not has_text and not show_pdf %}
-          {% if has_text or has_ai or show_pdf %}
+          {% if file.type == 'pdf' %}
             <div class="tabbed-view">
               <div class="foi-tab-bar">
-                {% if show_pdf %}
-                  <button type="button" class="foi-tab active" onclick="showTab(this, 'pdf-{{ loop.index0 }}-orig')">Original PDF</button>
-                {% endif %}
-                {% if has_text %}
-                  <button type="button" class="foi-tab{% if text_active %} active{% endif %}" onclick="showTab(this, 'pdf-{{ loop.index0 }}-text')">Extracted Text</button>
-                {% endif %}
-                {% if has_ai %}
-                  <button type="button" class="foi-tab{% if ai_active %} active{% endif %}" onclick="showTab(this, 'pdf-{{ loop.index0 }}-ai')">AI Overview</button>
+                <button type="button" class="foi-tab active" onclick="showTab(this, 'pdf-{{ loop.index0 }}-orig')">Original PDF</button>
+                <button type="button" class="foi-tab" onclick="showTab(this, 'pdf-{{ loop.index0 }}-text')">Extracted Text</button>
+                {% if file.ai_summary and file.ai_summary.text %}
+                  <button type="button" class="foi-tab" onclick="showTab(this, 'pdf-{{ loop.index0 }}-ai')">AI Overview</button>
                 {% endif %}
               </div>
-              {% if show_pdf %}
-                <div class="tab-content" id="pdf-{{ loop.index0 }}-orig" style="display:block;">
-                  <iframe src="{{ file.output_file_path }}" width="100%" height="600px" style="border: none;"></iframe>
+              <div class="tab-content" id="pdf-{{ loop.index0 }}-orig" style="display:block;">
+                <iframe src="{{ file.output_file_path }}" width="100%" height="600px" style="border: none;"></iframe>
+              </div>
+              <div class="tab-content" id="pdf-{{ loop.index0 }}-text" style="display:none;">
+                <pre style="white-space: pre-wrap; background: #f8f8f8; padding: 1em; border-radius: 4px;">{{ file.extracted_text }}</pre>
+              </div>
+              {% if file.ai_summary and file.ai_summary.text %}
+              <div class="tab-content" id="pdf-{{ loop.index0 }}-ai" style="display:none;">
+                <div class="ai-summary-markdown-content">
+                  {{ file.ai_summary.text | markdown }}
                 </div>
-              {% endif %}
-              {% if has_text %}
-                {% set text_display = 'block' if text_active else 'none' %}
-                <div class="tab-content" id="pdf-{{ loop.index0 }}-text" style="display:{{ text_display }};">
-                  <pre style="white-space: pre-wrap; background: #f8f8f8; padding: 1em; border-radius: 4px;">{{ file.extracted_text }}</pre>
-                </div>
-              {% endif %}
-              {% if has_ai %}
-                {% set ai_display = 'block' if ai_active else 'none' %}
-                <div class="tab-content" id="pdf-{{ loop.index0 }}-ai" style="display:{{ ai_display }};">
-                  <div class="ai-summary-markdown-content">
-                    {{ file.ai_summary.text | markdown }}
-                  </div>
-                  {% set summary_model = file.ai_summary.model %}
-                  {% set summary_date = file.ai_summary.generated_at %}
-                  {% include 'ai_summary_label.html' %}
-                </div>
+                {% set summary_model = file.ai_summary.model %}
+                {% set summary_date = file.ai_summary.generated_at %}
+                {% include 'ai_summary_label.html' %}
+              </div>
               {% endif %}
             </div>
           {% elif file.type in ['jpg', 'jpeg', 'png', 'gif', 'webp'] %}
