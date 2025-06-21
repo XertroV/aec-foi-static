@@ -6,6 +6,7 @@ from pdfminer.pdfparser import PDFSyntaxError
 import zipfile
 from pathlib import Path
 import json
+
 import markdown as md
 import hashlib
 from config import *
@@ -130,11 +131,14 @@ def download_document(url, filename, download_dir, metadata, metadata_path):
         print(f"Failed to download {url}: {e}")
         return False
 
-def extract_text_from_pdf(pdf_path):
+def extract_text_from_pdf(pdf_path, min_native_chars=50):
     """
     Extracts all readable text from a PDF file using pdfminer.six, with OCR fallback for image-based PDFs.
-    Returns the extracted text as a string, or an empty string on failure.
+    - Native extraction first.
+    - If native text is sparse (<min_native_chars) and CONFIG["USE_OCR_FOR_PDFS"] is True, do OCR with orientation correction.
+    - Returns the best available text (OCR if much better, else native, or combined if appropriate).
     """
+    logger = logging.getLogger(__name__)
     native_text = ""
     try:
         native_text = extract_text(pdf_path)
@@ -143,32 +147,60 @@ def extract_text_from_pdf(pdf_path):
         logger.warning(f"Error extracting text from {pdf_path} with pdfminer: {e}")
         native_text = ""
 
-    # OCR fallback if native text is insufficient and config allows
     ocr_text = ""
     ocr_triggered = False
-    try:
-        if CONFIG.get("USE_OCR_FOR_PDFS", False):
-            if not native_text or len(native_text.strip()) < 50:
-                logger.info(f"[PDF] Native extraction insufficient for {pdf_path}, attempting OCR...")
-                ocr_triggered = True
-                ocr_text_parts = []
-                try:
-                    images = convert_from_path(pdf_path, dpi=300)
-                    for i, page_image in enumerate(images):
+    ocr_text_parts = []
+    if CONFIG.get("USE_OCR_FOR_PDFS", False):
+        if not native_text or len(native_text.strip()) < min_native_chars:
+            logger.info(f"[PDF] Native extraction insufficient for {pdf_path} (chars: {len(native_text.strip())}), attempting OCR...")
+            ocr_triggered = True
+            try:
+                images = convert_from_path(pdf_path, dpi=300)
+                for i, page_image in enumerate(images):
+                    try:
+                        # Detect orientation using pytesseract.image_to_osd
+                        osd = pytesseract.image_to_osd(page_image)
+                        rotate_angle = 0
+                        match = re.search(r"Rotate: (\d+)", osd)
+                        if match:
+                            rotate_angle = int(match.group(1))
+                        if rotate_angle != 0:
+                            logger.info(f"[PDF][OCR] Rotating page {i+1} by {rotate_angle} degrees for {pdf_path}")
+                            page_image = page_image.rotate(360 - rotate_angle, expand=True)
                         page_ocr_text = pytesseract.image_to_string(page_image)
                         if page_ocr_text.strip():
                             ocr_text_parts.append(f"\n\n--- Page {i+1} ---\n\n{page_ocr_text.strip()}")
-                    ocr_text = "\n".join(ocr_text_parts)
-                    logger.info(f"[PDF] OCR text extraction for {pdf_path}: {len(ocr_text.strip())} chars")
-                except Exception as ocr_e:
-                    logger.error(f"OCR extraction failed for {pdf_path}: {ocr_e}")
-    except Exception as e:
-        logger.error(f"Unexpected error during OCR fallback for {pdf_path}: {e}")
+                    except Exception as page_e:
+                        logger.error(f"[PDF][OCR] Error processing page {i+1} of {pdf_path}: {page_e}")
+                ocr_text = "\n".join(ocr_text_parts)
+                logger.info(f"[PDF] OCR text extraction for {pdf_path}: {len(ocr_text.strip())} chars")
+            except Exception as ocr_e:
+                logger.error(f"OCR extraction failed for {pdf_path}: {ocr_e}")
 
     # Decide which text to use
-    if ocr_triggered and ocr_text and (not native_text or len(ocr_text.strip()) > len(native_text.strip()) * 1.5):
+    def text_quality(text):
+        # Heuristic: length, number of lines, and non-whitespace ratio
+        if not text:
+            return 0
+        lines = text.splitlines()
+        non_empty_lines = [l for l in lines if l.strip()]
+        return len(text.strip()) + 10 * len(non_empty_lines)
+
+    native_quality = text_quality(native_text)
+    ocr_quality = text_quality(ocr_text)
+
+    if ocr_triggered and ocr_quality > native_quality * 1.5:
+        logger.info(f"[PDF] Using OCR text for {pdf_path} (better quality: {ocr_quality} vs {native_quality})")
         return ocr_text
-    return native_text if native_text else ocr_text
+    elif native_quality > 0:
+        logger.info(f"[PDF] Using native text for {pdf_path} (quality: {native_quality})")
+        return native_text
+    elif ocr_quality > 0:
+        logger.info(f"[PDF] Using OCR text for {pdf_path} (native empty)")
+        return ocr_text
+    else:
+        logger.warning(f"[PDF] No text extracted from {pdf_path} (native and OCR both empty)")
+        return ""
 
 def extract_zip_file(zip_path, extract_to_dir=None):
     """
