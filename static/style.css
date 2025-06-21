@@ -1,0 +1,146 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Arial', system-ui, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f7f9fa;
+  color: #222;
+}
+
+header {
+  background-color: #003366;
+  color: #fff;
+  padding: 2em 0 1.5em 0;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+header h1 {
+  color: #fff;
+  margin: 0;
+  font-size: 2.4em;
+  letter-spacing: 1px;
+  padding: 0.2em 0.5em;
+}
+
+main {
+  padding: 2em 0 2em 0;
+}
+
+footer {
+  background-color: #003366;
+  color: #fff;
+  padding: 1.2em 0;
+  text-align: center;
+  margin-top: 2em;
+  font-size: 1em;
+}
+
+h1 {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  font-size: 2.2em;
+  color: #003366;
+}
+
+h2 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  font-size: 1.5em;
+  color: #00539b;
+}
+
+h3 {
+  margin-top: 1em;
+  margin-bottom: 0.3em;
+  font-size: 1.1em;
+  color: #0077cc;
+}
+
+.container {
+  max-width: 960px;
+  margin: 20px auto;
+  padding: 2em 2em 2em 2em;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+}
+
+a {
+  color: #00539b;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+a:hover {
+  color: #0077cc;
+  text-decoration: underline;
+}
+
+ul.document-list {
+  list-style: none;
+  padding: 0;
+}
+li.document-item {
+  margin-bottom: 1.5em;
+  padding: 1.2em;
+  background: #f0f4f8;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+}
+
+.search-container {
+  margin-bottom: 2em;
+}
+#search-input {
+  padding: 0.7em;
+  border: 1px solid #bbb;
+  width: 100%;
+  border-radius: 4px;
+  font-size: 1em;
+  margin-bottom: 0.5em;
+}
+
+pre, .extracted-text {
+  white-space: pre-wrap;
+  background-color: #f4f4f4;
+  padding: 1.2em;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  overflow-x: auto;
+  font-size: 1em;
+  margin-bottom: 1.5em;
+}
+
+ul.zip-contents {
+  list-style: none;
+  padding: 0;
+}
+ul.zip-contents li {
+  margin-bottom: 0.7em;
+  padding: 0.7em;
+  background: #f8fafc;
+  border-radius: 4px;
+  border: 1px solid #e0e0e0;
+}
+
+@media (max-width: 600px) {
+  .container {
+    max-width: 98vw;
+    padding: 0.7em;
+  }
+  h1 {
+    font-size: 1.4em;
+  }
+  h2 {
+    font-size: 1.1em;
+  }
+  h3 {
+    font-size: 1em;
+  }
+  header h1 {
+    font-size: 1.3em;
+  }
+}

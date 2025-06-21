@@ -12,6 +12,7 @@ import json
 import shutil
 import tempfile
 from jinja2 import Environment, FileSystemLoader
+import concurrent.futures
 
 # Note: AEC server can easily handle 100 MB/s of requests.
 # We won't sleep between requests since it's already single threaded.
@@ -252,14 +253,21 @@ if __name__ == "__main__":
     (output_base_dir / "foi_assets").mkdir(parents=True, exist_ok=True)
     (output_base_dir / "extracted_texts").mkdir(parents=True, exist_ok=True)
     all_foi_data = []
-    for entry in metadata:
-        filename = entry["server_filename"]
-        success = download_document(entry["url"], filename, download_dir)
-        if not success:
-            continue
-        local_path = download_dir / filename
-        processed_data = process_foi_entry(entry, local_path, output_base_dir)
-        all_foi_data.append(processed_data)
+    MAX_WORKERS = 8  # Adjust as needed for your system/network
+    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        future_to_entry = {executor.submit(download_document, entry["url"], entry["server_filename"], download_dir): entry for entry in metadata}
+        for future in concurrent.futures.as_completed(future_to_entry):
+            entry = future_to_entry[future]
+            try:
+                result = future.result()
+                if result:
+                    local_path = download_dir / entry["server_filename"]
+                    processed_data = process_foi_entry(entry, local_path, output_base_dir)
+                    all_foi_data.append(processed_data)
+                else:
+                    print(f"Download failed for {entry['server_filename']}")
+            except Exception as exc:
+                print(f"Exception during download for {entry['server_filename']}: {exc}")
     Path("data").mkdir(exist_ok=True)
     with open(Path("data") / "foi_data.json", "w", encoding="utf-8") as f:
         json.dump(all_foi_data, f, ensure_ascii=False, indent=2)
