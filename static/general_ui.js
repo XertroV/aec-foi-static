@@ -29,10 +29,12 @@
 
   // --- Persona Switching Logic ---
   function updateSummaries(personaId) {
+    console.log('[AEC FOI] updateSummaries called for persona:', personaId);
     localStorage.setItem(personaStorageKey, personaId);
     if (personaSelector) personaSelector.value = personaId;
     // Detail Page
     if (isDetailPage && currentPageData) {
+        console.log('[AEC FOI] updateSummaries isDetailPage');
       // Overall summary
       const overallBlock = document.querySelector('.overall-ai-summary');
       if (overallBlock) {
@@ -78,6 +80,7 @@
     }
     // Index Page
     if (isIndexPage && allDocumentsData) {
+      console.log('[AEC FOI] updateSummaries isIndexPage');
       document.querySelectorAll('li.document-item').forEach(item => {
         const docId = item.getAttribute('data-doc-id');
         const doc = allDocumentsData.find(d => d.id === docId);
@@ -100,6 +103,7 @@
     }
     // Re-attach popover listeners
     attachPopoverHandlers();
+    console.log(`[AEC FOI] updateSummaries complete; (${isDetailPage}, ${currentPageData}), (${isIndexPage}, ${allDocumentsData})`);
   }
 
   // Helper: Find persona data for a tab by id
@@ -124,16 +128,16 @@
   // --- AI Summary Toggle ---
   function initAiSummaryToggle() {
     document.querySelectorAll('.ai-summary-toggle').forEach(toggle => {
-      const summary = toggle.parentElement.querySelector('.ai-summary-markdown');
-      if (!summary) return;
+      const summary = toggle.parentNode.querySelector('.ai-summary-markdown');
+      toggle.textContent = 'Show AI Generated Overview';
+      summary.classList.add('collapsed');
       toggle.onclick = function() {
         summary.classList.toggle('collapsed');
         toggle.textContent = summary.classList.contains('collapsed') ? 'Show AI Generated Overview' : 'Hide AI Generated Overview';
+        console.log('[AEC FOI] AI summary toggle clicked, collapsed:', summary.classList.contains('collapsed'));
       };
-      // Ensure initial state is collapsed
-      summary.classList.add('collapsed');
-      toggle.textContent = 'Show AI Generated Overview';
     });
+    console.log('[AEC FOI] initAiSummaryToggle complete');
   }
 
   // --- Popover Logic ---
@@ -188,6 +192,7 @@
 
   // --- Tabbed File View Logic (from detail.js) ---
   window.showTab = function(btn, tabId) {
+    console.log('[AEC FOI] showTab', tabId);
     const container = btn.closest('.tabbed-view');
     const buttons = container.querySelectorAll('.foi-tab, .tab-btn');
     const tabs = container.querySelectorAll('.tab-content');
@@ -203,10 +208,14 @@
       const parts = hash.split(':');
       const sectionId = section.id;
       const tabPart = tabId;
-      window.location.hash = sectionId + (tabPart ? ':' + tabPart : '');
+      const newHash = sectionId + (tabPart ? ':' + tabPart : '');
+      if (window.location.hash.replace(/^#/, '') !== newHash) {
+        window.location.hash = newHash;
+      }
     }
   };
   window.selectFile = function(idx) {
+    console.log('[AEC FOI] selectFile', idx);
     const sections = document.querySelectorAll('.foi-file-section');
     const sidebarItems = document.querySelectorAll('.foi-sidebar-item');
     const sidebarBtns = document.querySelectorAll('.foi-sidebar-btn[role="tab"]');
@@ -220,8 +229,39 @@
     if (sidebarItem) sidebarItem.classList.add('active');
     if (tabBtn) tabBtn.setAttribute('aria-selected', 'true');
     // Save file state in hash
-    window.location.hash = section ? section.id : '';
+    if (section && window.location.hash.replace(/^#/, '') !== section.id) {
+      window.location.hash = section.id;
+    }
   };
+
+  // --- Hash-based navigation for file/tab selection ---
+  function handleHashNavigation() {
+    const hash = window.location.hash.replace(/^#/, '');
+    console.log('[AEC FOI] handleHashNavigation', hash);
+    if (!isDetailPage) return;
+    if (!hash) {
+      // Default: select first file section and first tab
+      const firstSidebar = document.querySelector('.foi-sidebar-item');
+      if (firstSidebar) {
+        const idx = firstSidebar.getAttribute('data-file-idx');
+        if (idx !== null) window.selectFile(idx);
+      }
+      const firstTabBtn = document.querySelector('.tabbed-view .foi-tab');
+      if (firstTabBtn) firstTabBtn.click();
+      return;
+    }
+    // Hash format: sectionId[:tabId]
+    const [sectionId, tabId] = hash.split(':');
+    if (sectionId) {
+      const idx = sectionId.replace('foi-file-', '');
+      window.selectFile(idx);
+    }
+    if (tabId) {
+      // Find the tab button for this tabId and click it
+      const tabBtn = document.querySelector(`.tabbed-view .foi-tab[onclick*="${tabId}"]`);
+      if (tabBtn) tabBtn.click();
+    }
+  }
 
   // --- Initialization ---
   document.addEventListener('DOMContentLoaded', function() {
@@ -230,8 +270,12 @@
       personaSelector.value = selectedPersona;
       personaSelector.onchange = function() {
         updateSummaries(this.value);
+        setTimeout(handleHashNavigation, 0); // ensure DOM is updated first
       };
     }
     updateSummaries(selectedPersona);
+    setTimeout(handleHashNavigation, 0);
+    // Also re-run on hashchange (for manual navigation)
+    window.addEventListener('hashchange', handleHashNavigation);
   });
 })();

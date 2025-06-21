@@ -491,7 +491,7 @@ def generate_static_site(all_foi_data, output_base_dir):
         req_data['output_html_path'] = f"/documents/{html_filename}"
         index_page_documents.append(req_data)
         with open(output_html_path, 'w', encoding='utf-8') as f:
-            f.write(detail_template.render(request=req_data))
+            f.write(detail_template.render(request=req_data, request_data_json=json.dumps(req_data)))
         generated_files.append(str(output_html_path))
     index_path = output_base_dir / "index.html"
     with open(index_path, 'w', encoding='utf-8') as f:

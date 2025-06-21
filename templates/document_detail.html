@@ -92,7 +92,7 @@
                   <iframe src="{{ inner.download_path }}" width="100%" height="600px" style="border: none;"></iframe>
                 </div>
                 <div class="tab-content" id="innerpdf-{{ zip_idx }}-{{ loop.index0 }}-text" style="display:none;">
-                  <pre style="white-space: pre-wrap; background: #f8f8f8; padding: 0.5em; border-radius: 4px;">{{ inner.extracted_text }}</pre>
+                  <pre style="white-space: pre-wrap; background: #f8f8f8; padding: 0.5em; border-radius: 4px;">{{ inner.extracted_text | e }}</pre>
                 </div>
                 {% if inner.ai_summaries[DEFAULT_PERSONA].text is not none and inner.ai_summaries[DEFAULT_PERSONA].text != '' %}
                 <div class="tab-content" id="innerpdf-{{ zip_idx }}-{{ loop.index0 }}-ai" style="display:none;" data-persona-id="{{ DEFAULT_PERSONA }}">
@@ -136,7 +136,7 @@
                 <iframe src="{{ file.output_file_path }}" width="100%" height="600px" style="border: none;"></iframe>
               </div>
               <div class="tab-content" id="pdf-{{ loop.index0 }}-text" style="display:none;">
-                <pre style="white-space: pre-wrap; background: #f8f8f8; padding: 1em; border-radius: 4px;">{{ file.extracted_text }}</pre>
+                <pre style="white-space: pre-wrap; background: #f8f8f8; padding: 1em; border-radius: 4px;">{{ file.extracted_text | e }}</pre>
               </div>
               {% if file.ai_summaries[DEFAULT_PERSONA].text is not none and file.ai_summaries[DEFAULT_PERSONA].text != '' %}
               <div class="tab-content" id="pdf-{{ loop.index0 }}-ai" style="display:none;" data-persona-id="{{ DEFAULT_PERSONA }}">
@@ -166,6 +166,7 @@
 </div>
 {% endblock %}
 {% block scripts %}
-<script src="/static/detail.js" defer></script>
-<script src="/static/ai_summary_popover.js" defer></script>
+<script type="application/json" id="current-foi-data">
+  {{ request_data_json | safe }}
+</script>
 {% endblock %}
