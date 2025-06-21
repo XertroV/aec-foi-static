@@ -237,3 +237,16 @@ ul.zip-contents li {
     padding: 0.5em 0.2em;
   }
 }
+
+.search-snippet {
+  font-size: 0.9em;
+  color: #555;
+  margin-top: 0.3em;
+  padding-left: 0.5em;
+  border-left: 3px solid #e0e7ef;
+}
+.search-snippet strong {
+  background-color: #e0e7ef;
+  font-weight: bold;
+  color: #111;
+}

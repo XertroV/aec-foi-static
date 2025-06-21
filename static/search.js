@@ -26,7 +26,40 @@ document.addEventListener('DOMContentLoaded', function () {
       console.error('Failed to load search index:', err);
     });
 
-  function renderResults(results) {
+  function generateSnippet(body, matchData, queryTerms) {
+    // Find first match position in body
+    let firstPos = null;
+    let firstTerm = null;
+    for (const term of queryTerms) {
+      const meta = matchData.metadata[term];
+      if (meta && meta.body && meta.body.position && meta.body.position.length > 0) {
+        const [start, len] = meta.body.position[0];
+        if (firstPos === null || start < firstPos) {
+          firstPos = start;
+          firstTerm = term;
+        }
+      }
+    }
+    if (firstPos === null) {
+      // fallback: show start of body
+      return body.slice(0, 140) + (body.length > 140 ? '...' : '');
+    }
+    const context = 70;
+    const startIdx = Math.max(0, firstPos - context);
+    const endIdx = Math.min(body.length, firstPos + context);
+    let snippet = body.slice(startIdx, endIdx);
+    // Highlight all query terms (case-insensitive)
+    queryTerms.forEach(term => {
+      if (!term) return;
+      const re = new RegExp(term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi');
+      snippet = snippet.replace(re, match => `<strong>${match}</strong>`);
+    });
+    if (startIdx > 0) snippet = '...' + snippet;
+    if (endIdx < body.length) snippet = snippet + '...';
+    return snippet;
+  }
+
+  function renderResults(results, queryTerms) {
     searchResults.innerHTML = '';
     if (results.length === 0) {
       searchResults.innerHTML = '<div class="no-results">No results found.</div>';
@@ -40,6 +73,12 @@ document.addEventListener('DOMContentLoaded', function () {
       const li = document.createElement('li');
       li.className = 'search-result-item';
       li.innerHTML = `<a href="${doc.url}"><strong>${doc.title}</strong></a>`;
+      // Add contextual snippet
+      const snippet = generateSnippet(doc.body, result.matchData, queryTerms);
+      const snippetP = document.createElement('p');
+      snippetP.className = 'search-snippet';
+      snippetP.innerHTML = snippet;
+      li.appendChild(snippetP);
       ul.appendChild(li);
     });
     searchResults.appendChild(ul);
@@ -47,13 +86,21 @@ document.addEventListener('DOMContentLoaded', function () {
 
   if (searchInput) {
     searchInput.addEventListener('input', function (e) {
-      const query = e.target.value.trim();
+      let query = e.target.value.trim();
       if (!idx || !query) {
         searchResults.innerHTML = '';
         return;
       }
-      const results = idx.search(query);
-      renderResults(results);
+      // Partial matching: add wildcard to last word
+      const words = query.split(/\s+/);
+      if (words.length > 0 && words[words.length - 1]) {
+        words[words.length - 1] = words[words.length - 1] + '*';
+      }
+      const lunrQuery = words.join(' ');
+      const results = idx.search(lunrQuery);
+      // Pass original query terms (lowercased, no wildcards)
+      const queryTerms = e.target.value.trim().toLowerCase().split(/\s+/).filter(Boolean);
+      renderResults(results, queryTerms);
     });
   }
 });
