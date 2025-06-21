@@ -8,42 +8,74 @@
 </div>
 <section class="document-list-section">
     <h2>All FOI Requests</h2>
-    <ul class="document-list">
+    <ul class="document-list compact">
         {% for doc in documents %}
         <li class="document-item">
-            <h3><a href="{{ doc.output_html_path }}">{{ doc.title }} ({{ doc.date }})</a></h3>
-            <p>
-              Types:
-              {% set type_counts = {} %}
-              {% for file in doc.files %}
-                {% set t = file.type %}
-                {% if t in type_counts %}
-                  {% set _ = type_counts.update({t: type_counts[t]+1}) %}
-                {% else %}
-                  {% set _ = type_counts.update({t: 1}) %}
-                {% endif %}
+            <div class="doc-header">
+              <a class="doc-title" href="{{ doc.output_html_path }}">{{ doc.title }}</a>
+              <span class="doc-date">({{ doc.date }})</span>
+            </div>
+            <div class="doc-files">
+              <span class="file-types">Types:
+                {% set type_counts = {} %}
+                {% for file in doc.files %}
+                  {% set t = file.type %}
+                  {% if t in type_counts %}
+                    {% set _ = type_counts.update({t: type_counts[t]+1}) %}
+                  {% else %}
+                    {% set _ = type_counts.update({t: 1}) %}
+                  {% endif %}
+                {% endfor %}
+                {% for t, count in type_counts.items() %}
+                  {{ t }} ({{ count }}){% if not loop.last %}, {% endif %}
+                {% endfor %}
+              </span>
+              <span class="file-count">&mdash; {{ doc.files|length }} file{{ '' if doc.files|length == 1 else 's' }}</span>
+            </div>
+            <div class="doc-main-files">
+              <span>Main files:</span>
+              {% for file in doc.files if file.type in ['pdf', 'docx', 'zip'] %}
+                <a href="{{ doc.output_html_path }}#foi-file-{% if file.type == 'zip' %}zip-{{ loop.index0 }}{% else %}{{ loop.index0 }}{% endif %}">{{ file.server_filename }}</a>{% if not loop.last %}, {% endif %}
               {% endfor %}
-              {% for t, count in type_counts.items() %}
-                {{ t }} ({{ count }}){% if not loop.last %}, {% endif %}
-              {% endfor %}
-              &mdash; {{ doc.files|length }} file{{ '' if doc.files|length == 1 else 's' }}
-            </p>
-            {# --- ZIP contents preview --- #}
+            </div>
             {% for file in doc.files %}
               {% if file.type == 'zip' and file.content_files %}
                 <div class="zip-preview">
-                  <strong>ZIP contents:</strong>
-                  <ul class="zip-content-list">
+                  <span class="zip-label">ZIP contents:</span>
+                  <ul class="zip-content-list compact">
+                    {% set zip_idx = loop.index0 %}
                     {% for item in file.content_files %}
-                      <li>{{ item.filename }}{% if item.type %} <span class="filetype">({{ item.type }})</span>{% endif %}</li>
+                      <li>
+                        <a href="{{ doc.output_html_path }}#foi-file-zip-{{ zip_idx }}-{{ loop.index0 }}">{{ item.filename }}</a>
+                        <span class="filetype">({{ item.type }})</span>
+                      </li>
                     {% endfor %}
                   </ul>
                 </div>
               {% endif %}
             {% endfor %}
-            {% if doc.original_url %}<p><a href="{{ doc.original_url }}" target="_blank">Original AEC URL</a></p>{% endif %}
+            {% if doc.original_url %}<div class="doc-original-link"><a href="{{ doc.original_url }}" target="_blank">Original AEC URL</a></div>{% endif %}
         </li>
         {% endfor %}
     </ul>
 </section>
+<style>
+.document-list.compact { padding: 0; margin: 0; list-style: none; }
+.document-item { border-bottom: 1px solid #eee; padding: 0.5em 0 0.3em 0; margin-bottom: 0.1em; font-size: 0.98em; }
+.doc-header { display: flex; align-items: baseline; gap: 0.5em; }
+.doc-title { font-weight: 600; font-size: 1.05em; color: #234; text-decoration: none; }
+.doc-title:hover { text-decoration: underline; }
+.doc-date { color: #888; font-size: 0.95em; }
+.doc-files, .doc-main-files, .zip-preview { font-size: 0.96em; margin: 0.1em 0; }
+.file-types, .file-count { margin-right: 0.7em; }
+.doc-main-files span { font-weight: 500; margin-right: 0.3em; }
+.doc-main-files a { color: #2a5dab; text-decoration: none; margin-right: 0.2em; }
+.doc-main-files a:hover { text-decoration: underline; }
+.zip-preview { margin: 0.1em 0 0.1em 0.5em; }
+.zip-label { font-weight: 500; margin-right: 0.3em; }
+.zip-content-list.compact { list-style: none; padding: 0; margin: 0; display: inline; }
+.zip-content-list.compact li { display: inline; margin-right: 0.7em; }
+.filetype { color: #888; font-size: 0.93em; margin-left: 0.1em; }
+.doc-original-link { margin-top: 0.1em; }
+</style>
 {% endblock %}
