@@ -16,6 +16,16 @@
         {% endblock %}
     </nav>
     <main>
+        <div id="persona-selector-container" class="container">
+          <label for="persona-selector">Select Persona:</label>
+          <select id="persona-selector">
+            {% for persona_id in PERSONAS %}
+              <option value="{{ persona_id }}" {% if persona_id == DEFAULT_PERSONA %}selected{% endif %}>
+                {{ persona_id | replace('_', ' ') | title }}
+              </option>
+            {% endfor %}
+          </select>
+        </div>
         {% block content %}{% endblock %}
     </main>
     <footer>
@@ -23,6 +33,7 @@
     </footer>
     <script src="/static/lunr.min.js"></script>
     <script src="/static/search.js"></script>
+    <script src="/static/general_ui.js" defer></script>
     {% block scripts %}{% endblock %}
 </body>
 </html>

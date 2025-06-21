@@ -459,6 +459,8 @@ def generate_static_site(all_foi_data, output_base_dir):
     (output_base_dir / "static").mkdir(parents=True, exist_ok=True)
     env = Environment(loader=FileSystemLoader(CONFIG['template_dir']))
     env.filters['markdown'] = markdown_filter
+    env.globals['PERSONAS'] = list(LLM_CONFIG['PROMPT_TEMPLATES'].keys())
+    env.globals['DEFAULT_PERSONA'] = LLM_CONFIG['DEFAULT_PERSONA']
     index_template = env.get_template("index.html")
     detail_template = env.get_template("document_detail.html")
     renderable_foi_data = []
