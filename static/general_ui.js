@@ -113,8 +113,9 @@
         }
       });
 
-      // Re-initialize summary toggles
-    //   initAiSummaryToggle();
+      // ~~Re-initialize summary toggles~~
+      // Don't collapse the overview if it's visible.
+      // initAiSummaryToggle();
     }
 
     // --- Index Page Logic ---
