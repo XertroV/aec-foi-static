@@ -1,15 +1,16 @@
 // General UI logic for persona switching, summary popovers, and tabbed file views
-(function() {
-  // --- Data Fetching and Initialization ---
+(() => {
+  // --- Globals ---
   let currentPageData = null;
   let allDocumentsData = null;
   let isDetailPage = false;
   let isIndexPage = false;
-  const personaSelector = document.getElementById('persona-selector');
+  let personaSelector = null;
   const personaStorageKey = 'aec_foi_selected_persona';
-  let selectedPersona = localStorage.getItem(personaStorageKey) || (window.DEFAULT_PERSONA || 'balanced');
+  let selectedPersona = null;
+  let popover = null;
 
-  // Parse JSON data embedded in the page
+  // --- Data Loading ---
   function loadPageData() {
     const detailScript = document.getElementById('current-foi-data');
     const indexScript = document.getElementById('documents-data');
@@ -27,96 +28,110 @@
     }
   }
 
-  // --- Persona Switching Logic ---
-  function updateSummaries(personaId) {
-    console.log('[AEC FOI] updateSummaries called for persona:', personaId);
+  // --- Persona UI Update ---
+  function updatePersonaUI(personaId) {
     localStorage.setItem(personaStorageKey, personaId);
     if (personaSelector) personaSelector.value = personaId;
-    // Detail Page
+
+    // --- Detail Page Logic ---
     if (isDetailPage && currentPageData) {
-        console.log('[AEC FOI] updateSummaries isDetailPage');
       // Overall summary
       const overallBlock = document.querySelector('.overall-ai-summary');
       if (overallBlock) {
-        const personaData = currentPageData.ai_summaries[personaId] || {};
-        const overall = personaData.overall || {};
+        const summaryData = currentPageData.ai_summaries?.[personaId]?.overall;
         const summaryDiv = overallBlock.querySelector('.ai-summary-markdown-content');
         const label = overallBlock.querySelector('.ai-summary-label');
-        if (overall.text && overall.text !== '') {
-          if (window.marked && typeof window.marked.parse === 'function') {
-            summaryDiv.innerHTML = window.marked.parse(overall.text);
-          } else {
-            summaryDiv.innerHTML = overall.text;
-            if (!window.marked) {
-              console.warn('[AEC FOI] window.marked is not defined. AI summary markdown will not be rendered.');
-            }
-          }
+        if (summaryData && summaryData.text) {
+          summaryDiv.innerHTML = window.marked ? window.marked.parse(summaryData.text) : summaryData.text;
           if (label) {
-            label.setAttribute('data-summary-model', overall.model || '');
-            label.setAttribute('data-summary-date', overall.generated_at || '');
+            label.setAttribute('data-summary-model', summaryData.model || '');
+            label.setAttribute('data-summary-date', summaryData.generated_at || '');
           }
           overallBlock.style.display = '';
         } else {
           overallBlock.style.display = 'none';
         }
       }
+
       // Per-file summaries in tabs
-      document.querySelectorAll('.tab-content[data-persona-id]').forEach(tab => {
-        const fileId = tab.getAttribute('id');
-        const personaData = findPersonaDataForTab(currentPageData, fileId, personaId);
-        const label = tab.querySelector('.ai-summary-label');
-        if (personaData && personaData.text && personaData.text !== '') {
-          const contentDiv = tab.querySelector('.ai-summary-markdown-content');
-          if (window.marked && typeof window.marked.parse === 'function') {
-            contentDiv.innerHTML = window.marked.parse(personaData.text);
+      document.querySelectorAll('.foi-file-section').forEach(section => {
+        // Determine file/inner indices from section id
+        // e.g. foi-file-0, foi-file-zip-0, foi-file-zip-0-1
+        const sectionId = section.id;
+        let fileIdx = null, innerIdx = null, isZip = false;
+        const zipMatch = sectionId.match(/^foi-file-zip-(\d+)(?:-(\d+))?$/);
+        if (zipMatch) {
+          isZip = true;
+          fileIdx = parseInt(zipMatch[1], 10);
+          if (zipMatch[2] !== undefined) innerIdx = parseInt(zipMatch[2], 10);
+        } else {
+          const normMatch = sectionId.match(/^foi-file-(\d+)$/);
+          if (normMatch) fileIdx = parseInt(normMatch[1], 10);
+        }
+
+        // Find the AI summary tab and button
+        let summaryData = null, tabId = null, tabBtn = null, tabContent = null;
+        if (isZip && innerIdx !== null) {
+          // Inner file in zip
+          summaryData = currentPageData.files?.[fileIdx]?.content_files?.[innerIdx]?.ai_summaries?.[personaId];
+          tabId = `innerpdf-${fileIdx}-${innerIdx}-ai`;
+        } else if (isZip) {
+          // Top-level zip file
+          summaryData = currentPageData.files?.[fileIdx]?.ai_summaries?.[personaId];
+          tabId = `pdf-${fileIdx}-ai`;
+        } else if (fileIdx !== null) {
+          summaryData = currentPageData.files?.[fileIdx]?.ai_summaries?.[personaId];
+          tabId = `pdf-${fileIdx}-ai`;
+        }
+        if (tabId) {
+          tabContent = section.querySelector(`#${tabId}`);
+          tabBtn = section.querySelector(`.foi-tab[onclick*="${tabId}"]`);
+        }
+
+        // Show/hide AI summary tab and update content
+        if (tabContent && tabBtn) {
+          if (summaryData && summaryData.text) {
+            const contentDiv = tabContent.querySelector('.ai-summary-markdown-content');
+            const label = tabContent.querySelector('.ai-summary-label');
+            contentDiv.innerHTML = window.marked ? window.marked.parse(summaryData.text) : summaryData.text;
+            if (label) {
+              label.setAttribute('data-summary-model', summaryData.model || '');
+              label.setAttribute('data-summary-date', summaryData.generated_at || '');
+            }
+            tabContent.style.display = '';
+            tabBtn.style.display = '';
           } else {
-            contentDiv.innerHTML = personaData.text;
-            if (!window.marked) {
-              console.warn('[AEC FOI] window.marked is not defined. AI summary markdown will not be rendered.');
+            tabContent.style.display = 'none';
+            tabBtn.style.display = 'none';
+            // If this tab is currently active, switch to another tab
+            if (tabBtn.classList.contains('active')) {
+              // Try to find a visible tab to switch to
+              const fallbackTab = section.querySelector('.foi-tab:not([style*="display: none"])');
+              if (fallbackTab) fallbackTab.click();
             }
           }
-          if (label) {
-            label.setAttribute('data-summary-model', personaData.model || '');
-            label.setAttribute('data-summary-date', personaData.generated_at || '');
-          }
-          tab.style.display = '';
-          // Show tab button
-          const tabBtn = document.querySelector(`[onclick*="${fileId}"]`);
-          if (tabBtn) tabBtn.style.display = '';
-        } else {
-          tab.style.display = 'none';
-          // Hide tab button
-          const tabBtn = document.querySelector(`[onclick*="${fileId}"]`);
-          if (tabBtn) tabBtn.style.display = 'none';
         }
       });
-      // Re-initialize AI summary toggle
-      initAiSummaryToggle();
+
+      // Re-initialize summary toggles
+    //   initAiSummaryToggle();
     }
-    // Index Page
+
+    // --- Index Page Logic ---
     if (isIndexPage && allDocumentsData) {
-      console.log('[AEC FOI] updateSummaries isIndexPage');
       document.querySelectorAll('li.document-item').forEach(item => {
         const docId = item.getAttribute('data-doc-id');
         const doc = allDocumentsData.find(d => d.id === docId);
         const block = item.querySelector('.ai-summary-block');
         if (!block || !doc) return;
-        const personaData = doc.ai_summaries[personaId] || {};
-        const shortIndex = personaData.short_index || {};
+        const summaryData = doc.ai_summaries?.[personaId]?.short_index;
         const label = block.querySelector('.ai-summary-label');
-        if (shortIndex.text && shortIndex.text !== '') {
+        if (summaryData && summaryData.text) {
           const aiSummaryTextDiv = block.querySelector('.ai-summary-text');
-          if (window.marked && typeof window.marked.parse === 'function') {
-            aiSummaryTextDiv.innerHTML = window.marked.parse(shortIndex.text);
-          } else {
-            aiSummaryTextDiv.innerHTML = shortIndex.text;
-            if (!window.marked) {
-              console.warn('[AEC FOI] window.marked is not defined. AI summary markdown will not be rendered.');
-            }
-          }
+          aiSummaryTextDiv.innerHTML = window.marked ? window.marked.parse(summaryData.text) : summaryData.text;
           if (label) {
-            label.setAttribute('data-summary-model', shortIndex.model || '');
-            label.setAttribute('data-summary-date', shortIndex.generated_at || '');
+            label.setAttribute('data-summary-model', summaryData.model || '');
+            label.setAttribute('data-summary-date', summaryData.generated_at || '');
           }
           block.style.display = '';
         } else {
@@ -124,111 +139,93 @@
         }
       });
     }
-    // Re-attach popover listeners
-    attachPopoverHandlers();
-    console.log(`[AEC FOI] updateSummaries complete; (${isDetailPage}, ${currentPageData}), (${isIndexPage}, ${allDocumentsData})`);
   }
 
-  // Helper: Find persona data for a tab by id
-  function findPersonaDataForTab(requestData, tabId, personaId) {
-    // For main file tabs: pdf-0-ai, for inner: innerpdf-0-0-ai
-    if (!requestData || !requestData.files) return null;
-    for (const [fileIdx, file] of requestData.files.entries()) {
-      if (tabId === `pdf-${fileIdx}-ai` && file.ai_summaries && file.ai_summaries[personaId]) {
-        return file.ai_summaries[personaId];
-      }
-      if (file.type === 'zip' && file.content_files) {
-        for (const [innerIdx, inner] of file.content_files.entries()) {
-          if (tabId === `innerpdf-${fileIdx}-${innerIdx}-ai` && inner.ai_summaries && inner.ai_summaries[personaId]) {
-            return inner.ai_summaries[personaId];
-          }
-        }
-      }
-    }
-    return null;
-  }
-
-  // --- AI Summary Toggle ---
+  // --- AI Summary Toggle (Event Delegation) ---
   function initAiSummaryToggle() {
-    // Remove previous click handlers to avoid duplicates
+    // Reset all toggles to collapsed state
     document.querySelectorAll('.ai-summary-toggle').forEach(toggle => {
       const summary = toggle.parentNode.querySelector('.ai-summary-markdown');
-      // Remove previous event listeners by cloning
-      const newToggle = toggle.cloneNode(true);
-      toggle.parentNode.replaceChild(newToggle, toggle);
-      newToggle.textContent = 'Show AI Generated Overview';
-      summary.classList.add('collapsed');
-      newToggle.onclick = function() {
-        summary.classList.toggle('collapsed');
-        newToggle.textContent = summary.classList.contains('collapsed') ? 'Show AI Generated Overview' : 'Hide AI Generated Overview';
-        console.log('[AEC FOI] AI summary toggle clicked, collapsed:', summary.classList.contains('collapsed'));
-      };
+      if (summary) {
+        summary.classList.add('collapsed');
+        toggle.textContent = 'Show AI Generated Overview';
+      }
     });
-    console.log('[AEC FOI] initAiSummaryToggle complete');
   }
+  // Attach event delegation for toggles
+  document.body.addEventListener('click', function(e) {
+    if (e.target && e.target.classList.contains('ai-summary-toggle')) {
+      const summary = e.target.parentNode.querySelector('.ai-summary-markdown');
+      if (summary) {
+        summary.classList.toggle('collapsed');
+        e.target.textContent = summary.classList.contains('collapsed')
+          ? 'Show AI Generated Overview'
+          : 'Hide AI Generated Overview';
+      }
+    }
+  });
 
-  // --- Popover Logic ---
-  let popover = null;
-  function attachPopoverHandlers() {
+  // --- Popover Logic (Event Delegation) ---
+  function setupAiSummaryPopovers() {
     if (!popover) {
       popover = document.createElement('div');
       popover.id = 'ai-summary-hover-popover';
       popover.className = 'ai-summary-popover';
       document.body.appendChild(popover);
     }
-    // Hide popover on scroll or resize
+    // Hide popover on scroll/resize
     function hidePopover() {
       popover.classList.remove('visible');
       popover.style.pointerEvents = 'none';
     }
-    window.removeEventListener('scroll', hidePopover);
-    window.removeEventListener('resize', hidePopover);
     window.addEventListener('scroll', hidePopover);
     window.addEventListener('resize', hidePopover);
-    document.querySelectorAll('.ai-summary-label').forEach(label => {
-      label.onmouseenter = function(e) {
-        const model = label.getAttribute('data-summary-model') || '';
-        const date = label.getAttribute('data-summary-date') || '';
-        let modelDisplay = model ? `Generated by: <strong>${model.replace(/gemini[-_]?/i, 'Gemini ')}</strong>` : '';
-        let dateDisplay = '';
-        if (date) {
-          let d = new Date(date);
-          if (!isNaN(d)) {
-            let y = d.getFullYear();
-            let m = String(d.getMonth()+1).padStart(2, '0');
-            let day = String(d.getDate()).padStart(2, '0');
-            let h = String(d.getHours()).padStart(2, '0');
-            let min = String(d.getMinutes()).padStart(2, '0');
-            dateDisplay = `<span class="popover-date">Date: ${y}-${m}-${day} ${h}:${min}</span>`;
-          } else {
-            dateDisplay = `<span class="popover-date">Date: ${date}</span>`;
-          }
+
+    document.body.addEventListener('mouseover', function(e) {
+      const label = e.target.closest('.ai-summary-label');
+      if (!label) return;
+      const model = label.getAttribute('data-summary-model') || '';
+      const date = label.getAttribute('data-summary-date') || '';
+      let modelDisplay = model ? `Generated by: <strong>${model.replace(/gemini[-_]?/i, 'Gemini ')}</strong>` : '';
+      let dateDisplay = '';
+      if (date) {
+        let d = new Date(date);
+        if (!isNaN(d)) {
+          let y = d.getFullYear();
+          let m = String(d.getMonth()+1).padStart(2, '0');
+          let day = String(d.getDate()).padStart(2, '0');
+          let h = String(d.getHours()).padStart(2, '0');
+          let min = String(d.getMinutes()).padStart(2, '0');
+          dateDisplay = `<span class="popover-date">Date: ${y}-${m}-${day} ${h}:${min}</span>`;
+        } else {
+          dateDisplay = `<span class="popover-date">Date: ${date}</span>`;
         }
-        popover.innerHTML = `${modelDisplay}${dateDisplay}`;
-        const rect = label.getBoundingClientRect();
-        const scrollY = window.scrollY || window.pageYOffset;
-        const scrollX = window.scrollX || window.pageXOffset;
-        let top = rect.bottom + scrollY + 8;
-        let left = rect.left + scrollX + 8;
-        popover.style.top = `${top}px`;
-        popover.style.left = `${left}px`;
-        popover.style.minWidth = '250px';
-        popover.style.maxWidth = '350px';
-        popover.style.pointerEvents = 'auto';
-        setTimeout(() => popover.classList.add('visible'), 0);
-      };
-      label.onmouseleave = function() {
+      }
+      popover.innerHTML = `${modelDisplay}${dateDisplay}`;
+      const rect = label.getBoundingClientRect();
+      const scrollY = window.scrollY || window.pageYOffset;
+      const scrollX = window.scrollX || window.pageXOffset;
+      let top = rect.bottom + scrollY + 8;
+      let left = rect.left + scrollX + 8;
+      popover.style.top = `${top}px`;
+      popover.style.left = `${left}px`;
+      popover.style.minWidth = '250px';
+      popover.style.maxWidth = '350px';
+      popover.style.pointerEvents = 'auto';
+      setTimeout(() => popover.classList.add('visible'), 0);
+    });
+    document.body.addEventListener('mouseleave', function(e) {
+      if (e.target && e.target.classList && e.target.classList.contains('ai-summary-label')) {
         popover.classList.remove('visible');
         popover.style.pointerEvents = 'none';
-      };
-    });
+      }
+    }, true);
     popover.onmouseenter = function() { popover.classList.add('visible'); };
     popover.onmouseleave = function() { popover.classList.remove('visible'); };
   }
 
-  // --- Tabbed File View Logic (from detail.js) ---
+  // --- Tabbed File View Logic ---
   window.showTab = function(btn, tabId) {
-    console.log('[AEC FOI] showTab', tabId);
     const container = btn.closest('.tabbed-view');
     if (!container) return;
     const buttons = container.querySelectorAll('.foi-tab, .tab-btn');
@@ -242,19 +239,14 @@
     const section = btn.closest('.foi-file-section');
     if (section && section.id) {
       const hash = window.location.hash.replace(/^#/, '');
-      const parts = hash.split(':');
       const sectionId = section.id;
-      const tabPart = tabId;
-      const newHash = sectionId + (tabPart ? ':' + tabPart : '');
+      const newHash = sectionId + (tabId ? ':' + tabId : '');
       if (window.location.hash.replace(/^#/, '') !== newHash) {
         window.location.hash = newHash;
       }
     }
   };
-
-  // --- File Selection Logic ---
-  function selectFile(idx) {
-    console.log('[AEC FOI] selectFile', idx);
+  window.selectFile = function(idx) {
     const sections = document.querySelectorAll('.foi-file-section');
     const sidebarItems = document.querySelectorAll('.foi-sidebar-item');
     const sidebarBtns = document.querySelectorAll('.foi-sidebar-btn[role="tab"]');
@@ -271,13 +263,11 @@
     if (section && window.location.hash.replace(/^#/, '') !== section.id) {
       window.location.hash = section.id;
     }
-  }
-  window.selectFile = selectFile;
+  };
 
-  // --- Hash-based navigation for file/tab selection ---
+  // --- Hash Navigation ---
   function handleHashNavigation() {
     const hash = window.location.hash.replace(/^#/, '');
-    console.log('[AEC FOI] handleHashNavigation', hash);
     if (!isDetailPage) return;
     if (!hash) {
       // Default: select first file section and first tab
@@ -304,9 +294,38 @@
   }
 
   // --- Initialization ---
-  loadPageData();
-  updateSummaries(selectedPersona);
-  setTimeout(handleHashNavigation, 0); // Ensure hash navigation after DOM and summaries are ready
-  window.addEventListener('hashchange', handleHashNavigation);
-  console.log('[AEC FOI] Initialization complete');
+  document.addEventListener('DOMContentLoaded', function() {
+    loadPageData();
+    personaSelector = document.getElementById('persona-selector');
+    selectedPersona = localStorage.getItem(personaStorageKey) || (window.DEFAULT_PERSONA || 'balanced');
+    if (personaSelector) {
+      personaSelector.value = selectedPersona;
+      personaSelector.onchange = function() {
+        updatePersonaUI(this.value);
+        setTimeout(handleHashNavigation, 0);
+      };
+    }
+    updatePersonaUI(selectedPersona);
+    setupAiSummaryPopovers();
+    setTimeout(handleHashNavigation, 0);
+    window.addEventListener('hashchange', handleHashNavigation);
+  });
+
+  // --- Helper: Find persona data for a tab by id (for legacy support) ---
+  function findPersonaDataForTab(requestData, tabId, personaId) {
+    if (!requestData || !requestData.files) return null;
+    for (const [fileIdx, file] of requestData.files.entries()) {
+      if (tabId === `pdf-${fileIdx}-ai` && file.ai_summaries && file.ai_summaries[personaId]) {
+        return file.ai_summaries[personaId];
+      }
+      if (file.type === 'zip' && file.content_files) {
+        for (const [innerIdx, inner] of file.content_files.entries()) {
+          if (tabId === `innerpdf-${fileIdx}-${innerIdx}-ai` && inner.ai_summaries && inner.ai_summaries[personaId]) {
+            return inner.ai_summaries[personaId];
+          }
+        }
+      }
+    }
+    return null;
+  }
 })();
