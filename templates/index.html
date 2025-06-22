@@ -6,6 +6,7 @@
     <input type="text" id="search-input" placeholder="Search documents..." aria-label="Search FOI documents">
     <div id="search-results"></div>
 </div>
+<h3 class="request-count">Number of Requests below: <span>{{ documents|length }}</span></h3>
 <section class="foi-grid">
   {% for doc in documents %}
   <div class="document-card" data-doc-id="{{ doc.id }}">
