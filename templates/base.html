@@ -7,25 +7,33 @@
     <link rel="stylesheet" href="/static/style.css">
 </head>
 <body>
-    <header>
-        <h1>AEC FOI Disclosure Log Archive</h1>
-    </header>
-    <nav class="breadcrumbs">
-        {% block breadcrumbs %}
-        <a href="/index.html">Home</a>
-        {% endblock %}
-    </nav>
-    <main>
-        <div id="persona-selector-container" class="container">
-          <label for="persona-selector">Select Persona:</label>
-          <select id="persona-selector">
-            {% for persona_id in PERSONAS %}
-              <option value="{{ persona_id }}" {% if persona_id == DEFAULT_PERSONA %}selected{% endif %}>
-                {{ persona_id | replace('_', ' ') | title }}
-              </option>
-            {% endfor %}
-          </select>
+    <header class="main-header sticky-header">
+        <div class="header-content">
+            <div class="header-left">
+                <h1>AEC FOI Disclosure Log Archive</h1>
+            </div>
+            <div class="header-center">
+                <nav class="breadcrumbs">
+                    {% block breadcrumbs %}
+                    <a href="/index.html">Home</a>
+                    {% endblock %}
+                </nav>
+            </div>
+            <div class="header-right">
+                <div id="persona-selector-container">
+                  <label for="persona-selector">Select Persona:</label>
+                  <select id="persona-selector">
+                    {% for persona_id in PERSONAS %}
+                      <option value="{{ persona_id }}" {% if persona_id == DEFAULT_PERSONA %}selected{% endif %}>
+                        {{ persona_id | replace('_', ' ') | title }}
+                      </option>
+                    {% endfor %}
+                  </select>
+                </div>
+            </div>
         </div>
+    </header>
+    <main>
         {% block content %}{% endblock %}
     </main>
     <footer>

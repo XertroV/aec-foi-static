@@ -33,6 +33,7 @@
 
   // --- Persona UI Update ---
   function updatePersonaUI(personaId) {
+    selectedPersona = personaId; // Ensure global is always in sync
     console.log('[AEC FOI JS] updatePersonaUI called with persona:', personaId);
     localStorage.setItem(personaStorageKey, personaId);
     if (personaSelector) personaSelector.value = personaId;
@@ -128,28 +129,52 @@
 
     // --- Index Page Logic ---
     if (isIndexPage && allDocumentsData) {
-      document.querySelectorAll('li.document-item').forEach(item => {
+      let nbChanged = 0;
+      const cards = document.querySelectorAll('.document-card');
+      if (cards.length === 0) {
+        console.warn('[AEC FOI JS] Persona switch: No .document-card elements found on index page!');
+      }
+      cards.forEach(item => {
         const docId = item.getAttribute('data-doc-id');
         const doc = allDocumentsData.find(d => d.id === docId);
-        const block = item.querySelector('.ai-summary-block');
-        if (!block || !doc) return;
-        const summaryData = doc.ai_summaries?.[personaId]?.short_index;
-        const label = block.querySelector('.ai-summary-label');
-        if (summaryData && summaryData.text) {
-          const aiSummaryTextDiv = block.querySelector('.ai-summary-text');
-          if (!window.marked) {
-            console.warn('[AEC FOI JS] window.marked not found. Markdown will not be rendered.');
+        // Only show the block for the selected persona, hide others
+        let foundPersonaBlock = false;
+        item.querySelectorAll('.ai-summary-block').forEach(block => {
+          const personaId = block.getAttribute('data-persona-id');
+          if (selectedPersona === personaId) {
+            block.style.display = '';
+            foundPersonaBlock = true;
+            // Optionally update content here if needed (but only for this block)
+            const summaryData = doc.ai_summaries?.[personaId]?.short_index;
+            const aiSummaryTextDiv = block.querySelector('.ai-summary-text');
+            const label = block.querySelector('.ai-summary-label');
+            if (summaryData && summaryData.text) {
+              if (!window.marked) {
+                console.warn('[AEC FOI JS] window.marked not found. Markdown will not be rendered.');
+              }
+              aiSummaryTextDiv.innerHTML = window.marked ? window.marked.parse(summaryData.text) : summaryData.text;
+              if (label) {
+                label.setAttribute('data-summary-model', summaryData.model || '');
+                label.setAttribute('data-summary-date', summaryData.generated_at || '');
+              }
+            } else {
+              aiSummaryTextDiv.innerHTML = '';
+              if (label) {
+                label.setAttribute('data-summary-model', '');
+                label.setAttribute('data-summary-date', '');
+              }
+            }
+          } else {
+            block.style.display = 'none';
           }
-          aiSummaryTextDiv.innerHTML = window.marked ? window.marked.parse(summaryData.text) : summaryData.text;
-          if (label) {
-            label.setAttribute('data-summary-model', summaryData.model || '');
-            label.setAttribute('data-summary-date', summaryData.generated_at || '');
-          }
-          block.style.display = '';
-        } else {
-          block.style.display = 'none';
-        }
+        });
+        if (foundPersonaBlock) nbChanged += 1;
       });
+      if (!nbChanged && cards.length > 0) {
+        console.warn('[AEC FOI JS] Persona switch: No .ai-summary-blocks were shown for persona', selectedPersona, 'on index page.');
+      } else {
+        console.info('[AEC FOI JS] Persona switch: changed .ai-summary-blocks', nbChanged, 'on index page.');
+      }
     }
     // Re-attach popover handlers after UI update
     setupAiSummaryPopovers();
