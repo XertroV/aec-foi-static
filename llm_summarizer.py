@@ -172,8 +172,8 @@ def generate_all_summaries(final_processed_foi_data, config, metadata, selected_
             reason = None
             if LLM_CONFIG['FORCE_SUMMARY_REGENERATION']:
                 reason = 'forced regeneration (--force-summaries)'
-            elif not ai_overall_summary:
-                reason = 'no previous summary exists'
+            elif not ai_overall_summary or not ai_overall_summary.get('text'):
+                reason = 'no previous summary exists or previous summary is blank/None'
             elif ai_overall_summary.get('source_hash') != combined_text_hash:
                 reason = f'source text changed (hash mismatch) (old: {ai_overall_summary.get("source_hash")}, new: {combined_text_hash})'
             if reason:
@@ -181,30 +181,38 @@ def generate_all_summaries(final_processed_foi_data, config, metadata, selected_
             if reason:
                 if combined_text:
                     print(f"[LLM][{foi_request['id']}][{current_persona_id}] Requesting overall summary...", end='', flush=True)
-                    summary_text, raw_response = llm_client.generate_summary(
-                        combined_text,
-                        LLM_CONFIG['PROMPT_TEMPLATES'][current_persona_id]['overall'],
-                        LLM_CONFIG['DEFAULT_MODEL'],
-                        LLM_CONFIG['MAX_TOKENS'][current_persona_id]['overall'],
-                        return_full_response=True
-                    )
-                    resp_path = save_llm_response(raw_response, foi_request['id'], 'overall', current_persona_id)
-                    usage = raw_response.get('usage_metadata', {}) if isinstance(raw_response, dict) else {}
-                    output_tokens = usage.get('candidates_token_count')
-                    prompt_tokens = usage.get('prompt_token_count')
-                    total_tokens = usage.get('total_token_count')
-                    print(f" done. Saved raw response: {resp_path} | Model: {LLM_CONFIG['DEFAULT_MODEL']} | Output tokens: {output_tokens} | Prompt tokens: {prompt_tokens} | Total tokens: {total_tokens} | Summary length: {len(summary_text)}")
+                    try:
+                        summary_text, raw_response = llm_client.generate_summary(
+                            combined_text,
+                            LLM_CONFIG['PROMPT_TEMPLATES'][current_persona_id]['overall'],
+                            LLM_CONFIG['DEFAULT_MODEL'],
+                            LLM_CONFIG['MAX_TOKENS'][current_persona_id]['overall'],
+                            return_full_response=True
+                        )
+                        resp_path = save_llm_response(raw_response, foi_request['id'], 'overall', current_persona_id)
+                        usage = raw_response.get('usage_metadata', {}) if isinstance(raw_response, dict) else {}
+                        output_tokens = usage.get('candidates_token_count')
+                        prompt_tokens = usage.get('prompt_token_count')
+                        total_tokens = usage.get('total_token_count')
+                        print(f" done. Saved raw response: {resp_path} | Model: {LLM_CONFIG['DEFAULT_MODEL']} | Output tokens: {output_tokens} | Prompt tokens: {prompt_tokens} | Total tokens: {total_tokens} | Summary length: {len(summary_text) if summary_text else 0}")
+                    except Exception as e:
+                        print(f"[LLM][{foi_request['id']}][{current_persona_id}] LLM call failed: {e}")
+                        summary_text = None
+                        resp_path = None
+                        output_tokens = prompt_tokens = total_tokens = None
+                        raw_response = None
                     # Save foi_data.json after each summary
                     save_foi_data_json(final_processed_foi_data, config)
                 else:
                     summary_text = None
                     resp_path = None
                     output_tokens = prompt_tokens = total_tokens = None
+                    raw_response = None
                 ai_overall_summary = {
-                    'text': summary_text,
+                    'text': summary_text if summary_text else None,
                     'model': LLM_CONFIG['DEFAULT_MODEL'],
                     'generated_at': datetime.now().isoformat(),
-                    'source_hash': combined_text_hash,
+                    'source_hash': combined_text_hash if combined_text else None,
                     'raw_response_path': resp_path,
                     'output_tokens': output_tokens,
                     'prompt_tokens': prompt_tokens,
@@ -219,8 +227,8 @@ def generate_all_summaries(final_processed_foi_data, config, metadata, selected_
             reason = None
             if LLM_CONFIG['FORCE_SUMMARY_REGENERATION']:
                 reason = 'forced regeneration (--force-summaries)'
-            elif not ai_short_summary:
-                reason = 'no previous summary exists'
+            elif not ai_short_summary or not ai_short_summary.get('text'):
+                reason = 'no previous summary exists or previous summary is blank/None'
             elif ai_short_summary.get('source_hash') != short_source_hash:
                 reason = 'source text changed (hash mismatch)'
             if reason:
@@ -281,8 +289,8 @@ def generate_all_summaries(final_processed_foi_data, config, metadata, selected_
                 if file.get('type') == 'pdf':
                     if LLM_CONFIG['FORCE_SUMMARY_REGENERATION']:
                         reason = 'forced regeneration (--force-summaries)'
-                    elif not persona_file_summary:
-                        reason = 'no previous summary exists'
+                    elif not persona_file_summary or not persona_file_summary.get('text'):
+                        reason = 'no previous summary exists or previous summary is blank/None'
                     elif persona_file_summary.get('source_hash') != file_hash_val:
                         reason = 'source text changed (hash mismatch)'
                     elif persona_file_summary.get('source_hash') == file_hash_val and (persona_file_summary.get('text') is None or persona_file_summary.get('text') == ''):
@@ -346,8 +354,8 @@ def generate_all_summaries(final_processed_foi_data, config, metadata, selected_
                         if item.get('type') == 'pdf':
                             if LLM_CONFIG['FORCE_SUMMARY_REGENERATION']:
                                 reason = 'forced regeneration (--force-summaries)'
-                            elif not persona_item_summary:
-                                reason = 'no previous summary exists'
+                            elif not persona_item_summary or not persona_item_summary.get('text'):
+                                reason = 'no previous summary exists or previous summary is blank/None'
                             elif persona_item_summary.get('source_hash') != file_hash_val:
                                 reason = 'source text changed (hash mismatch)'
                             elif persona_item_summary.get('source_hash') == file_hash_val and (persona_item_summary.get('text') is None or persona_item_summary.get('text') == ''):

@@ -80,6 +80,7 @@ def generate_summary(text_content, prompt_template, model_name, max_output_token
             return ("", {"prompt": prompt if prompt else ''})
         return ""
     except Exception as e:
+        # todo: check retry_delay
         print(f"[Gemini] An unexpected error occurred: {e}")
         if return_full_response:
             return ("", {"prompt": prompt if prompt else ''})

@@ -7,19 +7,20 @@
 <h1>{{ request.title }}</h1>
 <p>Date: {{ request.date }}</p>
 
-{% if request.ai_summaries[DEFAULT_PERSONA].overall.text is not none and request.ai_summaries[DEFAULT_PERSONA].overall.text != '' %}
-  <div class="overall-ai-summary" data-persona-id="{{ DEFAULT_PERSONA }}">
-    <button class="ai-summary-toggle" type="button">Show AI Generated Overview</button>
-    <div class="ai-summary-markdown collapsed">
-      <div class="ai-summary-markdown-content">
-        {{ request.ai_summaries[DEFAULT_PERSONA].overall.text | markdown }}
-      </div>
-      {% set summary_model = request.ai_summaries[DEFAULT_PERSONA].overall.model %}
-      {% set summary_date = request.ai_summaries[DEFAULT_PERSONA].overall.generated_at %}
-      {% include 'ai_summary_label.html' %}
+{% for persona_id in PERSONAS %}
+{% set persona_summary = request.ai_summaries.get(persona_id, {}).get('overall', {}) %}
+<div class="overall-ai-summary" data-persona-id="{{ persona_id }}"{% if not (persona_id == DEFAULT_PERSONA and persona_summary.text) %} style="display:none;"{% endif %}>
+  <button class="ai-summary-toggle" type="button">Show AI Generated Overview</button>
+  <div class="ai-summary-markdown collapsed">
+    <div class="ai-summary-markdown-content">
+      {{ persona_summary.text | markdown if persona_summary.text is not none and persona_summary.text != '' else '' }}
     </div>
+    {% set summary_model = persona_summary.model %}
+    {% set summary_date = persona_summary.generated_at %}
+    {% include 'ai_summary_label.html' %}
   </div>
-{% endif %}
+</div>
+{% endfor %}
 
 <div class="foi-detail-layout">
   <aside class="foi-sidebar">

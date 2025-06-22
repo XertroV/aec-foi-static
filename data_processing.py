@@ -310,22 +310,38 @@ def process_file(file_metadata, local_path, config, metadata_cache, force_extrac
             meta_ai_summaries = meta['artifact_info']['ai_summaries']
         for persona_id in LLM_CONFIG['PROMPT_TEMPLATES'].keys():
             prev = meta_ai_summaries.get(persona_id) if meta_ai_summaries else None
+            # Always ensure ai_summaries[persona_id] is a dict with at least 'source_hash' and 'needs_summary' keys
             if not extracted_text:
-                ai_summaries[persona_id] = None
+                ai_summaries[persona_id] = {'needs_summary': True, 'source_hash': None}
             elif (LLM_CONFIG['FORCE_SUMMARY_REGENERATION'] or not prev or prev.get('source_hash') != current_text_hash):
                 ai_summaries[persona_id] = {'needs_summary': True, 'source_hash': current_text_hash}
             else:
-                ai_summaries[persona_id] = prev
+                # Defensive: ensure prev has required keys
+                ai_summaries[persona_id] = {
+                    'needs_summary': prev.get('needs_summary', False),
+                    'source_hash': prev.get('source_hash', current_text_hash)
+                }
     else:
         # For non-PDFs or if extracted_text_path was not set (e.g., DOCX, image, video)
         for persona_id in LLM_CONFIG['PROMPT_TEMPLATES'].keys():
-            ai_summaries[persona_id] = None
+            ai_summaries[persona_id] = {'needs_summary': True, 'source_hash': None}
     artifact_info['ai_summaries'] = ai_summaries
-    # For ZIPs, propagate ai_summaries logic to content_files - make sure it defaults to None as well
+    # For ZIPs, propagate ai_summaries logic to content_files - make sure it defaults to a dict with required keys
     if file_type == 'zip' and artifact_info.get('content_files'):
         for idx, item in enumerate(artifact_info['content_files']):
             if 'ai_summaries' not in item or not item['ai_summaries']:
-                item['ai_summaries'] = {p: None for p in LLM_CONFIG['PROMPT_TEMPLATES'].keys()}
+                item['ai_summaries'] = {p: {'needs_summary': True, 'source_hash': None} for p in LLM_CONFIG['PROMPT_TEMPLATES'].keys()}
+            else:
+                # Defensive: ensure all persona keys exist and have required keys
+                for persona_id in LLM_CONFIG['PROMPT_TEMPLATES'].keys():
+                    prev = item['ai_summaries'].get(persona_id)
+                    if not isinstance(prev, dict):
+                        item['ai_summaries'][persona_id] = {'needs_summary': True, 'source_hash': None}
+                    else:
+                        item['ai_summaries'][persona_id] = {
+                            'needs_summary': prev.get('needs_summary', False),
+                            'source_hash': prev.get('source_hash', None)
+                        }
     metadata_cache[str(file_path)] = {
         'size': stat.st_size,
         'mtime': int(stat.st_mtime),

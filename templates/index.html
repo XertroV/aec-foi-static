@@ -41,14 +41,15 @@
       {% endif %}
     </div>
     {% if doc.original_url %}<div class="doc-original-link"><a href="{{ doc.original_url }}" target="_blank">Original AEC URL</a></div>{% endif %}
-    {% if doc.ai_summaries[DEFAULT_PERSONA].short_index.text is not none and doc.ai_summaries[DEFAULT_PERSONA].short_index.text != '' %}
-        <div class="ai-summary-block" data-persona-id="{{ DEFAULT_PERSONA }}">
-          <div class="ai-summary-text">{{ doc.ai_summaries[DEFAULT_PERSONA].short_index.text | markdown }}</div>
-          {% set summary_model = doc.ai_summaries[DEFAULT_PERSONA].short_index.model %}
-          {% set summary_date = doc.ai_summaries[DEFAULT_PERSONA].short_index.generated_at %}
+    {% for persona_id in PERSONAS %}
+        {% set persona_summary = doc.ai_summaries.get(persona_id, {}).get('short_index', {}) %}
+        <div class="ai-summary-block" data-persona-id="{{ persona_id }}"{% if not (persona_id == DEFAULT_PERSONA and persona_summary.text) %} style="display:none;"{% endif %}>
+          <div class="ai-summary-text">{{ persona_summary.text | markdown }}</div>
+          {% set summary_model = persona_summary.model %}
+          {% set summary_date = persona_summary.generated_at %}
           {% include 'ai_summary_label.html' %}
         </div>
-    {% endif %}
+    {% endfor %}
   </div>
   {% endfor %}
 </section>
