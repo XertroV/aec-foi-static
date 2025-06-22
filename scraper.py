@@ -16,6 +16,7 @@ def main():
     parser.add_argument('--force-extract', action='store_true', help='Force re-extraction of text from PDFs (does not force summary regeneration unless text changes)')
     parser.add_argument('--year', type=int, help='Process only a specific year (e.g., 2023)')
     parser.add_argument('--personas', type=str, help='Comma-separated list of persona IDs to generate summaries for (others will be skipped, existing summaries for other personas will be untouched)')
+    parser.add_argument('--foi-id', type=str, help='Process only a specific FOI request ID (e.g., LEX1234 or LS5678)')
     args = parser.parse_args()
     config = CONFIG
     LLM_CONFIG['FORCE_SUMMARY_REGENERATION'] = args.force_summaries
@@ -40,6 +41,10 @@ def main():
         for req in foi_requests:
             req['year'] = year
         all_foi_requests.extend(foi_requests)
+    # --- Filter by FOI ID if requested ---
+    if args.foi_id:
+        all_foi_requests = [req for req in all_foi_requests if req['id'].lower() == args.foi_id.lower()]
+        print(f"Filtered to FOI ID {args.foi_id}: {len(all_foi_requests)} requests remain.")
     print(f"Found {len(all_foi_requests)} FOI requests across years {years}.")
     download_dir = Path(config['download_dir'])
     download_dir.mkdir(exist_ok=True)
@@ -116,7 +121,10 @@ def main():
         final_processed_foi_data.append(processed_request_data)
 
     # --- AI SUMMARY GENERATION ---
-    generate_all_summaries(final_processed_foi_data, config, metadata, selected_personas=selected_personas)
+
+    # temp disable per-file summaries
+    no_generate_per_file = True
+    generate_all_summaries(final_processed_foi_data, config, metadata, selected_personas=selected_personas, no_generate_per_file=no_generate_per_file)
 
     # --- Merge with cache: always update/add processed requests, keep others ---
     for req in final_processed_foi_data:

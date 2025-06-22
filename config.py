@@ -7,7 +7,7 @@ CONFIG = {
     "output_dir": "docs",
     "download_dir": "downloads",
     "template_dir": "templates",
-    "USE_OCR_FOR_PDFS": True,
+    "USE_OCR_FOR_PDFS": False,
 }
 
 # --- LLM CONFIGURATION ---

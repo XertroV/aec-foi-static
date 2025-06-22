@@ -19,6 +19,7 @@ from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.converter import TextConverter
 from pdfminer.layout import LAParams
 import io
+from itertools import zip_longest
 
 # Note: AEC server can easily handle 100 MB/s of requests.
 # We won't sleep between requests since it's already single threaded.
@@ -136,23 +137,26 @@ def download_document(url, filename, download_dir, metadata, metadata_path):
         print(f"Failed to download {url}: {e}")
         return False
 
-def extract_text_from_pdf(pdf_path, min_native_chars=10, min_good_native_chars=50):
+
+def extract_text_from_pdf(pdf_path, min_native_chars=10, min_good_native_chars=150):
     """
     Extract text from a PDF page by page. For each page, try native extraction first; if insufficient, do OCR (with orientation correction).
     Returns the concatenated text for the whole document.
     """
     logger = logging.getLogger(__name__)
     all_document_text = []
+    use_ocr = CONFIG.get("USE_OCR_FOR_PDFS", False)
     try:
         # Convert all pages to images for OCR (once)
+        images = []
         try:
-            images = convert_from_path(pdf_path, dpi=300)
+            if use_ocr:
+                images = convert_from_path(pdf_path, dpi=75)
         except Exception as e:
             logger.error(f"[PDF] Could not convert PDF to images for OCR: {e}")
-            images = []
         # Open PDF for pdfminer page-by-page extraction
         with open(pdf_path, 'rb') as fp:
-            for page_num, (page, page_image) in enumerate(zip(PDFPage.get_pages(fp), images), 1):
+            for page_num, (page, page_image) in enumerate(zip_longest(PDFPage.get_pages(fp), images), 1):
                 page_native_text = ""
                 page_ocr_text = ""
                 # Native extraction for this page

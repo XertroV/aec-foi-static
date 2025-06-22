@@ -116,7 +116,7 @@ def save_foi_data_json(final_processed_foi_data, config):
         json.dump(merged_data, f, ensure_ascii=False, indent=2)
 
 
-def generate_all_summaries(final_processed_foi_data, config, metadata, selected_personas=None):
+def generate_all_summaries(final_processed_foi_data, config, metadata, selected_personas=None, no_generate_per_file=False):
     """
     For each FOI request, generate all required summaries for all personas (or only those in selected_personas).
     Modifies final_processed_foi_data in place.
@@ -259,6 +259,8 @@ def generate_all_summaries(final_processed_foi_data, config, metadata, selected_
             foi_request['ai_summaries'][current_persona_id]['short_index'] = ai_short_summary
             # --- Per-file summaries ---
             for file in foi_request['files']:
+                if no_generate_per_file:
+                    break
                 if 'ai_summaries' not in file:
                     file['ai_summaries'] = {}
                 if current_persona_id not in file['ai_summaries']:
