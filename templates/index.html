@@ -6,66 +6,51 @@
     <input type="text" id="search-input" placeholder="Search documents..." aria-label="Search FOI documents">
     <div id="search-results"></div>
 </div>
-<section class="document-list-section">
-    <h2>All FOI Requests</h2>
-    <ul class="document-list compact">
-        {% for doc in documents %}
-        <li class="document-item" data-doc-id="{{ doc.id }}">
-            <div class="doc-header">
-              <a class="doc-title" href="{{ doc.output_html_path }}">{{ doc.title }}</a>
-              <span class="doc-date">({{ doc.date }})</span>
-            </div>
-            <div class="doc-files">
-              <span class="file-types">Types:
-                {% set type_counts = {} %}
-                {% for file in doc.files %}
-                  {% set t = file.type %}
-                  {% if t in type_counts %}
-                    {% set _ = type_counts.update({t: type_counts[t]+1}) %}
-                  {% else %}
-                    {% set _ = type_counts.update({t: 1}) %}
-                  {% endif %}
-                {% endfor %}
-                {% for t, count in type_counts.items() %}
-                  {{ t }} ({{ count }}){% if not loop.last %}, {% endif %}
-                {% endfor %}
-              </span>
-              <span class="file-count">&mdash; {{ doc.files|length }} file{{ '' if doc.files|length == 1 else 's' }}</span>
-            </div>
-            <div class="doc-main-files">
-              <span>Main files:</span>
-              {% for file in doc.files if file.type in ['pdf', 'docx', 'zip'] %}
-                <a href="{{ doc.output_html_path }}#foi-file-{% if file.type == 'zip' %}zip-{{ loop.index0 }}{% else %}{{ loop.index0 }}{% endif %}">{{ file.server_filename }}</a>{% if not loop.last %}, {% endif %}
-              {% endfor %}
-            </div>
-            {% for file in doc.files %}
-              {% if file.type == 'zip' and file.content_files %}
-                <div class="zip-preview">
-                  <span class="zip-label">ZIP contents:</span>
-                  <ul class="zip-content-list compact">
-                    {% set zip_idx = loop.index0 %}
-                    {% for item in file.content_files %}
-                      <li>
-                        <a href="{{ doc.output_html_path }}#foi-file-zip-{{ zip_idx }}-{{ loop.index0 }}">{{ item.filename }}</a>
-                        <span class="filetype">({{ item.type }})</span>
-                      </li>
-                    {% endfor %}
-                  </ul>
-                </div>
-              {% endif %}
-            {% endfor %}
-            {% if doc.original_url %}<div class="doc-original-link"><a href="{{ doc.original_url }}" target="_blank">Original AEC URL</a></div>{% endif %}
-            {% if doc.ai_summaries[DEFAULT_PERSONA].short_index.text is not none and doc.ai_summaries[DEFAULT_PERSONA].short_index.text != '' %}
-                <div class="ai-summary-block" data-persona-id="{{ DEFAULT_PERSONA }}">
-                  <div class="ai-summary-text">{{ doc.ai_summaries[DEFAULT_PERSONA].short_index.text | markdown }}</div>
-                  {% set summary_model = doc.ai_summaries[DEFAULT_PERSONA].short_index.model %}
-                  {% set summary_date = doc.ai_summaries[DEFAULT_PERSONA].short_index.generated_at %}
-                  {% include 'ai_summary_label.html' %}
-                </div>
-            {% endif %}
-        </li>
+<section class="foi-grid">
+  {% for doc in documents %}
+  <div class="document-card" data-doc-id="{{ doc.id }}">
+    <div class="doc-header">
+      <a class="doc-title" href="{{ doc.output_html_path }}">{{ doc.title }}</a>
+      <span class="doc-date">({{ doc.date }})</span>
+    </div>
+    <div class="doc-files">
+      <span class="file-types">Types:
+        {% set type_counts = {} %}
+        {% for file in doc.files %}
+          {% set t = file.type %}
+          {% if t in type_counts %}
+            {% set _ = type_counts.update({t: type_counts[t]+1}) %}
+          {% else %}
+            {% set _ = type_counts.update({t: 1}) %}
+          {% endif %}
         {% endfor %}
-    </ul>
+        {% for t, count in type_counts.items() %}
+          {{ t }} ({{ count }}){% if not loop.last %}, {% endif %}
+        {% endfor %}
+      </span>
+      <span class="file-count">&mdash; {{ doc.files|length }} file{{ '' if doc.files|length == 1 else 's' }}</span>
+    </div>
+    <div class="doc-main-files">
+      {% if doc.files|length > 3 %}
+        <span>{{ doc.files|length }} files</span>
+      {% else %}
+        <span>Main files:</span>
+        {% for file in doc.files if file.type in ['pdf', 'docx', 'zip'] %}
+          <a href="{{ doc.output_html_path }}#foi-file-{% if file.type == 'zip' %}zip-{{ loop.index0 }}{% else %}{{ loop.index0 }}{% endif %}">{{ file.server_filename }}</a>{% if not loop.last %}, {% endif %}
+        {% endfor %}
+      {% endif %}
+    </div>
+    {% if doc.original_url %}<div class="doc-original-link"><a href="{{ doc.original_url }}" target="_blank">Original AEC URL</a></div>{% endif %}
+    {% if doc.ai_summaries[DEFAULT_PERSONA].short_index.text is not none and doc.ai_summaries[DEFAULT_PERSONA].short_index.text != '' %}
+        <div class="ai-summary-block" data-persona-id="{{ DEFAULT_PERSONA }}">
+          <div class="ai-summary-text">{{ doc.ai_summaries[DEFAULT_PERSONA].short_index.text | markdown }}</div>
+          {% set summary_model = doc.ai_summaries[DEFAULT_PERSONA].short_index.model %}
+          {% set summary_date = doc.ai_summaries[DEFAULT_PERSONA].short_index.generated_at %}
+          {% include 'ai_summary_label.html' %}
+        </div>
+    {% endif %}
+  </div>
+  {% endfor %}
 </section>
 {% endblock %}
 {% block scripts %}

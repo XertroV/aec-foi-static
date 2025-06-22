@@ -60,9 +60,26 @@ def generate_static_site(all_foi_data, output_base_dir):
     detail_template = env.get_template("document_detail.html")
     # --- PATCH: Ensure every FOI request, file, and inner file has ai_summaries[DEFAULT_PERSONA] ---
     ensure_default_persona_ai_summaries(all_foi_data, LLM_CONFIG['DEFAULT_PERSONA'])
+    # --- Sort by date (newest first), then by ID (larger number first) ---
+    def sort_key(req):
+        # Date as int (fallback 0), ID as int if possible (fallback 0)
+        try:
+            date_val = int(req.get('date', 0))
+        except Exception:
+            date_val = 0
+        id_val = 0
+        id_str = str(req.get('id', ''))
+        match = re.search(r'(\d+)$', id_str)
+        if match:
+            try:
+                id_val = int(match.group(1))
+            except Exception:
+                id_val = 0
+        return (date_val, id_val)
+    sorted_foi_data = sorted(all_foi_data, key=sort_key, reverse=True)
     renderable_foi_data = []
     generated_files = []
-    for req_data in all_foi_data:
+    for req_data in sorted_foi_data:
         render_data = req_data.copy()
         # For each file in the FOI request, load extracted text if present
         for file in render_data.get('files', []):

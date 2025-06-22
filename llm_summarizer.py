@@ -121,6 +121,7 @@ def generate_all_summaries(final_processed_foi_data, config, metadata, selected_
     For each FOI request, generate all required summaries for all personas (or only those in selected_personas).
     Modifies final_processed_foi_data in place.
     """
+    should_save = False
     default_persona = LLM_CONFIG.get('DEFAULT_PERSONA', 'balanced')
     for foi_request in final_processed_foi_data:
         # Ensure ai_summaries exists and has DEFAULT_PERSONA for request
@@ -210,6 +211,7 @@ def generate_all_summaries(final_processed_foi_data, config, metadata, selected_
                     'total_tokens': total_tokens,
                     'summary_length': len(summary_text) if summary_text else 0
                 }
+                should_save = True
             foi_request['ai_summaries'][current_persona_id]['overall'] = ai_overall_summary
             # --- Short index summary ---
             ai_short_summary = foi_request['ai_summaries'][current_persona_id].get('short_index')
@@ -256,6 +258,7 @@ def generate_all_summaries(final_processed_foi_data, config, metadata, selected_
                     'total_tokens': total_tokens,
                     'summary_length': len(short_text) if short_text else 0
                 }
+                should_save = True
             foi_request['ai_summaries'][current_persona_id]['short_index'] = ai_short_summary
             # --- Per-file summaries ---
             for file in foi_request['files']:
@@ -316,7 +319,7 @@ def generate_all_summaries(final_processed_foi_data, config, metadata, selected_
                             'summary_length': len(summary_text) if summary_text else 0
                         }
                         print(f"[DEBUG] Saved per-file summary for {file.get('server_filename', file.get('link_text', 'file'))} [{current_persona_id}] to in-memory data structure. Text length: {len(summary_text) if summary_text else 0}")
-
+                        should_save = True
                     else:
                         if not text:
                             print(f"[LLM][{foi_request['id']}][{current_persona_id}] Skipping per-file summary for {file.get('server_filename', file.get('link_text', 'file'))}: No extracted text.")
@@ -381,12 +384,19 @@ def generate_all_summaries(final_processed_foi_data, config, metadata, selected_
                                     'summary_length': len(summary_text) if summary_text else 0
                                 }
                                 print(f"[DEBUG] Saved per-file summary for ZIP inner {item.get('filename', 'file')} [{current_persona_id}] to in-memory data structure. Text length: {len(summary_text) if summary_text else 0}")
+                                should_save = True
                             else:
                                 if not text:
                                     print(f"[LLM][{foi_request['id']}][{current_persona_id}] Skipping per-file summary for ZIP inner {item.get('filename', 'file')}: No extracted text.")
                                 elif not reason:
                                     print(f"[LLM][{foi_request['id']}][{current_persona_id}] Skipping per-file summary for ZIP inner {item.get('filename', 'file')}: No reason to regenerate (hash matches, summary exists).")
                                 # Do NOT reassign item['ai_summaries'][current_persona_id] here; keep existing value
-                        save_foi_data_json(final_processed_foi_data, config)
+                        if should_save:
+                            save_foi_data_json(final_processed_foi_data, config)
+                            should_save = False
+                if should_save:
+                    save_foi_data_json(final_processed_foi_data, config)
+                    should_save = False
+            if should_save:
                 save_foi_data_json(final_processed_foi_data, config)
-            save_foi_data_json(final_processed_foi_data, config)
+                should_save = False

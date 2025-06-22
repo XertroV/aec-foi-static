@@ -310,6 +310,52 @@ ul.zip-contents li {
   border-radius: 4px;
 }
 
+/* --- FOI Grid and Document Card Styles --- */
+.foi-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(370px, 1.5fr));
+  gap: 1.2em;
+  margin: 2em 0;
+  padding: 2em;
+}
+.document-card {
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 1.2em 1em 1em 1em;
+  box-shadow: 0 2px 8px 0 #0001;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+.document-card .doc-header {
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
+.document-card .doc-date {
+  color: #888;
+  font-size: 0.95em;
+  margin-left: 0.5em;
+}
+.document-card .doc-files, .document-card .doc-main-files {
+  font-size: 0.97em;
+  margin-bottom: 0.3em;
+}
+.document-card .ai-summary-block {
+  margin-top: 0.7em;
+  background: #f8f8fa;
+  border-radius: 6px;
+  padding: 0.5em 0.7em;
+  font-size: 0.97em;
+}
+.document-card .doc-original-link {
+  margin-top: 0.5em;
+  font-size: 0.97em;
+}
+
+/* --- End FOI Grid Styles --- */
+
 /* Tabbed interface for PDF/Text toggle */
 .foi-tab-bar {
   display: flex;
