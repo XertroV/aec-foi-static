@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{% block title %}AEC FOI Archive{% endblock %}</title>
-    <link rel="stylesheet" href="/static/style.css">
+    <link rel="stylesheet" href="{{ 'static/style.css' if not request or not request.id else '../static/style.css' }}">
 </head>
 <body>
     <header class="main-header sticky-header">
@@ -15,7 +15,7 @@
             <div class="header-center">
                 <nav class="breadcrumbs">
                     {% block breadcrumbs %}
-                    <a href="/index.html">Home</a>
+                    <a href="{{ 'index.html' if not request or not request.id else '../index.html' }}">Home</a>
                     {% endblock %}
                 </nav>
             </div>
@@ -40,13 +40,13 @@
         <!-- todo: link to AEC foi log original page or something -->
     </footer>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    <script src="/static/lunr.min.js"></script>
-    <script src="/static/search.js"></script>
+    <script src="{{ 'static/lunr.min.js' if not request or not request.id else '../static/lunr.min.js' }}"></script>
+    <script src="{{ 'static/search.js' if not request or not request.id else '../static/search.js' }}"></script>
     <script>
       window.PERSONAS_LIST = {{ PERSONAS | tojson | safe }};
       window.DEFAULT_PERSONA = '{{ DEFAULT_PERSONA }}';
     </script>
-    <script src="/static/general_ui.js" defer></script>
+    <script src="{{ 'static/general_ui.js' if not request or not request.id else '../static/general_ui.js' }}" defer></script>
     {% block scripts %}{% endblock %}
 </body>
 </html>
