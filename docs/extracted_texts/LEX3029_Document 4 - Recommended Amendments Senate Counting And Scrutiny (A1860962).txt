@@ -1,0 +1,1392 @@
+
+
+--- Page 1 ---
+
+Corrections to the AEC’s counting code, and recommended
+amendments to the Electoral Act, for Senate Counting &
+Scrutiny
+
+Dr Andrew Conway ∗
+
+A/Prof Vanessa Teague†
+Thinking Cybersecurity Pty. Ltd.
+& Australian National University
+vanessa.teague@anu.edu.au
+
+August 31, 2021
+
+Abstract
+
+This report summarises our recommendations for technical changes to those parts of the
+Electoral Act that regulate the Senate Counting and Scrutiny. We show, and explain how
+to correct, a point on which the AEC’s current counting software does not correspond to the
+requirements of the legislation. As far as we know, this has so far not caused the wrong
+people to be elected. We also identify ambiguities in the legislation, which might leave the
+result undeﬁned. These would be better resolved before the election when they are politically
+neutral.
+
+Although the digitization process is separate from the counting stage, our results bolster the
+argument for an independent audit of the paper ballots every Senate election, to demonstrate
+to scrutineers that the ballot-digitization process is accurate, or to allow for any errors to be
+identiﬁed and corrected.
+
+1 Introduction
+
+The Australian Senate count has several distinct phases:
+
+• ﬁrst preferences are manually counted,
+
+• paper ballots are imaged at a counting centre,
+
+• the images are digitized, using a combined human and automated process,
+
+• the digitized preferences are electronically counted, in order to establish who won a seat.
+
+This report focuses on the last step. We ﬁnd an example in which the AEC’s oﬃcial counting
+software deviates from the requirements of the Electoral Act, and two examples of changes of
+interpretation. We then provide simple examples to demonstrate that these could, in principle,
+alter election results, though it does not seem to have done so yet. We then detail where either
+the code needs to be corrected to conform to the Electoral Act, or where the Electoral Act could
+be amended to match what we know of the code.
+
+The error concerns the resolution of 3-way ties for the candidate with the lowest tally. We ﬁnd
+an example from the 2016 WA Senate election, in which the AEC’s software applied the wrong
+tiebreaking rule, resulting in candidates being excluded in the wrong order. This is described in
+Section 2.
+
+The second issue is that the AEC has not implemented bulk exclusion (Section 13A). Contrary
+to common belief (and probably contrary to the intentions of the authors of the Electoral Act),
+bulk exclusion can alter who wins a seat. The Act is hard to interpret on whether bulk elimination
+is compulsory. This is detailed in Section 3, together with examples to show why bulk exclusion
+can alter the election outcome. We recommend that bulk exclusion be deleted from the Electoral
+Act, matching the AEC’s current practice.
+
+∗Andrew Conway is a member of the Secular Party.
+†Vanessa Teague is an advisory board member of Veriﬁed Voting, a non-governmental US organization working
+
+toward accuracy, integrity and veriﬁability of elections.
+
+1
+
+
+--- Page 2 ---
+
+As a third issue, the Electoral Act does not clearly deﬁne when the count ends, which is relevant
+because two termination conditions may apply simultaneously. This can leave ambiguity over who
+wins the last seat (under subsection (17)) and can alter the order in which candidates are considered
+to have been elected (under subsection 18). Suggested amendments are described in Section 4.
+
+1.1 Prior work
+
+These results are similar to our prior discoveries of errors in the NSW [CBNT17] and ACT [CT]
+vote counts. The tiebreaking problems are similar to those identiﬁed by Wen [Wen10]. Most of
+our suggestions for simpliﬁcations are aligned with Gor´e and Lebedeva [GL16], whose suggestions
+for further improvements we also support.
+
+Other open-source STV counting programs include Grahame Bowland’s Dividebatur1 and its
+successor Dividebatur22, Lee Yingtong Li’s OpenTally3, and Milad Ghale’s formally veriﬁed STV4.
+Dividebatur2 is speciﬁcally implemented for the exact Senate rules, and performs tiebreaking
+correctly, but does not implement bulk exclusion.
+
+We have written extensively in the past about the importance of auditing the digitization
+process [BCT+19]. Although it is not directly relevant to this report, the importance of double-
+checking electronic processes is emphasised, so we reiterate that recommendation here:
+
+Recommendation 1. When the preference data ﬁles for Senate votes are published, there should
+be a rigorous statistical audit to check that they accurately reﬂect the paper ballots. This should be
+conducted in a way that allows Scrutineers to check both the algorithms and the data.
+
+The rest of this report details speciﬁc issues in the count.
+
+1.2 Summary and purpose of this report
+
+We have identiﬁed one case in which the AEC’s software is diﬀerent from the legislated rules, one
+in which it could be debated, and one in which the Electoral Act is ambiguous. These all need to
+be clariﬁed before they make a diﬀerence to an election outcome.
+
+The Senate count, like other Single Transferable Vote legislation, is highly complex and de-
+pendent on a number of rather arbitrary choices. The ambiguity is the problem—almost any
+clariﬁcation deﬁned in advance would suﬃce, as long as it was unambiguous and exactly followed
+by the AEC. For example, if the AEC agreed to publish its source code, the legislation could be
+amended to reﬂect it. (Although we would not generally recommend making legislation in this
+way, it would be harmless for the examples in this report.)
+
+Each section of this report includes speciﬁc recommendations for resolving the diﬀerences or
+
+clarifying the rules.
+
+Our aim in this report is to contribute to improving electoral legislation and process to achieve
+election results that are unambiguous and publicly veriﬁable. Everyone makes mistakes, and there
+is no reason that occasional errors should undermine public trust in the election, if there is a good
+process for checking and correcting the count. Improving processes to produce clear evidence of
+an accurate election outcome is of great beneﬁt for public trust in Australian election outcomes.
+
+We encourage everyone to examine and double-check our results. Our code and examples are
+
+available at https://github.com/AndrewConway/ConcreteSTV
+
+2 Three way ties: error in the WA 2016 Senate count
+
+When the lowest standing candidate is to be excluded, and there is a tie, there is an explicit rule
+for resolving it:
+
+Electoral Act, Section 273 31(b)
+
+...if 2 or more continuing candidates have the same number of votes, those candidates
+shall stand in the poll in the order of the relative number of votes of each of those
+candidates at the last count at which each of them had a diﬀerent number of votes,
+[our emphasis] with the continuing candidate with the greater or greatest number of
+votes at that count standing higher in the poll and the continuing candidate with the
+fewer or fewest number of votes at that count standing lower in the poll, but if there
+
+1https://github.com/grahame/dividebatur
+2https://github.com/grahame/dividebatur2
+3https://yingtongli.me/git/OpenTally/
+4https://github.com/MiladKetabGhale/STV-Counting-ProtocolVerification
+
+2
+
+
+--- Page 3 ---
+
+Count HERCOCK, Marion FARGHER, Sara HENG, Henry
+57
+63
+63
+63
+65
+65
+65
+66
+66
+
+1
+2
+3
+4
+5..9
+10,11
+12..15
+16..41
+42..48
+
+54
+57
+60
+61
+63
+64
+65
+66
+66
+
+61
+64
+65
+65
+65
+65
+65
+65
+66
+
+Table 1: Tiebreaking in the ﬁrst 2016 WA Senate special election. Hercock was excluded, though
+Fargher had the lowest tally when each of the three candidates’ tallies were diﬀerent (Count 4).
+
+has been no such count the Australian Electoral Oﬃcer for the State shall determine
+the order of standing of those candidates in the poll.
+
+There are very similar clauses in subsections (22) and (22b) for order of election and surplus
+
+distribution tie resolution.
+
+In the ﬁrst WA 2016 Senate special count,5 (conducted on 7 March 2017, after Rod Cullerton
+was removed), this situation arose at Count 48, where there was a three-way tie for exclusion:
+M. Hercock, S. Fargher and H Heng all had 66 votes. Their tallies are shown in Table 1. The
+last count at which each of them had a diﬀerent number of votes was Count 4, with 65, 61 and
+63 respectively. Our reading of the legislation is that S. Fargher should therefore be excluded at
+Count 48.
+
+In the oﬃcial count, the AEC excluded M. Hercock instead. There is a natural argument for
+this—at count 41 M. Hercock had a lower tally than either of the others, and there is no reason
+other than the legislation that this would not be a reasonable basis for tie resolution. Indeed, this
+approach has the advantage of resolving more situations than the “each of them had a diﬀerent
+number” rule. It would be a reasonable thing to legislate, but it is not what the Electoral Act
+currently requires.
+
+Of course, diﬀerent methods of resolving who is excluded can easily change the outcome of the
+election. As a very simple example of how this could aﬀect who is elected, imagine that the number
+of vacancies was equal to the number of candidates remaining after the candidate in question was
+excluded. For this reason it is essential that the legislation and the oﬃcial code be aligned.
+
+Recommendation 2. Either:
+
+• Correct the AEC’s oﬃcial code to follow the legislation for tie resolution, or
+
+• Ask the AEC to publish the oﬃcial code, including its tiebreaking rules, and amend the
+
+legislation to match it.
+
+It is also worth pointing out that sometimes the prior counts do not resolve the tie, and the
+Australian Electoral Oﬃcer is called upon to choose an order. In 2016 and 2019, it appears that all
+such decisions favoured candidates according to their position on the ballot, with lower candidates
+better favoured. This seems fair as the donkey vote otherwise favours higher candidates. This
+seems like an excellent policy which we fully endorse, and would suggest making part of the act.
+
+Recommendation 3. Formalize as legislation the apparent policy to, in the case of otherwise
+unresolved ties, favour candidates lower on the ballot.
+
+3 Bulk Exclusions: omission in the 2016 and 2019 counts
+
+Section 273 subsection (13A) describes a bulk exclusion where multiple candidates are excluded
+together. It is commonly believed (and probably intended) that this can never alter the election
+outcome. In this section we show that that assumption is mistaken.
+
+The AEC does not appear to have implemented bulk exclusions since 2013, presumably in the
+mistaken belief that it cannot not alter the count. It is unclear whether bulk exclusion is at the
+AEC’s discretion or not. The Electoral Act Section 273 (13) states:
+
+5The oﬃcial Distribution of Preferences is at https://www.aec.gov.au/Elections/federal_elections/2016/
+
+files/wa-senate-dist-prefs-2016fe-special-count-07032017.pdf
+
+3
+
+
+--- Page 4 ---
+
+(13) Where, after the counting of ﬁrst preference votes or the transfer of surplus votes
+(if any) of elected candidates, no candidate has, or fewer than the number of candidates
+required to be elected have, received a number of votes equal to the quota:
+
+(a) the candidate who stands lowest in the poll must be excluded; or
+
+(b) if a bulk exclusion of candidates may be eﬀected under subsection (13A), those
+
+candidates must be excluded;
+
+The logic seems unclear here—we are not lawyers and cannot say with conﬁdence whether “those
+candidates must be excluded” would apply whenever (13A) permits it, but that would be one
+plausible interpretation.
+
+In this section we provide two simple examples to show that, in two diﬀerent ways, bulk
+exclusion can alter the outcome. The ﬁrst concerns the order of eliminations, the second is due to
+rounding. In each case, diﬀerent people are elected depending on whether the bulk exclusion rule
+is applied.
+
+3.1 Bulk Exclusions and order of elimination
+
+Subsection 13A (d) (i) does not have a clause requiring candidate C to satisfy a similar condition
+to 13A (b) (ii). This means that bulk exclusions can change the order of elimination. This can
+readily change the outcome of an election. A simple example is shown here with 6 vacancies, and
+votes as described in the table below:
+
+Preference List Occurrences
+L1, L2, W1, W3
+L2
+L3, L2, W1, W3
+L4, W1, W2
+L5, W4
+L5, W5
+L5, W6
+L5, W7
+L5
+W7
+W6
+W5
+W4
+W3
+W2
+W2, W4
+W2, W5
+W2, W6
+W1
+
+2
+3
+4
+6
+1
+2
+3
+4
+10
+400
+400
+400
+400
+400
+388
+6
+4
+2
+400
+
+Using the rules as applied by the AEC in 2013, as best we can reverse engineer, would result
+
+in the distribution of preferences shown in table 2, with bulk exclusion occurring on count 1:
+
+However, using the rules that seem to have been applied by the AEC in 2016, ignoring bulk ex-
+clusions, the order of elimination changes, and candidate W3 is elected instead of W2. Furthermore
+the order of election of candidates W4, W5, W6 and W7 is reversed, as shown in table 3
+
+Curiously enough, using the rules apparently applied by the AEC in 2019, the same candidates
+
+are elected, but in a diﬀerent order; see section 4.2.
+
+3.2 Bulk Exclusions and rounding
+
+It is more obvious that Bulk Exclusions can change rounding, and this can change the result of
+the election. Rounding may seem like a small eﬀect, but in 2016 Tasmania, there were 285 votes
+lost due to rounding, and the margin between the last two candidates was 143 votes.
+
+Here is a very simple demonstration of how the presence or absence of bulk exclusion can change
+
+rounding and thus who is elected in a 2 vacancy election.
+
+4
+
+
+--- Page 5 ---
+
+Count W1 W2 W3 W4 W5 W6 W7
+400
+400
+
+400
+
+400
+
+400
+
+400
+
+Exclude L1, L2
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+1
+400
+2 +2
+402
+3 +4
+406
+
+Exclude L3
+4
+Exclude L4
+5
+Exclude L5
+6
+Exclude W3
+
+400
++6
+406
+
+400
+
+406 (cid:8)(cid:8)(cid:72)(cid:72)400
+−400
+0
+
+406
+
+406
+
+406
+
+406
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+400
++1 +2 +3 +4
+404
+401
+
+403
+
+402
+
+401
+
+402
+
+403
+
+404
+
+L1
+(cid:1)(cid:65)2
+
+L2
+(cid:1)(cid:65)3
+−2 −3
+0
+
+0
+
+L3
+4
+
+(cid:1)(cid:65)4
+−4
+0
+
+L5
+20
+
+20
+
+20
+
+L4
+6
+
+6
+
+(cid:1)(cid:65)6
+−6
+
+0 (cid:26)(cid:26)(cid:90)(cid:90)20
+−20
+0
+
+Exh. TV
+
++3
+3
+
+3
+
+3
++10
+13
++400
+413
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Table 2: Elected : W1, W2, W7, W6, W5, W4. Rules used : AEC2013. Elected candidates are
+colored purple once they have a quota.
+
+Count W1 W2 W3
+400
+
+400
+
+400
+
+W4 W5 W6 W7
+400
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+L3
+4
+
+L1
+(cid:1)(cid:65)2
+
+L2
+3
+−2 +2
+5
+
+0
+
+(cid:1)(cid:65)4
++4 −4
+0
+
+9
+
+1
+2
+Exclude L1
+3
+Exclude L3
+
+Exclude L4
+5
+Exclude L2
+6
+Exclude L5
+7
+Exclude W2
+8
+Surplus W4
+
+400
+4 +6
+406
+
+400
+
+406
+
+400
+
+406 (cid:8)(cid:8)(cid:72)(cid:72)400
+−400
+0
+
+406
+
+406
+
+(cid:1)(cid:65)9
+−9
+0
+
+400
++6
+406
+
+406
+
+406
+
+406
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+400
++1 +2 +3 +4
+401
+404
+403
+402
++6 +4 +2
+405
+406
+407
+−1407
+406
+
+405
+
+404
+
+406
+
+404
+
+L4
+6
+
+6
+
+(cid:1)(cid:65)6
+−6
+0
+
+L5
+20
+
+20
+
+20
+
+20
+
+(cid:26)(cid:26)(cid:90)(cid:90)20
+−20
+0
+
+Exh. TV
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1/407
+
++3
+3
++10
+13
++388
+401
++1407
+402
+
+Table 3: Elected : W1, W3, W4, W5, W6, W7. Rules used : AEC2016. Elected candidates are
+colored purple once they have a quota. Superscripts are the number of papers corresponding to
+the given number of votes.
+
+5
+
+
+--- Page 6 ---
+
+Count
+1
+400
+2 −100400
+300
+
+Q W1 W2
+246
+245
+
+245
+
+246
+
+Surplus Q
+3
+Exclude L1, L2, L3
+4
+Exclude L1, L2, L3
+
+300
+
+300
+
+245
++29
+247
+
+246
+
+246
+
+L3
+3
+
+L2
+2
+
+L1
+1
+
+Exh. Rounding TV
+
++03 +03 +03 +97391
+97
++6
+103
+
+(cid:1)(cid:65)1
+−1
+0
+−03 −03 −03
+
+(cid:1)(cid:65)3
+−3
+0
+
+(cid:1)(cid:65)2
+−2
+0
+
+103
+
++3
+3
+
+3
+−2
+1
+
+1/4
+
+1
+
+1/4
+
+Table 4: Elected : Q, W1. Rules used : AEC2013. Elected candidates are colored purple once
+they have a quota. Superscripts are the number of papers corresponding to the given number of
+votes.
+
+Count
+1
+400
+2 −100400
+300
+
+Q W1 W2
+246
+245
+
+245
+
+246
+
+L3
+3
+
+L2
+2
+
+L1
+1
+
+Exh. Rounding TV
+
+3
+
++03 +03 +03 +97391
+97
++1
+98
+
+2
+
+3
+
+2
+
+(cid:1)(cid:65)1
+−1
+0
+−03
+
+3
+
+3
+
+(cid:1)(cid:65)2
+−2
+0
+−03
+
+(cid:1)(cid:65)3
+−3
+0
+−03
+
+98
++2
+100
+
+100
++3
+103
+
+103
+
++3
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+1/4
+
+1
+
+1/4
+
+1
+
+1/4
+
+1
+
+1/4
+
+300
+
+300
+
+300
+
+300
+
+300
+
+300
+
+245
++03
+245
+
+245
++03
+245
+
+245
++03
+245
+
+246
+
+246
+
+246
+
+246
+
+246
+
+246
+
+Surplus Q
+3
+Exclude L1
+4
+Exclude L1
+5
+Exclude L2
+6
+Exclude L2
+7
+Exclude L3
+8
+Exclude L3
+
+Table 5: Elected : Q, W2. Rules used : AEC2016. Elected candidates are colored purple once
+they have a quota. Superscripts are the number of papers corresponding to the given number of
+votes.
+
+Preference List Occurrences
+L3
+L2
+L1
+W1
+W2
+Q, L3, W1
+Q, L2, W1
+Q, L1, W1
+Q
+
+3
+2
+1
+245
+246
+3
+3
+3
+391
+
+Using bulk exclusion as in 2013 produces winners Q and W1 as shown in table 4. Not using
+
+bulk exclusion as in 2016 produces winners Q and W2 as shown in table 5.
+
+3.3 Bulk Exclusion summary and conclusion
+
+These examples show that, as currently legislated, bulk exclusion can alter election outcomes,
+though it has not done so in practice so far.
+
+Bulk exclusion is an unnecessary complication for an electronic count. The ambiguity over
+whether or not to use it could result in a contested election outcome that is diﬃcult or impossible
+to resolve. The best way to avoid this is to remove bulk exclusion from the Act.
+
+Recommendation 4. Remove Bulk Exclusion from the Act. This includes subsections (13A),
+(13B), (13C), portions of (13AA), and several deﬁnitions in (29).
+
+6
+
+
+--- Page 7 ---
+
+4 Ambiguity in the Act: termination of the count
+
+There are three diﬀerent ways a candidate can be elected:
+
+• by attaining a quota,
+
+• by being the higher of the two continuing candidates when there is exactly one unﬁlled seat
+
+(Subsection (17)).
+
+• by being a continuing candidate when the number of unﬁlled seats equals the number of
+
+continuing candidates, (subsection (18))
+
+The Act does not explicitly deﬁne when the distribution of preferences ends—in particular, it
+is unclear when subsections (17) or (18) apply. Subsection (18) aﬀects only order, not who gets
+elected. However, subsection (17) can aﬀect who wins.
+
+Commonwealth Electoral Act 1918, Section 273, (17)
+
+In respect of the last vacancy for which two continuing candidates remain, the con-
+tinuing candidate who has the larger number of votes shall be elected notwithstanding
+that that number is below the quota, and if those candidates have an equal number of
+votes the Australian Electoral Oﬃcer for the State shall have a casting vote but shall
+not otherwise vote at the election.
+
+Unlike a computer program, which (usually) has an implicit but well-deﬁned sequence of exe-
+cution steps, the Electoral Act simply lists a number of things that could happen (in subsections
+(9) through (18)) but does not specify which should be chosen when the conditions for two or more
+have been met.
+
+As a speciﬁc example, suppose one candidate (A) attains a quota (and hence a seat), leaving
+two other candidates, B and C, competing for a single last seat. Should subsection (17) apply
+immediately, electing whichever of B and C has a larger total, or should A’s surplus be distributed
+ﬁrst? The legislation is not clear.
+
+Subsection (14) states
+
+(14) Any continuing candidate who has received a number of votes equal to or
+greater than the quota on the completion of a transfer under subsection (13) or (15)
+of ballot papers of an excluded candidate or candidates, as the case may be, shall be
+elected, and, unless all the vacancies have been ﬁlled, the surplus votes (if any) of the
+candidate so elected shall be transferred...
+
+The question is whether, “all the vacancies have been ﬁlled,” because (17) applies immediately,
+or instead (17) should not be applied until after this transfer has been completed. A similar
+ambiguity arises over exclusions (subsection (15)): when a candidate is excluded, should subsection
+(17) apply immediately, or should the excluded candidate’s preferences be distributed ﬁrst?
+
+These decisions could aﬀect who wins, because preference distribution could alter the relative
+
+rankings of the two continuing candidates.
+
+4.1 Practical examples of when subsection (17) can alter the election
+
+outcome
+
+In practice, for all the examples we could ﬁnd, the AEC seems to apply (17) only after all transfers
+have been completed. This seems like the right thing to do, and we believe the legislation should
+be amended to reﬂect (what seems to be) the AEC’s practice. Indeed, subsection (17) could simply
+be removed—it is unnecessary because the exclusion of the lower candidate immediately causes
+subsection (18) to apply (one candidate and one seat remaining).
+
+Resolving the ambiguity is important because this case arises frequently in practice. For exam-
+ple, consider the special count of the 2016 South Australian Senate votes, conducted in 2017 after
+the removal of Bob Day.6 The last steps are summarised in Table 6. At the end of Count 453, there
+are three remaining candidates: McEwen (ALP), Gichuhi (FFP), and Burgess (ON). Burgess has
+the least votes and is excluded, leaving only two candidates. If subsection (17) were applied imme-
+diately, McEwen would win (with the higher tally). But after all the preferences are distributed,
+Gichuhi wins. Similar examples arose in 2013 in NSW, Vic, WA and Tasmania.
+
+6https://www.aec.gov.au/Elections/Federal_Elections/2016/files/sa-senate-dist-prefs-2016fe-special-count-13042017.
+
+pdf
+
+7
+
+
+--- Page 8 ---
+
+Count McEWEN GICHUHI BURGESS
+
+453
+Surplus KAKOSCHKE-MOORE
+454–465
+Exclude BURGESS
+
+54099
+
+52482
+
+(cid:24)(cid:24)(cid:24)(cid:88)(cid:88)(cid:88)46684
+
+65841
+
+69442
+
+0
+
+Table 6: The last steps of the 2016 South Australian Senate special election count, conducted in
+2017. If paragraph (17) was applied at count 453, as soon as Burgess was excluded, McEwen would
+win instead of Gichuhi.
+
+Count W1 W2 W3 W4 W5 W6 W7
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+L3
+4
+
+L1
+(cid:1)(cid:65)2
+
+L2
+3
+−2 +2
+5
+
+0
+
+(cid:1)(cid:65)4
++4 −4
+0
+
+9
+
+400
++6
+406
+
+406
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+
+400
+400
++1 +2 +3 +4
+404
+401
+
+403
+
+402
+
+(cid:1)(cid:65)9
+−9
+0
+
+406
+
+400
+
+406
+
+401
+
+402
+
+403
+
+404
+
+1
+2
+Exclude L1
+3
+Exclude L3
+
+Exclude L4
+5
+Exclude L2
+6
+Exclude L5
+7
+Exclude W2
+
+400
+4 +6
+406
+
+400
+
+406
+
+400
+
+406 (cid:8)(cid:8)(cid:72)(cid:72)400
+
+L4
+6
+
+6
+
+(cid:1)(cid:65)6
+−6
+0
+
+L5 Exh. TV
+20
+
+1
+
+1
+
+1
+
+1
+
+1
+
+20
+
+20
+
+20
+
++3
+(cid:26)(cid:26)(cid:90)(cid:90)20
+3
+−20 +10
+13
+
+0
+
+13
+
+Table 7: Elected : W1, W3, W7, W6, W5, W4. Rules used : AEC2019. Elected candidates are
+colored purple once they have a quota.
+
+Recommendation 5. Remove subsection (17), or clarify that it applies only after all papers from
+surplus distributions and exclusions are transferred (which seems to be the AEC’s current practice).
+
+4.2 Subsection 18
+
+Subsection (18) does not aﬀect who wins, but may aﬀect their order—we do not know whether
+this matters in any politically-relevant way.
+
+In 2016, the AEC seemed to apply section 18 after ﬁnishing started exclusions and any surplus
+distributions that may thereby arise. For example, in the Queensland 2016 election, at count 830,
+candidate R. McGarvie was excluded, leaving 2 candidates and 2 seats. The exclusion was carried
+out in full (11 counts), and C Ketter was discovered to have a quota, leaving 1 candidate (M
+Roberts) and 1 vacancy. This candidate was not elected until count 841, when C Ketter’s surplus
+was distributed. Similar events happened in Victoria (count 814), and NSW (count 1054). A
+diﬀerent thing occurred in WA 2016 (with R. Cullerton excluded) where on count 535 K. Muir was
+excluded, leaving 2 candidates and 2 seats. The ﬁrst step of the exclusion was performed, at the
+end of which the remaining 2 candidates were both declared elected. Regardless, the transfer of
+votes for the ﬁrst step of exclusion was always performed.
+
+In 2019 the rules seemed to change and the AEC applied subsection (18) immediately after
+identiﬁcation of a candidate to be excluded, before transferring any votes. In 2019 NSW, count
+429, K. McCulloch is excluded. This leaves 2 candidates, 2 vacancies. The preference distribution
+was aborted and no ballots were transferred in this count.
+
+Recommendation 6. Clarify when subsection (18) applies.
+
+The example used in Section 3.1 can be applied using the rules the AEC appeared to have used
+in 2019, aborting an exclusion after identiﬁcation of the candidate to be excluded. This produces
+yet another diﬀerent outcome from the same votes shown in table 7. This time only the order of
+election changes, with the order of election of candidates W4, W5, W6 and W7 being reversed.
+
+8
+
+
+--- Page 9 ---
+
+5 Conclusion
+
+Everyone makes mistakes, and all software has bugs and security vulnerabilities.7 For election
+software, the crucial thing is not to make the software perfect (which is impossible) but to ensure
+an open and transparent process that allows the software, and its results, to be scrutinised and
+double-checked. It is a good thing when errors and vulnerabilities are found and ﬁxed.
+
+We have found one error (in the implementation of tiebreaking) in the AEC’s oﬃcial Senate
+counting software. This needs to be corrected before the next election, and we would be happy to
+help patch it if the source code is made openly available. Alternatively, the Electoral Act could be
+amended to match the AEC’s current algorithm—it does not really matter how ties are broken,
+as long as the algorithm is speciﬁed in advance. Modifying the Electoral Act to match the current
+algorithm would also be aided by opening the source code.
+
+The same applies to the other two ambiguities we identiﬁed in the Electoral Act: bulk exclusion
+and the order of application of subsection (17). The legislation is unclear, and needs to be clariﬁed,
+either to match the AEC’s current code (if it is made available) or independently. A system that
+allows discretion over ambiguous rules, or runs a count diﬀerent from the speciﬁed rules, may result
+in disputes at election time that are diﬃcult or impossible to resolve.
+
+The purpose of this report is to avoid this outcome, by providing speciﬁc directions on correcting
+the AEC’s code (Section 2), realigning the AEC’s code with the unclear legislation (Section 3),
+and resolving ambiguitites in the legislation (Section 4). This should give very high conﬁdence
+that the counting software is accurate and produces the unique outcome deﬁned by legislation.
+
+It is easy to double-check the Senate counting software, because the software’s inputs (votes)
+and outputs (distributions of preferences) are both publicly available. This allows for the open
+public double-checking that is critical to democracy. (Of course it does not guarantee that all such
+problems will be found before they aﬀect a count.) It is very helpful that the AEC makes this
+information publicly available.
+
+By contrast, it is not possible to double-check—so as to ﬁnd and ﬁx errors in—the software that
+converts paper ballots to digitized preferences. This leaves the AEC without a way of providing
+evidence of an accurate election outcome. A statistical audit of randomly-chosen paper ballots,
+in the presence of scrutineers, would allow the digitized preferences to be double-checked against
+their paper originals. This would give onlookers a chance to ﬁnd and ﬁx problems, or to see that
+there was good evidence that the number of discrepancies was small.
+
+6 Summary of Recommendations
+
+Recommendation 1. When the preference data ﬁles for Senate votes are published, there should
+be a rigorous statistical audit to check that they accurately reﬂect the paper ballots. This should be
+conducted in a way that allows Scrutineers to check both the algorithms and the data.
+
+Recommendation 2. Either:
+
+• Correct the AEC’s oﬃcial code to follow the legislation for tie resolution, or
+
+• Ask the AEC to publish the oﬃcial code, including its tiebreaking rules, and amend the
+
+legislation to match it.
+
+Recommendation 3. Formalize as legislation the apparent policy to, in the case of otherwise
+unresolved ties, favour candidates lower on the ballot.
+
+Recommendation 4. Remove Bulk Exclusion from the Act. This includes subsections (13A),
+(13B), (13C), portions of (13AA), and several deﬁnitions in (29).
+
+Recommendation 5. Remove subsection (17), or clarify that it applies only after all papers from
+surplus distributions and exclusions are transferred (which seems to be the AEC’s current practice).
+
+Recommendation 6. Clarify when subsection (18) applies.
+
+7Even our software. We found the AEC tiebreaking error when we were re-implementing our version of the
+
+Senate count and noticed we had made the same mistake.
+
+9
+
+
+--- Page 10 ---
+
+References
+
+[BCT+19] Michelle Blom, Chris Culnane, Vanessa Teague, Damjan Vukcevic, Andrew Conway,
+Rajeev Gor´e, and Peter Stuckey. Submission to the inquiry into the conduct of
+the 2019 federal election, 2019. https://www.aph.gov.au/DocumentStore.ashx?id=
+a47d4582-b11f-4731-b87a-852ddab7f1c3&subId=670312.
+
+[CBNT17] Andrew Conway, Michelle Blom, Lee Naish, and Vanessa Teague. An analysis of New
+South Wales electronic vote counting. In Proceedings of the Australasian Computer Sci-
+ence Week Multiconference, pages 1–5, 2017. https://arxiv.org/pdf/1611.02015.
+pdf.
+
+[CT]
+
+[GL16]
+
+Andrew Conway and Vanessa Teague.
+Errors in the act’s electronic count-
+ing code. https://github.com/SiliconEconometrics/PublicService/raw/master/
+CountVotes/2020%20Errors%20In%20ACT%20Counting.pdf.
+
+Rajeev Gor´e and Ekaterina Lebedeva. Simulating stv hand-counting by computers
+In International Joint Conference on Electronic Voting,
+considered harmful: Act.
+pages 144–163. Springer, 2016.
+https://openresearch-repository.anu.edu.au/
+bitstream/1885/113153/2/01%20Gore%20and%20Lebedeva%20Simulating%20STV%
+20hand-counting%202017.pdf.
+
+[Wen10] Roland Wen. Online Elections in Terra Australis. PhD thesis, University of New South
+Wales, Sydney, Australia, 2010. http://unsworks.unsw.edu.au/fapi/datastream/
+unsworks:10365/SOURCE02.
+
+10

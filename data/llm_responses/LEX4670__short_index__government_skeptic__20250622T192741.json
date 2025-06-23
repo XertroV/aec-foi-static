@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "From a government skeptic's viewpoint, these FOI documents starkly expose the Australian Electoral Commission's (AEC) excessive bureaucratic overreach and flagrant waste of public resources. The heavily redacted FOI log itself is a red flag, indicating a default stance of withholding information and hindering transparency. The core revelation—the AEC's obsessive nitpicking over the \"Yes23\" campaign's URL authorization, forcing legal debates on whether \"yes23.com.au\" was \"sufficiently clear\" or if \"www.yes23.com.au\" needed to be *underlined* to \"appear as a URL\"—epitomizes administrative inefficiency and arbitrary rule interpretation. This entire episode highlights an agency prioritizing pedantic procedural technicalities over common sense and practical functionality, squandering taxpayer money and staff time on trivialities rather than focusing on substantive electoral integrity, while simultaneously burdening public campaigns with unnecessary legal costs."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 445,
+    "candidates_token_count": 189,
+    "total_token_count": 1284,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government skeptic's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThese FOI documents reveal a bureaucratic apparatus consumed by pedantic minutiae, highlighting potential waste of public resources and questionable decision-making by the Australian Electoral Commission (AEC).\n\nThe FOI disclosure log itself is a red flag, with 7 out of 8 documents heavily redacted or released only \"in part\" under Section 47F (personal privacy exemption). This suggests a default stance of withholding information, even in correspondence related to public referendum campaigns, hindering full transparency and public scrutiny of government actions.\n\nThe core of the revealed documents exposes the AEC's excessive overreach and nitpicking regarding the \"Yes23\" campaign's compliance with authorisation requirements. Despite \"Yes23\" incorporating their website URL (\"yes23.com.au\") at the foot of their digital communications, which linked directly to the required authorisation particulars, the AEC initially deemed this insufficient.\n\nThe subsequent correspondence highlights the absurdity:\n*   The AEC questioned if \"Yes23.com.au\" was \"sufficiently clear\" as a URL.\n*   \"Yes23\" lawyers were forced to engage in a back-and-forth, querying if \"www.Yes23.com.au\" would appease the AEC.\n*   In a display of hyper-bureaucratic control, the AEC ultimately accepted \"www.Yes23.com.au\" – but only *if the text was also underlined* to \"appear as a URL.\"\n\nThis exchange demonstrates an alarming level of administrative inefficiency and an arbitrary interpretation of rules. Public funds and staff time at the AEC were spent debating the visual formatting of a URL, rather than on substantive issues of electoral integrity. Simultaneously, \"Yes23\" was forced to incur legal costs and divert resources to satisfy these trivial demands. This entire episode exemplifies government waste, regulatory overreach, and a preference for rigid adherence to obscure procedural technicalities over common sense and practical functionality.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

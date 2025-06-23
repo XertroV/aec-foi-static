@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "FOI request LEX7939 sought specific statistical and administrative data from the Australian Electoral Commission (AEC) regarding \"designated electors\" for recent financial years (2022/23 to 2024/25), covering elector numbers, declaration volumes, and review processes. While a future date's elector count was not directly provided, the AEC supplied historical data on designated electors from its website. The response detailed a fluctuating number of designated elector declarations—37 in 2022/23, 1 in 2023/24, and 211 in 2024/25 to date—all made by a delegate of the Electoral Commissioner. Internal reviews were minimal (4 applications in 2022/23 and 2024/25), with most decisions confirmed and only one set aside in 2024/25. Notably, there were no applications for external review to the Administrative Review Tribunal or instances of declarations ceasing effect under section 202AH(3) across the requested period."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 717,
+    "candidates_token_count": 229,
+    "total_token_count": 1939,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a single paragraph summary of the following FOI request summary:\n\nSummary:\n\nThis document, labeled \"LEX7939,\" is the released information pertaining to a Freedom of Information (FOI) request concerning \"Designated Electors Data.\"\n\n**Main Purpose of the FOI Request:**\nThe primary purpose of the FOI request LEX7939 was to obtain specific statistical data and administrative information from the Australian Electoral Commission (AEC) regarding \"designated electors.\" This included the number of such electors, the volume and outcomes of declarations made by the AEC, and the subsequent internal and external review processes related to these declarations over recent financial years (2022/23, 2023/24, and 2024/25 to date).\n\n**The Documents from the FOI Request:**\nThe provided document is a direct response to the FOI request LEX7939. It is presented as a list of the original questions from the FOI request, with the AEC's corresponding answers immediately following each question. While it states \"No document response as per decision letter\" for one item, it then provides relevant data extracted from the AEC website. The document itself serves as the official response to the FOI request.\n\n**Main Content from the FOI Request Documents:**\n\n*   **Number of Designated Electors (Future Date):** The request for the number of designated electors as of 7 April 2025, broken down by state/territory and electoral division, was **not provided** due to a \"no document response as per decision letter.\" However, the AEC did provide a table extracted from its website showing the number of designated electors per federal electoral event since the 2019 federal election.\n*   **Designated Elector Declarations (Financial Years):**\n    *   **2022/23:** 37 declarations\n    *   **2023/24:** 1 declaration\n    *   **2024/25 (to date):** 211 declarations\n    *   **Authority for Declarations:** All declarations captured in the response were made by a delegate of the Electoral Commissioner.\n*   **Internal Review of Declarations:**\n    *   **Unique Applications for Review:**\n        *   **2022/23:** 4 applications\n        *   **2023/24:** 0 applications\n        *   **2024/25 (to date):** 4 applications\n    *   **Outcome of Internal Review Decisions:**\n        *   **2022/23:** 4 confirmed\n        *   **2023/24:** N/A (no applications)\n        *   **2024/25 (to date):** 3 confirmed, 1 set aside\n*   **Administrative Review Tribunal (ART) Applications:**\n    *   **2024/25 (to date):** 0 unique applications for review to the ART.\n*   **Declarations Ceasing Effect (s 202AH(3)):**\n    *   **2022/23, 2023/24, 2024/25 (to date):** 0 declarations ceased to have effect under s 202AH(3)."
+}

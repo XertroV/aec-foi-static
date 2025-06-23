@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This FOI request summary outlines documents from the Australian Electoral Commission (AEC) related to a \"breach notice\" issued to \"Advance Australia\" for failing to properly authorise \"referendum matter\" on their \"Referendum News\" Facebook page. The released records, including the breach letter and an email chain, reveal the AEC's engagement with \"Advance Australia,\" providing specific guidance on authorisation requirements for digital communications under the Referendum (Machinery Provisions) Act 1984. This guidance included extending compliance deadlines and detailing required particulars (entity name, town, responsible person). \"Advance Australia\" confirmed their amendments, with the AEC later offering further clarification on the precise format for digital authorisations, stressing the \"when in doubt, authorise it\" principle."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 871,
+    "candidates_token_count": 154,
+    "total_token_count": 1814,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\n### Summary of FOI Request Documents: Authorisation Concerns for Referendum Communications\n\n#### Main Purpose of the FOI Request\nThe FOI request sought access to documents related to communications from the Australian Electoral Commission (AEC) concerning the failure to authorise referendum matter, specifically regarding the \"Referendum News\" Facebook page. The request aimed to understand the nature of the \"breach notice\" issued and the subsequent exchanges between the AEC and the involved party concerning authorisation compliance.\n\n#### Documents from the FOI Request\nThe released documents primarily consist of eleven entries:\n*   One email titled \"Failure to authorise referendum matter\" (Document 1).\n*   One letter, LEX4124, dated 26 July 2023 (Document 2), which appears to be the \"breach notice\" mentioned in the emails, though its content is heavily redacted.\n*   Nine emails (Documents 3-11) titled \"Authorisation concerns,\" which form an email chain between the AEC's Authorisation Section (and Legal Services Branch) and a representative of the entity involved, concerning the breach notice and compliance.\n\nAll documents were released in part, with exemptions applied under s 47F (personal privacy).\n\n#### Main Content from the FOI Request Documents\nThe documents reveal the following key information related to the FOI request:\n\n*   **Initial Notification of Breach**: On 26 July 2023, the AEC's Legal Services Mailbox sent an email to the Authorisation Section, enclosing a letter (LEX4124) regarding a \"Failure to authorise referendum matter.\" This letter served as a \"breach notice\" to an external entity.\n*   **Engagement from the Breaching Party**: On 31 July 2023, a representative of the entity (later identified as \"Advance Australia,\" operating via the \"Referendum News\" Facebook page) contacted the AEC Authorisation Section, acknowledging receipt of the \"breach notice\" and seeking to discuss the matter.\n*   **AEC Guidance on Authorisation**:\n    *   The AEC confirmed that paid communications (ads) on the \"Referendum News Facebook page\" containing \"referendum matter\" (expressly promoting or opposing the law) require authorisation under section 110C(1)(a), (c) and (5) of the Referendum (Machinery Provisions) Act 1984.\n    *   The AEC extended the compliance deadline to 5pm, Monday 7 August 2023.\n    *   Specific guidance was provided on the notifying particulars for non-printed communications (such as Facebook posts), as per Section 12(2)(d) of the Commonwealth Electoral (Authorisation of Voter Communication) Determination 2021. For such communications, if a URL/hyperlink is not feasible in an image, the authorisation can be placed at the end of the communication.\n    *   For \"other communications\" by a \"disclosure entity\" (not a natural person), the authorisation message must include: (a) the name of the entity, (b) the relevant town or city of the entity, and (c) the name of the natural person responsible for giving effect to the authorisation.\n*   **Compliance Action Taken**: On 5 August 2023, the representative from \"Advance Australia\" confirmed they had \"amended Referendum News and all other assets to reflect our previous discussion and this advice.\"\n*   **Further Clarification from AEC**: On 7 August 2023, the AEC acknowledged the timely action but noted that the authorisation particulars initially provided by \"Advance Australia\" for their Facebook posts were suited for *printed* communications. The AEC reiterated the correct particulars for non-print materials and attached a \"Referendum flowchart\" for further assistance, indicating it was up to \"Advance Australia\" to amend their particulars if they wished. The AEC's general guidance emphasized: \"when in doubt, authorise it.\"\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

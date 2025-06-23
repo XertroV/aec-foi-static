@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The Australian Electoral Commission (AEC) is implementing a \"fundamentally lopsided\" and potentially biased referendum vote assessment, as its Scrutineers Handbook counts a 'tick' as 'yes' but inexplicably dismisses a 'cross' as informal, threatening to \"artificially skew the count towards the yes vote\" and undermine ballot integrity. This alarming administrative decision is compounded by the AEC's refusal to release crucial justifying legal advice from the Attorney-General’s Department, despite claims of waived privilege, fueling suspicion of deliberate opacity. The AEC's dismissal of criticism by citing past consistency is an insufficient defense for a policy deemed \"not appropriate or legally correct,\" exposing a worrying pattern where a government body's administrative choices could directly manipulate democratic outcomes and erode public confidence in its neutrality."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 319,
+    "candidates_token_count": 163,
+    "total_token_count": 1354,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government skeptic's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe Australian Electoral Commission (AEC) stands accused of implementing a \"fundamentally lopsided\" and potentially biased approach to assessing votes in the upcoming referendum, raising serious concerns about the impartiality of a key government institution. Documents reveal that the AEC's Scrutineers Handbook (July 2023) intends to count a 'tick' as a 'yes' vote, but inexplicably dismiss a 'cross' as ambiguous and therefore informal. This administrative decision is flagged as having the potential to \"artificially skew the count towards the yes vote,\" directly undermining the integrity and fairness of the national ballot.\n\nCritics further highlight a glaring lack of transparency, noting that the AEC relies on legal advice from the Attorney-General’s Department for this controversial stance but refuses to release it, despite claims that legal privilege has been waived through public discussion of the advice. This withholding of crucial justification fuels suspicion of deliberate opacity. The AEC's defence that this approach is consistent with past referendums is dismissed as insufficient justification for a policy deemed \"not appropriate or legally correct,\" suggesting a pattern of questionable decision-making that prioritizes internal consistency over fundamental fairness and public confidence. Ultimately, the documentation points to a worrying instance where a government body's administrative choices could directly impact democratic outcomes and erode public trust in its neutrality.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

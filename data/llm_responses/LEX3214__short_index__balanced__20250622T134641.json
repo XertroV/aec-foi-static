@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The FOI request sought information on the Australian Electoral Commission's (AEC) process for verifying political party membership, specifically concerning VOTEFLUX.ORG's eligibility to retain federal registration, which requires at least 1500 members. Documents reveal the AEC reviews supplied membership lists by sampling and directly contacting individuals to confirm their status. An \"AEC Membership Testing – Realtime Report\" for VOTEFLUX.ORG as of March 10, 2022, detailed results from a 66-person sample: 29 confirmed membership, 17 denied, 4 were neutral, and 16 were non-contactable."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 543,
+    "candidates_token_count": 138,
+    "total_token_count": 840,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\n## FOI Request Summary\n\n### Main Purpose of the FOI Request\nThe FOI request appears to seek information regarding the Australian Electoral Commission's (AEC) process for verifying the membership numbers of political parties, specifically concerning the review of VOTEFLUX.ORG's eligibility to retain federal registration. This process involves checking supplied membership lists and contacting a random sample of individuals to confirm their membership.\n\n### Documents from the FOI Request\nThe released documents include:\n*   A document list outlining three items:\n    *   An email from Ben Rushton to PartyMembership-Testing dated 16 March 2022.\n    *   An email from Services Australia to AEC dated 17 March 2022.\n    *   An attachment to the email dated 17 March 2022.\n*   An email chain from PartyMembership-Testing (AEC) to an individual, with a reply from the individual, dated 16 March 2022.\n*   A page with a table titled \"Party\" showing membership test results.\n\n### Main Content from the FOI Request Documents\nThe documents reveal the following key information related to the FOI request:\n*   The AEC is reviewing VOTEFLUX.ORG's eligibility to retain federal registration, as federally registered political parties without parliamentary representation are required to have at least 1500 members under the Commonwealth Electoral Act 1918.\n*   As part of this review, the AEC conducts checks on the party's supplied membership list, including obtaining a random sample and directly contacting individuals to verify their membership status.\n*   An example of the communication sent to sampled individuals is provided, asking them to confirm or deny their membership of VoteFlux.Org.\n*   A response from a sampled individual is included, where they confirm their membership.\n*   A summary of the \"AEC Membership Testing – Realtime Report VOTEFLUX.ORG Upgrade Democracy! as at 10 March 2022\" is provided in a table, detailing the outcomes of the membership verification process for a sample of 66 individuals:\n    *   **Confirmed:** 29\n    *   **Denied:** 17\n    *   **Neutral:** 4\n    *   **Non-contactable:** 16\n    *   **Total:** 66\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

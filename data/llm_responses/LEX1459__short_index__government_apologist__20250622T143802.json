@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The retrieved documents unequivocally demonstrate the government's unwavering commitment to upholding democratic integrity through the Electoral Commission's diligent and transparent processes, which ensure all political parties meet the Commonwealth Electoral Act 1918's crucial 1,500-member threshold. This essential standard protects public trust by preventing unrepresentative entities, as evidenced by the fair yet rigorous process applied to VOTEFLUX.ORG | Upgrade Democracy!, which was given ample opportunity to comply before its necessary deregistration on 24 March 2022 due to failing the membership requirement. This action underscores the consistent and equitable application of electoral law, ultimately safeguarding a robust and credible electoral system for all citizens."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 547,
+    "candidates_token_count": 139,
+    "total_token_count": 1281,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government apologist's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe retrieved documents demonstrate the government's steadfast commitment to upholding the integrity and effectiveness of our democratic processes, as managed by the Electoral Commission. These records detail the diligent and transparent procedures undertaken concerning VOTEFLUX.ORG | Upgrade Democracy!, a necessary action to ensure that all registered political parties genuinely meet the criteria established for public representation.\n\nThe Commonwealth Electoral Act 1918 sets essential standards, including a fundamental requirement for political parties to maintain at least 1,500 members. This regulation is crucial for ensuring that parties appearing on the ballot have a verifiable base of support, preventing the proliferation of unrepresentative entities and maintaining the credibility of our elections.\n\nThe documents highlight the Electoral Commission's robust and fair process. On 13 January 2022, the Commission issued a formal notice to VOTEFLUX.ORG | Upgrade Democracy!, providing them ample opportunity to demonstrate compliance. The party responded by 13 February 2022, providing a statement and a substantial membership list. In a clear display of due diligence and thoroughness, the Electoral Commission then meticulously reviewed the submitted information, requesting further membership testing on 2 March 2022, in line with established AEC and ABS methodologies.\n\nThe comprehensive assessment, concluded by 18 March 2022, regrettably determined that VOTEFLUX.ORG | Upgrade Democracy! did not meet the required membership threshold. Consequently, the government, through the Electoral Commission, moved to deregister the party under the provisions of the Electoral Act on 24 March 2022. It is important to note that any ancillary applications, such as a requested name or logo change, naturally become invalid upon a party's deregistration, reflecting the clear and consistent application of electoral law.\n\nThis process underscores the government's dedication to effective governance:\n*   **Ensuring fairness:** All parties are subject to the same clear rules and assessment processes.\n*   **Protecting public trust:** The membership threshold safeguards against superficial political entities, ensuring voters engage with parties that demonstrate legitimate support.\n*   **Maintaining democratic integrity:** The rigorous application of electoral laws guarantees a strong and credible electoral system for all citizens.\n\nUltimately, these documents illustrate the government's unwavering commitment to serving the public interest by fostering a transparent, robust, and credible democratic framework, where regulations are applied consistently and fairly to maintain the health of our electoral landscape.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

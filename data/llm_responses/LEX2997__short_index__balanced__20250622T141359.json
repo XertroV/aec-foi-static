@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The FOI request disclosed documents detailing the Australian Electoral Commission's (AEC) investigation into Andrew Laming MP's Facebook pages for compliance with federal electoral authorisation laws. This inquiry was triggered by public complaints and media reports, notably from *The Guardian*, alleging Laming used numerous pages (e.g., \"Redland Bay Bulletin,\" \"Redlands Institute\") disguised as community or news groups to promote political content and attack opponents without mandatory disclosures. The AEC confirmed an active investigation, noting 2018 Electoral Act amendments broadened social media authorisation, and issued formal notices to Laming for detailed information and to third parties (like Facebook) for data, with Facebook confirming its cooperation. Findings revealed some pages were removed or updated with authorisation, while others remained active and unauthorised."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 671,
+    "candidates_token_count": 157,
+    "total_token_count": 2045,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\nThis FOI request sought documents related to the Australian Electoral Commission's (AEC) investigation into Andrew Laming MP's Facebook pages concerning compliance with federal electoral authorisation laws.\n\nThe released documents include:\n\n*   A schedule of documents outlining document IDs, descriptions, and release decisions (full, partial, or exempt) with associated exemption clauses (e.g., s 22 for irrelevant information, s 47F for personal privacy, s 37(1)(a) and s 37(2)(b) for law enforcement methods, s 42 for legal professional privilege, s 47E(d) for deliberative processes).\n*   Internal AEC emails discussing media coverage, public perception, and investigation strategies.\n*   External correspondence, primarily formal notices issued to Andrew Laming and third parties (likely Facebook).\n*   Internal legal analysis and briefing papers for AEC Executive Leadership Team (ELT) and Senate Estimates.\n*   Records of public complaints.\n*   Transcripts from Senate committee hearings.\n*   Media monitoring reports.\n\nThe main content from these documents reveals:\n\n*   **Initial Allegations and Media Attention:** The investigation was triggered by public complaints and media reports, particularly from *The Guardian*, alleging that Andrew Laming MP operated numerous Facebook pages (e.g., \"Redland Hospital: Let's Fight for Fair Funding\", \"Redland Bay Bulletin\", \"Redlands Institute\", \"Thornlands 4164\", \"Victoria Point News\") under the guise of community or news groups, promoting political material and attacking opponents without the mandatory political authorisation disclosures required by the Commonwealth Electoral Act.\n*   **Separate Complaint:** One complaint specifically alleged Laming misused confidential elector details to make uninvited visits to people's homes.\n*   **AEC Investigation Confirmed:** The AEC confirmed it was actively investigating the matter, noting that the Electoral Act was amended in March 2018 to broaden authorisation requirements to cover social media communications.\n*   **Public and Internal Reactions:** Internal emails indicate significant media and social media attention, with public commentary often expressing skepticism about the AEC's authority or willingness to take action. The AEC monitored this sentiment and prepared standard responses.\n*   **Status of Facebook Pages:** AEC analysis found that some of the Facebook pages in question were subsequently removed, while at least one (Redland Bay Bulletin) was later updated by Andrew Laming to include proper authorisation details. Another page (Redlands Institute) remained active and unauthorised.\n*   **Information Gathering:** The AEC issued formal notices under Section 321F of the Commonwealth Electoral Act 1918 to Andrew Laming, requiring him to provide detailed information and documents regarding the administration, content, and authorisation efforts for these Facebook pages. Similar notices were issued to third parties (implied to be Facebook Inc.) seeking relevant data.\n*   **Facebook's Cooperation:** During a Senate committee hearing, a Facebook representative confirmed their cooperation with the AEC's investigation into Laming's activities.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

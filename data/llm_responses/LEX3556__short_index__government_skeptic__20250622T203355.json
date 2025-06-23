@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "These FOI documents expose an alarming lack of transparency and accountability in election finance oversight, revealing critical decisions *not* to pursue potential disclosure entities were made with \"no record\" kept, fundamentally obstructing public scrutiny. This systemic failure is compounded by years of \"Outstanding Obligations\" from political parties, donors, and associated entities, indicating endemic non-compliance and a deliberate lack of enforcement that enables undeclared political funding. The blatant leniency towards powerful groups like the Real Estate Institute of Australia, whose significant electoral influence was dismissed without documented justification, further underscores a system that actively shields powerful interests and undermines the integrity of political financing."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 329,
+    "candidates_token_count": 126,
+    "total_token_count": 1492,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government skeptic's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThese FOI documents reveal significant deficiencies in government accountability and transparency regarding election finance oversight. A critical admission states that \"no record of this determination was kept\" when decisions were made *not* to pursue potential disclosure entities. This complete lack of documentation for crucial investigative decisions renders external scrutiny impossible, raising concerns about the integrity of the oversight process itself.\n\nThe documents also highlight an apparent struggle with compliance across the political landscape, listing numerous \"Outstanding Obligations\" for political parties, donors, third parties, candidates, and associated entities spanning several years (2015-16 through 2019 federal election). This indicates either systemic inefficiencies in enforcing disclosure laws, inadequate resourcing, or a lax approach that allows for potential under-declaration of political funding and influence.\n\nSpecifically, the Real Estate Institute of Australia (REIA) was flagged for an \"election campaign\" commenting on the incoming government regarding negative gearing. Despite this, the agency concluded there was \"not enough evidence\" to pursue them as exceeding disclosure thresholds, a decision for which, critically, no records were kept. This raises questions about potential leniency towards powerful industry groups, allowing their significant electoral influence to remain outside public scrutiny. The agency's opaque processes and the persistent compliance issues suggest a system that struggles to ensure transparency and accountability in political financing, potentially enabling undeclared influence and questionable decision-making.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

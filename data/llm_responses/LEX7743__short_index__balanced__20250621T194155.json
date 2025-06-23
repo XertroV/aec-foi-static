@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "An FOI request sought \"Client Details\" related to the Australian Electoral Commission's (AEC) transparency website. The specific document, \"Client Details - AEC - Transparency Website,\" was identified as publicly available without any applicable exemptions, meaning the information requested is already accessible to the public."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 185,
+    "candidates_token_count": 58,
+    "total_token_count": 446,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\n## FOI Request Summary\n\n**Main Purpose of FOI Request:**\nThe primary purpose of the FOI request appears to be to obtain \"Client Details\" specifically related to the Australian Electoral Commission (AEC) and its transparency website.\n\n**Documents from the FOI Request:**\nThe request includes one documented item:\n*   \"Client Details - AEC - Transparency Website\"\n\n**Main Content Related to the FOI Request:**\nThe document \"Client Details - AEC - Transparency Website\" is publicly available and has no relevant exemptions applicable to its release. This indicates that the information sought through the FOI request, concerning client details and the AEC's transparency website, is already accessible to the public.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

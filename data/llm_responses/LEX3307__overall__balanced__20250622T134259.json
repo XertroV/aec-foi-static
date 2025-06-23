@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "## FOI Request Summary\n\n*   **Main Purpose of FOI Request:** To obtain minutes of The Commission meetings held between March 1, 2022, and September 19, 2022, that contain content related to the integrity of the electoral process. Specific examples provided include the party register (including membership testing), physical security of AEC operations, and the integrity, accuracy, and legality of AEC counting algorithms (especially in light of LEX3029).\n\n*   **Documents from FOI Request:** The released document is the \"Endorsed minutes for Commission Meeting No. 278, held on 29 March 2022.\"\n\n*   **Main Content Related to FOI Request:** The primary content of the released minutes (Meeting No. 278) focuses on the review of a delegate's decision to deregister the ‘Australian People’s Party’. The Commission affirmed the deregistration, having been satisfied that the party, as a non-Parliamentary entity, did not meet the requirement of having at least 1,500 members, as per s 137(6) of the Commonwealth Electoral Act 1918. This directly relates to the FOI request's interest in the \"party register incl. membership testing\" as an aspect of electoral process integrity."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 571,
+    "candidates_token_count": 280,
+    "total_token_count": 1561,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Summarize the following documents in markdown format. These documents are the released documents associated with an FOI request. The summary should focus on: the main purpose of the FOI request, the documents from the FOI request, and the main content from the FOI request documents that relates to the FOI request.\n\nDocuments:\n\n\n\n--- Page 1 ---\n\nRequest for: \n\n•  The minutes of all meetings of The Commission that took place on or after 1st March 2022 and before 19th September 2022 which contain any \ncontent whatsoever regarding the integrity of the electoral process, e.g.: the party register incl. membership testing; the physical security of the \nAEC's election-related operations; the integrity, accuracy, and legality of the AEC's counting algorithms (esp. in light of LEX3029). \n\nDoc No.  Document description \n\nExemption \n\nDecision on Access \n\nSCHEDULE OF RELEASED DOCUMENTS \n\nEndorsed minutes for Commission Meeting No. 278, held on 29 March 2022  N/A \n\nAccess in full\n\n\n\n--- Page 1 ---\n\n\n\n\n--- Page 2 ---\n\nAgenda item 1: For Decision: Review of the delegate’s decision to deregister the \n‘Australian People’s Party’ \n\nThe Commission examined and discussed the material before it in relation to the application \nfor review brought by the ‘Australian People’s Party’ of the delegate’s decision of \n3 November 2021 to deregister the Australian People’s Party under s 137(6) of the \nCommonwealth Electoral Act 1918 (Electoral Act). The application for review was made \nunder s 141(2) of the Electoral Act. \n\nThe Commission is satisfied on reasonable grounds that the Australian People’s Party is a \nnon-Parliamentary party that does not have at least 1,500 members. The Commission \ntherefore upholds the deregistration of the Australian People’s Party under s 137(6) of the \nElectoral Act and affirms the decision on review. \n\nThe Commission decided:  \n\n•  To affirm the delegate’s decision of 3 November 2021 pursuant to section 141(4) of \n\nthe Electoral Act. \n\nClosing \n\nThe Chairperson thanked members for attending and closed the meeting at 2:18pm. \n\nMinutes: Australian Electoral Commission Meeting No. 278 \n\nPage 2\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

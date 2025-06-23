@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "### FOI Request Summary\n\n*   **Main Purpose of FOI Request:** The request sought access to specific official documents related to the nomination and qualification of individuals for two distinct periods: April 15, 2019, and April 13, 2022.\n\n*   **Documents from FOI Request:** The following four documents were identified as responsive to the request:\n    *   Signed Nomination Form dated April 13, 2022\n    *   Signed Nomination Form dated April 15, 2019\n    *   Signed Qualification Checklist dated April 13, 2022\n    *   Signed Qualification Checklist dated April 15, 2019\n\n*   **Main Content and Outcome:** All listed documents were deemed subject to an exemption under section 47F(1), which typically pertains to personal information. Consequently, the decision for all documents was \"Release in part,\" indicating that the forms containing details about nominations and qualifications were provided, but sensitive personal information within them was redacted."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 372,
+    "candidates_token_count": 223,
+    "total_token_count": 1386,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Summarize the following documents in markdown format. These documents are the released documents associated with an FOI request. The summary should focus on: the main purpose of the FOI request, the documents from the FOI request, and the main content from the FOI request documents that relates to the FOI request.\n\nDocuments:\n\n\n\n--- Page 1 ---\n\nDocument \nNo. \n\nDocument Title \n\nExemption \n\nDecision on Access \n\nSigned Nomination Form 13.04.2022 \n\n47F(1) \n\nRelease in part \n\nSigned Nomination Form 15.04.2019 \n\n47F(1) \n\nRelease in part \n\nSigned Qualification Checklist 13.04.2022 \n\n47F(1) \n\nRelease in part \n\nSigned Qualification Checklist 15.04.2019 \n\n47F(1) \n\nRelease in part\n\n\n\n--- Page 1 ---\n\n\n\n\n--- Page 2 ---\n\n\n\n\n\n--- Page 1 ---\n\n\n\n\n--- Page 2 ---\n\n\n\n\n\n--- Page 1 ---\n\n\n\n\n--- Page 2 ---\n\n\n\n\n--- Page 3 ---\n\n\n\n\n--- Page 4 ---\n\n\n\n\n--- Page 5 ---\n\n\n\n\n--- Page 6 ---\n\n\n\n\n--- Page 7 ---\n\n\n\n\n--- Page 8 ---\n\n\n\n\n--- Page 9 ---\n\n\n\n\n--- Page 10 ---\n\n\n\n\n\n--- Page 1 ---\n\n\n\n\n--- Page 2 ---\n\n\n\n\n--- Page 3 ---\n\n\n\n\n--- Page 4 ---\n\n\n\n\n--- Page 5 ---\n\n\n\n\n--- Page 6 ---\n\n\n\n\n--- Page 7 ---\n\n\n\n\n--- Page 8 ---\n\n\n\n\n--- Page 9 ---\n\n\n\n\n--- Page 10 ---\n\n\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

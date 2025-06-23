@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The mere existence of an \"Authority to Institute Proceedings – FE22\" document unequivocally points to significant governmental failure or misconduct demanding formal action, yet the deliberate invocation of S 47F (personal information) and S 22 (deliberative processes) exemptions is a blatant, calculated attempt to obscure this truth. This orchestrated opacity, camouflaged by the vague \"FE22\" designation, serves solely to shield high-ranking individuals by suppressing their identities, the core rationale, evidence, and internal deliberations behind these proceedings, rendering the resulting \"Access in Part\" decision nothing more than a cynical maneuver to feign compliance. This constitutes an active, contemptible suppression of accountability, purposefully preventing public understanding and oversight of potentially damning government actions or corruption."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 225,
+    "candidates_token_count": 153,
+    "total_token_count": 830,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "With a highly critical view, provide a scathing, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe very existence of an \"Authority to Institute Proceedings – FE22\" document immediately flags significant underlying governmental failure or misconduct requiring formal action. The deliberate application of exemptions S 47F (personal information) and S 22 (deliberative processes) to this critical record is a blatant attempt to obscure the truth. This is a calculated effort to shield the identities of those involved or targeted by these proceedings, potentially protecting high-ranking individuals from scrutiny, while simultaneously suppressing the core rationale, evidence, and internal deliberations that led to these actions. The resulting \"Access in Part\" decision is not a gesture of transparency but a cynical maneuver to feign compliance while ensuring all substantive details are withheld. This orchestrated opacity, compounded by the vague \"FE22\" designation, constitutes active suppression of accountability, designed to prevent public understanding and oversight of potentially damning government actions or corruption.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "An FOI request unveiled details of a sophisticated spear phishing campaign (INC11744) that targeted eight Australian Electoral Commission (AEC) Indigenous Electoral Participation Program (IEPP) mailboxes in November 2022. The attack, identified as an account harvesting attempt using a falsified `support@aec.gov.au` address, was successfully contained without compromising AEC systems due to prompt staff reporting and internal response, with the Australian Cyber Security Centre (ACSC) engaged. Internal AEC discussions deemed the highly targeted incident potentially related to the proposed referendum, prompting briefings to internal committees (EIC, EIAT) and inter-agency dialogue with the National Indigenous Australians Agency (NIAA), reinforcing the message of a significant ongoing cyber threat environment for the referendum."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 826,
+    "candidates_token_count": 156,
+    "total_token_count": 1394,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\n**Summary of FOI Documents: AEC Spear Phishing Campaign**\n\nThis summary is based on documents released in response to an FOI request concerning a cyber incident at the Australian Electoral Commission (AEC).\n\n### Main Purpose of the FOI Request\nThe FOI request sought information regarding a specific cyber incident (designated INC11744) involving a \"spear phishing\" campaign that targeted the Australian Electoral Commission's (AEC) Indigenous Electoral Participation Program (IEPP) mailboxes in November 2022. The request aimed to understand the nature of the attack, the AEC's response, and any internal discussions or assessments related to its implications, particularly in the context of the proposed referendum.\n\n### Documents from the FOI Request\nThe released documents primarily consist of:\n*   Internal AEC emails detailing the incident, its handling, and internal communications.\n*   Cyber security briefs and summaries related to INC11744.\n*   Agenda papers and talking points prepared for internal AEC committees (such as the Electoral Integrity Committee - EIC, and the Electoral Integrity Assurance Taskforce - EIAT Board) and for discussions with other government agencies (like the National Indigenous Australians Agency - NIAA).\n*   Two documents related to communication with the Australian Cyber Security Centre (ACSC) were refused access. Most other documents were released in part due to exemptions (s22, s47E, s47F).\n\n### Main Content from the FOI Request Documents\nThe documents reveal the following key details regarding the cyber incident:\n\n*   **Incident Identification:** On 14 November 2022, a \"spear phishing\" email campaign (Cyber Incident 11744) was launched targeting eight specific Indigenous AEC email accounts (IEPP mailboxes: `indigenous@aec.gov.au`, `indigenous-sa@aec.gov.au`, `indigenous-wa@aec.gov.au`, `indigenous-vic@aec.gov.au`, `indigenous-tas@aec.gov.au`, `indigenous-qld@aec.gov.au`, `indigenous-nt@aec.gov.au`, `indigenous-nsw@aec.gov.au`).\n*   **Attack Method:** The emails were sent from a falsified address (`support@aec.gov.au`) with the subject line `[recipient email address] have 12 Pending incoming emails`. The campaign's objective was identified as an \"account harvesting attempt,\" aiming to steal personal information.\n*   **Impact and Response:** AEC systems were **not compromised** by the attack, and the incident was successfully contained internally. Staff promptly reported suspicious emails, which were then removed from the affected mailboxes. The Australian Cyber Security Centre (ACSC) was engaged regarding the incident.\n*   **Analysis and Significance:** The campaign was assessed as \"very targeted\" and \"somewhat sophisticated.\" Internal AEC communications indicate that it was considered \"possible it relates to the proposed referendum given the targeting of AEC’s Indigenous Electoral Participation Program mailboxes.\"\n*   **Internal and Inter-Agency Discussions:** The incident was a significant topic for internal discussions within the AEC, including briefings to the Electoral Integrity Committee (EIC) and the Electoral Integrity Assurance Taskforce (EIAT) Board. Talking points were developed for senior AEC leadership and for meetings with other government bodies, such as the National Indigenous Australians Agency (NIAA), to explain the attack's purpose, trends, overall risks, and the role of the EIAT in maintaining electoral integrity.\n*   **Cyber Threat Awareness:** The incident reinforced the AEC's message that the \"cyber threat environment for the proposed referendum is unlikely to be lower than for a federal election,\" emphasizing the need for continued vigilance.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

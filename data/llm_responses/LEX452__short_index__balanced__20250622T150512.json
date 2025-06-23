@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "FOI Request LEX452 sought documents related to Zi Chun Wang's donations for the 2013/2014 financial year. The released documents, a schedule of three communications from the Australian Electoral Commission (AEC) to Zi Wang, confirm the AEC's process of ensuring compliance with donor disclosure requirements. These communications include an initial notification to Zi Wang regarding his obligation to complete a Donor to Political Party Disclosure Return for 2013/2014, a subsequent reminder, and finally, an acknowledgement from the AEC confirming receipt of his submitted Individual Donor Return for that period, thereby fulfilling his disclosure obligation."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 507,
+    "candidates_token_count": 131,
+    "total_token_count": 775,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\n### FOI Request Summary: Zi Chun Wang Donations 2013/2014\n\nThis summary outlines the main purpose, released documents, and key content related to FOI Request LEX452 concerning donations made by Zi Chun Wang.\n\n#### Main Purpose of the FOI Request\n\nThe Freedom of Information (FOI) request, identified as LEX452 (Record 55-SVNG9), sought documents related to donations made by Zi Chun Wang for the financial year ending 2013/2014.\n\n#### Documents from the FOI Request\n\nThe released documents consist of a schedule detailing three specific communications from the Australian Electoral Commission (AEC) to Zi Wang:\n\n*   **22/10/2014:** Letter from AEC to Zi Wang regarding his obligation to complete a Donor to Political Party Disclosure Return – Individuals for the 2013/2014 financial year.\n*   **14/11/2014:** Letter from AEC to Zi Wang serving as a reminder to lodge the Donor to Political Party Disclosure Return – Individuals for the 2013/2014 financial year.\n*   **17/11/2014:** Acknowledgement letter from AEC to Mr Wang, confirming receipt of his Individual Donor Return for the 2013-2014 financial year.\n\nThe release also includes pages detailing redaction codes, indicating that certain types of information (e.g., personal information, business information) may be withheld from the full documents.\n\n#### Main Content from the FOI Request Documents\n\nThe core content revealed by these documents pertains to the Australian Electoral Commission's process of ensuring compliance with donor disclosure requirements for Zi Chun Wang for the 2013/2014 financial year:\n\n*   The AEC initiated contact with Zi Wang to inform him of his legal obligation to disclose donations.\n*   Following the initial notification, a reminder was sent, indicating the ongoing need for the return to be lodged.\n*   Ultimately, the AEC confirmed that Zi Wang submitted the required Individual Donor Return for the 2013-2014 financial year, thereby fulfilling his disclosure obligation.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

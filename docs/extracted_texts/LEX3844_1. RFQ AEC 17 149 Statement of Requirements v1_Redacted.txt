@@ -1,0 +1,1174 @@
+
+
+--- Page 1 ---
+
+
+
+
+--- Page 2 ---
+
+Document Control 
+
+Version Control 
+
+Version 
+
+Date 
+
+Author 
+
+Distribution 
+
+Change Description 
+
+Document Location 
+
+File Name 
+
+ Statement of Requirements.docx 
+
+Page ii 
+
+Counting the Senate | 
+
+ Senate Scanning Solution | Statement of Requirement 2018
+
+
+--- Page 3 ---
+
+
+
+
+--- Page 4 ---
+
+
+
+
+--- Page 5 ---
+
+18 
+
+ELECTORAL EVENT SUPPORT ........................................................................ 66 
+
+19 
+
+APPENDIX A: DELIVERABLES .......................................................................... 70 
+
+APPENDIX B: AUSTRALIAN GOVERNMENT ENTERPRISE ARCHITECTURE 
+
+20 
+PRINCIPLES ..................................................................................................................... 93 
+
+21 
+
+APPENDIX C : ASSUMPTIONS, DEPENDENCIES AND EXCLUSIONS .......... 94 
+
+21.1  EXCLUSIONS ........................................................................................................... 94 
+21.2  ASSUMPTIONS AND DEPENDENCIES ......................................................................... 96 
+
+Page v
+
+
+--- Page 6 ---
+
+
+
+
+--- Page 7 ---
+
+
+
+
+--- Page 8 ---
+
+
+
+
+--- Page 9 ---
+
+
+
+
+--- Page 10 ---
+
+
+
+
+--- Page 11 ---
+
+
+
+
+--- Page 12 ---
+
+
+
+
+--- Page 13 ---
+
+
+
+
+--- Page 14 ---
+
+
+
+
+--- Page 15 ---
+
+
+
+
+--- Page 16 ---
+
+
+
+
+--- Page 17 ---
+
+
+
+
+--- Page 18 ---
+
+
+
+
+--- Page 19 ---
+
+: 
+
+Page 19 
+
+Counting the Senate | 
+
+ Senate Scanning Solution | Statement of Requirement 2018
+
+
+--- Page 20 ---
+
+
+
+
+--- Page 21 ---
+
+
+
+
+--- Page 22 ---
+
+
+
+
+--- Page 23 ---
+
+
+
+
+--- Page 24 ---
+
+
+
+
+--- Page 25 ---
+
+8  Testing Services 
+
+a. 
+
+must facilitate solution assurance activities for the Senate Scanning 
+
+Solution, including: 
+
+Page 25 
+
+Counting the Senate | 
+
+Senate Scanning Solution | Statement of Requirement 2018
+
+
+--- Page 26 ---
+
+8.3  System testing 
+
+8.4  System integration testing 
+
+8.5  User Acceptance testing 
+
+P
+
+
+--- Page 27 ---
+
+8.6  Capacity testing 
+
+8.7  Security and penetration testing 
+
+Page 27 
+
+Counting the Senate | 
+
+ Senate Scanning Solution | Statement of Requirement 2018
+
+
+--- Page 28 ---
+
+
+
+
+--- Page 29 ---
+
+9  Security 
+
+9.1  Australian Government security policy 
+a. 
+
+The Senate Scanning Solution must protect all AEC data when it is at rest and 
+when it is in transit in accordance with the requirements agreed with the AEC, 
+informed by the Australian Government security policy, as defined in the 
+Protective Security Policy Framework (PSPF) and the Information Security 
+Manual (ISM).  
+
+P
+
+
+--- Page 30 ---
+
+
+
+
+--- Page 31 ---
+
+9.3  User authorisation 
+
+f. 
+
+Personnel and AEC Staff are not to share their log in credentials or access with 
+any other person  
+
+9.4 
+a. 
+
+Internet security 
+The Senate Scanning Solution must be secured against internet-borne threats to 
+AEC data and system confidentiality, integrity and availability. 
+
+Page 31 
+
+Counting the Senate |
+
+
+--- Page 32 ---
+
+
+
+
+--- Page 33 ---
+
+9.6  Personnel security 
+a  
+
+Role 
+
+Clearance level 
+
+Status 
+
+c. 
+
+All employees, contractors, Personnel and labour hire staff working with
+must have a satisfactory criminal history clearance check prior to commencing 
+work 
+
+d. 
+
+All permanent 
+
+ courses: 
+
+i. 
+
+ii. 
+
+Information Security Policy; 
+
+Acceptable Use Policy;
+
+
+--- Page 34 ---
+
+iii. 
+
+iv. 
+
+v. 
+
+vi. 
+
+vii. 
+
+viii. 
+
+Privacy Policy; 
+
+Anti-Fraud Policy; 
+
+Social Media Policy; 
+
+Work Health Safety Policy; 
+
+ Policies & Procedures; and 
+
+ Code of Conduct. 
+
+10  Ballot Papers 
+
+Page 34 
+
+Counting the Senate 
+
+ Senate Scanning Solution | Statement of Requirement 2018
+
+
+--- Page 35 ---
+
+c. 
+
+Some Ballot Papers may be printed on multiple pieces of paper and taped 
+together or hand written.  
+
+11  Ballot Paper handling 
+
+11.1  Election material details 
+
+ must use the following election material details in relation to Ballot 
+
+Paper handling: 
+
+i. 
+
+All Ballot Papers received at an individual polling place, or processed 
+during a declaration vote count at an out-posted centre will be grouped
+
+
+--- Page 36 ---
+
+ii. 
+
+iii. 
+
+iv. 
+
+v. 
+
+vi. 
+
+vii. 
+
+viii. 
+
+ix. 
+
+x. 
+
+xi. 
+
+together. This grouping of Ballot Papers will be referred to as a Vote 
+Collection Point; 
+
+A Vote Collection Point may contain as few as a handful or as many as 
+thirty thousand Ballot Papers; 
+
+The Ballot Papers within a Vote Collection Point will be Batched (the 
+method of physically Batching is yet to be finalised, however possible 
+alternatives may include bulldog clips or plastic document clips) into 
+subgroups of 50 to facilitate efficient handling, counting and scanning. 
+This subgrouping of Ballot Papers will be referred to as a Batch. Each 
+Batch will have a unique batch cover sheet that will contain identification 
+data for that Batch; 
+
+A Vote Collection Point will be transported and stored in one or more 
+Ballot Paper Transport Containers (BPTC) which will be constructed of 
+corflute or cardboard; 
+
+A BPTC will only contain Ballot Papers/Batches from a single Vote 
+Collection Point; 
+
+A BPTC will hold up to 10 Batches (i.e. approximately 500 Ballot Papers) 
+and will weigh up to approximately 12kg when fully loaded; 
+
+All BPTC within a Vote Collection Point will be dispatched together; 
+
+AEC Staff will conduct an initial sort of the Ballot Papers prior to 
+transport, which will ensure: 
+
+a. 
+
+b. 
+
+c. 
+
+d. 
+
+each Ballot Paper is unfolded; 
+
+each Ballot Paper is flattened as much as possible; 
+
+each Ballot Paper has the correct side facing up; 
+
+each Ballot Paper is oriented so the text is left-aligned; 
+
+As such the AEC does not expect 
+document sorting activities prior to scanning; 
+
+ to undertake specialised 
+
+Ballot Papers do not contain staples; 
+
+Ripped or torn Ballot Papers will be repaired by AEC Staff prior to 
+transport using transparent sticky tape. Excess tape will be trimmed 
+where possible to reduce the risk of jamming within the scanning 
+equipment; 
+
+where possible, torn/repaired Ballot Papers and manually printed Ballot 
+Papers (i.e. Ballot Papers printed on A4 and manually joined) will be 
+Batched together so special arrangements for scanning can be 
+undertaken if required; 
+
+Page 36 
+
+Counting the Senate | 
+
+ Senate Scanning Solution | Statement of Requirement 2018
+
+
+--- Page 37 ---
+
+xii. 
+
+xiii. 
+
+xiv. 
+
+The outside of every BPTC will be labelled with identification metadata 
+and a scannable identifier (e.g. a bar code); 
+
+Inside every BPTC will be a manifest that lists the same information as is 
+on the outside of the BPTC; and 
+
+Every Batch within a BPTC will have a coversheet with identification 
+metadata and a scannable identifier (e.g. a bar code). 
+
+11.2  Ballot Paper handling principles 
+a. 
+
+ agrees and acknowledges to handle Ballot Papers in accordance with 
+
+the AEC Ballot Paper Handling Principles, as described in Section 2.1 (d). 
+
+b. 
+
+c. 
+
+d. 
+
+e. 
+
+f. 
+
+g. 
+
+h. 
+
+i. 
+
+j. 
+
+k. 
+
+l. 
+
+ must ensure that the proposed business process minimises the 
+
+movement and handling of physical Ballot Papers. 
+
+ must ensure that only authorised personnel have access to Ballot 
+
+Papers and their assigned BPTC 
+
+ must ensure that Ballot Papers are always stored in their assigned, 
+
+sealed, BPTC within a designated Ballot Paper Secure Storage Zone when not 
+being processed. 
+
+ must ensure that a BPTC is only unsealed/opened within a designated 
+
+Ballot Paper Secure Work Zone. 
+
+ must ensure that all BPTCs are never unsealed/opened when only a 
+
+single member of staff is present, when the AEC is not onsite or outside of 
+authorised work hours. 
+
+ must ensure that all the Ballot Papers within a Ballot Paper Transport 
+
+Container are scanned as a single unit of work (except in the case of a rescan of 
+a batch). 
+
+ must ensure that during processing only one BPTC is unsealed/opened 
+
+within the Ballot Paper Secure Work Zone around an individual scanner at any 
+one point in time. 
+
+ must ensure that the Ballot Papers from one Vote Collection Point, 
+
+BPTC or Batch are not mixed with another at any time or under any 
+circumstances.  
+
+During processing 
+Batch, BPTC and Vote Collection Point and report the outcomes and variations to 
+the AEC. 
+
+ must reconcile the number of Ballot Papers in each 
+
+ must ensure that their Personnel do not mark or modify a Ballot Paper. 
+
+ must ensure that no Ballot Papers are damaged or destroyed under any 
+
+circumstance by any Personnel or associated person/entity.  
+
+Page 37 
+
+Counting the Senate | 
+
+ Senate Scanning Solution | Statement of Requirement 2018
+
+
+--- Page 38 ---
+
+11.3  Ballot Paper Secure Zones 
+a. 
+
+Ballot Paper Secure Zones are AEC defined segregated locations within a facility 
+that have been specifically designed for the handling and/or storage of Ballot 
+Papers, and may be either a Ballot Paper Secure Work Zone or a Ballot Paper 
+Secure Storage Zone. It must have sufficient security measures in place, as 
+approved by the AEC, to ensure no Ballot Papers will be tampered with, 
+destroyed or removed.  
+
+b. 
+
+c. 
+
+Ballot Papers must only be outside a Ballot Paper Secure Storage Zone or Ballot 
+Paper Secure Work Zone in a sealed BPTC. 
+ must ensure that any time 
+Ballot Papers are not in a Ballot Paper Secure Zone, there are sufficient security 
+measures in place, as approved by the AEC, to ensure no Ballot Papers will be 
+tampered with, destroyed or removed.  
+
+The workflow of Ballot papers from receipt to processing to temporary storage to 
+long term storage must ensure that BPTCs are always under secure conditions 
+either via CCTV or security guard/s 
+
+11.4  Ballot Paper Secure Storage Zones 
+a. 
+
+ must ensure that Ballot Papers are always stored in their BPTC within a 
+
+designated Ballot Paper Secure Storage Zone under the following conditions: 
+
+i. 
+
+ii. 
+
+storage of Ballot Papers not in use; and 
+
+overnight storage of Ballot Papers (this may be achieved by turning a 
+Ballot Paper Secure Work Zone into a Ballot Paper Secure Storage 
+Zone overnight, there will no requirement to change the signs as long as 
+all other characteristics of the Ballot Paper Secure Storage Zone are 
+met). 
+
+b. 
+
+c. 
+
+ must ensure that the Ballot Paper Secure Storage Zone is physically 
+
+separated from zones that store non-AEC materials. 
+
+ must establish Ballot Paper Secure Storage Zones that must have an 
+
+agreed combination of the following security controls: 
+
+i. 
+
+ii. 
+
+iii. 
+
+lockable internal room within lockable premises to hold the Ballot Paper 
+Transport Containers. If that is not available, containers that are sturdy, 
+fully enclosed and fitted with a high security lock may be used. 
+Examples include B and C class cabinets, site safes and shipping 
+containers; 
+
+security guards must be used to supplement an inadequate Ballot Paper 
+Secure Storage Zone (as approved by the AEC in writing); 
+
+a mandated sign must be visible at all points of entry, these will be 
+supplied by AEC; 
+
+Page 38 
+
+Counting the Senate | 
+
+ Senate Scanning Solution | Statement of Requirement 2018
+
+
+--- Page 39 ---
+
+iv. 
+
+v. 
+
+vi. 
+
+24 hour CCTV monitoring; 
+
+physical security controls that can identify the ingress and egress of an 
+individual using smart card, biometric reader or similar; and 
+
+back-to-base alarm system coverage when the Ballot Paper Secure 
+Storage Zone is unattended. 
+
+d. 
+
+ must facilitate the following access and supervision requirements: 
+
+i. 
+
+ii. 
+
+iii. 
+
+ must ensure that only authorised personnel have access to the 
+
+Ballot Paper Secure Storage Zone; 
+
+ Personnel and AEC personnel accessing the Ballot Paper 
+
+Secure Storage Zone must display the appropriate visual identification 
+which indicates they are authorised to access the zone (refer to the 
+Election Personnel Identification in Section 11.11); and 
+
+the contents of the Ballot Paper Secure Storage Zone must not be 
+visible to unauthorised personnel. 
+
+11.5  Ballot Paper Secure Work Zones 
+a. 
+
+must define one or more Ballot Paper Secure Work Zone for the interim 
+placement of Ballot Papers while they are in use and where it is not practicable to 
+undertake the work in a Storage Zone (e.g. the scanning of Ballot Papers). 
+
+b. 
+
+ must ensure that a Ballot Paper Secure Work Zone is a clearly 
+designated and segregated area using any of the following techniques: 
+
+i. 
+
+ii. 
+
+iii. 
+
+iv. 
+
+bollards and tape; 
+
+temporary partitions and/or dividers; 
+
+floor marking and/or lines; 
+
+any other suitable technique proposed by 
+AEC. 
+
+ and approved by the 
+
+c. 
+
+d. 
+
+e. 
+
+A mandated sign must be visible in the Ballot Paper Secure Work Zone, 
+
+must ensure that the Ballot Paper Secure Work Zone is separated from 
+
+zones processing non-AEC materials. 
+
+ must facilitate the following access and supervision requirements: 
+
+i. 
+
+the Ballot Paper Secure Work Zone must be supervised by an AEC staff 
+member at all times whilst it is in operation; 
+
+Page 39 
+
+Counting the Senate | 
+
+Senate Scanning Solution | Statement of Requirement 2018
+
+
+--- Page 40 ---
+
+
+
+
+--- Page 41 ---
+
+
+
+
+--- Page 42 ---
+
+
+
+
+--- Page 43 ---
+
+
+
+
+--- Page 44 ---
+
+
+
+
+--- Page 45 ---
+
+
+
+
+--- Page 46 ---
+
+
+
+
+--- Page 47 ---
+
+iv. 
+
+v. 
+
+A scrutineer must NOT handle Ballot Papers at any time. 
+
+A scrutineer must not unreasonably delay or interfere with the counting 
+of votes. 
+
+13  Data capture and workflow software. 
+
+13.1  Accuracy 
+a. 
+
+The accuracy of the data capture provided by the Senate Scanning Solution is 
+critically important to the Australian democratic process, the Australian public and 
+the AEC. 
+
+b. 
+
+ must develop and implement a data capture strategy in line with AEC  
+
+requirements that has the following objectives: 
+
+i. 
+
+ii. 
+
+iii. 
+
+the preferences captured from a Ballot Paper exactly matches the 
+preferences recorded by the voter for every Ballot Paper processed 
+within an Electoral Event; 
+
+all Ballot Papers are electronically checked for authenticity and formality; 
+
+every Ballot Paper deemed to be informal or non-standard must have its 
+image visually checked as part of the data capture process; 
+
+Page 47 
+
+Counting the Senate | 
+
+Senate Scanning Solution | Statement of Requirement 2018
+
+
+--- Page 48 ---
+
+
+
+
+--- Page 49 ---
+
+13.4  Data capture requirements 
+
+13.4.1  Legislative compliance 
+a. 
+
+The information in this section has been incorporated to provide additional clarity 
+on the different aspects of Ballot Paper formality checking. However to be 
+accepted the Senate Scanning Solution must comply with all relevant sections of 
+the Electoral Act irrespective of the information provided below.  The AEC will 
+ensure this as part of the UAT process.
+
+
+--- Page 50 ---
+
+
+
+
+--- Page 51 ---
+
+
+
+
+--- Page 52 ---
+
+
+
+
+--- Page 53 ---
+
+
+
+
+--- Page 54 ---
+
+
+
+
+--- Page 55 ---
+
+
+
+
+--- Page 56 ---
+
+
+
+
+--- Page 57 ---
+
+Page 57 
+
+Counting the Senate | 
+
+ Senate Scanning Solution | Statement of Requirement 2018
+
+
+--- Page 58 ---
+
+
+
+
+--- Page 59 ---
+
+Page 59 
+
+Counting the Senate 
+
+ Senate Scanning Solution | Statement of Requirement 2018
+
+
+--- Page 60 ---
+
+
+
+
+--- Page 61 ---
+
+
+
+
+--- Page 62 ---
+
+
+
+
+--- Page 63 ---
+
+No. 
+
+Deliverable 
+
+Delivery date 
+
+Form of Deliverable 
+
+1    
+
+Page 63 
+
+Counting the Senate | 
+
+ Senate Scanning Solution | Statement of Requirement 2018
+
+
+--- Page 64 ---
+
+No. 
+
+Deliverable 
+
+Delivery date 
+
+Form of Deliverable 
+
+16  Post-event Services 
+
+a. 
+
+17  Service delivery and management 
+
+17.1  Contract management 
+The AEC expects its relationship 
+a. 
+focused on meeting critical timeframes 
+must be a clear emphasis on agreed actions being followed through to 
+completion. 
+
+ There 
+
+ to be positive, action oriented and 
+
+Page 64 
+
+Counting the Senate | 
+
+Senate Scanning Solution | Statement of Requirement 2018
+
+
+--- Page 65 ---
+
+17.2  FX DMS team 
+
+17.3  Contract management meetings 
+
+17.4  Executive review meetings 
+
+17.5  Administrative responsibilities 
+
+17.6  Service Level Specification 
+
+Page 65 
+
+Counting the Senate | 
+
+ Senate Scanning Solution | Statement of 
+
+ 2018
+
+
+--- Page 66 ---
+
+18  Electoral Event Support 
+
+18.1  Electoral Event Support 
+a. 
+
+The AEC maintains election readiness at all times, and requires a Senate 
+Scanning Solution that is capable of supporting an Electoral Event at short notice 
+ must be ready 
+ as of this date and maintain that readiness until 
+
+ Once the AEC defines an election ready date
+
+to run an election 
+an election is called. 
+
+18.2  Federal Election Support
+
+
+--- Page 67 ---
+
+
+
+
+--- Page 68 ---
+
+
+
+
+--- Page 69 ---
+
+18.4  Electoral Event Planning and Support
+
+
+--- Page 70 ---
+
+
+
+
+--- Page 71 ---
+
+
+
+
+--- Page 72 ---
+
+
+
+
+--- Page 73 ---
+
+
+
+
+--- Page 74 ---
+
+
+
+
+--- Page 75 ---
+
+
+
+
+--- Page 76 ---
+
+
+
+
+--- Page 77 ---
+
+
+
+
+--- Page 78 ---
+
+
+
+
+--- Page 79 ---
+
+
+
+
+--- Page 80 ---
+
+
+
+
+--- Page 81 ---
+
+
+
+
+--- Page 82 ---
+
+
+
+
+--- Page 83 ---
+
+
+
+
+--- Page 84 ---
+
+
+
+
+--- Page 85 ---
+
+
+
+
+--- Page 86 ---
+
+
+
+
+--- Page 87 ---
+
+
+
+
+--- Page 88 ---
+
+
+
+
+--- Page 89 ---
+
+
+
+
+--- Page 90 ---
+
+
+
+
+--- Page 91 ---
+
+
+
+
+--- Page 92 ---
+
+
+
+
+--- Page 93 ---
+
+20  Appendix B: Australian Government 
+Enterprise Architecture Principles 
+
+Page 93 
+
+Counting the Senate | 
+
+Senate Scanning Solution | Statement of Requirement 2018 
+
+AG-EA-Principles.pdf
+
+
+--- Page 94 ---
+
+
+
+
+--- Page 95 ---
+
+
+
+
+--- Page 96 ---
+
+
+
+
+--- Page 97 ---
+
+Page 97 
+
+Counting the Senate |
+
+
+--- Page 98 ---
+
+
+
+
+--- Page 99 ---
+
+Page 99 
+
+Counting the Senate | AEC17/149 Senate Scanning Solution | Statement of Requirement 2018
+
+
+--- Page 100 ---
+

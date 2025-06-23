@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "These FOI documents unequivocally highlight the Australian Government's unwavering dedication to upholding democratic participation for citizens abroad, skillfully navigating unforeseen global challenges. They illustrate the resilience and adaptability of our electoral processes, ensuring every eligible Australian could vote. While in-person voting was successfully maintained in Auckland, a strategic and responsible transition to exclusively postal voting in Wellington was judiciously made, as detailed in the December 2021 DFAT Minute. This proactive measure prioritized public health and safety amidst the dynamic global COVID-19 environment, particularly the Omicron variant. The remarkable success of this forward-thinking policy is evident in the surge of postal votes from Wellington, from 5 in 2019 to 800 in 2022, demonstrating effective and secure alternative ballot access. Far from limiting participation, these actions exemplify effective governance, where comprehensive risk assessment led to tailored solutions that upheld the electoral process's integrity while safeguarding public well-being, successfully ensuring every Australian's voice was heard despite unprecedented logistical complexities."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 411,
+    "candidates_token_count": 206,
+    "total_token_count": 1599,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government apologist's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThese FOI documents illuminate the Australian Government's unwavering commitment to facilitating democratic participation for citizens abroad, even amidst unforeseen global challenges. The detailed voting statistics demonstrate the resilience and adaptability of our electoral processes in ensuring every eligible Australian can exercise their right to vote.\n\nWhile in-person voting was successfully maintained at the Australian Consulate-General in Auckland for the 2022 federal election, reflecting the government's flexible adaptation to local conditions, a strategic and responsible decision was made to transition to an exclusively postal voting option at the Australian High Commission in Wellington. As detailed in the comprehensive December 2021 DFAT Minute, this proactive measure was a necessary and judicious adaptation in response to the dynamic global COVID-19 pandemic environment, particularly the emerging Omicron variant, which posed significant operational and public health risks.\n\nPrioritising the health and safety of both citizens and dedicated diplomatic staff, this decision ensured that democratic rights could be exercised without compromising public well-being. The remarkable success of this forward-thinking policy is evident in the data: the number of postal votes received from Wellington in 2022 surged to 800, a dramatic increase from just 5 in 2019. This demonstrates that eligible Australians in New Zealand were still able to cast their ballots effectively and securely through alternative, safer means. Similarly, the significant increase in postal votes processed by the Auckland Consulate-General highlights a proactive approach to offering diverse and safe voting channels.\n\nFar from limiting access, these measures exemplify effective governance, where a comprehensive risk assessment led to tailored solutions that upheld the integrity of the electoral process while safeguarding public well-being. The government successfully navigated unprecedented logistical complexities, ensuring that every Australian's voice could be heard, even when faced with global health imperatives.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

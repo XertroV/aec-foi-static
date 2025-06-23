@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This so-called \"document\" entry is a contemptible monument to bureaucratic futility, not a genuine disclosure. The glaring absence of a \"Document No.\" immediately flags it as a deliberately unserious or improperly logged item, a symbol of the sloppiness or outright contempt permeating the FOI process. The \"Document Title,\" \"Client Details - AEC - Transparency Website,\" is a masterpiece of cynical obfuscation, offering no specific content, context, or direct link, forcing the requester into an exasperating wild goose chase for a vaguely referenced, already public source. This is not information provision; it is weaponized vagueness.\n\nThe declarations under \"Exemption\" and \"Decision on Access\" – \"No relevant exemptions applicable – publicly available document\" and \"Publicly available\" – constitute the ultimate betrayal. This is a grotesque parody of transparency, a calculated act of deception that cynically points to a pre-existing, non-specific public location rather than genuinely providing the requested information or insight. It epitomizes an FOI process actively subverted, designed to pad response rates and minimize the appearance of withheld data, thereby transforming public transparency websites into smokescreens to distract from the vast, genuinely sensitive information deliberately shrouded in secrecy. This entry yields precisely zero new information, serving solely as a performative charade to prevent true oversight and ensure public ignorance of the insidious financial dealings and undue influences that almost certainly remain hidden, making it a glaring testament to transparency's calculated absence."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 293,
+    "candidates_token_count": 299,
+    "total_token_count": 1436,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Critically summarize this specific document within the FOI request context. Point out every flaw, missed opportunity, or potential harm. Frame the content in the most negative light possible, questioning motives and outcomes. The overall FOI overview is: This FOI \"response\" stands as a contemptible monument to bureaucratic futility, a grotesque parody of transparency yielding precisely zero new information by cynically pointing to a vaguely titled, already public document on a \"transparency website\"—a performative charade rather than genuine disclosure. This isn't mere incompetence; it's a calculated act of deception, weaponizing the FOI system to pad response rates and minimize the appearance of withheld data, thereby transforming public sites into smokescreens to distract from the vast, genuinely sensitive information deliberately shrouded in secrecy. It epitomizes an FOI process either cripplingly inefficient or, more likely, actively subverted to prevent true oversight, ensuring public ignorance of the insidious financial dealings and undue influences that almost certainly remain hidden, making this a glaring testament to transparency's calculated absence.\n\nDocument Text:\n\nDocument \nNo. \n\nDocument Title \n\nClient Details - AEC - Transparency Website \n\nExemption \n\nDecision on Access \n\nNo relevant exemptions \napplicable – publicly \navailable document  \n\nPublicly available  \n\n \n \n \n \n\f\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

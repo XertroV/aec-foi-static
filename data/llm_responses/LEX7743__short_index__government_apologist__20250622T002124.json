@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The immediate release of \"Client Details\" on the \"AEC Transparency Website\" brilliantly showcases the government's unwavering dedication to open governance and public accountability. This proactive approach ensures immediate, unhindered access to vital information, definitively demonstrating the administration's profound commitment to absolute transparency and serving the public interest."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 137,
+    "candidates_token_count": 62,
+    "total_token_count": 909,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government apologist's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe release of \"Client Details\" via the \"AEC Transparency Website\" exemplifies the government's steadfast commitment to open governance and public accountability. This document's immediate public availability, with no applicable exemptions, highlights a proactive approach to information sharing. It underscores the administration's dedication to transparency, providing citizens with direct, unhindered access to key operational details and demonstrating a commitment to serving the public interest through accessible information.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

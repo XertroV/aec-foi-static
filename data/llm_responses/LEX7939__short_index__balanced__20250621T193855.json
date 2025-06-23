@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "FOI request LEX7939 sought statistical data from the Australian Electoral Commission (AEC) on \"designated electors,\" including their overall numbers, new declarations, and associated review processes. While the current total number of designated electors was referenced as available on their website rather than directly provided, the AEC reported 211 new declarations in FY2024/25 to date, a notable increase from previous years, with all declarations made by a delegate of the Electoral Commissioner. The request also revealed a small number of internal review applications (four in FY2022/23 and four in FY2024/25), predominantly resulting in confirmed decisions, though one was set aside in FY2024/25. No applications for review to the Administrative Review Tribunal or instances of declarations ceasing effect under s 202AH(3) were recorded for the specified periods."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 755,
+    "candidates_token_count": 186,
+    "total_token_count": 1564,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\n### Summary of FOI Request LEX7939 – Designated Electors Data\n\n**Main Purpose of the FOI Request:**\nThe Freedom of Information (FOI) request, LEX7939, sought specific statistical data concerning \"designated electors\" from the Australian Electoral Commission (AEC). The request aimed to ascertain the number of designated electors, the volume of new declarations made over recent financial years, details on who made these declarations, the number of internal reviews applied for, the outcomes of these reviews, and any applications for review to the Administrative Review Tribunal. It also queried declarations ceasing effect under a specific legal provision.\n\n**Documents from the FOI Request:**\nThe provided document is the FOI Request LEX7939 itself, detailing each information item sought, alongside the direct responses from the Australian Electoral Commission (AEC) to each specific query.\n\n**Main Content from the FOI Request Documents:**\n\n*   **Item 1: Number of Designated Electors (as at 7 April 2025, broken down by state/territory and electoral division):**\n    *   **Response:** \"No document response as per decision letter.\"\n    *   *Note:* The AEC did provide a general statement indicating that a table from their website (not included in the document) sets out the number of designated electors per federal electoral event since 2019.\n\n*   **Item 2: Number of Designated Electors Declared in Financial Years:**\n    *   FY 2022/23: 37\n    *   FY 2023/24: 1\n    *   FY 2024/25 (to date): 211\n\n*   **Item 2a: Breakdown of Declarations by Electoral Commissioner or Delegate:**\n    *   **Response:** Each declaration captured in response to item (2) was made by a delegate of the Electoral Commissioner.\n\n*   **Item 3: Number of Unique Applications for Internal Review of a Designated Elector Declaration in Financial Years:**\n    *   FY 2022/23: 4\n    *   FY 2023/24: 0\n    *   FY 2024/25 (to date): 4\n\n*   **Item 4: Outcome of Unique Internal Review Decisions of Declared Designated Electors Review Applications in Financial Years:**\n    *   FY 2022/23: 4 confirmed\n    *   FY 2023/24: N/A (no applications)\n    *   FY 2024/25 (to date): 3 confirmed, 1 set aside\n\n*   **Item 4 (Second Instance, likely intended as Item 5): Number of Unique Applications for Review to the Administrative Review Tribunal of a Declared Designated Elector in FY 2024/25 to date:**\n    *   **Response:** 0\n\n*   **Item 5: Number of Declarations Ceasing to Have Effect by Virtue of s 202AH(3) in Financial Years:**\n    *   FY 2022/23: 0\n    *   FY 2023/24: 0\n    *   FY 2024/25 (to date): 0\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

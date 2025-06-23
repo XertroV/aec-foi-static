@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The released FOI documents paint a damning picture of governmental incompetence, systemic failure, and a disturbing lack of transparency regarding electoral integrity. The \"Release in part\" decision citing \"Section 22\" is a deliberate act of concealment, demonstrating outright contempt for public accountability. The data itself reveals a catastrophic indictment of the compulsory voting system's efficacy, with a staggering 61% of identified non-voters simply ignoring toothless penalty notices, a wholesale repudiation of the law. Furthermore, inexplicable data discrepancies, where 2065 non-voters remain unaccounted for, expose either astonishing internal chaos or a calculated effort to obscure how a significant portion escaped consequence. This paints a picture of a government not only failing to enforce its electoral laws but actively seeking to hide the extent of that collapse, embodying systemic incompetence and a profound breakdown in electoral integrity."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 667,
+    "candidates_token_count": 174,
+    "total_token_count": 1521,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "With a highly critical view, provide a scathing, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe released FOI documents paint a damning picture of governmental incompetence, systemic failure, and a disturbing lack of transparency regarding electoral integrity.\n\nThe immediate red flag is the \"Release in part\" decision for both documents, citing \"Section 22.\" This is not a demonstration of transparency but a deliberate act of concealment. The government is actively withholding information about the handling of administrative penalties and even the broad categories of \"valid reasons\" for non-voting. This suggests a concerted effort to obscure the true extent of non-compliance, operational inefficiencies, or politically inconvenient truths, rather than genuinely protecting sensitive personal information which, in aggregated data of this nature, would be minimal. This outright refusal to provide full disclosure highlights a deep-seated contempt for public accountability.\n\nThe data itself is a catastrophic indictment of the compulsory voting system's efficacy and the government's ability to enforce its own laws. Out of a stated \"Total\" of 9110 non-voters identified, a staggering 5592 individuals – over 61% – simply ignored the penalty notices entirely. This is not mere non-compliance; it is a wholesale repudiation of the electoral system by the vast majority of non-voters, demonstrating a widespread contempt for the law and the government's authority. The $20 administrative penalty is revealed to be a toothless, pathetic deterrent, almost universally disregarded. The system is an utter failure, a bureaucratic charade that drains public resources without achieving its stated purpose.\n\nFurthermore, the presented figures betray either gross incompetence in data management or a deliberate attempt at obfuscation. The sum of those who provided a valid reason (588), paid the penalty (865), and did not respond (5592) totals 7045. Yet, the report inexplicably lists a \"Total\" of 9110. This leaves 2065 non-voters unaccounted for in the categories of response or non-response. This gaping discrepancy is unforgivable: it either exposes an astonishing level of internal data chaos and procedural negligence within the AEC, or it points to a calculated decision to obscure how a significant portion of non-voters escaped any form of processing or consequence. Such inconsistent reporting is a hallmark of a dysfunctional bureaucracy attempting to hide its failings.\n\nThe paltry number of individuals providing a \"Valid Reason\" (588) or bothering to pay the token penalty (865) underscores the pervasive disregard. The vast majority chose outright defiance over minimal compliance, knowing full well there are no meaningful repercussions.\n\nIn summary, these documents expose a government that is not only failing to enforce its electoral laws but is actively seeking to hide the extent of that failure. The high rate of \"no response\" reveals a system in collapse, while the data inconsistencies and partial releases suggest a conscious strategy of obfuscation and a profound lack of accountability. This paints a picture of systemic incompetence, a contempt for public scrutiny, and a complete breakdown in the integrity of the compulsory voting system.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

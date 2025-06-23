@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This FOI request details the Australian Electoral Commission's (AEC) internal processes for verifying Australian citizenship to establish electoral enrolment eligibility, outlined in policies like \"Roll Why\" and \"Roll How.\" The comprehensive verification method involves initial internal database searches (GENESIS, RMANS), issuing a \"Citizenship Questionnaire,\" and escalating to formal \"Citizenship Check\" requests with the Department of Home Affairs. Eligibility criteria extend to Australian citizens (by birth or grant) and \"Eligible British Subjects\" under historical provisions. The AEC also facilitates provisional enrolment via Sections 99A and 99B of the Commonwealth Electoral Act for individuals awaiting citizenship. The documents further specify extensive Evidence of Identity (EOI) guidelines, including acceptable documents and their verification via the Document Verification System (DVS) or an enrolled elector (PCI), alongside outlining internal system operations, such as applying \"Citizenship notations\" (AX, AC, AV, BS, NN) and managing various \"Status\" types in their databases to ensure data integrity."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 680,
+    "candidates_token_count": 207,
+    "total_token_count": 1658,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\nThe FOI request focuses on the Australian Electoral Commission's (AEC) internal processes for verifying and processing Australian citizenship to establish eligibility for electoral enrolment.\n\nThe documents released include:\n*   \"Roll Why – Citizenship pages\" (internal policy/rationale)\n*   \"Roll How – Citizenship pages\" (internal procedures/guidance)\n*   \"Questionnaire to establish eligibility for electoral enrolment\" (likely a template or guidance on its use)\n*   \"Citizenship Check – Service Centre\" (procedures for liaison with Department of Home Affairs)\n\nThe main content from these documents details the AEC's comprehensive approach to citizenship and enrolment eligibility:\n\n*   **Citizenship Verification Process:** Outlines steps to confirm an applicant's Australian citizenship or eligible British Subject status. This includes initial database searches using AEC's GENESIS and RMANS systems, requesting additional information via a \"Citizenship Questionnaire (Defect Letter)\" if a match isn't found, and escalating to a formal \"Citizenship Check\" request to the Department of Home Affairs via the AEC Service Centre when internal avenues are exhausted.\n*   **Types of Eligibility:** Covers criteria for Australian citizens (by birth or grant) and \"Eligible British Subjects\" (EBS), noting historical provisions and specific dates (e.g., being on the electoral roll by 25 January 1984) that determine EBS eligibility across different states and territories.\n*   **Provisional Enrolment:** Details two provisions (Sections 99A and 99B of the Commonwealth Electoral Act) allowing individuals in the process of becoming Australian citizens to provisionally enrol.\n    *   **Section 99A (Non-Election Period):** For those who have applied for citizenship. Requires evidence of application and identity.\n    *   **Section 99B (Close of Roll):** For those with a confirmed citizenship ceremony between an election announcement and polling day. Allows a declaration vote if citizenship is granted by the first Friday after polling day. Requires evidence of ceremony notification.\n*   **Evidence of Identity (EOI):** Provides extensive guidelines on acceptable forms of EOI, including Australian driver's licences, passports, citizenship certificates, Medicare cards, and attestation by an enrolled elector (Person Confirming Identity - PCI). It details how these are verified using AEC's EOI subsystem and the Document Verification System (DVS), procedures for handling variances, and rules regarding the retention of EOI images. Crucially, it distinguishes which citizenship-related numbers are valid for EOI purposes versus merely confirming citizenship eligibility.\n*   **Internal System Operations and Data Integrity:** References the use of AEC's GENESIS and RMANS systems for processing applications, matching records, applying specific \"Citizenship notations\" (AX, AC, AV, BS, NN) to indicate verification methods, and running reports to ensure data consistency with Home Affairs records. It explains the various \"Status\" types found in the citizenship database (e.g., Acquired, Approved, Revoked, Undo Revoked) and their implications for enrolment.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The FOI request (No. LEX3172) sought the earliest and most recent advice, along with accompanying documentation, provided by the Australian Bureau of Statistics (ABS) to the Australian Electoral Commission (AEC) concerning the AEC's membership testing methodology.\n\nThe released documents listed in the schedule pertain to the \"oldest advice\" portion of the request, all dating from 1996. These documents include:\n*   A detailed letter regarding methodology from the ABS to the AEC (8 August 1996).\n*   A letter from the AEC to the ABS (28 August 1996).\n*   A letter and sample table from the ABS to the AEC (4 September 1996).\n*   An internal AEC minute approving the methodology policy (9 September 1996).\n*   Another letter from the ABS to the AEC (29 October 1996).\n\nThe main content of these documents, as indicated by their descriptions and dates, outlines the collaborative process between the ABS and AEC in establishing the AEC's membership testing methodology during 1996. This involved the ABS providing expert advice and detailed information, the AEC engaging with this advice, and subsequently approving an internal methodology policy based on or influenced by the ABS's recommendations. The documents represent a historical exchange on the foundational aspects of the AEC's membership testing approach. No documents relating to the \"most recent advice\" were provided in the visible portion of these released pages."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 398,
+    "candidates_token_count": 313,
+    "total_token_count": 1475,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Summarize the following documents in markdown format. These documents are the released documents associated with an FOI request. The summary should focus on: the main purpose of the FOI request, the documents from the FOI request, and the main content from the FOI request documents that relates to the FOI request.\n\nDocuments:\n\n\n\n--- Page 1 ---\n\nRequest for: \n\nFOI REQUEST NO. LEX3172 \n\n•  The most recent and the least recent advice and accompanying documentation given to the AEC by the ABS regarding the AEC's membership testing \n\nmethodology. That is: the first and last sets of documents corresponding to the oldest advice and the most recent advice (respectively). \n\nDoc No. \n\nDescription \n\nSCHEDULE OF RELEASED DOCUMENTS \n\n  Detailed letter re methodology from ABS to AEC  \n\nLetter from AEC to ABS \n\nLetter and sample table from ABS to AEC \n\nInternal AEC minute approving methodology policy \n\nLetter from ABS to AEC \n\nDate \n\n8 August 1996 \n\n28 August 1996 \n\n4 September 1996 \n\n9 September 1996 \n\n29 October 1996\n\n\n\n--- Page 1 ---\n\n\n\n\n--- Page 2 ---\n\n\n\n\n--- Page 3 ---\n\n\n\n\n\n--- Page 1 ---\n\n\n\n\n--- Page 2 ---\n\n\n\n\n--- Page 3 ---\n\n\n\n\n--- Page 4 ---\n\n\n\n\n\n--- Page 1 ---\n\n\n\n\n--- Page 2 ---\n\n\n\n\n--- Page 3 ---\n\n\n\n\n--- Page 4 ---\n\n\n\n\n--- Page 5 ---\n\n\n\n\n--- Page 6 ---\n\n\n\n\n--- Page 7 ---\n\n\n\n\n\n--- Page 1 ---\n\n\n\n\n--- Page 2 ---\n\n\n\n\n--- Page 3 ---\n\n\n\n\n\n--- Page 1 ---\n\n\n\n\n--- Page 2 ---\n\n\n\n\n--- Page 3 ---\n\n\n\n\n--- Page 4 ---\n\n\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

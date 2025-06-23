@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The \"granted\" FOI request for the 2023 Referendum Writ, touted as 'released in full,' ironically exposes the government's performative transparency; why lodge a formal request for a document already publicly available on aec.gov.au? This isn't genuine openness, but merely the bare minimum compliance, forcing citizens through bureaucratic hoops for fundamental public information that should be effortlessly and proactively disclosed, highlighting systemic inefficiency rather than robust accountability."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 206,
+    "candidates_token_count": 93,
+    "total_token_count": 676,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government skeptic's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nA formal Freedom of Information request was lodged and granted for the 2023 Referendum Writ. While the document indicates \"Release in full\" with \"N/A\" for exemptions, suggesting transparency, it simultaneously highlights potential bureaucratic inefficiency. The writ is explicitly noted as \"available at aec.gov.au,\" raising questions about why a formal FOI process was necessary to access a document that should be proactively and readily available without administrative hurdles. This points to a system where citizens may be forced into formal requests for basic public information, rather than a genuine commitment to effortless public access and proactive disclosure. The \"transparency\" demonstrated is merely the bare minimum fulfillment of a request for a fundamentally public document, rather than an indicator of robust, proactive openness regarding government operations.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

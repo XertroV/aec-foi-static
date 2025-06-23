@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "*   **Main Purpose of FOI Request:** The FOI request likely sought access to or information about a document titled \"Client Details - AEC - Transparency Website.\"\n\n*   **Documents from FOI Request:** The only document listed in this excerpt as part of the FOI request is \"Client Details - AEC - Transparency Website.\"\n\n*   **Main Content from FOI Request Documents:** The document \"Client Details - AEC - Transparency Website\" was determined to be publicly available, with no relevant exemptions applicable, and access was granted."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 138,
+    "candidates_token_count": 108,
+    "total_token_count": 826,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Summarize the following documents in markdown format. These documents are the released documents associated with an FOI request. The summary should focus on: the main purpose of the FOI request, the documents from the FOI request, and the main content from the FOI request documents that relates to the FOI request.\n\nDocuments:\n\n\n\n--- Page 1 ---\n\nDocument \nNo. \n\nDocument Title \n\nClient Details - AEC - Transparency Website \n\nExemption \n\nDecision on Access \n\nNo relevant exemptions \napplicable – publicly \navailable document  \n\nPublicly available\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

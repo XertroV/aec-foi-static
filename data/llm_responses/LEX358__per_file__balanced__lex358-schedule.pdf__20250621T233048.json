@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This document is a \"Schedule of Released Documents\" for Freedom of Information (FOI) request LEX359.\n\n**Summary of Document:**\nThe document details the response to FOI request LEX359, which sought email metadata, specifically the timestamp, for an email from the Liberal Party objecting to \"The New Liberals\" party registration. The schedule indicates that one undated document was released, described as \"Metadata retrieved in respect of the email dated 19 March 2021 8:45 AM from Andrew Hirst, Federal Director, Liberal Party of Australia.\"\n\n**Relevance to FOI Request:**\nThe document directly addresses FOI request LEX359 by confirming that metadata pertaining to the specified email was retrieved and released. This release, as per the FOI request overview, contained the full email headers that confirmed the original send timestamp as 18 March 2021 21:45:21 UTC (which converts to 19 March 2021 08:45:21 AEDT). This outcome validates the previously published 19 March 2021 8:45 AM timestamp for the email's initial dispatch, fulfilling the core objective of the FOI request."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 390,
+    "candidates_token_count": 263,
+    "total_token_count": 1038,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. FYI the overview of the FOI request is: FOI request LEX359 sought email metadata, specifically timestamps, for a Liberal Party email objecting to \"The New Liberals\" party registration, previously published with a 19 March 2021 8:45 AM timestamp. The single document released contained full email headers for this message, sent by Andrew Hirst to <fad@aec.gov.au> with the subject \"Objection - The New Liberals\". The metadata confirmed the email's original send timestamp as 18 March 2021 21:45:21 UTC, which converts to 19 March 2021 08:45:21 AEDT, thereby validating the previously noted time for its initial dispatch and subsequent progression through various mail servers.\n\nDocument Text:\n\nRequest for: \n\nthe metadata surrounding the time stamp on the Old Libs email that was published as a redacted document on the AEC website at \nhttps://www.aec.gov.au/Parties_and_Representatives/Party_Registration/applications/files/2021/the-new-\nliberals-objection-02.pdf. \n\nFOI REQUEST NO. LEX359 \n\nSCHEDULE OF RELEASED DOCUMENTS \n\nDocument \nNo. \n\nDescription \n\nDate \n\nMetadata retrieved in respect of the email dated 19 March 2021 8:45 AM from Andrew Hirst, \nFederal Director, Liberal Party of Australia \n\nUndated \n\nEnd \n\nReleased under the Freedom of Information Act 1982\f\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

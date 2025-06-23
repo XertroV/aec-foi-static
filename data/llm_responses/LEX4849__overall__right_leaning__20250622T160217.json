@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The FOI document confirms the successful processing and release of the 2023 Referendum Writ. From a right-leaning analytical perspective, this act of transparency in making government documents accessible aligns positively with principles of limited government and individual liberty, as it enables citizens to scrutinize official processes and participate in informed public discourse.\n\nHowever, the very existence of a national referendum in 2023 immediately raises concerns regarding economic efficiency and fiscal responsibility. National referendums are inherently expensive undertakings, diverting substantial taxpayer funds towards administration, public information campaigns, and logistical execution. A conservative viewpoint questions whether the objectives necessitating this referendum could have been achieved through more cost-effective legislative or parliamentary processes, thereby better stewarding public resources and minimizing unnecessary government expenditure.\n\nWhile referendums generally empower individual liberty by enabling direct citizen participation in significant constitutional matters, the alignment with conservative principles hinges entirely on the *substance* of the proposed constitutional change (which is not detailed in this document but is the subject of the writ). For a conservative, any constitutional alteration should ideally serve to further restrict government power, protect individual rights and property, and promote free markets, rather than expanding the scope of the state or introducing new collective entitlements that could potentially infringe upon individual autonomy or redistribute wealth inefficiently. National security is not directly addressed by this document."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 155,
+    "candidates_token_count": 267,
+    "total_token_count": 1404,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "As a politically right-leaning analyst, summarize the following FOI documents. Focus on issues related to economic efficiency, individual liberty, national security, fiscal responsibility, and limited government. Highlight how government actions or policies revealed in these documents align with or deviate from conservative principles.\n\nDocuments:\n\n\n\n--- Page 1 ---\n\nScope: Request for 2023 Referendum Writ \n\nDocument \nNo. \n\nDocument Title \n\nExemption \n\nDecision on Access \n\nCopy of referendum writ – available at writ-for-2023-\nreferendum.pdf (aec.gov.au) \n\nN/A \n\nRelease in full\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

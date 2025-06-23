@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The FOI release of the 2023 Referendum writ embodies progressive principles, illuminating a governmental endeavor focused on social justice through the proposed First Nations Voice to Parliament, aimed at addressing historical injustices and advancing Indigenous self-determination. This transparency in governmental procedure aligns with open governance and civil liberties, fostering public accountability and informed discourse on constitutional changes impacting minority rights and the rebalancing of power for a more equitable society, even if the referendum's outcome did not fully realize these aspirations."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 253,
+    "candidates_token_count": 98,
+    "total_token_count": 834,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a left-leaning perspective, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe released FOI document, detailing the writ for the 2023 Referendum, highlights the government's procedural transparency regarding a significant social justice initiative. The referendum itself, concerning a First Nations Voice to Parliament, represented a direct governmental attempt to address historical injustices, promote Indigenous self-determination, and advance reconciliation—core tenets of progressive social justice.\n\nThe full release of the writ via the FOI process aligns strongly with progressive values of open governance and civil liberties, ensuring public access to the foundational documents of democratic processes. This transparency is crucial for fostering informed public discourse and holding the government accountable, particularly on matters of constitutional change impacting minority rights. While the document is procedural, its subject matter underscores a governmental action aimed at rebalancing power and promoting equity for Indigenous Australians, consistent with progressive aspirations for a more just society, even if the ultimate outcome of the referendum did not fully align with these aims. There is no direct information within this specific document pertaining to environmental impact, wealth distribution, or corporate influence.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

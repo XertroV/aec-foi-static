@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The Australian Electoral Commission (AEC) fosters an alarming lack of trust through systemic opacity and operational non-compliance. Its reliance on \"closed source\" software, \"black box\" data digitization, and delayed information release actively impedes independent verification, highlighted by past failures like lost votes. More critically, the AEC consistently operates outside its legal mandate, with official software violating Electoral Act rules, arbitrarily disregarding procedures like bulk exclusion, and exercising questionable discretion that can alter election outcomes. This pattern of internal rule-breaking and active resistance to accountability, including withholding critical reports and refusing to open-source its core software, profoundly undermines the integrity of Australia's electoral process."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 743,
+    "candidates_token_count": 132,
+    "total_token_count": 1484,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government skeptic's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe following FOI documents reveal a concerning pattern of opacity, potential operational non-compliance, and questionable decision-making within the Australian Electoral Commission (AEC), undermining public trust in electoral integrity:\n\n1.  **Systemic Opacity and Lack of Verifiability:**\n    *   The AEC's reliance on \"closed source\" software for the crucial Senate count forces external parties, like independent programmer Grahame Bowland, to painstakingly \"replicate\" the AEC's software and reverse-engineer its processes to attempt verification. This fundamental lack of transparency actively impedes public scrutiny.\n    *   The AEC's practice of only releasing preference data \"a couple of hours after they ran the count and declared the result\" hinders any real-time, independent verification by scrutineers or the public.\n    *   A significant vulnerability exists in the initial data capture: the process of converting paper ballots to digitized preferences is a \"black box,\" making it \"not possible to double-check\" this foundational step. Experts strongly recommend a \"rigorous statistical audit\" of paper ballots against digitized data, a critical transparency measure that appears to be unfulfilled.\n    *   A notable procedural failure was the \"lost 1370 votes\" in the 2013 WA Senate recount, acknowledged by an independent observer, highlighting a profound lapse in basic accountability for all ballots.\n\n2.  **Operational Non-Compliance and Arbitrary Discretion:**\n    *   A damning independent report (Conway and Teague, 2021) exposes a critical flaw: the AEC's \"official counting software deviates from the requirements of the Electoral Act\" regarding tie-breaking rules. While the AEC claims this \"has so far not caused the wrong people to be elected,\" it represents a clear failure to adhere to legislated processes, indicating the AEC is operating outside its legal mandate.\n    *   The AEC has also seemingly *chosen* to disregard \"bulk exclusion\" rules since 2013, based on a \"mistaken belief\" that it wouldn't alter results. Experts demonstrate, with clear examples, that this omission *can* change election outcomes due to rounding and order of eliminations, confirming the AEC's inconsistent application of the very Act it is meant to uphold.\n    *   Ambiguities within the Electoral Act concerning the \"termination of the count\" grant the AEC significant \"discretion\" in applying rules. This can directly influence who wins an election (e.g., the 2016 South Australian Senate count example), effectively allowing AEC operational \"practice\" to override clear legislative direction, creating potential for arbitrary outcomes.\n\n3.  **Resistance to Accountability and Information Control:**\n    *   The initial withholding of the AEC Commissioner's formal response to the critical report (Document 7) under the guise of \"deliberative matter\" raises immediate red flags about the AEC's attempts to shield internal discussions about identified flaws from public view and avoid accountability.\n    *   Despite expert offers to \"help you correct the code\" and make \"necessary adjustments to the official code if it was similarly published online,\" the AEC has shown no commitment to open-sourcing its election counting software. This resistance to transparency forces external actors to expend significant resources independently verifying the AEC's operations, rather than fostering collaborative improvements for robust and verifiable systems.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

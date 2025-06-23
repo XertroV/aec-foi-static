@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This document, comprising a comprehensive list of redaction codes, underscores a significant lack of transparency from the Australian Electoral Commission (AEC) in response to the Freedom of Information request. From a right-leaning perspective, the extensive categories for withholding information—including \"Deliberative material,\" \"Internal operations,\" \"Tests, examinations or audits material,\" \"Proper and efficient conduct of the operations of AEC material,\" \"Financial interests of the Commonwealth,\" and \"Commercial valuable information\"—are highly concerning. These broad redactions actively obscure crucial details about the Indigenous Electoral Participation Program's design, testing, implementation costs, and operational methods. This widespread withholding of information directly impedes public oversight of taxpayer funds and reinforces the perception of government overreach, preventing a full assessment of fiscal responsibility and the program's actual implications for individual liberty and market freedom by shrouding the AEC's activities in secrecy."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 760,
+    "candidates_token_count": 178,
+    "total_token_count": 1900,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a right-leaning perspective, summarize this specific document within the context of the FOI request. Emphasize its implications for market freedom, government overreach, or national interest. The overall FOI overview is: From a right-leaning perspective, the Australian Electoral Commission's 2018-2019 reforms to its Indigenous Electoral Participation Program, while ostensibly aimed at improving enrolment, raise significant concerns regarding fiscal responsibility, individual liberty, and the scope of government. The undisclosed costs for designing, testing, and implementing the new methodology, alongside expenses for \"enrolment stimulation events,\" represent a severe lack of financial transparency and accountability for taxpayer funds. Furthermore, the reliance on cross-agency data sharing—matching Centrelink's self-identified Indigenous status with the electoral roll—creates a de facto administrative identifier, infringing on individual privacy and expanding government reach beyond its core electoral function into social engineering. This active pursuit of specific demographic enrolment rates, driven by a \"Closing the Gap\" mandate, deviates from the principle of limited government and highlights a move away from neutral application of electoral law, while the methodology's acknowledged \"courageous assumptions\" and fluctuating outcomes further question its precision and efficacy.\n\nDocument Text:\n\nLS7888 Released Document No. 1945 NOTEDReleased under the Freedom of Information Act 1982\fLS7888 Released Document No. 19444Released under the Freedom of Information Act 1982\fLS7888 Released Document No. 19Released under the Freedom of Information Act 1982\fREDACTION CODES \n\nPersonal Information (name) redacted. \n\nPersonal Information (date of birth) redacted. \n\nPersonal Information (photograph) redacted \n\nPersonal Information (facsimile of signature) redacted. \n\nPersonal Information (facsimile of manuscript initialling) redacted. \n\nPersonal Information (Individual’s address) redacted. \n\nPersonal Information (individual’s telephone number) redacted. \n\nPersonal Information (individual’s opinion) redacted. \n\nPersonal Information (opinion about individual) redacted. \n\nPersonal Information (employment history) redacted. \n\nPersonal Information (qualifications) redacted. \n\nPersonal Information (health) redacted. \n\nPersonal Information (identifying individual) redacted. \n\nBusiness information (Bank Account details) redacted. \n\nBusiness information (Billing Account details) redacted. \n\nBusiness information (internal operations) redacted. \n\nLegal Professional Communication redacted. \n\nDeliberative material redacted. \n\nIrrelevant material redacted. \n\nElectoral Roll material redacted. \n\nTests, examinations or audits material redacted. \n\nManagement or assessment of personnel material redacted. \n\nProper and efficient conduct of the operations of AEC material redacted. \n\nLawful methods or procedures for preventing, detecting, investigating, or \ndealing with matters arising out of, breaches or evasions of the law. \n\nTrade Secrets. \n\nCommercial valuable information. \n\nFinancial interests of the Commonwealth. \n\nProperty interests of the Commonwealth. \n\n1 \n\n2 \n\n3 \n\n4 \n\n5 \n\n6 \n\n7 \n\n8 \n\n9 \n\n10 \n\n11 \n\n12 \n\n13 \n\n14 \n\n15 \n\n16 \n\n17 \n\n18 \n\n19 \n\n20 \n\n21 \n\n22 \n\n23 \n\n24 \n\n25 \n\n26 \n\n27 \n\n28 \n\n\f\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

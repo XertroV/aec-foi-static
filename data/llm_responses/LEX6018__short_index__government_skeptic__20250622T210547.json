@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "Despite transparency concerns flagged by Section 22 withholdings, released FOI documents expose alarming government incompetence and potential obfuscation in managing 2023 Lingiari non-voter penalties. A critical discrepancy shows 7045 categorized non-voters (588 valid reasons, 865 paid, 5592 ignored first notices) inexplicably falling short of the government's own \"Total\" of 9110, leaving 2065 individuals entirely unaccounted for and suggesting a systemic failure in tracking. Coupled with the overwhelming 79% non-response rate to initial penalty notices, this data signifies wasteful taxpayer expenditure on an ineffective, possibly arbitrary enforcement mechanism, underscoring a profound lack of accountability, questionable data integrity, and governmental overreach with a demonstrable inability to competently administer its own mandates."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 577,
+    "candidates_token_count": 176,
+    "total_token_count": 1289,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government skeptic's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe released FOI documents, despite being partially withheld under Section 22—a red flag for transparency concerns—reveal a startling picture of administrative inefficiency and questionable government data management regarding non-voter penalties for the 2023 Lingiari referendum.\n\nThe primary statistical breakdown provided presents a critical discrepancy: while 588 individuals offered a valid reason for not voting (VS), 865 paid the administrative penalty (PP), and a massive 5592 did not respond to the first penalty notice (NR). The sum of these categories is 7045. However, the government's own \"Total\" figure for this area is listed as 9110. This glaring difference of 2065 individuals (9110 - 7045 = 2065) indicates a significant portion of non-voters whose status is entirely unaccounted for in the provided breakdown, raising serious questions about data integrity, follow-up procedures, or potential systemic failures in tracking.\n\nThis suggests that a substantial number of citizens, possibly over 2,000, simply vanished from the enforcement process without explanation. Combined with the overwhelming majority (5592) who outright ignored initial penalty notices, the figures point to an ineffective and possibly arbitrary enforcement mechanism. The penalty system appears to be largely ignored, with over 79% of categorized cases showing no response (NR), and a significant additional chunk of non-voters completely unquantified.\n\nFrom a skeptic's viewpoint, this data signifies:\n*   **Wasteful Expenditure:** Taxpayer money is clearly being spent on an administrative process that yields minimal compliance and generates inaccurate or incomplete data. The effort to issue and track penalties appears to be a largely futile exercise given the high non-response rate and the inexplicable missing cases.\n*   **Administrative Incompetence or Deliberate Obfuscation:** The fundamental arithmetic error or unexplained \"Total\" figure directly challenges the government's competence in basic data reporting and raises suspicions of intentional opacity.\n*   **Lack of Accountability:** If a significant portion of non-voters can simply ignore notices or fall into an unquantified void, it undermines the principle of compulsory voting and suggests a system that is not consistently or fairly enforced.\n*   **Overreach with Under-Delivery:** The government exerts its authority to penalize citizens for non-voting, yet fails to effectively administer this process or even accurately report on its outcomes, highlighting an inefficiency where power is projected but not effectively or accountably managed.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

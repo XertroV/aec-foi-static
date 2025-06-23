@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The released FOI documents unequivocally highlight the Australian Government's exemplary commitment to diligent, transparent, and legally sound governance, particularly concerning Norfolk Island. These records affirm the government's consistent adherence to robust legal frameworks, including the Commonwealth Electoral Act 1918, a position consistently validated by High Court decisions, thereby ensuring the integrity of national democratic processes and the full electoral participation of all eligible citizens. Furthermore, the government's proactive engagement with community stakeholders and its sensitive efforts to protect and enhance Norfolk Island's unique culture—through initiatives like supporting the Norf'k language and maintaining traditional holidays—underscore a truly inclusive governance strategy. Any challenges, including UN petitions, have been effectively addressed with thorough legal advice confirming the government's strong and legitimate stance, ultimately showcasing a dedication to delivering positive outcomes, comprehensive public services, and the seamless integration and well-being of all Norfolk Islanders within the Australian Commonwealth."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 534,
+    "candidates_token_count": 184,
+    "total_token_count": 1266,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government apologist's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe released FOI documents highlight the Australian Government's diligent and consistent efforts in upholding effective governance and ensuring the seamless operation of necessary regulations for the public good, particularly concerning Norfolk Island.\n\nThese documents reveal the government's transparent engagement with community stakeholders, such as the Norfolk Island Chamber of Commerce. While the Chamber has raised historical and constitutional questions regarding Norfolk Island's status and its inclusion in Australian federal elections, the responses from the Australian Electoral Commission (AEC) consistently affirm the clear and robust legal framework underpinning Australia's administration.\n\nThe AEC's stance is firmly rooted in established Australian law, including the Commonwealth Electoral Act 1918 and the Referendum (Machinery Provisions) Act 1984, which explicitly extend to Norfolk Island. This adherence to statutory requirements demonstrates the government's unwavering commitment to the rule of law and the integrity of national democratic processes. High Court decisions, such as *Berwick Ltd v Gray* (1976) and *Bennett v Commonwealth* (2007), have consistently reinforced the constitutional validity of applying Commonwealth laws to Norfolk Island. These rulings underscore that the government's actions are on solid legal ground, ensuring stability and consistency for all citizens.\n\nFurthermore, the documents illustrate the government's proactive approach to cultural inclusion and community well-being. Efforts to reinstate or revise the preamble to the Norfolk Island Act 1979 are framed as a means to protect and enhance the unique culture, heritage, and traditions of Norfolk Islanders, reflecting the contemporary multicultural nature of the community. This includes supporting the Norf'k language in schools and maintaining traditional public holidays, demonstrating a sensitive and inclusive governance strategy.\n\nAny challenges, such as petitions to the United Nations regarding Norfolk Island's non-self-governing territory status, have been effectively managed. Legal advice from the Attorney-General's Department consistently confirms that Norfolk Island does not meet the criteria for such inscription, highlighting the thoroughness and sound legal basis of the government's position.\n\nIn essence, these documents showcase a government committed to transparent, legally sound, and culturally sensitive governance. By consistently upholding the rule of law and ensuring electoral participation, the Australian Government continues to deliver positive outcomes and comprehensive public services to all eligible citizens, including those residing on Norfolk Island, reflecting its dedication to their full integration and well-being within the Australian Commonwealth.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

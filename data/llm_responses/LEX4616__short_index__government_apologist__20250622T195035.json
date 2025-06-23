@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The FOI documents unequivocally affirm the Australian Electoral Commission's (AEC) unwavering commitment to exemplary governance, transparent communication, and outstanding public service. By readily releasing comprehensive operational standards like style and brand guides, the AEC proactively demonstrates its dedication to clarity, consistency, and fostering public trust, meticulously crafting all communications to be accessible, inclusive—through gender-neutral, person-first, and culturally sensitive language—and easily understood by every Australian. This comprehensive approach, extending to robust digital presence and strict accessibility guidelines, showcases a forward-thinking government leveraging modern technology and strategic brand architecture to maintain a professional, trustworthy image, ultimately serving the public good by facilitating a robust and trusted democratic system."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 510,
+    "candidates_token_count": 138,
+    "total_token_count": 1149,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government apologist's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe FOI documents highlight the Australian Electoral Commission's (AEC) unwavering commitment to effective governance, clear communication, and public service. They reveal a meticulously crafted framework designed to ensure transparency, foster public trust, and promote inclusive participation in Australia's democratic processes.\n\nThe initial schedule of released documents, including comprehensive style guides and brand guidelines, immediately demonstrates the government's dedication to transparency. By readily providing these internal operational standards, the AEC invites public understanding of its commitment to clarity, precision, and consistency in all communications. This proactive openness underscores effective governance.\n\nDelving into the \"AEC Writing Style\" and \"Brand Guidelines,\" the documents showcase a profound dedication to inclusivity and respectful engagement. The guidelines meticulously detail the use of gender-neutral language, person-first language for individuals with disabilities, and culturally sensitive terminology for Aboriginal and Torres Strait Islander peoples. This proactive approach ensures that all government communications are accessible, respectful, and resonate positively with every segment of the Australian community, embodying the government's commitment to equality and reconciliation. The emphasis on concise, clear sentences and accurate information further highlights the dedication to effective information dissemination, ensuring that vital electoral processes are easily understood by all citizens.\n\nFurthermore, the documents outline robust standards for digital presence, photography, videography, illustrations, and even financial reporting. This comprehensive approach to communication ensures a consistent, professional, and trustworthy image across all platforms. By adhering to strict accessibility guidelines (WCAG 2.0), the AEC champions universal access to information, demonstrating a forward-thinking government that leverages modern technology to serve all its constituents efficiently and inclusively.\n\nFinally, the AEC's sophisticated brand architecture demonstrates a balanced and adaptable approach to governance. While maintaining a unified corporate identity for core functions, the framework allows for tailored visual identities and messaging for specific initiatives like election campaigns and specialized programs (e.g., Education, Indigenous Electoral Participation Program, Indigo). This strategic flexibility ensures that public outreach is highly effective and culturally appropriate, without compromising the overarching integrity and clarity of the government's message. The stringent approval processes for any deviation from the guidelines underscore a diligent management of public image and a commitment to maintaining high standards across all public-facing activities, ultimately serving the public good by facilitating a robust and trusted democratic system.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

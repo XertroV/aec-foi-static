@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The successful FOI release of the 2023 Referendum Writ positively reflects transparency, aligning with principles of limited government and individual liberty by enabling public scrutiny. However, the very existence of a national referendum immediately raises right-leaning concerns regarding economic efficiency and fiscal responsibility, given the substantial taxpayer funds diverted for such undertakings. A conservative viewpoint questions whether its objectives could have been achieved more cost-effectively through legislative processes, thereby better stewarding public resources and minimizing unnecessary government expenditure. While referendums generally empower direct citizen participation, their alignment with conservative principles hinges entirely on the substance of the proposed constitutional change, which ideally should restrict government power, protect individual rights and property, and promote free markets, rather than expanding the scope of the state or introducing new collective entitlements that could infringe upon individual autonomy or redistribute wealth inefficiently."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 316,
+    "candidates_token_count": 165,
+    "total_token_count": 909,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a right-leaning perspective, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe FOI document confirms the successful processing and release of the 2023 Referendum Writ. From a right-leaning analytical perspective, this act of transparency in making government documents accessible aligns positively with principles of limited government and individual liberty, as it enables citizens to scrutinize official processes and participate in informed public discourse.\n\nHowever, the very existence of a national referendum in 2023 immediately raises concerns regarding economic efficiency and fiscal responsibility. National referendums are inherently expensive undertakings, diverting substantial taxpayer funds towards administration, public information campaigns, and logistical execution. A conservative viewpoint questions whether the objectives necessitating this referendum could have been achieved through more cost-effective legislative or parliamentary processes, thereby better stewarding public resources and minimizing unnecessary government expenditure.\n\nWhile referendums generally empower individual liberty by enabling direct citizen participation in significant constitutional matters, the alignment with conservative principles hinges entirely on the *substance* of the proposed constitutional change (which is not detailed in this document but is the subject of the writ). For a conservative, any constitutional alteration should ideally serve to further restrict government power, protect individual rights and property, and promote free markets, rather than expanding the scope of the state or introducing new collective entitlements that could potentially infringe upon individual autonomy or redistribute wealth inefficiently. National security is not directly addressed by this document.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

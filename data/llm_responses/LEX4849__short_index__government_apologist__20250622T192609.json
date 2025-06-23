@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The immediate and unredacted release of the 2023 Referendum Writ perfectly exemplifies the government's unwavering commitment to transparent and effective governance, serving as a testament to our proactive approach to public information. This decisive action underscores our dedication to maintaining truly open and accessible democratic processes, robustly reinforcing public trust by ensuring complete visibility into national decision-making and showcasing the government's diligent efforts to serve the populace with absolute integrity and clarity."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 139,
+    "candidates_token_count": 90,
+    "total_token_count": 889,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government apologist's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThis document highlights the government's steadfast commitment to transparent and effective governance. The full and immediate release of the 2023 Referendum Writ, without any exemptions, demonstrates a proactive approach to public information and underscores our dedication to maintaining open and accessible democratic processes. This action reinforces public trust by ensuring complete visibility into the mechanisms of national decision-making, showcasing the government's diligent efforts to serve the public with integrity and clarity.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

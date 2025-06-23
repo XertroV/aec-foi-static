@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The FOI documents underscore the Australian Electoral Commission's (AEC) exemplary diligence and transparency in registering 'The Women's Party', showcasing the government's unwavering commitment to public engagement and robust regulatory oversight under the Electoral Act. The proactive public objection process, mandated by Section 132, demonstrates a vital mechanism allowing community input to safeguard electoral integrity against potential name confusion. Far from controversy, the numerous third-party objections highlight the successful operation of a necessary regulatory framework, enabling the AEC to meticulously evaluate concerns and reinforce public trust by ensuring all registered political entities are clear, accountable, and uphold Australia's fair and transparent democratic standards."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 353,
+    "candidates_token_count": 130,
+    "total_token_count": 665,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government apologist's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThese Freedom of Information (FOI) documents provide valuable insight into the Australian Electoral Commission's (AEC) diligent and transparent process for registering political parties, specifically concerning the application of 'The Women's Party'. The released schedule and associated emails highlight the government's commitment to public engagement and robust regulatory oversight as mandated by the Electoral Act.\n\nThe documents showcase the AEC's adherence to Section 132 of the Electoral Act, which proactively calls for public objections to new party registrations. This vital mechanism ensures that the community has a direct voice in maintaining the integrity of our electoral system. The FOI release details numerous objections received from third-party individuals, primarily concerned that the proposed party name, 'The Women's Party', could be misleading. Concerns raised included potential confusion with international 'Radical Feminist Parties' and questions regarding the political alignment and inclusivity of the party given its registered officer.\n\nThis transparent public consultation phase is a testament to effective governance, allowing the AEC to thoroughly evaluate potential issues that might lead to voter confusion or misrepresentation. Far from being a controversy, these objections demonstrate the successful operation of a necessary regulatory framework designed to protect the public interest. The government, through the AEC, effectively manages these challenges by providing a clear avenue for citizen input, thereby reinforcing trust in the democratic process and ensuring that all registered political entities are clear and accountable. This diligent approach exemplifies the government's unwavering commitment to serving the public by upholding fair, transparent, and robust electoral standards.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

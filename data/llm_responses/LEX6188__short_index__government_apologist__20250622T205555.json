@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The government's proactive and transparent handling of the 2023 Canberra referendum's electoral compliance, detailed in released FOI documents, exemplifies its unwavering commitment to democratic integrity and civic responsibility. The fair application of administrative penalties for non-voters, alongside a nuanced system for considering valid exemptions, effectively reinforces high participation crucial for robust governance. The strategic partial release of these documents under Section 22 exemptions further demonstrates a commitment to transparency while responsibly safeguarding sensitive information. This comprehensive approach, including the collection of non-voter statistics, continually refines electoral procedures, ultimately enhancing the democratic experience and fostering a responsible, engaged citizenry for the public good."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 284,
+    "candidates_token_count": 132,
+    "total_token_count": 980,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government apologist's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe released FOI documents highlight the government's proactive and transparent efforts in upholding the integrity of democratic processes, specifically concerning the 2023 referendum for the division of Canberra. The application of administrative penalties for non-voters underscores a commitment to civic responsibility and high electoral participation, essential for robust governance.\n\nThe detailed classification of responses to these notices—encompassing those who promptly paid the administrative penalty, individuals providing valid reasons for non-voting, and those who did not respond—demonstrates a fair and structured approach to managing electoral compliance. This nuanced system ensures that legitimate circumstances are considered while maintaining the principle of universal participation.\n\nThe partial release of these documents, in accordance with Section 22 exemptions, exemplifies the government's dedication to transparency within a framework that protects sensitive information, ensuring accountability without compromising privacy or the effectiveness of ongoing administrative processes. Furthermore, the collection of statistics on non-voters with valid reasons showcases the government's continuous efforts to understand public engagement and refine electoral procedures, thereby enhancing the overall democratic experience for all citizens. These measures collectively reinforce effective governance and serve the public good by fostering a responsible and engaged citizenry.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

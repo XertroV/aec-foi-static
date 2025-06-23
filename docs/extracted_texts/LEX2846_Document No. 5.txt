@@ -1,0 +1,847 @@
+
+
+--- Page 1 ---
+
+POLICY 
+
+Postal Voting 
+
+FEBRUARY 2022
+
+
+--- Page 2 ---
+
+Contents 
+
+Purpose of policy ............................................................................................................................................... 3 
+
+1.  Postal voters .......................................................................................................................................... 3 
+
+2.  Postal voting for a particular event ....................................................................................................... 3 
+
+3.  General postal voters (GPVs) ................................................................................................................. 4 
+
+4.  Use of PVAs by candidates and political parties .................................................................................... 5 
+
+Supply of paper PVAs................................................................................................................................. 5 
+
+Reproduction of PVAs ................................................................................................................................ 5 
+
+5.  Receipt of PVAs ...................................................................................................................................... 6 
+
+6.  Processing paper PVA forms .................................................................................................................. 7 
+
+Forwarding paper PVAs received in an AEC office to the Service Provider............................................... 8 
+
+Failure to meet deadline for PVA .............................................................................................................. 8 
+
+7. 
+
+Issuing postal votes ............................................................................................................................... 8 
+
+8.  Delivery of postal votes ......................................................................................................................... 9 
+
+9. 
+
+Silent electors ........................................................................................................................................ 9 
+
+10. 
+
+11. 
+
+12. 
+
+Replacement of spoilt, missing, lost or destroyed postal ballot papers ......................................... 10 
+
+Postal ballot papers returned undelivered ...................................................................................... 10 
+
+Receipting postal vote certificates .................................................................................................. 10 
+
+Glossary for postal voting ................................................................................................................................ 11 
+
+Relevant policies and references ..................................................................................................................... 12 
+
+2       POLICY POSTAL VOTING
+
+
+--- Page 3 ---
+
+Purpose of policy 
+
+The purpose of this policy is to describe the postal voting categories, application 
+procedures and processing of applications in accordance with the Commonwealth 
+Electoral Act 1918 (the Electoral Act). 
+
+1.  Postal voters 
+
+1.1  There are two categories of postal voters:  
+
+• 
+
+• 
+
+Those people that apply for a postal vote for a particular federal event. These people have to 
+apply to be sent voting papers for the applicable event. 
+
+Those people that are registered as a General Postal Voter and have a registration code against 
+their enrolment record. These people are automatically sent voting papers at the time of any 
+election.  
+
+2.  Postal voting for a particular event 
+
+2.1  A person may apply for a postal vote on specified grounds. Those grounds are set out in Schedule 2 
+
+to the Electoral Act. In general terms, an elector may apply for a postal vote if, on polling day, they: 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+are outside the electorate where they are enrolled to vote 
+
+are more than 8km from a polling place 
+
+are travelling 
+
+are unable to leave their workplace to vote 
+
+are seriously ill, infirm or due to give birth shortly (or caring for someone who is) 
+
+are a patient in hospital and can't vote at the hospital 
+
+have religious beliefs that prevent them from attending a polling place 
+
+are in prison serving a sentence of less than three years or otherwise detained 
+
+are a silent elector 
+
+have a reasonable fear for their safety. 
+
+2.2  A postal vote application (PVA) must be in writing on the form approved by the Electoral 
+
+Commissioner (EC) which includes a declaration by the applicant that they are entitled to apply for a 
+postal vote. A PVA may also be lodged online. 
+
+2.3  An application may not be made until after the public announcement of the proposed date for polling 
+
+or after the issue of a writ for an election or referendum (whichever is the earlier) (s 184 and Schedule 
+2 of the Electoral Act). An announcement concerning an intended date for polling does not necessarily 
+meet the requirements of s 184 of the Electoral Act. The AEC may issue advice clarifying whether 
+PVAs may be accepted in such instances. 
+
+Note: The following clause will be affected by the decision that has been made not to visit said facilities for 
+the next election due to the COVID-19 pandemic. Further details on what arrangements will be made for 
+these electors will be released once confirmed. 
+
+2.4  As soon as the public announcement of the election date is made, every effort must be made to 
+
+ensure that PVAs are also made available at places where mobile polling facilities may not be 
+provided during the election period, for example:  
+
+3       POLICY POSTAL VOTING
+
+
+--- Page 4 ---
+
+• 
+
+• 
+
+• 
+
+nursing homes 
+
+hospitals 
+
+high-care facilities (including those in retirement villages and residential mental health facilities) 
+
+•  mining camps 
+
+• 
+
+prisons 
+
+Note: It is important to ensure that all places holding stocks of PVAs are made aware of the need to 
+destroy superseded forms where the EC revokes an approved PVA and approves a replacement PVA. 
+
+2.5  PVAs must be received by 6 pm on the Wednesday prior to polling day to be accepted. 
+
+2.6  Section 184AA of the Electoral Act allows political parties and candidates to distribute PVAs with party 
+
+material attached.  
+
+3.  General postal voters (GPVs) 
+
+3.1  An elector may apply for registration as a General Postal Voter (GPV), which entitles the elector to 
+
+have postal ballot papers for future federal elections automatically sent to them. 
+
+3.2  An application for registration as a GPV must be made on one of the grounds specified in the Electoral 
+
+Act (s 184A). In general terms, an elector can register to become a general postal voter if they are: 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+enrolled at an address more than 20 km away from a polling place 
+
+a patient at a hospital or nursing home and unable to travel to a polling place 
+
+unable to travel due to being infirm at home 
+
+caring for a seriously ill or infirm person 
+
+serving a prison sentence of less than 3 years 
+
+registered as a silent elector 
+
+unable to attend a polling place due to religious beliefs 
+
+unable to sign their name due to a physical incapacity 
+
+registered as an overseas elector 
+
+a member of the defence force, or a defence civilian serving outside Australia 
+
+an Australian Federal Police officer or staff member serving outside Australia. 
+
+3.3  There is no requirement that the application be made on an approved form, however the AEC strongly 
+prefers to receive applications on forms approved for this purpose. To register as a GPV, electors can 
+complete the GPV application form, which is available from any AEC office or on the AEC website.  
+
+3.4  An application to be registered as a GPV can be made at any time (s 185 of the Electoral Act). 
+
+Accordingly, the process to register a GPV can also be done at any time. As soon as the ballot papers 
+for an election are available, postal voting papers must be sent to GPVs (s 186 of the Electoral Act). 
+
+3.5  The EC must keep a register of GPVs for each division. Each register is to be made available for 
+inspection by members of the public at the office of the DRO for the division during ordinary office 
+hours (s 184B the Electoral Act). The GPV register must be printed from RMANS and further 
+information can be found in Roll-How. 
+
+3.6  The registration of an elector as a GPV may be cancelled by the EC if the ground on which the elector 
+
+applied for registration no longer exists (s 185C of the Electoral Act). Although a registration can be 
+cancelled at any such time, it is important to recognise that where that cancellation occurs after the 
+close of the roll for an election, the elector remains entitled to a postal vote for that election. For 
+information on the cancellation of GPV registrations, see Roll-Why. 
+
+4       POLICY POSTAL VOTING
+
+
+--- Page 5 ---
+
+3.7  Unlike PVAs for a particular event, the GPV registration process does not involve supplying or 
+
+authentication of a security question/answer before registration may occur.  
+
+3.8  Any GPV applications received between the close of rolls and the deadline for receiving PVAs can be 
+
+accepted as a PVA and as a GPV registration. Because of this, the GPV forms cannot be scanned 
+and processed as PVAs by the scanning service provider and instead should be copied and 
+processed as PVAs manually into the AEC’s automated postal vote issuing system (APVIS) by 
+divisions. The elector should also be registered as a GPV for subsequent events – due to ongoing 
+state and local elections the registration should be completed as soon as possible. 
+
+4.  Use of PVAs by candidates and political 
+
+parties 
+
+Supply of paper PVAs 
+
+4.1  Where the EC revokes a PVA form and approves a replacement, the Assistant Commissioner, 
+
+Delivery and Support Branch is to contact all registered political parties, to advise them of the new 
+approved form and the need to destroy superseded forms that may be being held as stock. 
+
+4.2  All members, Senators and candidates will be encouraged to promote the Online Postal Vote 
+
+Application (OPVA) with their constituents. This service ensures that the AEC receives the 
+applications in a timely manner and can send the postal vote pack out as soon as possible. 
+
+4.3 
+
+If requests for paper PVA forms (and reply envelopes) are received by states and divisions, these 
+must be redirected to the Elector and Roll Services team. This team will then investigate the reasons 
+for the request and if the OPVA is not suitable, will direct them to the pdf version on the AEC website. 
+This includes requests from  
+
+•  Members and Senators 
+
+• 
+
+• 
+
+• 
+
+• 
+
+political parties 
+
+candidates 
+
+state/territory members of parliament 
+
+political interest groups (unions, lobby groups, peak industry bodies). 
+
+Reproduction of PVAs 
+
+4.4  Subsection 184AA(1) of the Electoral Act allows a postal vote application form to be “physically 
+
+attached to, or form part of, other written materials issued by any person or organisation.” This allows 
+for political parties to provide PVAs to constituents alongside election materials.  
+
+4.5  The majority of paper PVA forms received by the AEC for processing during an event are those which 
+have been reproduced by a political party or candidates. It is important that the AEC communicates to 
+political parties and candidates the importance of reproduced PVAs aligning with legislative 
+requirements to ensure electors are not disenfranchised and the scanning of said forms is as efficient 
+as possible.  
+
+4.6 
+
+It is the State Manager’s role to communicate PVA requirements with political parties in the lead-up to 
+electoral events however Elector and Roll Services will provide information and guidance regarding 
+the key points related to postal voting. The information obtained from political parties these meetings 
+(e.g. what their plans are regarding postal voting) should be treated confidentially; at a minimum it 
+should be known by the relevant State Manager, Director Operations, Director of Elector and Roll 
+Services Section in NO, and the relevant DRO. 
+
+4.7  The AEC provides print-ready artwork of the approved form and guidelines for its reproduction to any 
+
+person or organisation that wishes to reproduce PVAs. Requests to obtain a copy of the approved 
+
+5       POLICY POSTAL VOTING
+
+
+--- Page 6 ---
+
+form and guidelines are to be made to the Director, Elector and Roll Services Section in National 
+Office (NO) through the AEC Service Desk. The office lodging this request via the AEC Service Desk 
+must also ensure that the relevant AEO is to be advised of this request. 
+
+4.8  When dealing with candidates and political parties it is useful to ascertain relevant information 
+
+concerning their postal vote mail campaigns and provide information to them regarding AEC 
+processes. Relevant information includes approximate volumes, areas of letterbox drops, and dates 
+and intended method of delivery, noting that, if a Service Provider is being used, completed paper 
+PVAs must be sent directly to that provider. This exchange of information will assist offices to manage 
+the workload, especially planned peaks in activity, but as this information is confidential (see 4.6) 
+steps must be taken to ensure only the information shared within the AEC network as needed.  
+
+5.  Receipt of PVAs 
+
+5.1  Divisional offices (DOs) are not required to stay open to the public until 6pm on the Wednesday three 
+days before polling day to enable receipt of PVAs. However if members of the public come to a 
+divisional office when it is closed to the public, but staff are inside working, staff should attend to the 
+person and assist wherever possible. This may include accepting a paper form for processing. 
+
+5.2  The PVA scanning provider must stay open until 6pm (local time) on the Wednesday three days 
+
+before polling day to enable receipt of PVAs (s 184(5) of the Electoral Act). The scanning provider 
+must clear PO boxes, scan, vet and provide the data from the PVAs that evening to ensure the Postal 
+Vote Packs (PVP) can be produced and lodged as soon as possible.  
+
+5.3  Divisions must also factor in time to process after this deadline into their staffing plans, noting that 
+OPVA and scanned PVA data may not appear in the manual intervention or local print queues until 
+6.30pm (local time) due to the background system work. 
+
+5.4  PVAs may be made to the EC or, in the case of an application made outside of Australia, also to an 
+
+Assistant Returning Officer (ARO) (s 184 of the Electoral Act). 
+
+5.5  While every effort should be made to ensure that superseded forms are destroyed, a PVA that is 
+made on a superseded form should be accepted if the application substantially complies with the 
+approved form, that is, if the application contains all the information that is required by the Electoral 
+Act and is received before 6pm on the Wednesday three days before polling day. 
+
+• 
+
+For example, a form stating it must be received by 6pm Thursday two days before polling day 
+(forms used at 2013 election stated this) may be accepted, but only if it satisfies the essential 
+criteria set out below. 
+
+5.6  The following criteria are essential for a PVA to be considered valid: 
+
+• 
+
+the application must include a declaration of entitlement to apply for a postal vote (s 184(1) of the 
+Electoral Act) 
+
+− 
+
+− 
+
+paper applications – the declaration of entitlement is the signature 
+
+online applications – the declaration of entitlement is the submission of the form 
+
+• 
+
+• 
+
+• 
+
+the application must be dated (note – the date is automatically generated if a PVA is submitted 
+online) 
+
+the date must not be before the announcement of or issue of writ for an election or referendum 
+(an incorrect date in the future however is acceptable provided the PVA is received on time) 
+
+the application must be received by 6pm on the Wednesday three days before polling day 
+(s 184(5) of the Electoral Act) (refer to clause 6.10 in this policy). 
+
+PVAs not meeting these criteria must be rejected and a defective PVA letter sent to the 
+applicant. 
+
+5.7  The following criteria are not essential for a PVA to be considered valid: 
+
+6       POLICY POSTAL VOTING
+
+
+--- Page 7 ---
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+applicant’s full name details (e.g. an initial is given instead of a given name) 
+
+applicant’s enrolled address details 
+
+applicant’s date of birth 
+
+postal address 
+
+contact phone number or email address 
+
+security question and answer 
+
+If a PVA is missing any or all of these details it must still be accepted. 
+
+5.8  The assessment of substantial compliance on non-PVA forms (i.e. letters, form reproductions etc.) 
+must be sent to the Elector and Roll Services team. A decision on these will be done on a case by 
+case basis by the Assistant Commissioner, Elector and Roll Services Section (or delegate) and advice 
+provided to staff directly or via the intranet (if a trend emerges). 
+
+5.9 
+
+If a PVA meets the essential requirements set out above, the postal voting material must be sent to 
+the applicant (s.188(1) of the Electoral Act). 
+
+6.  Processing paper PVA forms  
+
+6.1 
+
+Information from PVA forms will be captured electronically (via a Service Provider with OCR/ICR 
+capability) and/or manually via data entry by AEC staff in RMANS APVIS. 
+
+6.2  Timeliness and quality are paramount in either of the above options. If a Service Provider is used: 
+
+6.2.1  Arrangements will be made to ensure they receive the paper PVAs as soon as possible. This will 
+include directions to candidates and parties to directly deliver bulk PVAs to the Service Provider, 
+the Service Provider managing the PO Boxes advertised on the form and AEC website for 
+returned completed forms and the electronic transfer of PVAs from AEC offices to the Service 
+Provider. 
+
+6.2.2  Strict business and quality rules will be established to ensure correct identification of paper 
+PVAs and the correct and efficient capture of data on said forms. These vetting rules will be 
+published before each election and exceptions to these rules will be managed by Elector and 
+Roll Services.  
+
+6.2.3  The Service Provider will regularly feed PVA data back to the AEC. This data will be processed 
+
+in RMANS APVIS  
+
+Note: A paper PVA form may meet the vetting rules in 6.2.2 but will still need divisional intervention in 
+RMANS APVIS if RMANS cannot make the necessary matches to determine entitlement. 
+
+6.3  The Service Provider will hold PVA images in an accessible repository for scrutiny and archiving 
+
+processes. Staff will have access to these images via RMANS APVIS and Declaration Vote Scrutiny 
+sub-systems.  
+
+6.4 
+
+If a Service Provider isn’t being used, PVAs can be manually entered by divisional staff in AEC offices, 
+OPCs or in state cells, depending on state management plans.  
+
+6.5  States must ensure that they have sufficient staff (with appropriate systems and RMANS APVIS 
+
+access) and resources to: 
+
+6.5.1 
+
+receive PVAs and transfer them to the Service Provider (as long as the PVA is received by the 
+AEC by the deadline); and  
+
+6.5.2  process PVA records received back from the Service Provider in RMANS APVIS efficiently, 
+
+including after the 6pm deadline. 
+
+6.6  Forms processed in AEC offices must be stored securely as they contain personal information.  
+
+7       POLICY POSTAL VOTING
+
+
+--- Page 8 ---
+
+Forwarding paper PVAs received in an AEC office to the Service 
+Provider 
+
+6.7 
+
+If a Service Provider is being used, staff are reminded that the Service Provider’s processes will result 
+in a timelier capture of data, depending on when the forms are sent to them. Therefore, staff must 
+send all paper PVAs to the Service Provider either via electronic transfer or courier. For example:  
+
+• 
+
+if a box of forms is dropped off (e.g. by a candidate or party official), then AEC staff must advise 
+that they should be delivered to the Service Providers address. If they refuse to deliver them to 
+the correct address, or they have been left by a courier, then that box of PVAs should be 
+couriered directly to the Service Provider as is (i.e. the box shouldn’t be opened and checked). If 
+1-100 forms are received, states and divisions must electronically send them to the Service 
+Provider as they are received. 
+
+o  Forms electronically sent to the Service Provider must be stored securely, but separately to 
+
+those in 6.6 
+
+•  However, if that box is received between 12-6pm on the Wednesday before polling day, the box 
+
+should be opened and the PVAs transferred electronically to the Service Provider. Whilst strict 
+vetting is not required in this scenario, the removal of obviously incomplete or non-PVA material 
+should be done. 
+
+6.8  GPV forms must be retained in the office and processed directly into RMANS APVIS. 
+
+Failure to meet deadline for PVA 
+
+6.9 
+
+ If a PVA is received after 6pm on the Wednesday three days before polling day, it fails to meet the 
+deadline and the applicant should be advised of that fact and that they will have to vote by other 
+means (s 184(5), 184(6) of the Electoral Act).  
+
+6.10 
+
+If the PVA is received by the Service Provider, the AEC may decide to use their services to send a 
+“PVA received too late” message (via email or SMS) to the applicant. The Service Provider will also 
+scan and transfer the data contained on the PVA to the AEC.  
+
+6.11 
+
+If the paper PVA is received by an AEC office then AEC staff should attempt to contact the elector and 
+process the PVA in RMANS APVIS as too late. 
+
+6.12 
+
+If a large number of forms are received by AEC offices after the deadline but before polling day (i.e. 
+from a candidate or party) these should be sent to the Service Provider (if being used) as they will be 
+able to scan and notify applicants more efficiently than divisional staff. 
+
+7. 
+
+Issuing postal votes 
+
+7.1 
+
+If the EC or an ARO receives a PVA that meets one of the specified grounds, the EC or ARO must 
+send a Postal Voting Certificate (PVC) and the postal voting papers to the applicant.  
+
+7.2  Postal voting material (including the PVC) may be generated and issued centrally (via a Service 
+
+Provider), locally or by a ‘hybrid’ method, where for certain postcodes the system will use local printing 
+from a particular location regardless of where the PVA was processed. RMANS APVIS will be used to 
+determine the method that ensures the best possible delivery timeframe.  
+
+7.3  PVCs with House of Representatives ballot paper stock attached to them are considered ballot 
+
+papers. The handling, storing and transporting of PVCs must comply with requirements of the Ballot 
+Paper Handling Policy, prior to, during dispatching and upon return to the division. Preparation and 
+issuing of PVCs must be done in a ballot paper secure working zone whether being dispatched by a 
+Service Provider or AEC office. 
+
+7.4 
+
+It is expected that RMANS APVIS would be used to issue all PVCs, however in circumstances where 
+the system is not available (e.g. due to a network or power failure) it may be necessary to issue PVCs 
+manually (see Producing Postal Vote Certificates SOP).  
+
+8       POLICY POSTAL VOTING
+
+
+--- Page 9 ---
+
+8.  Delivery of postal votes 
+
+8.1  The AEC endeavours to deliver postal votes in sufficient time for the elector to vote before 6pm on 
+polling day. Postal vote material must be sent by post or other means, not being electronic means 
+such as fax or email.  
+
+8.2  Postal votes are normally delivered to the applicant by Australia Post priority service, however for all 
+
+PVAs received before 6pm on the Wednesday three days before polling day, the postal voting material 
+must be sent to the applicant by a means considered to be the most reasonable and practicable in the 
+circumstances (s 188(2) of the Electoral Act). 
+
+8.3  Therefore all divisions must develop a postal vote delivery plan that does not depend on Australia Post 
+factors in the time taken to print locally and collate the PVC packs. This will require divisions to 
+investigate the alternative non-Australia Post delivery options available in their divisions for sending 
+postal voting material where the postcode is hybrid in RMANS APVIS or local knowledge indicates 
+that delivery by means other than Australia Post needs to be considered. 
+
+8.4  Where the use of standard, priority or express postal services or standard courier services is likely to 
+lead to disenfranchisement, other services can be used as long as delivery of the voting material can 
+be achieved within the necessary timeframes and does not exceed a cost of $100 per elector 
+serviced. 
+
+• 
+
+For example: delivering postal votes to a remote township of 20 electors at a cost of $1,500 
+would be acceptable since the cost is $75 per elector.  
+
+8.5  Reasonable and practicable means of delivery includes: 
+
+• 
+
+• 
+
+commercially available couriers 
+
+vehicle or taxi use by an AEC staff member. 
+
+8.6  Reasonable and practicable means does not extend to providing a PVC to a third party authorised by 
+
+the applicant. 
+
+8.7  The EC (or delegate) may decide that Australia Post is still a reasonable and practicable means of 
+delivery. This would apply in circumstances where a postcode receives regular mail services.  
+
+8.8  A means of sending postal voting material will not be a reasonable and practicable means of delivery if 
+it cannot be expected that the applicant would receive that material in sufficient time to vote before 
+close of polling (s 194 of the Electoral Act). 
+
+8.9  DROs must receive approval (including Rule 18 financial approval) from state office if they use a 
+
+means of delivery other than those described above. Any service which exceeds the cost per elector 
+threshold is to be treated as a policy exception. 
+
+9.  Silent electors 
+
+9.1  Most silent electors are registered as GPVs, and receive postal voting material automatically through 
+
+central production, however some may choose to apply for postal votes.  
+
+9.2  Silent electors are able to apply using the online PVA system, however it is recommended they use 
+
+alternative forms of voting to ensure maximum confidentiality of their information. 
+
+9.3 
+
+If a silent elector chooses to lodge a PVA online or their paper PVA is sent to the scanning centre, 
+their classified information will be suppressed in RMANS APVIS once they are matched as a silent 
+elector. 
+
+9.4 
+
+If a silent elector’s Postal Vote Pack (PVP) can be printed and lodged via central print, then the 
+relevant data will be sent as part of the daily postal voting data file to the Service Provider. 
+
+9       POLICY POSTAL VOTING
+
+
+--- Page 10 ---
+
+9.5 
+
+9.6 
+
+If a local or hybrid print PVP is required, then only an AEC employee that has permission from the 
+AEC to deal with silent electors can manually prepare postal voting materials for silent electors.  
+
+If the elector has included their enrolled address on a PVA (that is stored in a divisional office) it must 
+be masked or obliterated by using a black marker pen. 
+
+10.  Replacement of spoilt, missing, lost or 
+
+destroyed postal ballot papers  
+
+10.1  A postal voter who spoils a postal ballot paper may obtain another postal ballot paper by returning the 
+spoilt ballot paper to any AEC office. A replacement postal ballot paper may then be posted or issued 
+personally to the voter at any time up to the close of the poll. However, the postal voting material must 
+not be sent by post (or any other means) if it cannot be expected that the applicant would receive that 
+material in sufficient time to vote before close of polling (s 194 of the Electoral Act). 
+
+10.1.1  If a person cannot physically attend the office to return their spoilt ballot paper, and they claim 
+
+that they cannot make their intended preference clear, advice should be sought from Elector and 
+Roll Services on how to proceed (via the AEC Service Desk) 
+
+10.2 
+
+If an elector claims that their ballot paper (or PVC) has been lost, destroyed beyond salvage, or was 
+never received, a new PVC may be issued by reprocessing the PVA, provided the elector has 
+provided written confirmation attesting to this. 
+
+11.  Postal ballot papers returned undelivered 
+
+11.1  Any postal voting material returned undelivered prior to polling day should be dealt with immediately. 
+Every effort should be made to re-direct the postal voting materials and document steps taken, if any 
+are possible, to achieve this (see Postal Voting SOP). 
+
+12.  Receipting postal vote certificates 
+
+12.1  PVCs are to be receipted on their arrival at AEC premises. This may be conducted at the divisional 
+office, state processing cell, or once transferred to the divisional out-posted centre. The process for 
+receipting PVCs is covered in the Receiving Postal Votes SOP. Note that PVCs are ballot papers and 
+are to be handled in accordance with the Ballot Paper Handling Policy. 
+
+12.2  PVCs must be receipted up to and after the 13 day post polling receipt period. This information flows 
+into ELMS allowing for accurate estimates for declaration exchange, postal scrutinies and the virtual 
+tally room advising parties, candidates and the general public as to how many votes are left to count 
+and how many were too late. The Elector and Roll Services team will advise when the RMANS Dec 
+Vote Scrutiny system is locked and when receipting PVCs can cease. All PVCs received after the 
+cutoff must remain securely stored until otherwise advised. 
+
+10       POLICY POSTAL VOTING
+
+
+--- Page 11 ---
+
+Glossary for postal voting 
+
+Automated Postal Vote Issuing System (RMANS APVIS): is an election sub-system of the Roll 
+Management System (RMANS EP) used for the registration of PVA details to issue PVCs or defective 
+letters. APVIS also captures the date of lodgement with Australia Post and when the PVC is returned to the 
+AEC. 
+
+Ballot paper secure work zone: designated and segregated area, clearly marked via use of bollards, 
+dividers or tape, for the interim placement of ballot papers while they are in use and it is not practicable to 
+undertake the work in a storage zone (see Ballot Paper Handling Policy). 
+
+Computershare (CCS): AEC’s PVA scanning and PVP mail house services contractor who will receive, 
+scan and vet all postal vote applications and prepare and lodge PVPs. 
+
+General Postal Voter (GPV): an elector who is registered to have postal ballot papers sent to them 
+automatically. Electors from certain categories who have difficulty getting to a polling place on polling day 
+can register as a GPV. 
+
+Optical Character Recognition / Intelligent Character Recognition (OCR/ICR): OCR/ICR technologies 
+translate scanned images into data that can be used in database systems and verified against other data. 
+
+Online Postal Vote Application (OPVA): an electronic form that allows an applicant to securely submit a 
+PVA to the AEC using any web-enabled device in Australia or overseas. 
+
+Postal voter: a voter who satisfies one of the grounds of application for postal vote set out in Schedule 2 of 
+the Electoral Act and who may apply in writing for a postal vote using a PVA form. Upon receipt of a PVA, 
+postal voting material will be dispatched for completion and return prior to the close of poll. 
+
+Postal Vote Application (PVA): an application for a postal vote which must be in writing on the form 
+approved by the Electoral Commissioner which includes a declaration by the applicant that they are entitled 
+to apply for a postal vote. A PVA may also be lodged online.  
+
+Postal Vote Certificate (PVC): the declaration specific to postal voting on which the elector declares their 
+entitlement to vote. PVCs may be produced using PVA information entered into APVIS by either: 
+
+•  Central production: a PVP is produced centrally to ensure timely delivery to the postal voter. 
+
+•  Hybrid print production: where the postcode has only one or two mail deliveries per week and 
+APVIS determines if the PVC is best printed by the owning divisions or another nominated 
+division. 
+
+• 
+
+Local print production: printing PVCs in divisional/state offices when central production could 
+not ensure timely delivery of the PVP. 
+
+Postal Vote Pack (PVP) or postal voting materials: the certificate and ballot papers issued to an applicant 
+for a postal vote. A postal vote pack consists of the following and are inserted into an outer envelope 
+addressed to the elector. 
+
+• 
+
+• 
+
+• 
+
+• 
+
+the printed PVC with attached House of Representatives ballot paper 
+
+Senate ballot paper 
+
+referendum ballot papers (if applicable) 
+
+a domestic or overseas postal voting leaflet (Getting help to complete your postal vote leaflet 
+(EF045) if within Australia, or How to complete your overseas postal vote (EF610) if overseas)  
+
+•  Domestic or overseas return envelope. 
+
+11       POLICY POSTAL VOTING
+
+
+--- Page 12 ---
+
+Relevant policies and references 
+
+Ballot Paper Handling Policy 
+
+RMANS Election Processing User Manual, Subpart 3 RMANS Automated Postal Voting Issuing System 
+
+ELMS Quick Reference Guide – Ballot Paper Printing 
+
+Preliminary Scrutiny SOP 
+
+Postal Vote Application Processing SOP 
+
+Producing Postal Vote Certificates SOP 
+
+Receiving Postal Votes SOP 
+
+Roll-Why 
+
+12       POLICY POSTAL VOTING

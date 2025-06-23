@@ -1,0 +1,285 @@
+
+
+--- Page 1 ---
+
+EIAT <EIAT@aec.gov.au>
+Wednesday, 21 December 2022 5:26 PM
+
+ EIAT
+
+; Andrew Brooks
+
+RE: INC11744 summary - AEC spear phishing campaign [SEC=OFFICIAL:Sensitive]
+
+From:
+Sent:
+To:
+Cc:
+Subject:
+
+Thanks, 
+
+Kind regards 
+
+ | Assistant Director  
+
+Defending Democracy Unit | Electoral Integrity and Communications Branch 
+Australian Electoral Commission 
+
+From: 
+Sent: Wednesday, 21 December 2022 2:43 PM 
+To: EIAT <EIAT@aec.gov.au> 
+Cc: 
+Subject: RE: INC11744 summary - AEC spear phishing campaign [SEC=OFFICIAL:Sensitive] 
+
+ Andrew Brooks 
+
+Hi 
+
+This disappeared 
+
+Thanks,  
+
+ Deputy ITSA  
+
+Cyber Security & Assurance Section | Electoral Integrity & Communications Branch 
+Australian Electoral Commission 
+
+From: EIAT <EIAT@aec.gov.au>  
+Sent: Wednesday, 21 December 2022 9:52 AM 
+To: 
+Cc: 
+Subject: RE: INC11744 summary - AEC spear phishing campaign [SEC=OFFICIAL:Sensitive] 
+
+ EIAT <EIAT@aec.gov.au>; Andrew Brooks 
+
+1
+
+s47Fs47Fs47Fs47Fs47Fs47Fs47Fs47Fs47Fs47Fs47Fs47Fs47Fs47Fs47Fs47Fs47Es47Es47E
+
+
+--- Page 2 ---
+
+Hi 
+
+Michael and Kath are seeking an update to the below campaign and any further analysis/findings by the AEC 
+
+I imagine you might have already reported on this via other avenues so hopeful you may be able to share 
+
+further information. 
+
+Anything I provide to Michael and Kath will be cleared by Matt.  
+
+Happy to discuss! 
+
+Kind regards 
+
+ | Assistant Director  
+
+Defending Democracy Unit | Electoral Integrity and Communications Branch 
+Australian Electoral Commission 
+
+From: Kyle Sterland 
+Sent: Thursday, 1 December 2022 9:50 AM 
+To: EIAT <EIAT@aec.gov.au>; Andrew Brooks 
+Cc: 
+
+; Julie Igglesden 
+
+; 
+
+Subject: RE: INC11744 summary - AEC spear phishing campaign [SEC=OFFICIAL:Sensitive] 
+
+Hi 
+
+Andrew has now approved a revised version of this being shared with EIAT, as below. We’ve further modified this to 
+strengthen the emphasis there was no compromise, and removed unnecessary detail about the AEC’s internal 
+response. It is primarily the targeted nature of the content that should be relevant for EIAT’s purposes. 
+
+Dear EIAT members 
+
+For your information and awareness, we would like to bring to your attention a recent ‘spear phishing’ email 
+campaign at the AEC.  The detail of these emails is below.   
+
+AEC systems were not compromised in any way. We believe this is worthwhile sharing with the EIAT on the 
+basis that despite being contained by the AEC, the campaign appears targeted and somewhat 
+sophisticated.  It is possible it relates to the proposed referendum given the targeting of AEC’s Indigenous 
+Electoral Participation Program mailboxes.  
+
+It is a reminder that the cyber threat environment for the proposed referendum is unlikely to be lower than 
+for a federal election. 
+
+Email details 
+On 14 November 2022, at 22:52, a series of emails were sent to the AEC’s eight IEPP mailboxes, from the falsified 
+email address support[@]aec.gov.au, with the subject ‘[email address] have 12 Pending incoming emails’. The list of 
+recipients is as follows: 
+
+2
+
+s47Fs47Fs47Fs47Fs47Fs47Fs47Fs47Fs47Fs47Fs47Es47E
+
+
+--- Page 3 ---
+
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+
+indigenous@aec.gov.au 
+indigenous-sa@aec.gov.au 
+indigenous-wa@aec.gov.au 
+indigenous-vic@aec.gov.au 
+indigenous-tas@aec.gov.au 
+indigenous-qld@aec.gov.au 
+indigenous-nt@aec.gov.au 
+indigenous-nsw@aec.gov.au 
+
+Thanks, 
+
+ | Deputy ITSA  
+
+Cyber Security & Assurance Section | Electoral Integrity & Communications Branch 
+Australian Electoral Commission 
+
+3
+
+s47Fs47Fs47Es47E
+
+
+--- Page 4 ---
+
+From: EIAT <EIAT@aec.gov.au>  
+Sent: Friday, 18 November 2022 2:35 PM 
+To: Andrew Brooks 
+Cc: 
+
+; 
+
+ Julie Igglesden 
+
+Subject: FW: INC11744 summary - AEC spear phishing campaign [SEC=OFFICIAL:Sensitive] 
+
+Hi Andrew 
+
+I think 
+
+ may have discussed this with you.  
+
+Are you supportive if we notify EIAT members of this incident? The benefit would be to ensure EIAT members 
+remain alert to the threats in the referendum environment and particularly reinforce that it is not necessarily a 
+lower cyber threat environment compared to a federal election. 
+
+We would propose sharing the incident summary below (happy if you have a more recent version) and introduce it 
+along the lines below so as not to alarm anyone or otherwise imply that the AEC was compromised. 
+
+Dear EIAT members 
+
+For your information and awareness, we would like to bring to your attention a recent ‘spear phishing’ 
+attempt at the AEC.  The incident summary is below.   
+
+AEC systems were not compromised in anyway.  The attempt appears targeted and somewhat 
+sophisticated.  It is possible it relates to the proposed referendum given the targeting of AEC’s Indigenous 
+Electoral Participation Program mailboxes.  
+
+It is a reminder that the cyber threat environment for the proposed referendum is unlikely to be lower than 
+for a federal election. 
+
+Grateful for your thoughts. 
+
+Regards 
+
+ | Assistant Director  
+
+Defending Democracy Unit | Electoral Integrity and Communications Branch 
+Australian Electoral Commission 
+
+From: Andrew Brooks 
+Sent: Thursday, 17 November 2022 11:14 AM 
+To: John Forrest 
+
+; Brian Foo 
+
+; Julie Igglesden 
+
+ Toby Wright 
+
+Subject: INC11744 summary - AEC spear phishing campaign [SEC=OFFICIAL:Sensitive] 
+
+Good Morning 
+
+4
+
+s47Fs47Fs47Fs47Fs47Fs47Fs47Fs47Fs47Fs47Fs47Fs47Fs47E
+
+
+--- Page 5 ---
+
+Please refer below for a high level summary that consolidates yesterday’s incident response so we are all on the 
+same page as to what happened including the resulting mitigation actions.  While the incident has now been closed 
+from a response perspective,
+
+. 
+
+The nature of the targeted phishing campaign and the resulting incident response may make an excellent case study 
+for broader awareness activities in the future. 
+
+Let me know if additional information is required and note we’ve purposely left the more technical details out of 
+this summary. 
+
+Regards 
+
+Andrew 
+
+Andrew Brooks | Director (ITSA) 
+Cyber Security & Assurance Section | Electoral Integrity and Communications Branch 
+Australian Electoral Commission 
+
+INC11744 summary - AEC spear phishing campaign 
+
+Email details 
+On 14 November 2022, at 22:52, a series of emails were sent to the AEC’s eight IEPP mailboxes, from the falsified 
+email address support[@]aec.gov.au, with the subject ‘[email address] have 12 Pending incoming emails’. The list of 
+recipients is as follows: 
+
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+
+indigenous@aec.gov.au 
+indigenous-sa@aec.gov.au 
+indigenous-wa@aec.gov.au 
+indigenous-vic@aec.gov.au 
+indigenous-tas@aec.gov.au 
+indigenous-qld@aec.gov.au 
+indigenous-nt@aec.gov.au 
+indigenous-nsw@aec.gov.au 
+
+5
+
+s47Fs47Es47E
+
+
+--- Page 6 ---
+
+. 
+
+6
+
+s47Es47Es47Es47E
+
+
+--- Page 7 ---
+
+7
+
+s47Es47E

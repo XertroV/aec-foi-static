@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This FOI log reveals a glaring indictment of government incompetence and a fundamental failure in proactive public information dissemination. The very necessity of an FOI request for the 2023 Referendum Writ, a foundational document underpinning a national democratic process, is damning evidence of systemic negligence.\n\nDespite the writ being \"available\" online, the fact a citizen had to formally invoke the Freedom of Information Act indicates a profound breakdown in the government's responsibility to make critical public information readily and universally accessible. This isn't transparency; it's reactive gatekeeping. Taxpayer money and precious bureaucratic time were wasted processing an FOI request for a document that should have been proactively highlighted, front-and-center, across all government platforms from the moment of its creation. The \"N/A\" in the \"Document No.\" field further suggests a startling lack of internal organizational rigor for even basic record-keeping.\n\nThe \"Release in full\" decision, while seemingly benign, is not a mark of virtue but rather a stark reminder of the government's inherent power to control and withhold information. It highlights that even for crucial public documents, access is granted as a \"decision,\" not as an inherent right or a default position of openness. This passive, reactive approach to transparency, where citizens must formally petition for documents that should be freely and instantly available, underscores a deep-seated institutional preference for managing information rather than truly sharing it. The entire process exposed by this log entry is a testament to an administration that prefers obscurity over clarity, inefficiency over accessibility, and control over true public service."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 152,
+    "candidates_token_count": 318,
+    "total_token_count": 1668,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Adopt a highly critical stance to summarize the following FOI documents. Ruthlessly analyze every detail for signs of failure, corruption, incompetence, or malice. Highlight every negative implication and present the most damning possible interpretation of the government's actions or inactions.\n\nDocuments:\n\n\n\n--- Page 1 ---\n\nScope: Request for 2023 Referendum Writ \n\nDocument \nNo. \n\nDocument Title \n\nExemption \n\nDecision on Access \n\nCopy of referendum writ – available at writ-for-2023-\nreferendum.pdf (aec.gov.au) \n\nN/A \n\nRelease in full\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

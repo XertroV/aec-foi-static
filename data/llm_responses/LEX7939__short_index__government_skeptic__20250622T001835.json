@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The FOI documents expose a disturbing lack of accountability within the AEC's \"designated elector\" scheme, revealing a deliberate opacity regarding its scale and distribution through data evasion. The alarming 211-fold increase in designations, exclusively by delegates rather than the Commissioner, signals a concerning decentralization of power prone to overreach. Furthermore, the internal review process acts as a rubber stamp, completely lacking external scrutiny or natural expiry for designations, effectively creating a permanent, unchallenged government classification that erodes due process and invites potential abuse of power."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 472,
+    "candidates_token_count": 108,
+    "total_token_count": 797,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government skeptic's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThese FOI documents reveal a concerning lack of transparency and potential for unchecked power within the Australian Electoral Commission's \"designated elector\" scheme.\n\nFirstly, the AEC's refusal to provide specific, granular data on designated electors by state and electoral division, particularly for a specified future date (April 2025), is a glaring red flag. The response \"No document response as per decision letter\" coupled with a vague reference to a public website suggests a deliberate evasion, obscuring the true scale and distribution of individuals subjected to this designation. Why is this data not readily available or compilable, or why is the agency unwilling to provide it directly as requested?\n\nSecondly, the dramatic surge in \"designated elector\" declarations is alarming. After only 1 declaration in 2023/24, the number skyrocketed to 211 in 2024/25. This sudden explosion warrants immediate scrutiny. What fundamental shift in policy or application occurred to justify such an increase? Furthermore, the revelation that *all* these declarations were made by \"delegates\" rather than the Electoral Commissioner directly points to a significant decentralization of this power, potentially diluting accountability and increasing the risk of inconsistent or overzealous application of the scheme without adequate oversight.\n\nFinally, the mechanisms for challenging these declarations appear to be largely ineffectual. The internal review process overwhelmingly upholds initial decisions, with 7 out of 8 reviews confirming the original declaration. This suggests the internal review is a rubber-stamping exercise rather than a genuine check on agency power. More critically, there have been zero applications for review to the Administrative Review Tribunal, an external body. This complete absence of external scrutiny, combined with the fact that zero declarations have ever \"ceased to have effect\" under the relevant section of the Act, implies a system where once designated, an individual remains under this government classification with virtually no practical avenues for recourse or a natural expiry. This perpetuates a state of permanent control without re-evaluation, raising serious concerns about due process and the potential for abuse of power.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

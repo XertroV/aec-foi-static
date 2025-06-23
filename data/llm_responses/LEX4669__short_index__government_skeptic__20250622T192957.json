@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "From a government skeptic's viewpoint, the Australian Electoral Commission's (AEC) approach to referendum communication epitomizes bureaucratic inefficiency and regulatory overreach. Their extensive monitoring of social media and the \"when in doubt, authorise it\" directive reflect a concerning, almost surveillance-like scrutiny over political speech that risks chilling free expression. The complex, ever-shifting authorization rules, coupled with the AEC's refusal to provide definitive legal guidance, force citizens to incur private legal costs to navigate intentionally opaque mandates. This convoluted system, prioritizing burdensome formal compliance over fostering robust, accessible public debate, ultimately stifles legitimate political expression and disproportionately disadvantages less-resourced groups, undermining genuine transparency."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 492,
+    "candidates_token_count": 138,
+    "total_token_count": 1255,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government skeptic's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe Australian Electoral Commission (AEC) documents reveal a highly bureaucratic and potentially overreaching regulatory approach to referendum communication, indicative of government inefficiency and a questionable commitment to truly transparent and accessible public discourse.\n\nThe sheer volume of correspondence (11 documents concerning \"Authorisation concerns\") dedicated to a single campaign entity, \"Advance Australia (via Referendum News),\" suggests a significant administrative burden and waste of public resources spent on micromanaging compliance. The AEC actively monitored Facebook Ad Library to identify \"paid ads containing referendum matter,\" demonstrating a form of government scrutiny over political speech that borders on surveillance.\n\nThe \"general guidance\" from the AEC—\"when in doubt, authorise it\"—is a clear sign of regulatory overreach. This advice implicitly encourages over-compliance, potentially chilling free speech by pushing campaigners to seek authorization even when legally unnecessary, purely out of fear of punitive action. This approach places the burden of navigating complex rules squarely on external entities, rather than simplifying the regulatory environment.\n\nFurther highlighting inefficiency, the documents show the AEC extending compliance deadlines and providing a \"flow chart\" to help campaigners understand the convoluted authorization requirements. The fact that an entity, despite attempting to comply, initially used authorisation particulars suited for \"printed communications\" on \"Facebook posts\" (requiring further AEC intervention and clarification) underscores the confusing and unnecessarily complex nature of the government's rules for different media types.\n\nCrucially, the AEC repeatedly states that its \"information is not to be considered legal advice.\" This disclaimer is a severe impediment to transparency and a hidden cost to the public. The government imposes complex regulations and issues \"breach notices\" but then refuses to provide definitive legal guidance on its own rules. This forces regulated entities to expend their own resources on private legal counsel to interpret government mandates, a wasteful consequence of bureaucratic opacity.\n\nThe decision to implement such a detailed, difficult-to-navigate authorization system for referendum campaigns, coupled with a hands-off approach to providing clear legal advice, represents questionable decision-making. It prioritizes a high degree of formal compliance over fostering robust, open public debate, potentially penalizing less-resourced groups and stifling legitimate political expression under the guise of ensuring transparency.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

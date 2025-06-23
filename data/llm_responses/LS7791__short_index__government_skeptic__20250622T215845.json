@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "From a skeptic's viewpoint, the Australian Electoral Commission's (AEC) handling of \"The Women's Party\" registration and subsequent FOI request epitomizes governmental opacity and systemic oversight failures. The release of only 14 of \"approximately 30\" objections, including a blank document, immediately signals a lack of transparency and accountability. Public objections starkly expose the party's misleading name, widely associated with \"Radical Feminist Parties\" despite being \"non-feminist,\" and the contentious identity of its registered officer, Divvi De Vendre, identified as a \"biological male,\" which critics decry as \"political sabotage\" and exclusion of women. Further concerns about previous party name appropriation and lack of manifesto access highlight the AEC's reactive, rather than proactive, registration process, effectively offloading the burden of policing misrepresentation onto citizens and enabling questionable political branding that undermines public trust."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 503,
+    "candidates_token_count": 184,
+    "total_token_count": 1279,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government skeptic's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe released FOI documents, supposedly providing \"approximately 30 objections\" to \"The Women's Party\" registration, immediately raise transparency concerns by delivering only 14 documents, one of which is entirely blank. This selective disclosure by the Australian Electoral Commission (AEC) suggests a potential lack of full accountability in response to public information requests.\n\nThe objections themselves highlight significant failings in the AEC's oversight and party registration processes. A predominant concern voiced repeatedly by numerous third-party individuals is that the proposed \"The Women's Party\" name is inherently misleading. Objectors argue it would cause confusion and garner \"false votes\" because the name is widely associated with \"Radical Feminist Parties\" globally, yet the proposed party is explicitly described as \"non-feminist\" or not female-centric.\n\nFurthermore, a significant point of contention, frequently highlighted, is the identity of the party's registered officer, Divvi De Vendre, who is consistently identified by objectors as a \"biological male\" or \"transgender born male.\" Critics deem this offensive and an act of \"political sabotage,\" arguing it excludes women and prevents the legitimate formation of a women-focused party. This suggests a failure by the AEC to adequately consider how a party's name, coupled with its leadership, could fundamentally misrepresent its intended demographic or purpose, leading to public distrust and accusations of co-option.\n\nConcerns also extend to the use of a name previously associated with other \"Australian Women's Party\" iterations (1943, 1977, 1995), indicating a potential lack of due diligence by the AEC in ensuring distinctiveness and preventing name appropriation that could confuse voters. One objector even noted they hadn't seen the party's manifesto, implying a lack of crucial information available to the public necessary for informed objection.\n\nCollectively, these documents suggest the AEC's party registration process is reactive and relies heavily on public objections to flag significant issues, rather than proactive, robust internal review. This approach places the burden on citizens to police potential misrepresentation and perceived overreach, pointing to inefficiencies and a questionable decision-making framework that could inadvertently facilitate misleading political branding or undermine genuine grassroots movements.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

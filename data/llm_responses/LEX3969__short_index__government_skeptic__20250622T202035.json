@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The released FOI documents expose a deeply concerning pattern of government opacity and questionable judgment surrounding a referendum advertising campaign. Significant redactions and outright refusals to release information suggest a deliberate effort to obscure operational details and the rationale behind decisions. Despite clear security concerns, an existing ban, and an active government review, the agency aggressively pursued TikTok for its reach, showcasing a striking disregard for risk and a willingness to prioritize demographic targeting over public safety. This internal push for TikTok directly contradicts public statements denying any such plans, indicating a calculated attempt to mislead citizens. Furthermore, a \"budget first, clean up later\" mentality reveals bureaucratic inefficiency and potential waste of taxpayer money on channels deemed inappropriate, collectively undermining public trust and accountability."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 529,
+    "candidates_token_count": 142,
+    "total_token_count": 1195,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government skeptic's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe released FOI documents reveal a concerning pattern of limited transparency and questionable decision-making by the government agency concerning a referendum advertising campaign.\n\n**Lack of Transparency:**\nA significant portion of the documents requested for this FOI are either heavily redacted (marked 'Access in Part' with exemptions like s22, s47, s47F, s47C) or entirely withheld ('Refusal in Full'). This immediately raises questions about the government's commitment to public accountability, suggesting that much of the operational detail, rationale, and potential issues surrounding the campaign remain deliberately obscured from public view.\n\n**Questionable Decision-Making and Risk Disregard:**\nDespite clear and acknowledged \"brand safety concerns,\" an existing ban on its use on \"government-owned devices,\" and an active \"whole-of-government policy\" review by the Department of Finance, the agency aggressively pursued the inclusion of TikTok in its multi-channel advertising campaign. Internal documents show TikTok was consistently presented as a \"key channel to reach young people,\" with a recommendation to \"pilot the use of TikTok for the referendum.\" This indicates a willingness to overlook significant security and reputational risks associated with a foreign-owned platform to target a specific demographic.\n\n**Contradictory Public Messaging:**\nInternal discussions betray a striking inconsistency with public statements. While internal emails and minutes detail plans to include TikTok in media budgets and \"pilot\" its use, a draft media response prepared for urgent approval explicitly states, \"The AEC hasn’t run a trial referendum campaign using Tik Tok, nor is there any plan to do so.\" This direct contradiction suggests a deliberate attempt to downplay or misrepresent controversial aspects of the campaign to the public when facing scrutiny, undermining public trust.\n\n**Bureaucratic Inefficiencies and Potential Waste:**\nThe rationale for keeping TikTok in the budget despite the known risks — \"Very easy to pull out of plans later, harder to add back!\" — reveals a bureaucratic approach that prioritizes financial planning convenience over rigorous risk assessment and adherence to evolving government policy. This 'budget first, clean up later' mentality could lead to wasted resources if significant effort and funds are allocated to planning for channels that are eventually deemed inappropriate or unusable, as indicated by the internal caution from the Defending Democracy Unit regarding \"perception risk\" and the rapid movement of whole-of-government TikTok policy.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

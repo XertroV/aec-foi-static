@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The FOI request sought Axiom Associates' audit report on the Australian Electoral Commission's (AEC) 2022 Senate scanning and digitisation accuracy. The released draft documents from July 2022, including a detailed report and a collation of exceptions, outline an external statistical assurance process for Senate ballot papers, ensuring electronic data accurately reflects physical records as per legislation. Based on a 10,103-ballot paper sample, Stage 1 identified 7 instances where scanned images did not exactly replicate physical papers, while Stage 2 found 33 discrepancies between physical ballots and electronic preference data/interpretations in the AEC's system, often due to inconsistent rule application or unclear voter markings, with a national sample exception rate of 0.45%. The detailed report estimates 3.2 to 5.8 exceptions per 1,000 ballot papers nationally with 95% confidence, noting no political bias in the exceptions, which typically arose from interpreting voter intent. The collation document further provides detailed examples and visual illustrations of these Stage 2 discrepancies."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 832,
+    "candidates_token_count": 225,
+    "total_token_count": 1974,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\n### FOI Request Summary: LEX3134\n\n#### Main Purpose of the FOI Request\nThe FOI request sought the report from Axiom Associates on their audit assessing the accuracy of the 2022 Senate scanning and digitisation process conducted by the Australian Electoral Commission (AEC).\n\n#### Documents Released\nThe following draft documents from Axiom Associates, dated July 2022, were released:\n*   `Draft – Senate assurance detailed report and assurance outcomes`\n*   `Draft – Senate collation of Stage 2 assurance exceptions`\n\n#### Main Content from the Released Documents\n\n**1. External statistical assurance of the Senate ballot papers: Detailed report and statement of outcomes (draft)**\nThis report, prepared by Axiom Associates for the AEC, details the statistical assurance activities undertaken for the 2022 Senate ballot papers.\n\n*   **Purpose:** To assure that the electronic data used in counting Senate votes accurately reflects the data recorded on physical ballot papers, as required by the Electoral Legislation Amendment (Assurance of Senate Counting) Act 2021.\n*   **Methodology:**\n    *   An external statistical assurance process was implemented based on advice from the Australian Bureau of Statistics (ABS).\n    *   A national sample of 10,103 ballot papers was selected and tested.\n    *   Assurance testing involved a two-stage approach:\n        *   **Stage 1:** Comparison of physical ballot papers to their scanned images for completeness and accuracy.\n        *   **Stage 2:** Comparison of physical ballot papers to the electronic preference data in the AEC's Ballot Paper Reconciliation System (BPRS), assessing accuracy of preferences and alignment with AEC business rules (Ballot Paper Formality Policy and Guidelines). Potential exceptions were reviewed by three experienced AEC officers, requiring unanimous agreement for an exception to be recorded.\n*   **Key Findings:**\n    *   **Stage 1 Exceptions:** 7 instances were identified where the scanned image did not exactly replicate the physical ballot paper (e.g., missing images, duplicate images, smudges obscuring preferences). These were analysed nationally rather than by state/territory.\n    *   **Stage 2 Exceptions:** 33 instances were identified where the electronic preference data or the interpretation of voter intent in BPRS differed from the physical ballot paper. These often related to inconsistent application of AEC business rules or unclear voter markings.\n        *   Categorisation of Stage 2 exceptions included:\n            *   Voter disenfranchised (vote recorded as informal despite valid preferences): 27%\n            *   Above-the-line (ATL) preference sequence broken too early (within first six preferences): 24%\n            *   Vote recorded as formal when it should have been informal: 15%\n            *   Other categories included ATL/BTL sequences broken too early/late, and incorrect preference type accepted.\n*   **Statistical Analysis:**\n    *   The national exception rate identified in the sample was 0.45%.\n    *   The AEC can be 95% confident that, nationally, the number of exceptions in 1,000 ballot papers is between 3.2 and 5.8.\n    *   The report noted no suggestion of political or logical bias in the exceptions, which typically arose from the need for interpretation of voter intent.\n\n**2. Collation of Stage 2 statistical assurance exceptions (draft)**\nThis document provides a detailed list and examples of the 33 Stage 2 exceptions identified in the main report. For each exception, it includes a description and, in most cases, a screenshot of the relevant section of the scanned ballot paper image and its reference number, visually illustrating the discrepancies found between the physical ballot paper and the BPRS recording/interpretation.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

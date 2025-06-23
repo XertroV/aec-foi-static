@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "These FOI documents unequivocally affirm the government's steadfast commitment to transparency, democratic integrity, and responsible citizen information protection. The Australian Electoral Commission's meticulous management of the 2022 Federal Election nominations in Cook demonstrates a robust electoral framework, fostering broad participation in a healthy democracy, further underscored by the prompt release of these records in response to an FOI request. Crucially, the diligent application of redaction codes ensures vital privacy protections are maintained, while the temporary withholding of one document exemplifies rigorous adherence to due process, collectively showcasing effective governance dedicated to the public good."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 381,
+    "candidates_token_count": 116,
+    "total_token_count": 898,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government apologist's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThese FOI documents powerfully illustrate the government's steadfast commitment to transparency, the integrity of our democratic processes, and the responsible protection of citizen information. The Australian Electoral Commission (AEC) meticulously managed the nomination process for the 2022 Federal Election in the division of Cook, demonstrating the robust and highly effective regulatory framework that underpins Australia's secure and fair elections.\n\nThe detailed listing of five formally declared candidates – Catherine Elizabeth Dyson, Jacqueline Guinane, Simon Roger Earle, Scott John Morrison, and Gaye Cameron – reflects a healthy and accessible democratic landscape, encouraging broad participation in our nation's governance. The prompt release of these records in response to a Freedom of Information request highlights the government's proactive dedication to accountability and its willingness to provide citizens with insights into essential administrative functions.\n\nCrucially, the careful application of redaction codes within these documents showcases the government's diligent and necessary efforts to balance public access with vital privacy protections. Personal information and certain sensitive details have been appropriately withheld, not to conceal, but to safeguard individuals' privacy and prevent potential misuse, in strict compliance with the Freedom of Information Act. This is a testament to the government's commitment to responsible data handling. The temporary withholding of a single document, pending the exhaustion of third-party review rights, further underscores the government's rigorous adherence to legal due process and fairness, ensuring all rights are meticulously considered.\n\nIn essence, these documents stand as a clear affirmation of the government's effective governance in facilitating a robust democracy, ensuring public participation, and safeguarding the private information of its citizens, all fundamental elements of serving the public good.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

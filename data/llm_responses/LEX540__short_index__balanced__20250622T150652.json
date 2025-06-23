@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "Vanessa Teague's FOI request [LEX540] sought documents related to 'IBM Outputs' from 2016, yielding 106 \"IBM Batch Report\" PDF files dated June 8, 10, and 15, 2016, categorized by Vote Collection Point and Batch Number. These detailed reports provide insights into ballot processing, including batch metadata, electoral event context, and specific ballot-level checks for formality, initials, marks, and preferences (ATL/BTL). While most entries indicate \"OK\" for successful processing, various checks, notably `UnusualMarkings Checked`, `Verification Action`, `Formality Reason Checked`, `ATL Mismatches`, and `BTL Mismatches`, frequently show \"HAS ISSUES\" entries, often accompanied by alphanumeric codes (e.g., D2, Y9, M1, U1), signifying specific anomalies or exceptions in the ballot processing."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 779,
+    "candidates_token_count": 195,
+    "total_token_count": 1130,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\n## FOI Request Summary\n\n### Main Purpose of the FOI Request\n\nThe Freedom of Information (FOI) request, identified as [LEX540], was submitted by Vanessa Teague. Its primary purpose was to obtain documents related to the ‘IBM Outputs’ in 2016.\n\n### Documents Retrieved\n\nA total of 106 documents were retrieved in response to the FOI request. All documents are identified as \"IBM Batch Report\" PDF files. These reports are dated across June 8, 10, and 15, 2016, and are categorized by \"Vote Collection Point\" (e.g., Bangor, ABSENT 1, Old Bar, Taree) and \"Batch Number\".\n\n### Main Content from FOI Request Documents\n\nThe retrieved documents are detailed batch reports providing insights into the processing of individual ballots. Each report typically includes:\n\n*   **Batch Metadata:** Information such as the creation date and time of the batch, the operator who created it, scan status (e.g., `Rescan=false`), site, and workstation details.\n*   **Electoral Event Context:** The Electoral Event ID (19694), State/Territory (NSW), Vote Collection Point (e.g., Bangor, ABSENT 1, Old Bar, Taree), and its corresponding ID, along with the specific Batch Number.\n*   **Ballot-Level Details and Checks:** For each ballot within a batch (identified by `Ballot Number` and `Ballot ID`), the reports detail various checks performed:\n    *   `QualityAssurance Checked`\n    *   `Initials Checked`\n    *   `Official Mark Checked`\n    *   `UnusualMarkings Checked`\n    *   `Formality Result Checked`\n    *   `Verification Action`\n    *   `Formality Reason Checked`\n    *   `ATL Preferences Checked` (Above-the-Line Preferences)\n    *   `ATL Mismatches`\n    *   `ATL Saved Checked`\n    *   `ATL Breakdown Checked`\n    *   `ATL Formal Checked`\n    *   `BTL Preferences Checked` (Below-the-Line Preferences)\n    *   `BTL Mismatches`\n    *   `BTL Saved Checked`\n    *   `BTL Breakdown Checked`\n    *   `BTL Formal Checked`\n\nThe majority of entries across all checks are marked \"OK,\" indicating successful processing or verification. However, entries explicitly showing \"HAS ISSUES\" are present across several of the checks, particularly `UnusualMarkings Checked`, `Verification Action`, `Formality Reason Checked`, `ATL Mismatches`, and `BTL Mismatches`. These \"HAS ISSUES\" entries are sometimes accompanied by specific alphanumeric codes (e.g., `D2`, `Y9`, `M1`, `U1`, `AP1`, `AR1`, `L1`, `Q1`, `S1`, `Z1`, `E1`, `C1`, `R1`, `X1`, `AN1`, `AB1`, `AI1`, `AG1`, `AK1`, `AO1`, `D3`, `M10`, `M12`, `M2`, `M8`, `F2`, `Y3`). These codes likely represent specific reasons or categories for the identified issues, which are directly related to the \"IBM Outputs\" as exceptions or anomalies in the ballot processing.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

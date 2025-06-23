@@ -1,0 +1,954 @@
+Analysis of Indigenous Enrolment 
+
+Population Estimates 
+
+The ABS data provided at table 1 represents the ABS estimated resident Indigenous population 1=8 
+years and over by state as at 2016 and projected to 30 June 2019. 
+
+This data has not been adjusted by the ABS to calculate estimated Indigenous enrolment eligible 
+population, however, table 2 provides the AEC’s estimated Indigenous voting age population as at 30 
+June 2018. 
+
+Table 1 – ABS estimated resident and projected population - Indigenous Australians - 18 
+years and over 
+
+Estimated resident and projected population, Aboriginal and Torres Strait Islander Australians, Series B, 18 
+years and over - 30 June 2016 to 2019 (see note a) 
+
+State/territory 
+
+Estimated 
+Resident 
+Population 
+
+Projected Population 
+
+2016 (see note b) 
+
+2017 
+
+2018 
+
+2019 
+
+ACT 
+
+NSW 
+
+NT(b) 
+
+QLD 
+
+SA 
+
+Tas 
+
+Vic 
+
+WA 
+
+Australia (see note c) 
+
+4,670 
+
+156,172 
+
+48,180 
+
+127,492 
+
+24,991 
+
+16,991 
+
+34,289 
+
+60,733 
+
+473,710 
+
+4,886 
+
+160,403 
+
+49,282 
+
+131,166 
+
+25,719 
+
+17,471 
+
+35,457 
+
+62,544 
+
+487,121 
+
+5,089 
+
+164,510 
+
+50,464 
+
+135,141 
+
+26,507 
+
+17,986 
+
+36,645 
+
+64,451 
+
+500,988 
+
+5,273 
+
+168,896 
+
+51,674 
+
+139,306 
+
+27,207 
+
+18,489 
+
+37,839 
+
+66,335 
+
+515,215 
+
+Source:  Australian Bureau of Statistics, Estimates and Projections, Aboriginal and Torres Strait 
+Islander Australians, 2006 to 2031 (cat. No. 3238.0) 
+
+(a) Projection Series B has been used for the period 2017-2019.
+
+(b) An age heaping adjustment was applied to derive final 30 June 2016 Aboriginal and Torres Strait
+Islander population estimates for the Northern Territory. This information was published in
+Estimates of Aboriginal and Torres Strait Islander Australians, June 2016 (cat. no. 3238.0.55.001) and
+has been used as the base population for compiling estimates and projections for this release.
+
+(c) Includes Other Territories.
+
+LS7888 Released Document No. 26Released under the Freedom of Information Act 1982Estimated Indigenous Enrolment Rates 
+
+Table 2 - Estimated Indigenous Enrolment Rates 
+
+Estimated Indigenous Enrolment Rates as at 30 June 2018 
+
+State 
+
+Estimated 
+Indigenous 
+voting age 
+population 
+
+Estimated enrolled 
+
+Estimated 
+unenrolled 
+
+Estimated 
+enrolment rate 
+
+NSW 
+
+VIC 
+
+QLD 
+
+WA 
+
+SA 
+
+TAS 
+
+ACT 
+
+NT 
+
+164,845 
+
+36,538 
+
+135,642 
+
+64,545 
+
+26,522 
+
+18,004 
+
+5,000 
+
+50,563 
+
+143,891 
+
+27,775 
+
+98,357 
+
+41,182 
+
+18,622 
+
+15,150 
+
+3,971 
+
+34,130 
+
+National 
+
+501,659 
+
+383,078 
+
+20,954 
+
+8,763 
+
+37,285 
+
+23,363 
+
+7,900 
+
+2,854 
+
+1,029 
+
+16,433 
+
+118,581 
+
+87.3% 
+
+76.0% 
+
+72.5% 
+
+63.8% 
+
+70.2% 
+
+84.1% 
+
+79.4% 
+
+67.5% 
+
+76.4% 
+
+As Australia’s federal electoral roll does not have a personal Indigenous identifier, estimating the 
+enrolment rates for Indigenous persons is problematic, however, having this key franchise KPI for 
+the Indigenous population is important for Closing the Gap purposes and the AECs focus on how the 
+franchise could be better delivered. 
+
+In 2014 the AEC’s Research Section commenced indirect estimation of these figures, using a 
+regression model of the relationship between the Indigenous population and each of the three 
+franchise KPIs at a small area level, such as polling place catchment or the ABS’ SA2 geography. 
+
+While the models did not fit the data particularly well, the resulting Indigenous enrolment rates 
+were statistically based on real data, rather than anecdote. Yet the resulting enrolment and turnout 
+rates in particular were alarmingly low, and hopefully represented a worst case picture. 
+
+As part of the Annual Roll Integrity Review (ARIR), the person-level matching between the Roll and 
+Centrelink now includes Centrelink’s Indigenous indicator. However, as Centrelink customers 
+represent only around half of the Roll, the matching (even if perfect) would be far from assigning all 
+enrolments an Indigenous flag. Nevertheless, for the first time the AEC has a very large number of 
+enrolled persons, over 6 million, with an explicit Indigenous status. 
+
+The enrolment rate, even for all persons regardless of indigeneity, is difficult to calculate reliably due 
+to conceptual, collection and methodological differences between the Roll (numerator) and the ABS-
+based enrolment-eligible population (denominator, “EEP”). In the case of the Indigenous population 
+
+LS7888 Released Document No. 26Released under the Freedom of Information Act 1982 
+ 
+ 
+ 
+ 
+these problems are magnified by having no Indigenous identifier on the Roll and less reliable 
+estimates of Indigenous EEP.  
+
+However, matching the Roll to Centrelink data allows a more direct method of estimating the 
+Indigenous enrolment rate. 
+
+It is still subject to quite courageous assumptions, but as fewer are required it likely represents an 
+improved approach. In summary: 
+
+  For all Centrelink customers with an identified Indigenous or non-Indigenous status, 
+
+calculate the proportion on the Roll. This is the raw enrolment rate of Centrelink clients. 
+  Calculate the ratio of the actual AEC enrolment rate versus the Centrelink-based rate, for the 
+same point in time. This is the overall factor to adjust any Centrelink-based rates to align 
+with AEC enrolment rates. 
+
+  Apply the adjustment factor to raw Centrelink-based enrolment rates by Indigenous status 
+
+to give Indigenous and non-Indigenous enrolment rates. 
+
+  This process can be done at the State level, though results will have lower reliability. 
+
+It should be noted that while this method avoids indirectly modelling Indigenous enrolment rates via 
+geographic association, it does assume that any bias in Centrelink clients being enrolled is equal for 
+Indigenous and non-Indigenous, and that there are no substantive Indigenous-status biases inherent 
+in the Roll-to-Centrelink person matching. 
+
+The Centrelink client file with Indigenous indicator newly available to the AEC has presented an 
+excellent opportunity, via matching to the Roll and mark-off data, to improve estimation of 
+Indigenous franchise KPIs.  
+
+While the results are subject to a number of non-trivial assumptions, the more direct estimation 
+methods lead to a higher likelihood of robust results. The figures should nevertheless still be 
+regarded as indicative only. 
+
+LS7888 Released Document No. 26Released under the Freedom of Information Act 1982 
+ 
+ 
+ 
+Centrelink Data 
+The number of Indigenous Australians that are identified both on the Centrelink file sent to the AEC 
+in July 2018 and the electoral Roll does not represent all Indigenous enrolments. It is limited to those 
+Indigenous Australians who both receive a Centrelink benefit and who have self-identified as 
+Indigenous to Centrelink. 
+
+After considerable data cleansing and analysis the AEC identified 72,451 potentially unenrolled 
+Indigenous Australians. This represents around 61 per cent of the 118,581 Indigenous Australians 
+the AEC estimate were unenrolled as at 30 June 2018 (see table 2 above).  
+
+The enrolment stimulation event conducted in February/March 2019 resulted in the enrolment of 
+2,646 Indigenous Australians, reducing the estimated number of unenrolled Indigenous Australians 
+identified in the Centrelink dataset to 69,143. Table 3 sets out the distribution of this cohort across 
+electoral divisions.  
+
+It is important to note that the potential unenrolled under 65 Indigenous Australians as at the 2019 
+close of rolls represents those people that are on the Centrelink file sent to the AEC in July 2018 and 
+who were included in the February 2019 enrolment stimulation event but had not enrolled as at the 
+2019 close of rolls (18 April 2019).  
+
+Analysis of the Centrelink potentially unenrolled Indigenous Australians 65 years and older identified 
+significant matching error, due to the quality of data input and the nature of the residential status of 
+this cohort. Work will be undertaken on the 2018-19 dataset to better understand this phenomenon 
+to facilitate better targeting of potentially unenrolled indigenous Australians in the future. 
+
+Table 3 - Enrolled and potentially unenrolled Indigenous Australians identified on the  
+2017-18 Centrelink file by electoral division as at the 2019 close of rolls 
+
+Division 
+
+Potential Unenrolled under 65 
+Indigenous Australians  as at 
+the 2019 close of rolls 
+
+Number of Indigenous 
+Australians in the Centrelink 
+file and enrolled as at 30 June 
+2018 
+
+BEAN 
+CANBERRA 
+FENNER 
+BANKS 
+BARTON 
+BENNELONG 
+BEROWRA 
+BLAXLAND 
+BRADFIELD 
+CALARE 
+CHIFLEY 
+COOK 
+COWPER 
+CUNNINGHAM 
+DOBELL 
+
+168 
+157 
+145 
+50 
+63 
+23 
+14 
+52 
+4 
+494 
+439 
+21 
+743 
+164 
+210 
+
+702 
+468 
+631 
+365 
+415 
+206 
+133 
+364 
+74 
+3,676 
+2,838 
+307 
+4,382 
+1,229 
+2,386 
+
+LS7888 Released Document No. 26Released under the Freedom of Information Act 1982 
+ 
+ 
+ 
+ 
+Division 
+
+Potential Unenrolled under 65 
+Indigenous Australians  as at 
+the 2019 close of rolls 
+
+Number of Indigenous 
+Australians in the Centrelink 
+file and enrolled as at 30 June 
+2018 
+
+EDEN-MONARO 
+FARRER 
+FOWLER 
+GILMORE 
+GRAYNDLER 
+GREENWAY 
+HUGHES 
+HUME 
+HUNTER 
+KINGSFORD SMITH 
+LINDSAY 
+LYNE 
+MACARTHUR 
+MACKELLAR 
+MACQUARIE 
+MCMAHON 
+MITCHELL 
+NEW ENGLAND 
+NEWCASTLE 
+NORTHSYDNEY 
+PAGE 
+PARKES 
+PARRAMATTA 
+PATERSON 
+REID 
+RICHMOND 
+RIVERINA 
+ROBERTSON 
+SHORTLAND 
+SYDNEY 
+WARRINGAH 
+WATSON 
+WENTWORTH 
+WERRIWA 
+WHITLAM 
+LINGIARI 
+SOLOMON 
+BLAIR 
+BONNER 
+
+308 
+733 
+87 
+439 
+160 
+102 
+19 
+91 
+253 
+153 
+257 
+387 
+218 
+14 
+100 
+68 
+11 
+805 
+234 
+13 
+837 
+2,162 
+103 
+247 
+27 
+328 
+451 
+123 
+159 
+376 
+4 
+41 
+11 
+177 
+197 
+5,483 
+1,395 
+898 
+224 
+
+1,658 
+2,641 
+532 
+2,839 
+659 
+710 
+370 
+1,133 
+3,017 
+1,010 
+2,159 
+3,088 
+1,911 
+160 
+1,182 
+567 
+155 
+5,527 
+2,033 
+101 
+3,856 
+10,143 
+493 
+2,955 
+208 
+1,961 
+3,337 
+1,308 
+1,831 
+1,231 
+120 
+307 
+124 
+1,077 
+1,832 
+16,473 
+3,659 
+2,331 
+832 
+
+LS7888 Released Document No. 26Released under the Freedom of Information Act 1982Division 
+
+Potential Unenrolled under 65 
+Indigenous Australians  as at 
+the 2019 close of rolls 
+
+Number of Indigenous 
+Australians in the Centrelink 
+file and enrolled as at 30 June 
+2018 
+
+BOWMAN 
+BRISBANE 
+CAPRICORNIA 
+DAWSON 
+DICKSON 
+FADDEN 
+FAIRFAX 
+FISHER 
+FLYNN 
+FORDE 
+GRIFFITH 
+GROOM 
+HERBERT 
+HINKLER 
+KENNEDY 
+LEICHHARDT 
+LILLEY 
+LONGMAN 
+MARANOA 
+MCPHERSON 
+MONCRIEFF 
+MORETON 
+OXLEY 
+PETRIE 
+RANKIN 
+RYAN 
+WIDE BAY 
+WRIGHT 
+ADELAIDE 
+BARKER 
+BOOTHBY 
+GREY 
+HINDMARSH 
+KINGSTON 
+MAKIN 
+MAYO 
+SPENCE 
+STURT 
+BASS 
+
+286 
+234 
+991 
+971 
+217 
+195 
+216 
+201 
+1,114 
+484 
+247 
+748 
+2,504 
+731 
+4,221 
+3,537 
+379 
+551 
+1,131 
+123 
+202 
+258 
+640 
+467 
+749 
+112 
+818 
+343 
+459 
+610 
+221 
+1,931 
+412 
+278 
+242 
+131 
+705 
+154 
+326 
+
+945 
+636 
+2,537 
+2,687 
+818 
+978 
+866 
+911 
+2,715 
+1,464 
+691 
+2,035 
+4,808 
+2,178 
+7,587 
+10,021 
+1,077 
+1,888 
+3,025 
+751 
+885 
+704 
+1,499 
+1,536 
+1,653 
+408 
+1,886 
+1,155 
+1,038 
+1,207 
+620 
+3,938 
+1,141 
+810 
+773 
+443 
+1,936 
+416 
+1,199 
+
+LS7888 Released Document No. 26Released under the Freedom of Information Act 1982Division 
+
+Potential Unenrolled under 65 
+Indigenous Australians  as at 
+the 2019 close of rolls 
+
+Number of Indigenous 
+Australians in the Centrelink 
+file and enrolled as at 30 June 
+2018 
+
+BRADDON 
+CLARK 
+FRANKLIN 
+LYONS 
+ASTON 
+BALLARAT 
+BENDIGO 
+BRUCE 
+CALWELL 
+CASEY 
+CHISHOLM 
+COOPER 
+CORANGAMITE 
+CORIO 
+DEAKIN 
+DUNKLEY 
+FLINDERS 
+FRASER 
+GELLIBRAND 
+GIPPSLAND 
+GOLDSTEIN 
+GORTON 
+HIGGINS 
+HOLT 
+HOTHAM 
+INDI 
+ISAACS 
+JAGAJAGA 
+KOOYONG 
+LATROBE 
+LALOR 
+MACNAMARA 
+MALLEE 
+MARIBYRNONG 
+MCEWEN 
+MELBOURNE 
+MENZIES 
+MONASH 
+NICHOLLS 
+
+364 
+279 
+255 
+399 
+29 
+179 
+176 
+104 
+116 
+75 
+21 
+225 
+56 
+186 
+39 
+120 
+62 
+77 
+74 
+489 
+23 
+103 
+25 
+61 
+20 
+184 
+26 
+72 
+9 
+25 
+75 
+68 
+662 
+61 
+66 
+115 
+10 
+157 
+576 
+
+2,491 
+964 
+1,231 
+1,521 
+172 
+625 
+761 
+303 
+361 
+327 
+125 
+571 
+302 
+576 
+187 
+404 
+393 
+251 
+295 
+1,121 
+75 
+393 
+126 
+301 
+118 
+717 
+141 
+253 
+69 
+256 
+446 
+222 
+1,631 
+206 
+391 
+264 
+73 
+497 
+1,570 
+
+LS7888 Released Document No. 26Released under the Freedom of Information Act 1982Division 
+
+Potential Unenrolled under 65 
+Indigenous Australians  as at 
+the 2019 close of rolls 
+
+Number of Indigenous 
+Australians in the Centrelink 
+file and enrolled as at 30 June 
+2018 
+
+SCULLIN 
+WANNON 
+WILLS 
+BRAND 
+BURT 
+CANNING 
+COWAN 
+CURTIN 
+DURACK 
+FORREST 
+FREMANTLE 
+HASLUCK 
+MOORE 
+O'CONNOR 
+PEARCE 
+PERTH 
+STIRLING 
+SWAN 
+TANGNEY 
+NO FIXED ADDRESS 
+TOTAL 
+
+105 
+251 
+63 
+430 
+675 
+332 
+347 
+131 
+6,885 
+424 
+444 
+583 
+72 
+1,684 
+505 
+343 
+380 
+602 
+139 
+1,166 
+69,805 
+
+415 
+764 
+291 
+1,371 
+1,718 
+1,025 
+953 
+339 
+9,241 
+1,274 
+1,012 
+1,420 
+303 
+3,260 
+1,437 
+730 
+886 
+1,484 
+330 
+
+224,554 
+
+Table 4 - Enrolled and potentially unenrolled Indigenous Australians identified on the 2017-
+18 Centrelink file by electoral division 
+
+State 
+
+Potential Unenrolled under 65 
+Indigenous Australians  as at 
+the 2019 close of rolls 
+
+Number of Indigenous 
+Australians in the Centrelink 
+file and enrolled as at 30 June 
+2018 
+
+ACT 
+
+NSW 
+
+NT 
+
+Qld 
+
+SA 
+
+Tas 
+
+Vic 
+
+WA 
+
+470 
+
+11,972 
+
+6,878 
+
+23,792 
+
+5,143 
+
+1,623 
+
+4,123 
+
+13,976 
+
+1,801 
+
+78,610 
+
+20,132 
+
+61,507 
+
+12,322 
+
+7,406 
+
+15,993 
+
+26,783 
+
+LS7888 Released Document No. 26Released under the Freedom of Information Act 1982 
+ 
+No Fixed Address 
+
+Total 
+
+1,166 
+
+69,143 
+
+- 
+
+224,554 
+
+LS7888 Released Document No. 26Released under the Freedom of Information Act 1982 
+ 
+

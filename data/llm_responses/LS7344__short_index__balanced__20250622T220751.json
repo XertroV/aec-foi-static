@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "FOI Request LS7344 sought all correspondence between the Australian Electoral Commission (AEC) and US tech companies (Facebook, Twitter) since July 2017 concerning compliance with the Commonwealth Electoral Act 1918. The released documents, specifically from August 2018, detail the AEC's engagement with Twitter Inc. (Facebook correspondence was not included) to establish a clear process for managing electoral communication compliance on the platform. Key content includes the AEC proposing scenarios for Twitter's assistance in addressing non-compliant content, such as removing or blocking unauthorised paid advertisements or anonymous electoral communications, or providing information about responsible parties. The AEC also outlined potential legal recourse, including injunctions under Section 383 of the Electoral Act, should Twitter be unable to comply, and provided background on the Act's authorisation requirements."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 851,
+    "candidates_token_count": 172,
+    "total_token_count": 1271,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\n# FOI Request LS7344 Summary\n\n## Main Purpose of the FOI Request\nThe Freedom of Information (FOI) Request LS7344 sought \"All correspondence about compliance with the Commonwealth Electoral Act 1918 between the Australian Election Commission and the US technology companies Facebook Inc. and Twitter Inc. since July 2017.\"\n\n## Documents from the FOI Request\nThe released documents specifically pertain to correspondence between the Australian Electoral Commission (AEC) and Twitter Inc. (Facebook Inc. correspondence is not included in this release). The schedule lists four key email documents, all exchanged in August 2018:\n\n*   **Document 1 (22/08/2018):** Email from Kara Hinesley (Twitter) to AEC representatives (Evan Ekin-Smyth, Tim Courtney, Andrew Johnson) following up on a meeting.\n*   **Document 2 (22/08/2018):** Email from Emily Foat (Twitter Australia) to Kara Hinesley (Twitter) offering a media workshop to the AEC.\n*   **Document 3 (23/08/2018):** Email from Evan Ekin-Smyth (AEC) to Emily Foat and Kara Hinesley (Twitter) confirming receipt and indicating further follow-up.\n*   **Document 4 (30/08/2018):** Email from Andrew Johnson (AEC Principal Government Lawyer) to Emily Foat and Kara Hinesley (Twitter) proposing detailed scenarios for compliance with the Commonwealth Electoral Act.\n\n## Main Content Related to the FOI Request\nThe correspondence details the AEC's efforts to establish a clear and efficient process with Twitter for ensuring compliance with the Commonwealth Electoral Act 1918, particularly regarding the authorisation of electoral communications on the platform.\n\nKey content includes:\n\n*   **Initial Engagement (August 2018):** The emails confirm an in-person meeting took place between AEC and Twitter representatives (Kara Hinesley, Emily Foat, Evan Ekin-Smyth, Tim Courtney, Andrew Johnson) to discuss handling issues during future campaigns and elections. Twitter offered to conduct a media workshop for the AEC to optimize platform use for campaigns.\n*   **Proposed Compliance Scenarios:** Andrew Johnson of the AEC outlined three scenarios and proposed actions for Twitter's assistance in managing non-compliant electoral communications on the platform:\n    1.  **Paid electoral advertisements without proper authorisation:** The AEC would attempt to contact the responsible party first. If unsuccessful, they would notify Twitter, expecting Twitter to remove/block the ad or ensure its authorisation.\n    2.  **Anonymous communications containing electoral matter:** The AEC would try to ascertain if the responsible party is a \"disclosure entity\" (requiring authorisation). If this cannot be confirmed, Twitter would be asked to assist. If the party is a disclosure entity and fails to authorise, Twitter would be expected to remove/block the content. Twitter could confirm disclosure entity status without sharing personal information with the AEC.\n    3.  **Electoral advertisements infringing other Electoral Act offences (e.g., misleading/deceptive content):** The AEC would request information from Twitter about the person or entity responsible for the communication.\n*   **Legal Recourse:** The AEC noted that if Twitter is unable to remove or block non-compliant communications or provide requested information, the AEC (or a candidate) may seek an injunction against the responsible party and/or Twitter under Section 383 of the Electoral Act.\n*   **Electoral Act Background:** The AEC provided a summary of the Commonwealth Electoral Act 1918, explaining that Part XXA requires authorisation for electoral communications to inform voters who is responsible for the content, but it does not regulate the truth of the communications. Definitions for \"electoral matter\" and \"disclosure entity\" were also included.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

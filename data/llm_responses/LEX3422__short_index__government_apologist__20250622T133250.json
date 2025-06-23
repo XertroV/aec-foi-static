@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The Australian Electoral Commission (AEC) exemplifies exemplary public service through its robust, transparent Complaints Management Framework, showcasing an unwavering commitment to effective governance. This comprehensive system, from readily accessible policies and dedicated procedures for all types of feedback to timely responses and specialized handling of sensitive matters, ensures every public concern is addressed professionally. The AEC proactively leverages meticulous data analysis from every complaint to drive continuous organizational improvements, enhance service delivery, and reinforce public trust, demonstrating a commendable dedication to accountability and a responsive government that genuinely values community feedback to strengthen its reputation."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 554,
+    "candidates_token_count": 108,
+    "total_token_count": 826,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government apologist's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe Australian Electoral Commission (AEC) demonstrates its unwavering commitment to effective governance and public service through a robust and transparent Complaints Management Framework. This framework, comprising the Complaints Management Policy, Procedures, and Internal Review Management Procedures, ensures a consistent and professional approach to managing public feedback, designed to uphold the highest standards of accountability and responsiveness.\n\nKey highlights of the AEC's dedication to the public good include:\n\n*   **Comprehensive Policies and Procedures:** The AEC has clear, accessible policies (like the Complaints Management Policy and Privacy Policy, readily available online) and detailed procedures for handling complaints, managing online access to the electoral roll, and preventing unlawful data disclosures. This structured approach ensures every concern is addressed systematically.\n*   **Commitment to Continuous Improvement:** Effective complaints management is recognized as a vital activity that provides opportunities to resolve issues, enhance positive public experiences, review organizational performance, and implement crucial business improvements. This proactive stance ensures that public feedback directly contributes to better government services.\n*   **Accessibility and Responsiveness:** The AEC is dedicated to making the complaints process accessible to all, offering support through services like the National Relay Service and telephone interpreters. Strict service standards ensure complaints are acknowledged within three working days and responded to within ten working days, with priority given to election-related matters, demonstrating a focus on timely and efficient resolution.\n*   **Robust Handling of Sensitive Information:** For complex issues, including legal matters, fraud, privacy breaches, and Public Interest Disclosures, complaints are escalated to specialized business areas. This tiered approach ensures that sensitive information and serious concerns are handled by experts, safeguarding protected data and maintaining public trust.\n*   **Data-Driven Governance:** Every complaint is meticulously recorded in the Public Engagement Contact Tool, a national system that facilitates efficient resolution and provides critical data. Regular monitoring of this data, including monthly, quarterly, and annual reports, allows the AEC to identify key recurring issues, detect systemic problems, and drive business improvements. This analytical approach transforms challenges into opportunities for refining service delivery.\n*   **Accountability and Oversight:** The framework provides clear internal review processes, ensuring that complainants dissatisfied with initial responses have avenues for further consideration. Furthermore, the AEC acknowledges and cooperates with external review bodies, reinforcing its commitment to transparency and external accountability.\n\nThrough these measures, the AEC actively leverages public feedback not just to address individual concerns but to strengthen its organizational reputation and continually improve the way it serves the Australian community, embodying the principles of a responsive and effective government.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

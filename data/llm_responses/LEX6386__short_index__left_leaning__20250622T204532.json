@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "Despite the FOI document being listed as \"Released in full,\" the complete absence of a title, subject matter, or any content details renders it impossible to conduct a meaningful progressive analysis regarding its implications for social justice, environmental protection, wealth distribution, corporate influence, or civil liberties, thereby preventing any assessment of its alignment with or deviation from core progressive values and undermining true transparency."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 135,
+    "candidates_token_count": 75,
+    "total_token_count": 665,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a left-leaning perspective, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe provided FOI document excerpt is limited to a single line item indicating \"Document 1\" was \"Released in full,\" without any title, subject matter, or content of the document itself. Therefore, it is impossible to conduct an analysis focusing on issues related to social justice, environmental impact, wealth distribution, corporate influence, or civil liberties, nor can any alignment with or deviation from progressive values be determined from the information provided.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

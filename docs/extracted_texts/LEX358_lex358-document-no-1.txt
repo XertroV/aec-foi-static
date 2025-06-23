@@ -1,0 +1,109 @@
+
+
+--- Page 1 ---
+
+Headers text in respect of Outlook item Objection - The New Liberals.msg 
+
+Received: from prd-seg-act20.localdomain (168.130.250.211) by 
+ aecmail.prod.aec.gov.au (168.130.180.233) with Microsoft SMTP Server id 
+ 15.2.858.5; Fri, 19 Mar 2021 08:48:38 +1100 
+Received: from mailin8.humanservices.gov.au (mailin8.humanservices.gov.au 
+[161.146.192.4]) 
+
+by prd-seg-act20.localdomain (MTA) with ESMTP id 4F1gYy3C4ZzXgFk 
+for <fad@aec.gov.au>; Fri, 19 Mar 2021 08:45:42 +1100 (AEDT) 
+
+IronPort-SDR: 
+fqb/K8wfx6/YEzsnZy+hr4WaxJ4TLdSD2NGBTiwbqrER8M7vnvraQKUjD+Cuwib0+W
+cTqnjIM7 
+ guQcWup9yLZoxEdAPyMvPIQxwsmyy9Lz4= 
+X-IronPort-AV: E=Sophos;i="5.81,259,1610370000";
+
+d="pdf'?jpg'145?scan'145,208,145,217";a="191821609"
+
+Received: from unknown (HELO mailin-aec2.humanservices.gov.au) 
+([161.146.238.14]) 
+  by mailin8.humanservices.gov.au with ESMTP; 19 Mar 2021 08:45:41 +1100 
+X-Received-SPF: Pass (sender SPF authorized) identity=mailfrom; client-
+ip=34.215.211.69; helo=mg-auso-delta.mailguard.com.au; envelope-
+from=andrew.hirst@liberal.org.au; receiver=fad@aec.gov.au
+Received: from mg-auso-delta.mailguard.com.au (mg-auso-delta.mailguard.com.au
+[34.215.211.69])
+
+by mailin-aec2.humanservices.gov.au (Postfix) with ESMTPS id 123297F84B 
+for <fad@aec.gov.au>; Fri, 19 Mar 2021 08:45:34 +1100 (AEDT) 
+
+Received: from mg-auso-delta.mailguard.com.au (mg-auso-delta.mailguard.com.au 
+[127.0.0.1]) 
+
+by mg-auso-delta.mailguard.com.au (Postfix) with ESMTP id 85BFF2C1869 
+for <fad@aec.gov.au>; Fri, 19 Mar 2021 08:45:32 +1100 (AEDT) 
+Received: from external.liberal.org.au (external.liberal.org.au [58.96.127.114]) 
+
+(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 
+
+bits)) 
+
+(No client certificate requested) 
+by mg-auso-delta.mailguard.com.au (Postfix) with ESMTPS id B61502C18B0 
+for <fad@aec.gov.au>; Fri, 19 Mar 2021 08:45:23 +1100 (AEDT) 
+Received: from LPAEX01.liberal.local (192.168.8.5) by LPAEX01.liberal.local 
+ (192.168.8.5) with Microsoft SMTP Server (version=TLS1_2, 
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Fri, 19 
+Mar 
+ 2021 08:45:21 +1100 
+Received: from LPAEX01.liberal.local ([fe80::39ba:7d30:2103:ff2]) by 
+ LPAEX01.liberal.local ([fe80::39ba:7d30:2103:ff2%2]) with mapi id 
+ 15.01.2176.009; Fri, 19 Mar 2021 08:45:21 +1100 
+From: Andrew Hirst <Andrew.Hirst@liberal.org.au> 
+To: "fad@aec.gov.au" <fad@aec.gov.au> 
+Subject: Objection - "The New Liberals" 
+Thread-Topic: Objection - "The New Liberals" 
+Thread-Index: AdccP7tCh1LPD4jmRTa831Ln6ZexUA== 
+Date: Thu, 18 Mar 2021 21:45:21 +0000 
+Message-ID: <27f5cbd6a49f4e66a66bb759cfb65f57@liberal.org.au> 
+Accept-Language: en-AU, en-US 
+Content-Language: en-US 
+
+LEX358 Document No. 1Released under the Freedom of Information Act 1982
+
+
+--- Page 2 ---
+
+Headers text in respect of Outlook item Objection - The New Liberals.msg 
+
+X-MS-Has-Attach: yes 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [192.168.8.77] 
+Content-Type: multipart/mixed; 
+
+boundary="_d9df6c96-961e-47cc-9a54-0e014221ab6f_" 
+
+MIME-Version: 1.0 
+X-MailGuard-UID: 6053c9f3353649da 
+X-SpamGuard-Score: 0 
+X-MailGuard-ID: 6053c9f6ce42a0 
+X-MailGuard-UID: 6053c9f3353649da 
+x-msw-jemd-malware: unknown 
+x-msw-jemd-newsletter: false 
+x-msw-jemd-refid: 
+1,0,0,,d41d8cd98f00b204,andrew.hirst@liberal.org.au,fad@aec.gov.au,RULES_HIT:
+7794:30021:30022:30049:30054:30064:30066:30075:30079:30090,0,RBL:34.215.21
+1.69:@liberal.org.au:fad@aec.gov.au.lbl8.mailshell.net-62.18.0.100 
+64.10.201.10;04ygq4n3eoy897ni37fmwqxdi5jqqoff3atowr5azaqeo9dwrrnnw8gxafeh
+a3s.y53nr6hwkycc4fjn83d7rdkgt9hestkhrc867yjzq6styty6arzgmt9c4gctgp5.p9q66eb
+u4jez6g7knewai7omuswds7tuzrhh4uwcbgnbd91x9kc1z1oo-lbl8.mailshell.net-
+223.238.255.100,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:
+0,MSF:not 
+bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:826,LUA_SUMMAR
+Y:none;dkim:(sn);malware:no;newsletter:no;phishing:no 
+x-msw-jemd-lastmta: 161.146.192.4 
+X-MSW-Message-Direction: incoming 
+Return-Path: andrew.hirst@liberal.org.au 
+X-MS-Exchange-Organization-Network-Message-Id: e66f17dd-fc67-493e-dd5d-
+08d8ea5796cf 
+X-MS-Exchange-Organization-AuthSource: S-0001-0008.prod.aec.gov.au 
+X-MS-Exchange-Organization-AuthAs: Anonymous 
+X-MS-Exchange-Organization-SCL: -1 
+
+LEX358 Document No. 1Released under the Freedom of Information Act 1982

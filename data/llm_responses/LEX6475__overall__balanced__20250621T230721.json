@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The following is a summary of the provided documents associated with an FOI request:\n\n*   **Main purpose of the FOI request:** To obtain documents related to the Australian Electoral Commission's (AEC) planning, specifically an \"Action Plan,\" for 2023.\n*   **Documents from the FOI request:** The FOI response contains a two-page document titled \"2023 CENSUS ACTION PLAN,\" originating from the \"SDFB - NO\" branch/state of the Australian Electoral Commission.\n*   **Main content from the FOI request documents:** The \"2023 CENSUS ACTION PLAN\" is an internal strategic and operational plan for a specific AEC branch. Its primary focus is on enhancing internal team effectiveness, staff wellbeing, strategic thinking, and communication within the branch during the 2023 period. Key areas of action include:\n    *   **Team Building:** Developing a plan for short secondments across the branch (aiming for placements from January-June 2023) to improve knowledge, engagement, and resource allocation. The intended impact is better inter-section relationships and understanding of work pressures.\n    *   **Wellbeing & Strategic Thinking:** Implementing a monthly strategic thinking activity (ongoing from June 2023) to provide staff with time and space for strategic planning and to connect their work to broader agency and government objectives.\n    *   **Communication:** Inviting guest speakers from relevant stakeholder areas and inviting \"AC and BPO\" to section meetings (ongoing from June 2023) to foster a better understanding of agency functions and connections to the branch's work.\n\n    Progress on these actions is intended to be discussed at monthly branch meetings and updated on physical posters. Responsibility for these actions primarily lies with Directors and \"AC\" (likely Assistant Commissioner or similar role). The title \"2023 CENSUS ACTION PLAN\" appears to refer to an internal AEC branch's action plan for the period coinciding with the 2023 Census, rather than a plan for conducting the census itself."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 595,
+    "candidates_token_count": 433,
+    "total_token_count": 2138,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Summarize the following documents in markdown format. These documents are the released documents associated with an FOI request. The summary should focus on: the main purpose of the FOI request, the documents from the FOI request, and the main content from the FOI request documents that relates to the FOI request.\n\nDocuments:\n\n\n\n--- Page 1 ---\n\nAYO\n\nae Australian Electoral Commission\n\ni\n\n \n\n2023 CENSUS ACTION PLAN\n\nCENSUS AREA ACTION\n\nIDENTIFY THE AREA THAT IS A PRIORITY\n\nLIST THE ACTION TO TAKE IN RESPONSE TO\nFOR THIS TEAM TO FOCUS ON THIS AREA\n\nTeam building — working\nin another section for\nshort periods of time to\nimprove knowledge and\nengagement across the\nbranch.\n\nWellbeing\n\nDesign and participate\nin a strategic thinking\nactivity one a month.\n\nStrategic thinking\n\nInvite guest speakers\nfrom relevant\nstakeholder areas to\npresent at section or\nbranch meetings, with a\nfocus on roles and\nresponsibilities.\n\nInvite AC and BPO to\nsection meetings.\n\nCommunication\n\nTIMEFRAME\n\nRECORD THE DATE BY WHICH\nTHIS ACTION NEEDS TO BE\nCOMPLETED\n\nSTATE WHO OR WHAT ROLE OR\nTEAM HAS RESPONSIBILITY FOR\n\nDecember 2023- | —\n\ndevelop a plan for\nshort secondments\nacross the branch.\nUndertake\nplacements from\nJanuary-June\n2023.\n\nJune 2023 — this to | Directors and AC\nbe an ongoing\nactivity throughout\n2023-24\n\nJune 2023 — this to | Directors and AC\nbe an ongoing\n\nactivity throughout\n\n2023-24\n\n \n\nDELIVERING THIS ACTION\n\nBRANCH/STATE: SDFB —- NO\n\nIMPACT a wet\n\nOUTLINE WHAT YOU ARE INTENDING TO ACHIEVE\nAS A RESULT OF THE SUCCESSFUL COMPLETION\nOF THIS ACTION\n\nBetterrelationships across | 0\n\nsections, better\nunderstanding of work\npressures across the branch,\nand the ability to shift\nresources to key areas of\nneed.\n\nStaff have the time and\nspace to think strategically\nabout their work, how it\nconnects into the agency and\nbroader government, and\ncan forward plan work that is\nstrategically significant.\n\nBetter understanding of\nagency functions and\nconnections to the work of\nthe branch.\n\n \n\n2023 Census Action Plan\n\nPage 1\n\n\n--- Page 2 ---\n\nay\n\nv\n\nHOW DO WE COMMUNICATE THIS AND KEEP IT ON OUR RADAR:\ne Discuss progress at each monthly branch meeting.\ne Update progress on Census Action Plan posters in each section.\n\n \n\n \n\n2023 Census Action Plan —\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

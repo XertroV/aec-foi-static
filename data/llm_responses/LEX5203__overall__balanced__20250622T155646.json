@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This FOI request sought access to daily \"Postal Vote CSV file for upload\" documents.\n\n**Documents from the FOI Request:**\nThe documents released consist of a log or index of specific files, each titled \"Postal Vote CSV file for upload,\" spanning dates from September 22, 2023, to October 11, 2023.\n\n**Main Content Related to the FOI Request:**\nAll listed documents, which are the \"Postal Vote CSV file for upload\" for each specified date, were \"Released in full.\" No exemptions were applied to any of the requested files."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 611,
+    "candidates_token_count": 126,
+    "total_token_count": 1024,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Summarize the following documents in markdown format. These documents are the released documents associated with an FOI request. The summary should focus on: the main purpose of the FOI request, the documents from the FOI request, and the main content from the FOI request documents that relates to the FOI request.\n\nDocuments:\n\n\n\n--- Page 1 ---\n\nDocument \nNo. \n\nDocument Title \n\nExemption \n\nDecision on Access \n\nPostal Vote CSV file for upload - 22/09/23 \n\nPostal Vote CSV file for upload - 23/09/23 \n\nPostal Vote CSV file for upload - 24/09/23 \n\nPostal Vote CSV file for upload - 25/09/23 \n\nPostal Vote CSV file for upload - 26/09/23 \n\nPostal Vote CSV file for upload - 27/09/23 \n\nPostal Vote CSV file for upload - 28/09/23 \n\nReleased in full \n\nReleased in full \n\nReleased in full \n\nReleased in full \n\nReleased in full \n\nReleased in full \n\nReleased in full\n\n\n--- Page 2 ---\n\nDocument \nNo. \n\nDocument Title \n\nExemption \n\nDecision on Access \n\nPostal Vote CSV file for upload - 29/09/23 \n\nPostal Vote CSV file for upload - 30/09/23 \n\nPostal Vote CSV file for upload - 1/10/23 \n\nPostal Vote CSV file for upload - 2/10/23 \n\nPostal Vote CSV file for upload - 3/10/23 \n\nPostal Vote CSV file for upload - 4/10/23 \n\nPostal Vote CSV file for upload - 5/10/23 \n\nPostal Vote CSV file for upload - 6/10/23 \n\nReleased in full \n\nReleased in full \n\nReleased in full \n\nReleased in full \n\nReleased in full \n\nReleased in full \n\nReleased in full \n\nReleased in full\n\n\n--- Page 3 ---\n\nDocument \nNo. \n\nDocument Title \n\nExemption \n\nDecision on Access \n\nPostal Vote CSV file for upload - 7/10/23 \n\nPostal Vote CSV file for upload - 8/10/23 \n\nPostal Vote CSV file for upload - 9/10/23 \n\nPostal Vote CSV file for upload - 10/10/23 \n\nPostal Vote CSV file for upload - 11/10/23 \n\nReleased in full \n\nReleased in full \n\nReleased in full \n\nReleased in full \n\nReleased in full\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

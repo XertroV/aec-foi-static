@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "\"Released in full\" and \"no exemptions\" for \"Document 1\" is a hollow promise of transparency given the complete omission of its title or content. This deliberate lack of context makes it impossible to assess the document's significance, strongly suggesting the release is a token gesture designed to control the narrative rather than offer genuine accountability. Without knowing what was released, this disclosure actively obstructs public scrutiny and maintains government control over information."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 186,
+    "candidates_token_count": 87,
+    "total_token_count": 705,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government skeptic's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe provided record indicates that \"Document 1\" was \"Released in full,\" with no exemptions claimed. However, a significant lack of transparency is evident due to the complete omission of the document's title or any description of its content. This makes it impossible to assess the significance or relevance of the release, raising concerns that the disclosure may be a token gesture rather than a meaningful step toward accountability. Without context, \"released in full\" offers minimal assurance of genuine openness, as the public remains unaware of what information has actually been made available or why it was sought. The absence of essential details suggests an ongoing effort to control the narrative surrounding information disclosure, hindering informed public scrutiny.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

@@ -1,0 +1,1502 @@
+
+
+--- Page 1 ---
+
+Commonwealth Electoral (COVID 
+Enfranchisement) Regulations 2022 
+
+I,  General  the  Honourable  David  Hurley  AC  DSC  (Retd),  Governor-General  of  the 
+Commonwealth  of  Australia,  acting  with  the  advice  of  the  Federal  Executive  Council, 
+make the following regulations. 
+
+Dated 
+
+2022 
+
+David Hurley 
+Governor-General 
+
+By His Excellency’s Command 
+
+Ben Morton 
+Special Minister of State 
+
+OPC65848 - C
+
+
+--- Page 2 ---
+
+
+
+
+--- Page 3 ---
+
+Contents 
+Part 1—Preliminary 
+
+Part 2—Secure telephone voting for coronavirus affected individuals 
+
+3 
+
+Division 1—Preliminary 
+6 
+7 
+
+Division 2—Registration 
+
+Division 3—Voting 
+
+1 
+Name ........................................................................................................................... 1 
+Commencement .......................................................................................................... 1 
+Authority ..................................................................................................................... 1 
+Definitions .................................................................................................................. 1 
+Time ............................................................................................................................ 2 
+
+3 
+Telephone voting method for coronavirus affected individuals .................................. 3 
+Telephone voting method to be provided to the extent feasible .................................. 3 
+4 
+Entitlement to register to vote by a secure telephone vote .......................................... 4 
+Registering as a secure telephone voter ...................................................................... 4 
+Procedures for registering a secure telephone voter .................................................... 6 
+8 
+Entitlement to vote by a secure telephone vote ........................................................... 8 
+Procedures for requesting to vote by a secure telephone vote ..................................... 9 
+Questions to be put to registered secure telephone voter ............................................ 9 
+Voting ......................................................................................................................... 9 
+Voter requiring assistance to vote ..............................................................................11 
+Procedures for enabling a registered secure telephone voter to vote ..........................11 
+How the Act applies in relation to secure telephone votes .........................................12 
+Temporary suspension of polling ...............................................................................13 
+14 
+Requirements relating to ballot-boxes ........................................................................14 
+Scrutineers at authorised call centres .........................................................................14 
+Record of secure telephone votes ...............................................................................15 
+What must be done with the ballot papers .................................................................15 
+Scrutiny before opening of envelopes containing ballot papers .................................15 
+Scrutiny of ballot papers ............................................................................................16 
+17 
+Authorised call centres ...............................................................................................17 
+Offence for false or misleading declaration ...............................................................17 
+Offences related to secure telephone voting ...............................................................17 
+Offence for destroying or interfering with voting hardware or software ....................18 
+Records ......................................................................................................................18 
+
+1 
+2 
+3 
+4 
+5 
+
+8 
+9 
+10 
+
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+
+25 
+26 
+27 
+28 
+29 
+
+Division 4—Scrutiny 
+19 
+20 
+21 
+22 
+23 
+24 
+
+Division 5—Miscellaneous 
+
+Part 3—Repeal 
+30 
+
+19 
+Repeal ........................................................................................................................19 
+
+OPC65848 - C 
+
+Commonwealth Electoral (COVID Enfranchisement) Regulations 2022 
+
+i
+
+
+--- Page 4 ---
+
+
+
+
+--- Page 5 ---
+
+Preliminary  Part 1 
+
+Section 1 
+
+Part 1—Preliminary 
+
+1  Name 
+
+  This instrument is the Commonwealth Electoral (COVID Enfranchisement) 
+
+Regulations 2022. 
+
+2  Commencement 
+
+(1)  Each provision of this instrument specified in column 1 of the table commences, 
+or is taken to have commenced, in accordance with column 2 of the table. Any 
+other statement in column 2 has effect according to its terms. 
+
+Commencement information 
+
+Column 1 
+
+Provisions 
+
+Column 2 
+
+Commencement 
+
+Column 3 
+
+Date/Details 
+
+1.  Sections 1 to 3 and 
+anything in this 
+instrument not 
+elsewhere covered by 
+this table 
+
+2.  Sections 4 to 29 
+
+The day after this instrument is registered. 
+
+A single day to be fixed by the Minister by notifiable 
+instrument. 
+
+3.  Part 3 
+
+The day after this instrument is registered. 
+
+Note: 
+
+This table relates only to the provisions of this instrument as originally made. It will 
+not be amended to deal with any later amendments of this instrument. 
+
+(2)  Any information in column 3 of the table is not part of this instrument. 
+
+Information may be inserted in this column, or information in it may be edited, in 
+any published version of this instrument. 
+
+3  Authority 
+
+  This instrument is made under the Commonwealth Electoral Act 1918. 
+
+4  Definitions 
+
+Note: 
+
+A number of expressions used in this instrument are defined in the Act, including the 
+following: 
+(a)  approved list; 
+(b)  certified list of voters; 
+(c)  Electoral Commissioner; 
+(d)  Roll. 
+
+  In this instrument: 
+
+Act means the Commonwealth Electoral Act 1918. 
+
+authorised call centre means a call centre established in accordance with 
+arrangements made by the Electoral Commissioner under subsection 25(1). 
+
+OPC65848 - C 
+
+Commonwealth Electoral (COVID Enfranchisement) Regulations 2022 
+
+1
+
+
+--- Page 6 ---
+
+Part 1  Preliminary 
+
+Section 5 
+
+call centre operator means an individual who: 
+(a)  works in an authorised call centre; and 
+(b)  is a pre-poll voting officer or a polling official. 
+
+coronavirus affected individual has the meaning given by 
+subsection 202AFA(2) of the Act. 
+
+National Relay Service has the same meaning as in the Telecommunications 
+(Consumer Protection and Service Standards) Act 1999. 
+
+personal identification number means a personal identification number 
+registered under paragraph 10(1)(c). 
+
+reference Roll means a Roll that may be consulted by an officer if an individual 
+wishes to register as a secure telephone voter or wishes to vote by a secure 
+telephone vote. 
+
+registered secure telephone voter means an individual who is registered under 
+section 10 as a secure telephone voter. 
+
+registration number means a registration number provided under 
+paragraph 10(1)(b). 
+
+secure telephone vote means a vote cast using the telephone voting method 
+provided for in Part 2. 
+
+5  Time 
+
+  In this instrument, a reference to time as it relates to an individual is a reference 
+
+to: 
+
+(a)  unless another paragraph of this section applies—the legal time in the State 
+
+or part of the Commonwealth in which the individual is located; or 
+(b)  if the individual is located in Norfolk Island or Lord Howe Island—the 
+
+legal time in Sydney; or 
+
+(c)  if the individual is located in the Territory of Cocos (Keeling) Islands or 
+
+the Territory of Christmas Island—the legal time in Perth. 
+
+2 
+OPC65848 - C 
+
+Commonwealth Electoral (COVID Enfranchisement) Regulations 2022
+
+
+--- Page 7 ---
+
+Secure telephone voting for coronavirus affected individuals  Part 2 
+Preliminary  Division 1 
+
+Section 6 
+
+Part 2—Secure telephone voting for coronavirus affected 
+
+individuals 
+
+Division 1—Preliminary 
+
+6  Telephone voting method for coronavirus affected individuals 
+
+  This Part provides a telephone voting method to be used by certain coronavirus 
+affected individuals covered by a determination under subsection 202AFA(1) of 
+the Act. 
+
+7  Telephone voting method to be provided to the extent feasible 
+
+(1)  If the Electoral Commissioner is satisfied that it has become unfeasible to 
+
+provide, or continue to provide, a telephone voting method in accordance with 
+this Part to any extent for any period for a general election, Senate election or 
+by-election, then, to that extent, and throughout that period: 
+
+(a)  this instrument does not require or entitle an individual to be registered as a 
+
+secure telephone voter; and 
+
+(b)  this instrument does not require a registered secure telephone voter to be 
+
+enabled to vote by a secure telephone vote or entitle a registered secure 
+telephone voter to vote by a secure telephone vote; and 
+
+(c)  this instrument does not require any other function or duty to be performed, 
+
+or any other power to be exercised, under this instrument. 
+
+(2)  As soon as practicable after being so satisfied, the Electoral Commissioner must: 
+
+(a)  make a written record of that fact, the extent and the period; and 
+(b)  publish the record on the Commission’s website. 
+
+(3)  The record must remain available on the website for 40 days after the polling day 
+
+for the election. 
+
+(4)  Any failure to provide a telephone voting method in accordance with this Part 
+
+does not invalidate the result of a general election, Senate election or by-election. 
+
+OPC65848 - C 
+
+Commonwealth Electoral (COVID Enfranchisement) Regulations 2022 
+
+3
+
+
+--- Page 8 ---
+
+Part 2  Secure telephone voting for coronavirus affected individuals 
+Division 2  Registration 
+
+Section 8 
+
+Division 2—Registration 
+
+8  Entitlement to register to vote by a secure telephone vote 
+
+(1)  An individual must register as a secure telephone voter in order to vote by a 
+
+secure telephone vote in a general election, Senate election or by-election. 
+
+Note: 
+
+In order to vote by a secure telephone vote, a registered secure telephone voter must 
+call an authorised call centre on a day on which and at a time when voting by a secure 
+telephone vote is available for the individual. The registered secure telephone voter 
+must also meet the other requirements in section 11. 
+
+(2)  Subject to subsection 7(1), the individual is entitled to be registered as a secure 
+
+telephone voter if the Electoral Commissioner is satisfied that: 
+
+(a)  the individual’s name is on an approved list of voters, a certified list of 
+
+voters or a reference Roll; and 
+
+(b)  the individual has not already voted in the election; and 
+(c)  the individual became a coronavirus affected individual in the period 
+
+beginning: 
+
+(i)  at 6.01 pm on the Tuesday that is 4 days before the polling day in the 
+
+election; and 
+
+(ii)  ending at the latest time when the individual may apply to be 
+
+registered by the Electoral Commissioner as a secure telephone voter; 
+and 
+
+(d)  the individual has been directed, by a public health authority of a State or 
+
+Territory under a public health order of the State or Territory, to self-isolate 
+or quarantine: 
+
+(i)  because the individual has tested positive for the coronavirus known 
+
+as COVID-19 on a test approved by the Therapeutic Goods 
+Administration for that purpose; or 
+
+(ii)  because of a matter specified by the Minister under subsection (3); 
+
+and 
+
+(e)  because of the direction, the public health order prevents the individual 
+from attending a polling place in that State or Territory throughout the 
+period: 
+
+(i)  beginning at 6.01 pm on the Wednesday that is 3 days before the 
+
+polling day in the election; and 
+
+(ii)  ending at 4 pm on the polling day for the election. 
+
+Note: 
+
+Due to paragraph (a) of this subsection, a provisional or declaration vote cannot be cast 
+by a secure telephone vote. 
+
+(3)  The Minister may, in writing, specify matters for the purposes of 
+
+subparagraph (2)(d)(ii). A specified matter must be a matter because of which an 
+individual becomes, or continues to be, a coronavirus affected individual. 
+
+9  Registering as a secure telephone voter 
+
+(1)  An individual who wishes to be registered as a secure telephone voter must: 
+(a)  apply, on a day and at a time determined under paragraph 10(2)(a), by: 
+
+(i)  submitting the approved form in the approved manner; or 
+
+4 
+OPC65848 - C 
+
+Commonwealth Electoral (COVID Enfranchisement) Regulations 2022
+
+
+--- Page 9 ---
+
+Secure telephone voting for coronavirus affected individuals  Part 2 
+Registration  Division 2 
+
+Section 9 
+
+(ii)  calling an authorised call centre; and 
+
+(b)  provide the Electoral Commissioner with the following: 
+
+(i)  the individual’s name, address and date of birth; 
+(ii)  the individual’s telephone number; 
+(iii)  the declarations required by subsection (2); 
+(iv)  any other evidence requested by the Electoral Commissioner under 
+
+subsection (3); and 
+
+(c)  provide the Electoral Commissioner with: 
+
+(i)  a reference number for the direction to the individual to self-isolate or 
+
+quarantine that has been provided to the individual; or 
+
+(ii)  if the individual has not been provided with a reference number for 
+
+the direction—a reference number or serial number for the test on 
+which the individual tested positive; or 
+
+(iii)  if the individual has not been provided with a reference number for 
+the direction and is unable to provide a reference number or serial 
+number under subparagraph (ii)—a declaration to that effect; and 
+(d)  comply with the procedures for assessing whether an individual may be 
+
+registered as a secure telephone voter. 
+
+Note: 
+
+The individual is not entitled to be registered if the Electoral Commissioner is not 
+satisfied of the matters in subsection 8(2). 
+
+(2)  The individual must make: 
+
+(a)  a declaration to the effect that the individual has not already voted in the 
+
+election; and 
+
+(b)  either: 
+
+(i)  a declaration to the effect that the individual has been directed, by a 
+public health authority of a State or Territory under a public health 
+order of the State or Territory, to self-isolate or quarantine, from a 
+specified time on a specified date, because the individual has tested 
+positive for the coronavirus known as COVID-19 on a test approved 
+by the Therapeutic Goods Administration for that purpose; or 
+(ii)  if the Minister has specified a matter under subsection 8(3)—a 
+
+declaration to the effect that the individual has been directed, by a 
+public health authority of a State or Territory under a public health 
+order of the State or Territory, to self-isolate or quarantine, from a 
+specified time on a specified date, because of the specified matter; and 
+
+(c)  a declaration to the effect that, because of the direction, the individual 
+
+believes the public health order prevents the individual from attending a 
+polling place in that State or Territory throughout the period referred to in 
+paragraph 8(2)(e). 
+
+Note: 
+
+Providing information when registering or voting that the individual knows is false or 
+misleading may be an offence: see section 26 of this instrument and sections 137.1 and 
+137.2 of the Criminal Code. 
+
+(3)  If the Electoral Commissioner requires further evidence to assess whether the 
+individual is entitled to be registered as a secure telephone voter, the Electoral 
+Commissioner may request the individual to provide one or more of the 
+following: 
+
+(a)  the individual’s email address; 
+
+OPC65848 - C 
+
+Commonwealth Electoral (COVID Enfranchisement) Regulations 2022 
+
+5
+
+
+--- Page 10 ---
+
+Part 2  Secure telephone voting for coronavirus affected individuals 
+Division 2  Registration 
+
+Section 10 
+
+(b)  if the individual is not self-isolating or quarantining at the individual’s 
+
+address—the address where the individual is self-isolating or quarantining; 
+
+(c)  any other information or documents that the Commissioner reasonably 
+
+requires to make the assessment. 
+
+Record keeping 
+
+(4)  The individual must keep the following until the day that is 40 days after the 
+
+polling day for the election: 
+
+(a)  if under subparagraph (1)(c)(i) the individual provided a reference number 
+for the direction to the individual to self-isolate or quarantine—a copy of a 
+document containing the number; 
+
+(b)  if under subparagraph (1)(c)(ii) the individual provided a reference number 
+or serial number for the test on which the individual tested positive—a 
+record of the test or of the test results. 
+
+10  Procedures for registering a secure telephone voter 
+
+(1)  If an individual who is entitled under subsection 8(2) to be registered as a secure 
+telephone voter complies with section 9, the Electoral Commissioner must: 
+
+(a)  register the individual as a secure telephone voter; and 
+(b)  provide the individual with a registration number for the purposes of voting 
+
+by a secure telephone vote; and 
+
+(c)  register a personal identification number chosen by the individual for the 
+
+purposes of voting by a secure telephone vote. 
+
+(2)  The Electoral Commissioner must in writing: 
+
+(a)  determine the days on which and times when individuals may apply to be 
+registered by the Electoral Commissioner as a secure telephone voter; and 
+
+(b)  approve a form and manner for the purposes of making an application 
+under subsection 9(1) to be registered as a secure telephone voter; and 
+
+(c)  determine procedures for assessing whether an individual may be 
+
+registered by the Electoral Commissioner as a secure telephone voter under 
+subsection (1) of this section. 
+
+Note: 
+
+The form and manner determined under paragraph (b) of this subsection and the 
+procedures determined under paragraph (c) of this subsection must be consistent with 
+the requirements in this instrument. 
+
+(3)  Days and times determined under paragraph (2)(a) must be during the period: 
+
+(a)  starting at 6.01 pm on the Wednesday that is 3 days before the polling day 
+
+in the election; and 
+
+(b)  ending on the close of the poll for the election. 
+
+(4)  The procedures must include: 
+
+(a)  procedures for assessing whether an individual is entitled to be registered 
+
+as a secure telephone voter; and 
+
+(b)  procedures for the submission of evidence for the purposes of that 
+
+assessment; and 
+
+6 
+OPC65848 - C 
+
+Commonwealth Electoral (COVID Enfranchisement) Regulations 2022
+
+
+--- Page 11 ---
+
+Secure telephone voting for coronavirus affected individuals  Part 2 
+Registration  Division 2 
+
+Section 10 
+
+(c)  procedures for advising an individual, when making the declaration 
+
+required by paragraph 9(2)(a), that voting in the election includes voting by 
+attending a polling place, by a pre-poll vote or by a postal vote. 
+
+(5)  The procedures may provide for the audio recording of applications to be 
+
+registered as a secure telephone voter that are made by calling an authorised call 
+centre. If so, the procedures must require applicants to be informed that calls may 
+be recorded. 
+
+(6)  The Electoral Commissioner must make and keep a register for the purposes of 
+
+registering secure telephone voters. 
+
+OPC65848 - C 
+
+Commonwealth Electoral (COVID Enfranchisement) Regulations 2022 
+
+7
+
+
+--- Page 12 ---
+
+Part 2  Secure telephone voting for coronavirus affected individuals 
+Division 3  Voting 
+
+Section 11 
+
+Division 3—Voting 
+
+11  Entitlement to vote by a secure telephone vote 
+
+(1)  Subject to subsection (2), a registered secure telephone voter is entitled to vote 
+
+by a secure telephone vote if: 
+
+(a)  the voter calls an authorised call centre on a day on which and at a time 
+when voting by a secure telephone vote is available for individuals; and 
+(b)  the voter informs a call centre operator that the voter wishes to vote by a 
+
+secure telephone vote; and 
+
+(c)  a call centre operator is satisfied that the voter is a registered secure 
+
+telephone voter; and 
+
+(d)  the voter’s name is on an approved list of voters, a certified list of voters or 
+
+a reference Roll. 
+
+(2)  A registered secure telephone voter is not entitled to vote by a secure telephone 
+
+vote if: 
+
+(a)  the voter does not call an authorised call centre on a day on which and at a 
+time when voting by a secure telephone vote is available for the individual; 
+or 
+
+(b)  a call centre operator is not satisfied that the voter is a registered secure 
+
+telephone voter after complying with the procedures for assessing whether 
+the voter is a registered secure telephone voter; or 
+
+(c)  the voter’s name is not on an approved list of voters, a certified list of 
+
+voters or a reference Roll; or 
+
+(d)  the voter refuses to answer a question asked in accordance with section 13; 
+
+or 
+
+(e)  the individual does not make the declarations asked for in accordance with 
+
+subsection 13(2); or 
+
+(f)  the voter has already voted in the election; or 
+(g)  a mark has been placed against the voter’s name on a copy of a certified list 
+of voters, or a record for the voter has been made against an approved list 
+of voters, under section 21 of this instrument or under section 200DJ or 
+232 of the Act; or 
+
+(h)  the voter is provisionally enrolled; or 
+(i)  on the basis of any of the voter’s answers to questions asked in accordance 
+with section 13, a call centre operator is not satisfied that the individual is 
+the voter whose name the individual has used; or 
+
+(j)  the voter does not otherwise comply with the procedures for: 
+
+(i)  assessing whether the individual is a registered secure telephone 
+
+voter; or 
+
+(ii)  voting by a secure telephone vote; or 
+
+(k)  the individual is not entitled to vote by a secure telephone vote because of 
+
+subsection 7(1). 
+
+Note: 
+
+For the purposes of paragraph (f), voting in the election includes voting by attending a 
+polling place, by a pre-poll vote or by a postal vote. 
+
+8 
+OPC65848 - C 
+
+Commonwealth Electoral (COVID Enfranchisement) Regulations 2022
+
+
+--- Page 13 ---
+
+Secure telephone voting for coronavirus affected individuals  Part 2 
+Voting  Division 3 
+
+Section 12 
+
+12  Procedures for requesting to vote by a secure telephone vote 
+
+(1)  The Electoral Commissioner: 
+
+(a)  must determine, in writing, the days on which and times when voting by a 
+
+secure telephone vote is to be available for an individual; and 
+
+(b)  must determine, in writing, procedures for assessing whether an individual 
+
+is a registered secure telephone voter; and 
+
+(c)  may give directions to officers in relation to requests to vote by a secure 
+
+telephone vote. 
+
+Note: 
+
+Due to subsection 202AFA(1) of the Act, voting by a secure telephone vote may only 
+be available to be used by an individual at a general election, Senate election or 
+by-election during the period: 
+(a)  starting at 6.01 pm on the Wednesday that is 3 days before the polling day in the 
+
+election; and 
+
+(b)  ending on the close of the poll for the election. 
+
+Example:  For the purposes of paragraph (b) of this subsection, the procedures may include a 
+
+requirement for a call centre operator to ask the individual one or more questions about 
+information provided on an approved list of voters, a certified list of voters or a 
+reference Roll about the voter whose name the individual has used. 
+
+(2)  The Electoral Commissioner must ensure that any registered secure telephone 
+
+voter who at 6 pm on the polling day for the election: 
+
+(a)  is waiting on a call to an authorised call centre to request a vote by a secure 
+telephone vote or is in the process of voting by a secure telephone vote; 
+and 
+
+(b)  is entitled to vote by a secure telephone vote; and 
+(c)  wishes to vote; 
+
+is able to vote by a secure telephone vote. 
+
+13  Questions to be put to registered secure telephone voter 
+
+(1)  If an individual requests to vote by a secure telephone vote, a call centre operator 
+
+must be satisfied in accordance with the procedures determined under 
+paragraph 12(1)(b) that the individual is a registered secure telephone voter. 
+
+Note: 
+
+The individual will have a personal identification number and a registration number for 
+requesting to vote by a secure telephone vote. 
+
+(2)  If a call centre operator is so satisfied, a call centre operator must then ask the 
+
+individual to make the declarations required by subsection 9(2). 
+
+(3)  The procedures determined under paragraph 12(1)(b) must require a call centre 
+operator, when asking the individual to make the declaration required by 
+paragraph 9(2)(a), to advise the individual that voting in the election includes 
+voting by attending a polling place, by a pre-poll vote or by a postal vote. 
+
+14  Voting 
+
+(1)  A call centre operator who is satisfied that a registered secure telephone voter is 
+entitled to vote by a secure telephone vote must assist the voter in accordance 
+with the procedures determined under subsection 16(1). 
+
+OPC65848 - C 
+
+Commonwealth Electoral (COVID Enfranchisement) Regulations 2022 
+
+9
+
+
+--- Page 14 ---
+
+Part 2  Secure telephone voting for coronavirus affected individuals 
+Division 3  Voting 
+
+Section 14 
+
+(2)  In order to vote by a secure telephone vote, the voter must tell the call centre 
+
+operator how the voter wants the ballot paper to be marked. 
+
+(3)  If, under this section, the voter tells a call centre operator how the voter wants the 
+
+ballot paper to be marked, a call centre operator must: 
+
+(a)  initial the voter’s ballot paper on the top front; and 
+(b)  mark the voter’s ballot paper in accordance with the voter’s instructions; 
+
+and 
+
+(c)  read the voter’s voting preferences marked on the ballot paper back to the 
+
+voter; and 
+
+(d)  ask the voter to affirm that the voting preferences marked on the ballot 
+
+paper are the voter’s voting preferences; and 
+
+(e)  if the voter so affirms—put the voter’s ballot paper in an envelope that is: 
+
+(i)  in the approved form; and 
+(ii)  marked with the name of the voter’s Division; and 
+(iii)  marked with the voter’s registration number; and 
+(iv)  marked with the date on which and time when the voter so affirmed; 
+  and place the envelope in a ballot-box used at the authorised call centre for 
+
+secure telephone voting. 
+
+Affirming voting preferences marked on the ballot paper 
+
+(4)  If, after being asked as mentioned in paragraph (3)(d), the voter does not affirm 
+that the voting preferences marked on the ballot paper are the voter’s voting 
+preferences: 
+
+(a)  the ballot paper is taken to be a spoilt ballet paper that has been cancelled 
+under subsection 238(1) or (2) of the Act by the call centre operator who 
+asked the voter as mentioned in paragraph (3)(d) of this section; and 
+(b)  the voter may tell a call centre operator how the voter wants a fresh ballot 
+
+paper to be marked. 
+
+Note: 
+
+For the treatment of a spoilt ballot paper that has been cancelled, see section 238 of the 
+Act. 
+
+(5)  The voter may request that another call centre operator read back to the voter the 
+voter’s voting preferences marked on the ballot paper. A call centre operator 
+must not do an action referred to in paragraph (3)(d) or (e) until that request has 
+been complied with. 
+
+Informal voting permitted 
+
+(6)  For the purposes of this section, telling a call centre operator how the voter wants 
+
+the ballot paper to be marked includes telling the call centre operator that: 
+
+(a)  the voter does not want any preferences marked on the ballot paper; or 
+(b)  the voter wants the ballot paper marked in a way that could otherwise result 
+
+in a ballot paper being informal. 
+
+Objections 
+
+(7)  A call centre operator must: 
+
+(a)  at the request of a scrutineer, note any objection by the scrutineer: 
+
+10 
+OPC65848 - C 
+
+Commonwealth Electoral (COVID Enfranchisement) Regulations 2022
+
+
+--- Page 15 ---
+
+Secure telephone voting for coronavirus affected individuals  Part 2 
+Voting  Division 3 
+
+Section 15 
+
+(i)  to the right of the voter to vote by a secure telephone vote; or 
+(ii)  to the marking of a ballot paper under this section; and 
+
+(b)  keep a record of that note. 
+
+Offence 
+
+(8)  A call centre operator commits an offence if the call centre operator intentionally 
+
+contravenes this section. 
+
+Penalty:  10 penalty units. 
+
+15  Voter requiring assistance to vote 
+
+(1)  If: 
+
+(a)  a registered secure telephone voter requires another individual’s assistance 
+
+to vote; and 
+
+(b)  when the voter requests to vote by a secure telephone vote, the voter 
+informs a call centre operator that they require the other individual’s 
+assistance to vote by a secure telephone vote; 
+
+the other individual may assist the voter to vote by a secure telephone vote. 
+
+(2)  An individual commits an offence if: 
+
+(a)  another individual (the voter) requests to vote by a secure telephone vote; 
+
+and 
+
+(b)  the voter does not tell a call centre operator that the voter requires another 
+
+individual’s assistance; and 
+
+(c)  the individual assists the voter to tell a call centre operator how the voter 
+
+wants the ballot paper to be marked under section 14. 
+
+Penalty:  5 penalty units. 
+
+(3)  This section does not apply to assistance provided by the following services: 
+
+(a)  the National Relay Service; 
+(b)  a telephone interpreter service provided for the purposes of voting by a 
+
+secure telephone vote. 
+
+(4)  Nothing in this instrument prevents an individual from using a service referred to 
+in subsection (3) to make an application to be registered as a secure telephone 
+voter, to request to vote by a secure telephone vote or to vote by a secure 
+telephone vote. 
+
+16  Procedures for enabling a registered secure telephone voter to vote 
+
+(1)  The Electoral Commissioner must determine, in writing, procedures for enabling 
+
+a registered secure telephone voter to vote by a secure telephone vote. 
+
+(2)  The procedures must ensure that the voter: 
+
+(a)  receives the same information (in the same order), and has the same voting 
+
+options, as would appear in the ballot paper that the voter would be given 
+for the election if the voter were voting under Part XVI of the Act; and 
+
+OPC65848 - C 
+
+Commonwealth Electoral (COVID Enfranchisement) Regulations 2022 
+
+11
+
+
+--- Page 16 ---
+
+Part 2  Secure telephone voting for coronavirus affected individuals 
+Division 3  Voting 
+
+Section 17 
+
+(b)  is able to indicate the voter’s vote in a way that, if the voter were marking a 
+ballot paper, would satisfy the requirements of section 239 or 240 of the 
+Act. 
+
+(3)  The procedures must not require a call centre operator to communicate orally to a 
+registered secure telephone voter the information referred to in paragraph (2)(a) 
+of this section unless, at the time the voter requests to vote by a secure telephone 
+vote, the voter affirms that they are unable to access or use the representation of 
+the ballot paper for the election that is available on the Commission’s website. 
+
+Representation of ballot paper 
+
+(4)  The procedures must require a representation of the ballot paper for the election 
+
+to be available on the Commission’s website throughout the period: 
+
+(a)  beginning at the earliest time when an individual may apply to be 
+
+registered as a secure telephone voter for the election; and 
+
+(b)  ending at the latest time when voting by a secure telephone vote is 
+
+available for an individual in the election. 
+
+(5)  The Electoral Commissioner must ensure that the representation of the ballot 
+
+paper: 
+
+(a)  provides a registered secure telephone voter with the same information (in 
+the same order), and the same voting options, as would appear in the ballot 
+paper that the voter would be given for the election if the voter were voting 
+under Part XVI of the Act; and 
+
+(b)  is visually distinguishable from the ballot paper for the election that the 
+voter would be given if the voter were voting under Part XVI of the Act; 
+and 
+
+(c)  is available throughout the period referred to in subsection (4). 
+
+Scrutiny 
+
+(6)  The procedures must make provision for scrutineers in attendance at authorised 
+call centres to monitor performance of the duties of call centre operators. 
+
+(7)  The procedures must enable a scrutineer, upon request, to listen to a call between 
+a voter and a call centre operator at any time when the call centre operator is 
+performing duties under section 14. The procedures must require voters to be 
+informed that scrutineers may listen to such calls. 
+
+(8)  An audio recording must not be made of a request to vote by a secure telephone 
+
+vote or of a vote by a secure telephone vote. 
+
+17  How the Act applies in relation to secure telephone votes 
+
+(1)  Except so far as provided in this Part, the Act (other than Part XVA and 
+
+Schedule 2) applies in relation to a vote cast using a secure telephone vote as if 
+the vote were a pre-poll ordinary vote. 
+
+(2)  If an individual votes by a secure telephone vote, the requirements of the Act 
+
+relating to the individual’s right to receive a ballot paper are taken to have been 
+satisfied. 
+
+12 
+OPC65848 - C 
+
+Commonwealth Electoral (COVID Enfranchisement) Regulations 2022
+
+
+--- Page 17 ---
+
+Secure telephone voting for coronavirus affected individuals  Part 2 
+Voting  Division 3 
+
+Section 18 
+
+18  Temporary suspension of polling 
+
+(1)  The Electoral Commissioner may temporarily suspend the polling by a secure 
+telephone vote for a period if the Electoral Commissioner is satisfied that the 
+suspension of that polling during that period is justified because of: 
+
+(a)  riot or open violence; or 
+(b)  the threat of riot or open violence; or 
+(c)  storm, tempest, flood or an occurrence of a similar kind; or 
+(d)  a health hazard; or 
+(e)  a fire or the activation of fire safety equipment (such as sprinklers or 
+
+alarms); or 
+
+(f)  any other reason related to: 
+(i)  the safety of voters; or 
+(ii)  difficulties in the physical conduct of the voting. 
+
+(2)  The Act applies to a suspension under this section in the same way as it applies 
+
+to a suspension under section 240A of the Act. 
+
+OPC65848 - C 
+
+Commonwealth Electoral (COVID Enfranchisement) Regulations 2022 
+
+13
+
+
+--- Page 18 ---
+
+Part 2  Secure telephone voting for coronavirus affected individuals 
+Division 4  Scrutiny 
+
+Section 19 
+
+Division 4—Scrutiny 
+
+19  Requirements relating to ballot-boxes 
+
+  For an election for which voting by a secure telephone vote is available, the 
+requirements in relation to ballot-boxes in Subdivision C of Division 3 of 
+Part XVA of the Act, other than section 200DR, are taken to apply to 
+ballot-boxes used at an authorised call centre as if voting by a secure telephone 
+vote were pre-poll ordinary voting. 
+
+20  Scrutineers at authorised call centres 
+
+(1)  A candidate in an election for which voting by a secure telephone vote is 
+
+available may appoint scrutineers to attend at each authorised call centre for the 
+purpose of monitoring performance of the duties of call centre operators. 
+
+(2)  A candidate is not entitled to be represented at an authorised call centre at a 
+
+particular time by a number of scrutineers that is greater than the number of call 
+centre operators performing duties at that time. 
+
+(3)  The appointment of a scrutineer must be made by notice, in writing: 
+
+(a)  addressed to a Returning Officer; and 
+(b)  signed by the candidate or the appointer (as the case requires); and 
+(c)  stating the scrutineer’s name and address. 
+
+(4)  A scrutineer appointed under subsection (1) who has not complied with 
+
+subsection 202A(3) of the Act must not attend an authorised call centre to 
+discharge a scrutineer’s functions. 
+
+(5)  A scrutineer commits an offence if: 
+
+(a)  the scrutineer attends an authorised call centre; and 
+(b)  the scrutineer attempts to interfere with the duties of a call centre operator 
+
+or of an Assistant Returning Officer. 
+
+Penalty:  5 penalty units. 
+
+(6)  A scrutineer commits an offence if: 
+
+(a)  the scrutineer attends an authorised call centre; and 
+(b)  the scrutineer communicates with an individual at the authorised call 
+
+centre; and 
+
+(c)  the communication is not reasonably necessary for the discharge of the 
+
+scrutineer’s functions. 
+
+Penalty:  5 penalty units. 
+
+(7)  This section does not prevent a scrutineer from objecting to: 
+
+(a)  how a person has performed, or purported to perform, a function or duty 
+
+under this instrument; or 
+
+(b)  how a person has exercised, or purported to exercise, a power under this 
+
+instrument; or 
+
+(c)  a failure to perform or exercise such a function, duty or power. 
+
+14 
+OPC65848 - C 
+
+Commonwealth Electoral (COVID Enfranchisement) Regulations 2022
+
+
+--- Page 19 ---
+
+Secure telephone voting for coronavirus affected individuals  Part 2 
+Scrutiny  Division 4 
+
+Section 21 
+
+Note: 
+
+For example, a scrutineer may object to how a call centre operator has marked a ballot 
+paper under section 14 or to a ballot paper being placed in an envelope under that 
+section by a call centre operator. 
+
+21  Record of secure telephone votes 
+
+  If a ballot paper is placed in an envelope under paragraph 14(3)(e), the Electoral 
+
+Commissioner must: 
+
+(a)  place a mark against the person’s name on a copy of a certified list of 
+
+voters; or 
+
+(b)  record electronically against an approved list of voters the fact that the 
+
+voter has voted by a secure telephone vote. 
+
+22  What must be done with the ballot papers 
+
+(1)  As soon as possible after the close of the poll for all Divisions, an Assistant 
+
+Returning Officer must: 
+
+(a)  open each ballot-box mentioned in paragraph 14(3)(e); and 
+(b)  sort the envelopes, unopened, into bundles corresponding to Divisions. 
+
+(2)  An Assistant Returning Officer must forward each bundle to the Divisional 
+Returning Officer for the appropriate Division for the conduct of a scrutiny. 
+
+(3)  An individual commits an offence of strict liability if the individual: 
+(a)  does something mentioned in subsection (1) or (2); and 
+(b)  is neither an Assistant Returning Officer nor an individual performing tasks 
+
+under the direction of an Assistant Returning Officer. 
+
+Penalty:  5 penalty units. 
+
+23  Scrutiny before opening of envelopes containing ballot papers 
+
+(1)  On the day that is 4 days after the polling day in the election, a Divisional 
+
+Returning Officer must do the following for each envelope forwarded to the 
+Divisional Returning Officer under subsection 22(2): 
+
+(a)  find the name of the voter that corresponds to the registration number on 
+
+the envelope; 
+
+(b)  check whether a mark has been placed against the voter’s name on a copy 
+of a certified list of voters, or a record for the voter has been made against 
+an approved list of voters, under section 200DJ or 232 of the Act. 
+
+The envelope is not to be opened. 
+
+Action if voter not found to have already voted 
+
+(2)  If, at the time of checking, no mark has been placed against the voter’s name on 
+a copy of a certified list of voters, and no record for the voter has been made 
+against an approved list of voters, under section 200DJ or 232 of the Act, the 
+Divisional Returning Officer must, without inspecting the ballot paper or 
+allowing another individual to do so: 
+
+(a)  open the envelope and withdraw the ballot paper; and 
+(b)  place the ballot paper in a ballot-box for further scrutiny under section 24. 
+
+OPC65848 - C 
+
+Commonwealth Electoral (COVID Enfranchisement) Regulations 2022 
+
+15
+
+
+--- Page 20 ---
+
+Part 2  Secure telephone voting for coronavirus affected individuals 
+Division 4  Scrutiny 
+
+Section 24 
+
+Action if voter found to have already voted 
+
+(3)  If, at the time of checking, a mark has been placed against the voter’s name on a 
+copy of a certified list of voters, or a record for the voter has been made against 
+an approved list of voters, under section 200DJ or 232 of the Act, the Divisional 
+Returning Officer must, in every circumstance and without opening the 
+envelope, exclude the ballot paper contained in the envelope from further 
+scrutiny under section 24. 
+
+(4)  The Divisional Returning Officer must seal up in a parcel ballot papers excluded 
+under subsection (3) and write on the parcel a description of the contents, the 
+name of the Division and the date. 
+
+Offence for opening secure telephone vote envelope 
+
+(5)  An individual commits an offence of strict liability if the individual: 
+
+(a)  opens an envelope placed in a ballot-box mentioned in paragraph 14(3)(e); 
+
+and 
+
+(b)  is neither the Divisional Returning Officer nor an individual performing 
+
+tasks under the direction of the Divisional Returning Officer. 
+
+Penalty:  5 penalty units. 
+
+24  Scrutiny of ballot papers 
+
+(1)  The Divisional Returning Officer must conduct the scrutiny of the ballot papers 
+
+placed in a ballot-box under paragraph 23(2)(b). 
+
+(2)  For a general election, Senate election or by-election, the procedures in 
+
+Part XVIII of the Act apply to the scrutiny with the modifications necessary to 
+ensure that: 
+
+(a)  no preliminary scrutiny mentioned in section 266 of the Act is to be 
+
+conducted; and 
+
+(b)  the secure telephone vote is taken to be a pre-poll ordinary vote; and 
+(c)  it is irrelevant that the voter did not complete the ballot paper personally; 
+
+and 
+
+(d)  it is irrelevant that the vote can be identified as being cast by a coronavirus 
+
+affected individual. 
+
+(3)  An individual commits an offence of strict liability if the individual: 
+
+(a)  conducts the scrutiny; and 
+(b)  is neither the Divisional Returning Officer nor an individual performing 
+
+tasks under the direction of the Divisional Returning Officer. 
+
+Penalty:  5 penalty units. 
+
+Publishing results of the scrutiny 
+
+(4)  For the purposes of publishing results of the scrutiny on the Commission’s 
+
+website, a separate vote collection point must be identified for each Division in 
+which votes are cast by using a secure telephone vote. 
+
+16 
+OPC65848 - C 
+
+Commonwealth Electoral (COVID Enfranchisement) Regulations 2022
+
+
+--- Page 21 ---
+
+Secure telephone voting for coronavirus affected individuals  Part 2 
+Miscellaneous  Division 5 
+
+Section 25 
+
+Division 5—Miscellaneous 
+
+25  Authorised call centres 
+
+(1)  The Electoral Commissioner must make arrangements for the establishment of 
+
+one or more call centres to receive telephone calls from individuals who wish to: 
+
+(a)  register as a secure telephone voter; or 
+(b)  vote by a secure telephone vote. 
+
+(2)  The Electoral Commissioner may approve forms and other documents to be used 
+
+by call centre operators and other officers for the purposes of: 
+(a)  registering an individual as a secure telephone voter; and 
+(b)  assisting a registered secure telephone voter to vote by a secure telephone 
+
+vote. 
+
+Example:  Statements and responses that allow call centre operators to explain to individuals how 
+
+to register or vote. 
+
+26  Offence for false or misleading declaration 
+
+  An individual commits an offence if: 
+
+(a)  the individual makes a declaration for the purposes of section 9, 11 or 13; 
+
+and 
+
+(b)  the declaration is false or misleading in a material particular. 
+
+Penalty:  10 penalty units. 
+
+27  Offences related to secure telephone voting 
+
+(1)  An individual commits an offence if the individual: 
+
+(a)  interferes with a voter while the voter votes by a secure telephone vote; or 
+(b)  communicates with a voter who votes by a secure telephone vote about the 
+
+voter’s vote; or 
+
+(c)  does anything to find out how a voter who votes by a secure telephone vote 
+
+voted. 
+
+Penalty:  5 penalty units. 
+
+(2)  Subsection (1) does not apply if: 
+
+(a)  the individual is a call centre operator who is assisting the voter to vote; or 
+(b)  the individual is permitted under subsection 15(1) to assist the voter to 
+
+vote; or 
+
+(c)  the individual is providing assistance to the voter through a service referred 
+
+to in subsection 15(3). 
+
+A defendant bears an evidential burden in relation to the matters in subsection (2): see 
+subsection 13.3(3) of the Criminal Code. 
+
+Other offences related to voting by a secure telephone vote include offences for 
+impersonating any individual with the intention of voting in that other individual’s 
+name: see section 339 of the Act. 
+
+Note 1: 
+
+Note 2: 
+
+(3)  If: 
+
+OPC65848 - C 
+
+Commonwealth Electoral (COVID Enfranchisement) Regulations 2022 
+
+17
+
+
+--- Page 22 ---
+
+Part 2  Secure telephone voting for coronavirus affected individuals 
+Division 5  Miscellaneous 
+
+Section 28 
+
+(a)  an individual votes more than once in the same election; and 
+(b)  at least one of the votes is by a secure telephone vote; 
+
+the individual commits a separate offence of strict liability for each of the votes 
+that is by a secure telephone vote. 
+
+Penalty:  20 penalty units. 
+
+Note 1: 
+
+This subsection means that each act of voting by a secure telephone vote gives rise to a 
+separate offence but it is not necessary to know which act of voting was the first one 
+and therefore legitimate. 
+
+Note 2: 
+
+It is also an offence to intentionally vote more than once in the same election: see 
+subsection 339(1D) of the Act. 
+
+28  Offence for destroying or interfering with voting hardware or software 
+
+(1)  An individual commits an offence if: 
+
+(a)  the individual destroys or interferes with: 
+
+(i)  a computer program; or 
+(ii)  a data file; or 
+(iii)  an electronic device; and 
+
+(b)  the program, file or device is used, or intended to be used, for or in 
+
+connection with voting by a secure telephone vote. 
+
+Penalty:  50 penalty units. 
+
+(2)  Subsection (1) does not apply if the individual is an officer acting in the course 
+
+of the officer’s duties. 
+
+Note: 
+
+A defendant bears an evidential burden in relation to the matter in subsection (2): see 
+subsection 13.3(3) of the Criminal Code. 
+
+29  Records 
+
+  For the purposes of section 393A of the Act, records made under this instrument, 
+
+including audio records, are taken to be electoral documents. 
+
+18 
+OPC65848 - C 
+
+Commonwealth Electoral (COVID Enfranchisement) Regulations 2022
+
+
+--- Page 23 ---
+
+Repeal  Part 3 
+
+Section 30 
+
+Part 3—Repeal 
+
+30  Repeal 
+
+  This instrument is repealed at the end of 31 December 2022. 
+
+OPC65848 - C 
+
+Commonwealth Electoral (COVID Enfranchisement) Regulations 2022 
+
+19

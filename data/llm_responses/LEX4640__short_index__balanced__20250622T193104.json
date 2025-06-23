@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This FOI request sought information concerning the Australian Electoral Commission's (AEC) guidelines, media advice, and internal legal deliberations regarding ballot paper formality and the treatment of \"ticks\" and \"crosses\" for the Referendum, reflecting significant public interest. The released documents, including detailed schedules, internal communications, and extensive legal advice (some historical) from the AGS/AGD, reveal the AEC's internal discussions and public messaging on formal votes. A central theme is the interpretation of the *Referendum Act 1984*, especially \"savings provisions\" like Section 93(8) which allows for non-standard marks if voter intent is clear. The materials also highlight the AEC's active media engagement and established internal procedures, such as formality guidelines and the \"Scrutineers Handbook,\" despite numerous redactions."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 775,
+    "candidates_token_count": 170,
+    "total_token_count": 1617,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\nThe FOI request primarily sought information concerning the Australian Electoral Commission's (AEC) guidelines, media advice, and internal legal deliberations regarding the formality of ballot papers and voting instructions for the Referendum, specifically focusing on how marks such as \"ticks\" and \"crosses\" would be treated.\n\nThe released documents consist of:\n*   Two comprehensive schedules detailing 81 and 20 documents, respectively, outlining their descriptions, decisions on access (release in full, in part, or exempt), and reasons for redactions/exemptions (e.g., personal privacy, legal professional privilege, certain operations of the agency, out of scope).\n*   A substantial volume of internal AEC communications, including emails, draft media advice, formal statements, and internal reports.\n*   Numerous legal advice documents from the Australian Government Solicitor (AGS) and Attorney-General's Department (AGD), some dating back to 1983.\n*   Documents related to ballot paper design, approval workflows, and internal training materials (e.g., Scrutineers Handbook, eLearning transcripts).\n\nThe main content from the FOI request documents that relates to the request reveals:\n*   **Ballot Paper Formality and \"Ticks/Crosses\":** A central theme is the AEC's internal discussions and public communications regarding what constitutes a formal vote, particularly concerning the acceptance of \"ticks\" or \"crosses\" on ballot papers. This indicates significant public and media interest in this specific aspect of voting instructions.\n*   **Legal Advice:** Extensive legal advice was sought and received by the AEC (including historical advice from 1983, 1984, 1988, 1999, 2007) concerning the interpretation of the *Referendum Act 1984*, specifically its formality requirements and \"savings provisions\" (which aim to save votes where voter intention is clear). This underscores the legal complexity and the AEC's diligence in establishing a robust framework for vote scrutiny.\n*   **Referendum Act Interpretation:** Unredacted sections of the *Referendum Act 1984* (Sections 24 and 93) highlight the statutory requirements for voting (\"Yes\" or \"No\") and the conditions for a ballot paper to be informal (e.g., marks by which a voter can be identified, or more than one vote). Crucially, Section 93(8) is cited, stating that \"effect shall be given to a ballot paper so far as the intention of the voter is clear,\" which is the basis for accepting non-standard marks like ticks or crosses if intent is evident.\n*   **Media Engagement and Public Messaging:** The large number of media advice documents, queries from news organisations (e.g., 7 News, AAP, ABC, Daily Telegraph, Yahoo News, The Australian), and internal drafts demonstrate the AEC's active efforts to manage public messaging and address queries related to voting instructions and ballot paper formality.\n*   **Internal Procedures:** Documents refer to \"Ballot Paper Formality Guidelines\" and the \"Scrutineers Handbook,\" indicating established internal procedures and training for electoral staff to assess ballot papers based on the legal framework.\n\nWhile many specific details within the documents are heavily redacted due to exemptions related to personal privacy, legal professional privilege, and internal agency operations, the titles and descriptions provided in the schedules, combined with the limited unredacted content, clearly illustrate the AEC's focus on defining and communicating formal voting requirements for the Referendum.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

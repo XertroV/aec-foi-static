@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "From a right-leaning perspective, the Australian Electoral Commission's (AEC) highly prescriptive regulation of \"Yes23\" campaign communications, down to specific digital ad formatting and URL requirements, exemplifies a significant overreach of government power. This excessive bureaucratic control deviates sharply from principles of limited government and individual liberty, risking the stifling of spontaneous political expression and imposing unnecessary hurdles on public debate. Furthermore, the extensive back-and-forth over minute technicalities reveals a concerning lack of economic efficiency, wasting campaign funds and taxpayer resources on compliance rather than substantive public discourse. This level of regulatory creep signals an expanding regulatory state that imposes undue burdens and increased compliance costs, potentially discouraging broader participation, without a clear, proportional increase in public benefit."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 424,
+    "candidates_token_count": 148,
+    "total_token_count": 939,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a right-leaning perspective, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThese FOI documents highlight the Australian Electoral Commission's (AEC) highly prescriptive and detailed regulation of referendum communications, specifically concerning the \"Yes23\" campaign's authorisation requirements. From a right-leaning analytical perspective, this reveals several points of alignment and deviation from conservative principles.\n\nThe AEC's meticulous enforcement of authorisation rules, down to requiring specific formatting for digital advertisements and URLs (e.g., mandating 'www.' and underlining for website addresses), can be seen as a deviation from the principle of **limited government** and **individual liberty**. While transparency in political advertising is a valuable objective, the extent of bureaucratic control over the precise manner in which political speech is communicated appears overly burdensome. This level of governmental oversight risks stifling spontaneous expression and imposing unnecessary hurdles on organizations engaging in public debate.\n\nFurthermore, the documents illustrate a concerning lack of **economic efficiency**. The extensive back-and-forth correspondence and legal consultations between the Yes23 campaign and the AEC over minute technicalities, such as whether \"yes23.com.au\" is a \"sufficiently clear\" URL, represent a significant drain on resources. Campaign funds and taxpayer-funded bureaucratic time are consumed by navigating intricate regulatory frameworks rather than being directed towards substantive public discourse or more productive uses. This bureaucratic overhead increases compliance costs for campaigns, potentially discouraging broader participation in the political process, especially for smaller or less well-resourced groups.\n\nWhile ensuring accountability in political messaging aligns with a desire for an informed electorate, the method revealed in these documents suggests an expanding regulatory state. The government's deep involvement in dictating the precise presentation of information, rather than merely setting broad disclosure principles, indicates a move away from the ideal of **limited government** and could be viewed as an example of regulatory creep, imposing unnecessary burdens without a clear, proportional increase in public benefit.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

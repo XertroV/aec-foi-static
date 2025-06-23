@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This FOI request concerned the legal costs and expenditure related to the case \"Australian Electoral Commission v Craig Kelly\" (NSD375/2022). The 79 released documents, spanning over 100 heavily redacted pages, primarily detail the financial management of the proceedings, focusing on Australian Government Solicitor (AGS) fee estimates and disbursements. Initial expenditure approvals were for $20,000, with a significant AGS estimate of $174,840.05 provided in March 2023, which was subsequently increased to a total estimated expenditure of $254,444.73 by July 2023. The documents include detailed disbursement schedules covering items like transcript costs, travel, and barristers' fees (e.g., Christopher Tran), along with itemised AGS bills and correspondence discussing fee approvals and case updates. Most documents were released in part due to exemptions including legal professional privilege, personal information, and deliberative processes."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 621,
+    "candidates_token_count": 206,
+    "total_token_count": 1336,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\nThis FOI request sought information regarding the legal costs and expenditure related to the case \"Australian Electoral Commission (AEC) v Craig Kelly\" (also referenced as \"AEC & Anor v Craig Kelly\" and case number \"NSD375/2022\").\n\nThe released documents comprise 79 items spanning four tranches, totaling over 100 pages of content, although many pages are heavily redacted.\n\nThe main content of the documents focuses on the financial management of the legal proceedings, specifically:\n\n*   **Legal Costs and Estimates:** The documents primarily detail fee estimates and actual disbursements from the Australian Government Solicitor (AGS) to the AEC.\n    *   Initial approvals for expenditure of $20,000 for AGS fees and counsel fees were made in May and June 2022.\n    *   A significant fee estimate of $174,840.05 (inclusive of fees and disbursements) was provided by AGS in March 2023 to cover work up to and including the hearing.\n    *   Subsequent requests for estimate increases were approved: $59,604.68 in June 2023, bringing the total estimate to $234,444.73, and a further $20,000 increase in July 2023, raising the total estimated expenditure to $254,444.73.\n*   **Disbursement Schedules:** Detailed lists of expenditures by AGS for the AEC, including:\n    *   Transcript costs (e.g., from Auscript).\n    *   Travel expenses (interstate and local).\n    *   Barristers' fees (e.g., Christopher Tran).\n    *   Court/Tribunal fees.\n    *   Various disbursements ranging from approximately $2,800 to over $25,000 for specific periods.\n*   **Memorandum of Fees:** Itemised bills from AGS showing professional fees charged for specific dates and tasks, with amounts ranging from hundreds to over ten thousand dollars for various periods.\n*   **Correspondence:** Emails between AEC and AGS staff regarding:\n    *   Requests for, and approvals of, fee estimates and expenditure increases.\n    *   Discussions on staffing rates (e.g., counsel rates).\n    *   Updates on the legal proceeding, such as the re-listing of the hearing dates.\n\nMost documents were released in part, with exemptions applied under sections 22 (personal information), 42 (legal professional privilege), 47E (deliberative processes), 47F (personal privacy), and 47G(1) (confidentiality). Two documents were exempt in full.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

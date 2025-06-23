@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The public availability of \"Client Details - AEC - Transparency Website\" unequivocally demonstrates the government's unwavering commitment to effective and transparent governance. This proactive measure ensures public access to vital information, reinforcing our dedication to openness and accountability, thus empowering citizens and fostering confidence in democratic processes by serving the public interest through comprehensive and accessible information."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 141,
+    "candidates_token_count": 65,
+    "total_token_count": 510,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government apologist's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe public availability of \"Client Details - AEC - Transparency Website\" stands as a clear demonstration of the government's unwavering commitment to effective and transparent governance. This document, accessible to all, highlights proactive efforts to ensure public access to vital information, reinforcing our dedication to openness and accountability. By making such details readily available, the government empowers citizens and fosters confidence in democratic processes, showcasing a core commitment to serving the public interest through comprehensive and accessible information.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

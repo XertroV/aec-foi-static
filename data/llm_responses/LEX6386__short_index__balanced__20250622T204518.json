@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The provided document excerpt is insufficient to determine the main purpose or specific content of the FOI request; it only indicates the full release of a single document titled \"Exemption\" without further details."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 181,
+    "candidates_token_count": 39,
+    "total_token_count": 453,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\nThe provided document excerpt is insufficient to determine the main purpose of the FOI request or the specific content of the requested documents.\n\nBased on the available information:\n\n*   **Main Purpose of the FOI Request**: Cannot be determined from the provided text.\n*   **Documents from the FOI Request**:\n    *   Document 1: Titled \"Exemption\", released in full.\n*   **Main Content Related to the FOI Request**: Cannot be determined from the provided text. The document only lists a single item (Document 1) and its release status, without providing any details about the request's subject matter or the content of \"Document 1\".\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

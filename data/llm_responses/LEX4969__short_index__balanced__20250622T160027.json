@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "An FOI request sought information regarding the Australian Electoral Commission's (AEC) policy on assessing vote formality for the upcoming referendum, specifically addressing perceived inconsistencies. Released documents reveal a letter from Peter Dutton and Michaelia Cash expressing \"serious concerns\" that the AEC's approach is \"fundamentally lopsided\": a tick counts as a formal 'yes' vote, but a cross is deemed ambiguous and informal, which they argue artificially skews results towards the 'yes' case. The letter demands consistency, stating that if a tick counts for 'yes', then a cross should similarly count for 'no' to ensure fairness and impartiality. It also requests the release of the legal advice from the Attorney-General's Department that the AEC has reportedly relied upon, urging the Commission to reconsider its policy to uphold the integrity of the referendum process."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 427,
+    "candidates_token_count": 170,
+    "total_token_count": 953,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\nThe provided documents stem from an FOI request, the primary purpose of which appears to be to obtain information regarding the Australian Electoral Commission's (AEC) policy on assessing the formality of votes in the upcoming referendum, particularly concerning perceived inconsistencies.\n\n**Documents from the FOI Request:**\nThe released documents include:\n*   An FOI decision log indicating the release in full of two documents: \"Letter to Electoral Commissioner\" and \"Letter to Cash/Dutton.\"\n*   A two-page letter dated 24 August 2023, from The Hon Peter Dutton MP (Leader of the Opposition) and Senator Michaelia Cash to Mr Tom Rogers, the Electoral Commissioner.\n\n**Main Content from the FOI Request Documents:**\nThe central content is the letter from Dutton and Cash, which expresses \"serious concerns\" regarding the AEC's approach to assessing vote formality for the upcoming referendum. Key points include:\n*   **Perceived Imbalance:** The letter highlights that while a \"tick\" is likely treated as a formal \"yes\" vote by the AEC, a \"cross\" is considered ambiguous and thus informal. This is described as \"fundamentally lopsided\" and potentially distorting the national vote by artificially skewing results towards the 'yes' case.\n*   **Call for Consistency:** Dutton and Cash argue that if a tick counts for 'yes,' then a cross should similarly count for 'no' to ensure fairness and impartiality in the referendum.\n*   **Request for Legal Advice:** The letter demands that the AEC release the legal advice from the Attorney-General's Department, which the AEC has reportedly relied upon for its policy, asserting that any legal professional privilege has been waived through public statements.\n*   **Call to Reconsider:** The letter urges the AEC to reconsider its current approach to uphold the integrity and fairness of the referendum process.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

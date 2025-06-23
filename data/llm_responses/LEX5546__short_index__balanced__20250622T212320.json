@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The FOI request sought documents regarding the Australian Electoral Commission's (AEC) assessment and communication of the 2022 Federal Election's integrity and security, particularly concerning advice from the Electoral Integrity Assurance Taskforce (EIAT). Released documents include AEC media releases and their drafts, extensive internal emails discussing and clearing these statements, EIAT Board meeting records (agendas, minutes, talking points), and formal EIAT advice to the Electoral Commissioner. These materials illustrate the AEC's process of assuring public confidence in election integrity, highlight EIAT's central role in informing public messaging, and detail internal review and clearance procedures for public statements. Notably, some withheld documents point to inter-agency input, including from intelligence agencies, and exemptions like \"damage to the security of the Commonwealth\" (Section 33(a)(i)) were applied to certain email chains, indicating sensitive discussions related to election security."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 748,
+    "candidates_token_count": 185,
+    "total_token_count": 1195,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\n### Summary of FOI Request Documents: 2022 Federal Election Integrity\n\n**Main Purpose of the FOI Request:**\nThe FOI request sought information and documents pertaining to the Australian Electoral Commission's (AEC) assessment, internal discussions, and public communication regarding the integrity and security of the 2022 Federal Election, particularly in relation to the advice provided by the Electoral Integrity Assurance Taskforce (EIAT).\n\n**Documents from the FOI Request:**\nThe released documents consist of a range of internal and public-facing materials, primarily focusing on the development and release of AEC statements about the 2022 Federal Election. These include:\n*   Official AEC Media Releases, such as \"Taskforce Advice Provides Assurance on 2022 Federal Election\" and \"2022 federal election free from interference.\"\n*   Numerous internal emails (e.g., to Board, Taskforce, media teams) discussing, drafting, reviewing, and seeking clearance for these media releases and related statements.\n*   Drafts of AEC and Electoral Commissioner (EC) media releases and statements concerning the EIAT Board's findings and advice.\n*   EIAT Board meeting agendas, minutes, and talking points from various dates (e.g., May, June 2022).\n*   Documents outlining the EIAT Board's draft statements and report outlines.\n*   A formal minute from the EIAT Board Co-Chair to the Electoral Commissioner providing advice on the 2022 Federal Election.\n*   Whole of Government (WoG) talking points related to EIAT.\n\n**Main Content Relating to the FOI Request:**\nThe documents provide insight into the process through which the AEC assessed and publicly communicated the integrity of the 2022 Federal Election:\n*   **Assurance of Election Integrity:** A central theme is the AEC's intent to assure the public that the 2022 Federal Election was conducted without interference. This is evident through the consistent focus on media releases with titles such as \"Taskforce Advice Provides Assurance\" and \"2022 federal election free from interference.\"\n*   **EIAT's Role:** The Electoral Integrity Assurance Taskforce (EIAT) is a key player, with numerous documents detailing its Board's activities, including meetings, agendas, minutes, and the development of its advice and statements that informed the AEC's public messaging.\n*   **Internal Review and Clearance:** Extensive email correspondence illustrates the internal processes of drafting, reviewing, and obtaining clearance for public statements, involving various levels of AEC staff and the Electoral Commissioner.\n*   **Inter-agency Input:** One document, an email concerning \"NTAC feedback on EIAT Board's draft statement and final report,\" was refused access as an \"Intelligence agency document,\" implying that intelligence agencies provided input or feedback relevant to the EIAT's work and the broader assessment of election integrity.\n*   **Exemptions:** Common exemptions applied include \"Section 47F – personal information\" (e.g., for names and contact details) and \"Section 47C – Deliberative matter\" (for internal policy discussions). Notably, \"Section 33(a)(i) – disclosure of information would be reasonably expected to cause damage to the security of the Commonwealth\" was cited for some email chains, indicating that certain discussions touched upon sensitive aspects of election security.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

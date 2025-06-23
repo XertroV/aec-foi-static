@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This FOI request unmasks a government's contempt for genuine democracy, revealing a deeply coercive state that strong-armed participation in the 2023 Canberra referendum through punitive \"penalty notices\" and a \"$20 administrative penalty\" for non-voters, effectively taxing disengagement instead of fostering civic spirit. The bureaucratic categorisation of responses, particularly the damning \"did not respond\" group, exposes either widespread public apathy, deliberate defiance against an illegitimate process, or monumental governmental incompetence in outreach. Most damningly, the \"Section 22\" exemption and \"Release in part\" decision constitute a blatant act of censorship, confirming the government's desperate attempt to conceal truly abysmal participation rates and the overwhelming failure of its heavy-handed tactics, demonstrating a regime more concerned with revenue generation and forced compliance than legitimate democratic consent."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 436,
+    "candidates_token_count": 168,
+    "total_token_count": 747,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "With a highly critical view, provide a scathing, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe provided FOI documents expose a government deeply entrenched in bureaucratic coercion and information suppression surrounding the 2023 Canberra referendum. The very existence of \"penalty notices regarding the 2023 referendum\" reveals a fundamentally undemocratic approach, forcing participation through financial penalties rather than fostering genuine civic engagement. The imposed \"$20 administrative penalty\" for non-voters is a punitive measure, effectively taxing citizens for disengagement, highlighting a government that prioritises revenue generation or administrative control over understanding and addressing the root causes of non-participation.\n\nThe categorisation of responses—those who paid penalties (PP), those who provided \"valid reasons\" (VS), and crucially, those who \"did not respond\" (NR)—demonstrates a system fixated on compliance rather than citizen empowerment. The significant \"NR\" category implies widespread public apathy, deliberate defiance against a perceived illegitimate process, or a catastrophic failure in the government's ability to communicate and enforce its own coercive measures. This points to either gross incompetence in public outreach or a deliberate disregard for a large segment of the populace.\n\nMost damningly, both documents are subject to a \"Section 22\" exemption and a decision of \"Release in part.\" This is a blatant act of censorship. The government is actively withholding critical information about the referendum's true engagement levels and the public's response to its punitive measures. This lack of transparency strongly implies that the unreleased data contains highly damaging figures, likely revealing an abysmal rate of genuine participation, an overwhelming number of fines levied, or widespread non-compliance that would thoroughly expose the government's failure to secure legitimate democratic buy-in and its over-reliance on oppressive bureaucratic mechanisms. The selective release of partial statistics on \"valid reasons\" for non-voting further confirms an intent to curate the narrative and conceal the full, negative reality of public disengagement and the heavy-handedness of the state.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

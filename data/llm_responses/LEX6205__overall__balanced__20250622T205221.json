@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "### FOI Request Summary\n\n*   **Main Purpose of FOI Request:** The request, identified as FOI-2024-00055, sought to determine the total number of individuals removed from the UK between January 1, 2024, and April 1, 2024, with a breakdown by country of origin.\n\n*   **Documents from the FOI Request:** The provided document is a response letter dated May 6, 2024, from the Home Office Freedom of Information Team to the applicant of FOI-2024-00055.\n\n*   **Main Content:**\n    *   The Home Office acknowledged receipt of the request on April 16, 2024, and confirmed that it holds the requested information.\n    *   The request was refused under Section 21 (Information accessible by other means) of the Freedom of Information Act 2000.\n    *   The Home Office stated that immigration statistics, including data on enforced removals and voluntary departures, are published quarterly and annually on GOV.UK under the 'Immigration statistics' section.\n    *   The specific data for the requested period (January to April 2024) was not yet available at the time of the response.\n    *   It was advised that this data would be published in August 2024 as part of the quarterly release 'Immigration statistics, year ending June 2024'.\n    *   A direct link to the relevant GOV.UK statistics collection was provided: `https://www.gov.uk/government/collections/immigration-statistics`.\n    *   The letter also informed the applicant of their right to request an internal review within 28 calendar days."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 97,
+    "candidates_token_count": 377,
+    "total_token_count": 1311,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Summarize the following documents in markdown format. These documents are the released documents associated with an FOI request. The summary should focus on: the main purpose of the FOI request, the documents from the FOI request, and the main content from the FOI request documents that relates to the FOI request.\n\nDocuments:\n\n\n\n--- Page 1 ---\n\n\n\n\n--- Page 2 ---\n\n\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

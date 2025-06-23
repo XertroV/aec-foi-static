@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This document is a list of redaction codes applied to materials released under the Freedom of Information Act 1982. It specifies various categories of information that have been withheld from disclosure, including personal information (e.g., name, date of birth, address, opinion), business information (e.g., bank details, internal operations), legal professional communication, deliberative material, irrelevant material, electoral roll data, and information related to tests, personnel management, efficient AEC operations, law enforcement methods, trade secrets, and Commonwealth financial/property interests.\n\n**Relevance to FOI Request LS7888:**\n\nWhile this document does not contain substantive information about the AEC's new Indigenous Electoral Participation Program (IEPP) methodology, its relevance lies in providing context for the entire FOI release. It explains the types of information that have been withheld or redacted from other documents (emails, internal papers) provided in response to FOI request LS7888. This list indicates that the released documents may have portions blacked out due to privacy concerns, protection of internal deliberations, business confidentiality, or other exemptions outlined in the FOI Act, thereby explaining the limitations or gaps in the information received by the requester regarding the IEPP's design, testing, implementation, indigenous involvement, or detailed costs/staffing."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 748,
+    "candidates_token_count": 268,
+    "total_token_count": 1208,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. FYI the overview of the FOI request is: FOI request LS7888 sought documents (2018-2019) on the Australian Electoral Commission's (AEC) new methodology for its Indigenous Electoral Participation Program (IEPP), specifically its design, testing, and implementation, including catalysts, tracking, outcomes, Indigenous involvement, and cost/staff. The released documents, primarily emails and internal papers, reveal that the core of the new methodology is the direct matching of electoral roll data with Centrelink Indigeneity data, a more robust approach initiated internally to improve accuracy, replacing less reliable prior regression models. This method helped identify over 107,000 unenrolled Indigenous individuals, contributing to enrolment stimulation events (e.g., 2,646 new enrolments). The documents confirm estimated national Indigenous enrolment rates of 76.4% (June 2018) and 76.6% (June 2019), demonstrating a significant upward trend from previous estimates, though they provide limited information on Indigenous involvement in the design process or the final cost and exact staffing for the project.\n\nDocument Text:\n\nReleased under the Freedom of Information Act 1982\fReleased under the Freedom of Information Act 1982\fReleased under the Freedom of Information Act 1982\fReleased under the Freedom of Information Act 1982\fREDACTION CODES \n\nPersonal Information (name) redacted. \n\nPersonal Information (date of birth) redacted. \n\nPersonal Information (photograph) redacted \n\nPersonal Information (facsimile of signature) redacted. \n\nPersonal Information (facsimile of manuscript initialling) redacted. \n\nPersonal Information (Individual’s address) redacted. \n\nPersonal Information (individual’s telephone number) redacted. \n\nPersonal Information (individual’s opinion) redacted. \n\nPersonal Information (opinion about individual) redacted. \n\nPersonal Information (employment history) redacted. \n\nPersonal Information (qualifications) redacted. \n\nPersonal Information (health) redacted. \n\nPersonal Information (identifying individual) redacted. \n\nBusiness information (Bank Account details) redacted. \n\nBusiness information (Billing Account details) redacted. \n\nBusiness information (internal operations) redacted. \n\nLegal Professional Communication redacted. \n\nDeliberative material redacted. \n\nIrrelevant material redacted. \n\nElectoral Roll material redacted. \n\nTests, examinations or audits material redacted. \n\nManagement or assessment of personnel material redacted. \n\nProper and efficient conduct of the operations of AEC material redacted. \n\nLawful methods or procedures for preventing, detecting, investigating, or \ndealing with matters arising out of, breaches or evasions of the law. \n\nTrade Secrets. \n\nCommercial valuable information. \n\nFinancial interests of the Commonwealth. \n\nProperty interests of the Commonwealth. \n\n1 \n\n2 \n\n3 \n\n4 \n\n5 \n\n6 \n\n7 \n\n8 \n\n9 \n\n10 \n\n11 \n\n12 \n\n13 \n\n14 \n\n15 \n\n16 \n\n17 \n\n18 \n\n19 \n\n20 \n\n21 \n\n22 \n\n23 \n\n24 \n\n25 \n\n26 \n\n27 \n\n28 \n\n\f\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

@@ -1,0 +1,333 @@
+
+
+--- Page 1 ---
+
+From: Andrew Johnson  
+Sent: Thursday, 30 August 2018 10:18 AM 
+To: Emily Foat <emilyfoat@twitter.com>; Kara Hinesley <khinesley@twitter.com> 
+Cc: Tim Courtney <tim.courtney@aec.gov.au>; Evan Ekin-Smyth <evan.ekin-smyth@aec.gov.au>; 
+Carla Ward <Carla.Ward@aec.gov.au>; Paul Pirani <paul.pirani@aec.gov.au> 
+Subject: AEC follow up - scenarios regarding compliance with the Commonwealth Electoral Act 
+[SEC=UNCLASSIFIED] 
+
+Good Morning Emily and Kara 
+
+It was good to meet you in Sydney last week.  At the meeting I said I would provide some 
+scenarios on how we can manage electoral communications on Twitter that do not comply 
+with the authorisation requirements in the Commonwealth Electoral Act 1918 (Electoral 
+Act).  The closer the electoral communication is to a Federal election the more urgent it will 
+be to either obtain prompt compliance with the Electoral Act or to block or remove the 
+non-compliant communication.  To this end the Australian Electoral Commission (AEC) is 
+keen to agree on the process with Twitter for escalating and resolving any such matters.   
+
+I have set out below three scenarios.  The first two scenarios are the most likely occur, the 
+third scenario will only arise if the AEC is concerned that a communication may breach more 
+serious electoral offences in Part XXI of the Electoral Act.  For each scenario I have outlined 
+the actions the AEC will take, when we will contact you and the assistance we will require 
+from Twitter.  For completeness I have included a summary of the authorisation 
+requirements in the Electoral Act.   
+
+Given the increasing use of social media by political participants, we are interested in your 
+views on the processes suggested below for escalating and resolving any Electoral Act 
+compliance issues that may arise with electoral communications on social media. 
+
+Kind regards 
+
+Andrew Johnson | Principal Government Lawyer 
+Electoral Authorisation Section | Legal & Procurement Branch 
+Australian Electoral Commission 
+T: (02) 6271 4759 | M: 
+
+7LS7344 Released Document No 4Released under the Freedom of Information Act 1982
+
+
+--- Page 2 ---
+
+Authorisation of electoral communications on 
+social media scenarios 
+
+1.  Paid electoral advertisement on Twitter without proper authorisation 
+
+Issue:  Paid electoral advertisements require an authorisation to allow voters to know who is 
+
+communicating the advertisement. 
+
+Actions: 
+
+Event 
+Unauthorised electoral ad on 
+Twitter  
+
+Entity 
+AEC 
+
+Inadequate response from 
+person or entity responsible 
+for the electoral ad 
+AEC notifies Twitter of the 
+unauthorised electoral ad 
+
+AEC 
+
+Twitter 
+
+Action 
+Contact or attempt to contact the person or entity 
+responsible for the electoral ad to advise of the legal 
+requirements in the Electoral Act and ask them to 
+rectify or remove the ad. 
+Notify Twitter of an unauthorised electoral ad on 
+social media site. 
+
+Remove or block the electoral ad, or contact the 
+person or entity responsible for the ad and advise 
+them to add an authorisation or have the ad 
+removed or blocked. 
+
+2.  Anonymous communication on Twitter containing electoral matter 
+
+Issue:  AEC unable to determine whether an anonymous communication is electoral matter that 
+
+requires an authorisation under the Electoral Act. 
+
+Actions: 
+
+Event 
+Anonymous communication 
+containing electoral matter on 
+Twitter 
+
+Entity 
+AEC 
+
+Inadequate response from 
+person or entity responsible for 
+the anonymous electoral 
+communication 
+AEC notifies Twitter of the 
+electoral communication and the 
+need to settle whether the 
+responsible person or entity is a 
+disclosure entity 
+Confirm the person or entity 
+responsible for the electoral 
+communication is: * 
+  not a disclosure entity  
+
+AEC 
+
+Twitter 
+
+Twitter 
+
+Action 
+Contact or attempt to contact the person or 
+entity responsible for the electoral 
+communication to ascertain whether they are a 
+disclosure entity and advise of the legal 
+requirements for disclosure entities to authorise 
+electoral communications. 
+Notify Twitter of an anonymous communication 
+containing electoral matter and the need to 
+ascertain whether the responsible person or 
+entity is a disclosure entity. 
+Contact the person or entity responsible for the 
+electoral communication to advise of the 
+authorisation requirements in the Electoral Act.   
+
+  Advise the AEC. No further action. 
+
+LS7344 Released Document No 4Released under the Freedom of Information Act 1982
+
+
+--- Page 3 ---
+
+  a disclosure entity  
+
+  Advise the AEC. Remove or block the 
+
+communication if the responsible person 
+or entity does not take action to add an 
+authorisation in compliance with the 
+Electoral Act. 
+
+*   If Twitter is able to confirm whether a person or entity is a disclosure entity, this will 
+avoid the need to share personal or commercial information with the AEC.  AEC can 
+provide advice on the categories of a persons or entities that are disclosure entities for 
+the purposes of the Electoral Act.   
+
+3.  Paid electoral advertisement on Twitter that infringes other offences in 
+
+the Electoral Act  
+
+Issue:  In addition to the issues raised above, the AEC may need further details on the person or 
+entity responsible for an electoral communication to consider other civil or criminal action 
+under the Electoral Act.  For example it is an offence under section 329 of the Electoral Act to 
+publish or distribute or cause to be published or distributed any electoral communication that 
+is likely to mislead or deceive an elector in relation to the casting of a vote. 
+
+Actions:  In addition to the actions outlined above: 
+
+Event 
+Incomplete information on the 
+person or entity responsible for 
+an electoral communication on 
+social media 
+Request from the AEC for 
+information 
+
+Entity 
+AEC 
+
+Action 
+Seek information from Twitter about the person 
+or entity responsible for the communication. 
+
+Twitter 
+
+Provide the AEC the requested information. 
+
+In any of the above scenarios, if Twitter is unable to remove or block a communication that does not 
+comply with the Electoral Act or cannot provide information about the person or entity responsible 
+for the communication, then the AEC (or a candidate in an election) may get an injunction under 
+section 383 of the Electoral Act against the person or entity responsible for the communication 
+and/or Twitter. 
+
+Background 
+The Commonwealth Electoral Act 1918 (Electoral Act) is concerned that voters know who is 
+communicating an electoral matter to them (electoral communication).  The Electoral Act does not 
+regulate truth in electoral communications.  Part XXA of the Electoral Act requires electoral 
+communications to have an authorisation to inform voters who is responsible for the 
+communication. 
+
+For a social media communication to be an electoral communication requiring an authorisation 
+under section 321D of the Electoral Act, the communication must: 
+
+ 
+
+contain electoral matter, and 
+
+  be at least one of the following: 
+
+o  a paid electoral advertisement, 
+
+LS7344 Released Document No 4Released under the Freedom of Information Act 1982
+
+
+--- Page 4 ---
+
+o  a matter communicated by, on behalf of, a disclosure entity. 
+
+‘Electoral matter’ is defined in section 4(1) of the Electoral Act as ‘matter which is intended or likely 
+to affect voting in an election’. For the purpose of the authorisation requirements in Part XXA of the 
+Electoral Act, paragraph 4(9)(b) clarifies that there must be a sufficient connection between the 
+subject matters of federal elections:  
+
+(9)   Without limiting the definition of electoral matter in subsection (1), matter is taken to be 
+
+intended or likely to affect voting in an election if: 
+
+(b)    … in Part XXA—it contains an express or implicit reference to: 
+
+(i)    the election; or 
+
+(ii)   a political party, a branch or division of a political party or a candidate or group 
+
+of candidates in the election; or 
+
+(iii)  an issue submitted to, or otherwise before, the electors in connection with the 
+
+election. 
+
+‘Disclosure entity’ is defined in section 321B of the Electoral Act to be a political party, associated 
+entity, member of the House of Representatives, Senator, a candidate or group of candidates in a 
+federal election or other persons or entities who engage in the electoral process and are required by 
+the Electoral Act to provide a return. 
+
+From: Evan Ekin-Smyth  
+Sent: Thursday, 23 August 2018 10:54 AM 
+To: Emily Foat <emilyfoat@twitter.com>; Kara Hinesley <khinesley@twitter.com> 
+Cc: Tim Courtney <Tim.Courtney@aec.gov.au>; Andrew Johnson <Andrew.Johnson@aec.gov.au> 
+Subject: RE: Twitter Follow-up [DLM=For-Official-Use-Only] 
+
+Thanks Kara and Emily – it was certainly good to meet you both and talk through election 
+scenarios.  
+
+Kara, I imagine Andrew will send through a specific scenario just to bed in what we were 
+talking about. Emily, someone from our communication section will be in touch (either myself 
+or a colleague). 
+
+Cheers 
+Evan 
+
+Evan Ekin-Smyth | Assistant Director  
+Media - Australian Electoral Commission 
+T: (02) 6271 4419 X: 21085 M: 
+www.aec.gov.au/media   
+
+7LS7344 Released Document No 4Released under the Freedom of Information Act 1982
+
+
+--- Page 5 ---
+
+From: Emily Foat [mailto:emilyfoat@twitter.com]  
+Sent: Wednesday, 22 August 2018 2:54 PM 
+To: Kara Hinesley <khinesley@twitter.com> 
+Cc: Evan Ekin-Smyth <Evan.Ekin-Smyth@aec.gov.au>; Tim Courtney <Tim.Courtney@aec.gov.au>; 
+Andrew Johnson <Andrew.Johnson@aec.gov.au> 
+Subject: Re: Twitter Follow-up 
+
+Hi Tim, Evan, and Andrew, 
+
+Thanks for the introduction Kara, great meeting you all yesterday,  
+As mentioned in our meeting I'm happy to fly to Canberra to facilitate a Twitter media 
+workshop to update you on Twitter's media solutions and showcase the best way to utilise the 
+platform from a campaign perspective.  
+
+Please let me know if this would be helpful and we can start looking at some available dates?  
+
+Many Thanks, 
+Emily  
+
+Emily Foat 
+Twitter Australia 
+@emilyfoat 
+e: emilyfoat@twitter.com 
+m: 
+
+On Wed, Aug 22, 2018 at 10:06 AM, Kara Hinesley <khinesley@twitter.com> wrote: 
+Hi Tim, Evan, and Andrew, 
+
+Thank you again for coming by our offices yesterday to meet with myself and Emily.  
+
+As discussed, we're looking forward to working with the AEC and appreciate your efforts in 
+helping us ensure that we're developing detailed and efficient ways to handle any issues that 
+might arise during future campaigns and elections.  
+
+As promised, I also wanted to send through contact details for myself and Emily: 
+
+  Kara Hinesley: 
+  Emily Foat: 
+
+; khinesley@twitter.com; @karahinesley   
+
+; emilyfoat@twitter.com; @EmilyFoat    
+
+777LS7344 Released Document No 4Released under the Freedom of Information Act 1982
+
+
+--- Page 6 ---
+
+Please don't hesitate to let us know if you have any questions, and we look forward to being 
+in touch in the future. 
+
+Warm regards, 
+
+Kara 
+--  
+
+ @karahinesley | Head of Public Policy, Government, and Philanthropy, Australia & 
+
+NZ | Twitter Inc. 
+
+LS7344 Released Document No 4Released under the Freedom of Information Act 1982

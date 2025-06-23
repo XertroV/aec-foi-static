@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "From a government skeptic's viewpoint, these FOI documents expose the Australian Electoral Commission's profound reluctance towards genuine transparency, delivering a bureaucratic shell game that prioritizes institutional control over public access. Despite a clear request for federal election candidate nomination forms, the AEC provided only a schedule of titles and extensive, generic redaction codes, effectively withholding the actual documents entirely. This \"release\" is a declaration of secrecy cloaked in officialese, with even a \"third party review\" for a standard nomination form raising significant red flags about deliberate delays or an attempt to shield potentially problematic information. The sheer breadth of the redaction codes further suggests a comprehensive toolkit for blanket non-disclosure rather than protecting truly sensitive data, rendering the FOI process a waste of taxpayer money and a classic instance of government inefficiency and subtle power overreach, where the apparatus of information release is used to effectively withhold it."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 567,
+    "candidates_token_count": 178,
+    "total_token_count": 1752,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government skeptic's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThese FOI documents expose a glaring lack of genuine transparency and a highly questionable approach to public information disclosure by the Australian Electoral Commission (AEC). Despite a clear request for the five formally declared Federal Election 2022 candidate nominations for the division of Cook, the AEC has delivered not the documents themselves, but a bureaucratic shell game.\n\nThe core finding is the complete *absence* of the requested nomination forms. Instead, the \"release\" consists solely of a schedule listing the titles of the documents, immediately followed by an extensive list of generic redaction codes. This is not an information release; it's a declaration of withheld information, cloaked in officialese. This practice suggests a default stance of secrecy, forcing citizens to jump through FOI hoops only to be met with a wall of procedural justifications for non-disclosure. This process itself is a waste of taxpayer money and an affront to the principles of open governance.\n\nA particularly troubling detail is the note that \"Document No. 5 is subject to the exhaustion of review rights of a third party.\" For a government skeptic, this raises significant red flags. What is so sensitive about a standard candidate nomination form that it requires a drawn-out \"third party review\"? This could indicate a deliberate delaying tactic, an attempt to shield potentially embarrassing or problematic information, or simply an overly cautious and inefficient bureaucratic process designed to frustrate legitimate inquiries. It hints at a lack of confidence in the information or a desire to control its release, rather than upholding public interest.\n\nThe sheer volume and breadth of the redaction codes provided further underline the government's penchant for opacity. From \"Personal Information (name) redacted\" to broad categories like \"Deliberative material redacted,\" \"Proper and efficient conduct of the operations of AEC material redacted,\" and \"Lawful methods or procedures... redacted,\" these codes appear to be a comprehensive toolkit for withholding virtually any detail deemed inconvenient. The fact that *none* of the actual content of the nomination forms has been provided, even with redactions, suggests that these codes are being used not to protect truly sensitive data, but as an excuse for blanket non-disclosure.\n\nIn essence, these FOI documents reveal a system that prioritizes institutional control over public access. The AEC has opted for maximal opacity, transforming a simple request for public records into an exercise in futility, demonstrating a clear reluctance to embrace genuine transparency in electoral processes. This is a classic example of government inefficiency and a subtle form of power overreach, where the apparatus of information release is used to effectively withhold it.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

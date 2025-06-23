@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The provided document excerpt, \"Document 1 Released in full,\" offers no substantive content regarding government actions, policies, or financial details. Therefore, it is impossible to analyze its alignment with or deviation from conservative principles concerning economic efficiency, individual liberty, national security, fiscal responsibility, or limited government. The document provides no information upon which to base an assessment of government impact or adherence to these principles."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 111,
+    "candidates_token_count": 79,
+    "total_token_count": 739,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "As a politically right-leaning analyst, summarize the following FOI documents. Focus on issues related to economic efficiency, individual liberty, national security, fiscal responsibility, and limited government. Highlight how government actions or policies revealed in these documents align with or deviate from conservative principles.\n\nDocuments:\n\n\n\n--- Page 1 ---\n\nDocument \nNo. \n\nDocument Title \n\nDocument 1 \n\nExemption \n\nDecision on Access \n\nReleased in full\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

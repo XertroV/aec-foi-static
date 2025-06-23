@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This FOI request summary addresses concerns regarding the Police Association of South Australia (PASA) Branch President election (E2024/78), primarily focusing on alleged improper lobbying practices by board members and significant issues with ballot paper distribution. Released documents, including internal and external emails and formal complaints to the Australian Electoral Commission (AEC), detail allegations of PASA board members using personal email accounts to lobby voters, which raised questions about potential breaches of s190 of the Fair Work (Registered Organisations) Act. The AEC initially indicated that personal account use might not constitute a breach of organisational resources. Concurrently, numerous members complained about not receiving ballot papers or being excluded from the voter roll, with the AEC consistently advising on replacement procedures, though many issues were raised after the ballot period had closed, making resolution impossible."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 736,
+    "candidates_token_count": 166,
+    "total_token_count": 1562,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\nThis FOI request pertains to the conduct and administration of the Police Association of South Australia (PASA) Branch President election (Election E2024/78), specifically addressing concerns about lobbying practices and issues with ballot paper distribution.\n\n### Documents from the FOI Request\n\nThe released documents consist primarily of internal and external email communications and formal complaints submitted to the Australian Electoral Commission (AEC). These include:\n\n*   Complaints from members regarding non-receipt of ballot papers.\n*   Emails requesting replacement voting packs due to various reasons (e.g., address changes, damaged papers, non-receipt).\n*   AEC's responses to member queries and complaints, detailing procedures for obtaining replacement ballots.\n*   An email chain discussing a query about an alleged breach of election rules (s190 of the Fair Work (Registered Organisations) Act 2009) concerning lobbying by board members.\n*   AEC's internal discussions and drafting of responses to these complaints and queries.\n*   Several documents were released in part due to exemptions (e.g., s47F, s22, s47C), while others (internal email chains and file notes from anonymous callers) were refused in full.\n\n### Main Content from FOI Request Documents\n\nThe core content of the released documents highlights two primary areas of concern:\n\n1.  **Allegations of Improper Lobbying:**\n    *   A complainant raised concerns about PASA board members sending emails from personal (Gmail/Outlook) accounts that appeared to be from PASA, lobbying voters for specific candidates.\n    *   The complainant questioned whether this violated s190 of the Fair Work (Registered Organisations) Act 2009, which prohibits an organisation or branch from using its property or resources to assist one candidate over another.\n    *   The AEC's initial assessment was that if the emails were from personal accounts, it might not constitute a breach of s190, as this section typically applies to the organisation's official resources. However, the AEC did offer to review evidence if the complainant could demonstrate \"union staff campaigned during their work hours.\" The AEC also directed the complainant to the Fair Work Commission website for the organisation's rulebook and suggested seeking independent legal advice.\n\n2.  **Issues with Ballot Paper Distribution and Voter Roll Accuracy:**\n    *   Multiple members lodged complaints stating they did not receive their voting papers for the election.\n    *   Some complaints indicated that members' names were not on the voter list provided by the PFA SA Branch to the AEC, leading to no ballot pack being issued to them.\n    *   Other members cited issues like incorrect addresses or damaged mail.\n    *   The AEC consistently advised members that replacement voting packs could be obtained by calling specific AEC numbers and making a verbal declaration. However, the AEC informed complainants that by the time many issues were raised, the ballot period had closed (July 4, 2024), making it too late to rectify the situation or issue new packs.\n    *   Concerns were raised by members about the legitimacy of the election outcome if a significant number of members were unable to vote due to these issues. The AEC clarified that voters could only vote once and could not change their vote, and did not suggest the election outcome was invalid based on these individual complaints.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

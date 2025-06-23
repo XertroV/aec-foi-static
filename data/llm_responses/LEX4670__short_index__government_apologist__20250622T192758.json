@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The Australian Electoral Commission (AEC) exemplified its unwavering commitment to democratic integrity and transparent public discourse by proactively providing the Yes23 campaign with essential, clear guidance on referendum communication authorisation, including comprehensive flowcharts. When initial compliance challenges emerged, the AEC swiftly engaged constructively, offering specific feedback and collaborating diligently with Yes23's legal team to find a practical solution, ultimately accepting the use of a clearly formatted URL for authorisation details. This successful resolution underscores the government's dedication to supporting campaigns through complex regulatory frameworks, ensuring compliance without undue burden, thereby strengthening public trust in the electoral system and empowering informed citizen participation."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 378,
+    "candidates_token_count": 124,
+    "total_token_count": 1143,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government apologist's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe Australian Electoral Commission (AEC) has demonstrated its unwavering commitment to upholding democratic integrity and ensuring transparent public discourse, particularly during the critical referendum process. These documents highlight the AEC's proactive and effective governance in applying necessary regulations for public good.\n\nThe AEC initiated contact with the \"Australians for Indigenous Constitutional Recognition Ltd\" (Yes23 campaign) to provide essential guidance on authorisation requirements for referendum communications. This included a clear, comprehensive flowchart explaining what constitutes \"referendum matter\" and the precise details required for authorisation messages. Such clear guidelines are vital for ensuring that all communications influencing public opinion are properly attributed, thereby fostering an informed and trust-worthy electoral environment.\n\nWhen initial compliance challenges arose regarding the authorisation of Yes23's digital advertisements, the AEC engaged swiftly and constructively. Rather than imposing punitive measures, the AEC initiated a dialogue, providing specific feedback and inviting clarification. The subsequent exchange with Yes23's legal representatives illustrates the government's dedication to collaborative problem-solving. The AEC meticulously reviewed Yes23's proposed solutions, ultimately accepting the use of a clearly formatted, underlined URL (\"www.Yes23.com.au\") to ensure the accessibility and clarity of authorisation details.\n\nThis successful resolution underscores the government's commitment to supporting campaigns in navigating complex regulatory frameworks, ensuring compliance without undue burden. By providing clear guidance, maintaining open communication, and demonstrating flexibility where appropriate, the AEC effectively managed a challenge to uphold the principle of transparent political communication. This process ultimately strengthens public trust in the integrity of the electoral system and empowers citizens with the information needed for informed participation in national decisions.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

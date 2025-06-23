@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This FOI request unmasks a government's concerning lack of transparency and arbitrary decision-making regarding Australian citizens' voting rights in New Zealand. The abrupt cessation of in-person voting at the Australian High Commission in Wellington for the 2022 federal election, despite consistent prior use by hundreds, inexplicably forced a massive shift to postal votes while the Auckland Consulate-General continued offering in-person services, highlighting a blatant inconsistency and potential disregard for voter convenience. Crucially, the \"DFAT Minute\" document, which should justify this curtailment of democratic access, is almost entirely redacted under the flimsy pretext of \"irrelevant information\" for its core reasoning pages. This heavy censorship prevents public scrutiny of the decision-making process, strongly suggesting a deliberate effort to shield the government's reasoning from accountability, fueling suspicions of inefficiency, a disregard for fundamental voter access, or an attempt to obscure the true rationale behind this operational shift."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 456,
+    "candidates_token_count": 188,
+    "total_token_count": 1135,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government skeptic's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThese FOI documents reveal a concerning lack of transparency and a questionable decision-making process regarding Australian citizens' voting rights in New Zealand.\n\nThe most striking finding is the complete cessation of in-person voting at the Australian High Commission in Wellington for the 2022 federal election, a service previously utilized by hundreds of voters (469-667 in past elections). This forced a massive shift to postal votes, with 800 postal votes received at the Wellington post in 2022, compared to single digits in previous elections. This change represents a significant inconvenience and potential barrier to participation for Australian citizens residing in Wellington.\n\nIn stark contrast, the Australian Consulate-General in Auckland continued to offer in-person voting, serving 749 voters in 2022, alongside a substantial increase in postal votes. This inconsistency in service delivery within the same country raises questions about fairness and the underlying rationale.\n\nThe critical \"DFAT Minute: Australian federal election – 2022 window – Overseas voting risk analysis and recommendations\" document, which presumably contains the justification for this policy shift, is almost entirely redacted. Pages 12 through 24 are overwhelmingly blacked out, citing exemption s 22(1)(a)(ii) – \"irrelevant information.\" This claim of irrelevance is highly dubious given the document's direct title and its critical role in explaining the decision to remove in-person voting. Such extensive redaction effectively conceals the government's risk assessment, decision-making process, and the specific reasons for curtailing a fundamental democratic service. This lack of transparency prevents public scrutiny of whether the decision was justified, efficient, or if it was based on flawed analysis or an arbitrary desire to reduce services.\n\nThe heavy censorship suggests a deliberate effort to shield the government's reasoning from public accountability, fueling suspicions of inefficiency, a disregard for voter convenience, or an attempt to obscure the true cost/benefit analysis of this operational change.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

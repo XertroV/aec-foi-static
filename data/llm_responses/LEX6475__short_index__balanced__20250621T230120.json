@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The FOI request sought documentation on the Australian Electoral Commission's (AEC) internal action plans for the 2023 Census, specifically focusing on team development, staff wellbeing, strategic planning, and internal communication. The response provided a two-page \"2023 CENSUS ACTION PLAN\" from the AEC's SDFB branch, outlining a framework for internal improvements. Key initiatives include implementing staff secondments by January-June 2023 to foster knowledge and understanding, dedicating time for staff strategic thinking through monthly activities from June 2023, enhancing understanding of agency functions via guest speakers at meetings from June 2023, and improving communication by inviting specific roles (AC and BPO) to section meetings, also ongoing from June 2023. All actions are the responsibility of 'Directors and AC', with progress to be discussed at monthly branch meetings and updated on Census Action Plan posters."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 458,
+    "candidates_token_count": 191,
+    "total_token_count": 828,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\nThe main purpose of the FOI request was likely to obtain documentation detailing the Australian Electoral Commission's (AEC) internal action plans, strategies, and operational activities related to the 2023 Census, specifically focusing on initiatives for team development, staff wellbeing, strategic planning, and internal communication within its branches.\n\nThe documents from the FOI request consist of a single, two-page document titled \"2023 CENSUS ACTION PLAN,\" originating from the AEC's SDFB branch.\n\nThe main content of the \"2023 CENSUS ACTION PLAN\" outlines a framework for internal improvements and operational readiness concerning the 2023 Census, structured around four key areas:\n\n*   **Team building:** Initiatives involve staff working in other sections for short periods (secondments) to improve knowledge, engagement, and understanding of work pressures across the branch. The plan for secondments was to be developed by December 2023, with placements occurring from January to June 2023, aiming for better relationships and resource allocation.\n*   **Wellbeing:** Focuses on staff having dedicated time and space for strategic thinking through monthly activities, ongoing from June 2023. The intended impact is for staff to strategically plan their work in connection with the agency and broader government.\n*   **Strategic thinking:** Aims to enhance understanding of agency functions and connections to the branch's work by inviting guest speakers from relevant stakeholder areas to meetings, focusing on roles and responsibilities. This activity is ongoing from June 2023.\n*   **Communication:** Includes inviting specific roles (AC and BPO) to section meetings, also ongoing from June 2023, to foster a better understanding of agency functions and their connection to the branch's work.\n\nAll listed actions are designated as the responsibility of 'Directors and AC'. The plan also specifies that progress will be discussed at monthly branch meetings and updated on Census Action Plan posters in each section to ensure continued focus and communication.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

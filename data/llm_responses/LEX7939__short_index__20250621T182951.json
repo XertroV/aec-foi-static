@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This FOI request to the Australian Electoral Commission (AEC) sought specific statistical and operational data regarding 'designated electors' under the Commonwealth Electoral Act 1918, covering numbers of electors (including future projections), annual declarations made, and the outcomes of related internal and external review applications. The AEC's single release document, LEX7939, provided direct answers, notably supplying historical elector numbers instead of generating future-dated figures. Key findings include fluctuating designated elector declarations: 37 in 2022/23, 1 in 2023/24, and a significant jump to 211 in 2024/25 to date, all made by an Electoral Commissioner's delegate. Internal reviews were infrequent, with 4 applications in both 2022/23 (all confirmed) and 2024/25 (3 confirmed, 1 set aside), while no applications proceeded to the Administrative Review Tribunal or ceased effect under s 202AH(3) during the specified periods."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 731,
+    "candidates_token_count": 222,
+    "total_token_count": 2245,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a single paragraph summary of the following FOI request summary:\n\nSummary:\n\nThe provided document, titled 'LEX7939 – Designated Electors Data,' is a single release from an FOI request made to the Australian Electoral Commission (AEC).\n\n**Main Purpose of the FOI Request:**\nThe request sought specific statistical and operational data related to 'designated electors' under the Commonwealth Electoral Act 1918. This included:\n*   The number of designated electors (total, by state/territory, by electoral division) as of a future date (April 7, 2025).\n*   The number of designated elector declarations made in financial years 2022/23, 2023/24, and 2024/25 to date, and who made these declarations (Electoral Commissioner or a delegate).\n*   Data on unique applications for internal review of designated elector declarations and their outcomes (confirmed or set aside) within the same financial years.\n*   Information on unique applications for review to the Administrative Review Tribunal (ART) and declarations ceasing effect by virtue of s 202AH(3) of the Act.\n\n**Documents from the FOI Request:**\nThe 'documents' consist of a single FOI release document (LEX7939) which directly presents the original request questions alongside the AEC's responses. For the first part of the request concerning future-dated designated elector numbers, no specific new document was generated, as stated in a decision letter. However, the AEC included a table of historical designated elector numbers extracted from their public website. For all other questions, direct numerical and descriptive answers were provided within the document itself.\n\n**Main Content from the FOI Request Documents:**\n*   **Future Designated Elector Data (as of 7 April 2025):** No specific document response was provided for this future date. Instead, the document includes a table of historical designated elector numbers per federal electoral event from the 2019 federal election onwards, sourced from the AEC website.\n*   **Designated Electors Declared (by financial year):**\n    *   2022/23: 37\n    *   2023/24: 1\n    *   2024/25 (to date): 211\n    All declarations captured for these years were made by a delegate of the Electoral Commissioner.\n*   **Unique Applications for Internal Review of a Designated Elector Declaration:**\n    *   2022/23: 4\n    *   2023/24: 0\n    *   2024/25 (to date): 4\n*   **Outcome of Unique Internal Review Decisions:**\n    *   2022/23: 4 confirmed\n    *   2023/24: N/A (as no applications were made)\n    *   2024/25 (to date): 3 confirmed, 1 set aside\n*   **Unique Applications for Review to the Administrative Review Tribunal (2024/25 to date):** 0\n*   **Declarations Ceasing to Have Effect by s 202AH(3) (2022/23, 2023/24, 2024/25 to date):** 0"
+}

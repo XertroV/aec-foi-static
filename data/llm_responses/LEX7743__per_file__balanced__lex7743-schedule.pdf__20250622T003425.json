@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "### Document Summary\n\nThe document, titled \"Client Details - AEC - Transparency Website,\" confirms that it is publicly available and has no relevant exemptions applicable. The decision on access explicitly states \"Publicly available,\" indicating that the information contained within the document is already in the public domain.\n\n### Relevance to FOI Request\n\nThis document is directly relevant to the FOI request as it is the specific document sought. It confirms that the requested document, \"Client Details - AEC - Transparency Website,\" is not subject to any exemptions and is already publicly available. This directly supports the outcome of the FOI request, which was to grant access because the document was found to be publicly available."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 149,
+    "candidates_token_count": 136,
+    "total_token_count": 612,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. FYI the overview of the FOI request is: The FOI request sought access to the document \"Client Details - AEC - Transparency Website,\" which was found to be publicly available with no relevant exemptions, resulting in the granting of access.\n\nDocument Text:\n\n\n\n--- Page 1 ---\n\nDocument \nNo. \n\nDocument Title \n\nClient Details - AEC - Transparency Website \n\nExemption \n\nDecision on Access \n\nNo relevant exemptions \napplicable – publicly \navailable document  \n\nPublicly available\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

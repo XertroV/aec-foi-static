@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The documents expose a contemptible dual failure: an FOI system in chaotic disarray, brazenly withholding a crucial \"Letter to Cash/Dutton\" despite its explicit listing for full release—a damning indicator of either profound administrative incompetence or cynical information suppression. Far more alarming, the sole released document reveals the Australian Electoral Commission's alleged, profoundly biased referendum vote-counting policy, where a 'tick' is a formal 'yes' but a 'cross' is outrageously deemed 'informal'. This discriminatory practice, absurdly justified by opaque past procedures and withheld legal advice, is credibly accused of deliberately \"artificially skewing the count towards the yes vote,\" thereby shamelessly distorting the national democratic process and demanding immediate, urgent investigation into what appears to be either deliberate partisan manipulation or utter systemic dereliction within a critical independent institution."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 568,
+    "candidates_token_count": 171,
+    "total_token_count": 1501,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "With a highly critical view, provide a scathing, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe provided FOI documents reveal a multi-layered failure demonstrating incompetence, a lack of transparency, and alarming allegations of systemic bias within a critical independent institution.\n\nFirstly, the FOI process itself is a scandalous display of disarray. Despite explicitly listing a \"Letter to Cash/Dutton\" for \"Release in full\" with \"N/A\" for exemptions, this crucial document is conspicuously absent. This constitutes an egregious failure to comply with basic FOI obligations, raising immediate suspicions of either profound administrative incompetence or a deliberate, cynical act of information withholding. The vague titling (\"Letter to Electoral Commissioner\", \"Letter to Cash/Dutton\") further suggests a system designed for obfuscation rather than clarity.\n\nSecondly, the sole provided document—a letter from Opposition Leader Peter Dutton and Shadow Minister Michaelia Cash to the Electoral Commissioner—unveils damning allegations against the Australian Electoral Commission (AEC), an institution ostensibly mandated to ensure fair and impartial elections. The letter exposes an alleged \"fundamentally lopsided\" and discriminatory approach to counting referendum votes. The AEC's policy, as detailed in its Scrutineers Handbook, shockingly deems a 'tick' as a formal 'yes' vote while simultaneously classifying a 'cross' as ambiguous and thus informal.\n\nThis discriminatory practice is not merely an administrative oversight; it is presented as a direct mechanism to \"artificially skew the count towards the yes vote,\" thereby \"distorting the national vote\" and undermining the democratic process itself. The opposition's accusation that this gives the 'yes' case an \"unfair advantage\" strongly implies a deliberate or negligent partisan bias within the AEC.\n\nThe AEC's purported justification—reliance on past practice and undisclosed legal advice from the Attorney-General's Department—is ruthlessly exposed as inadequate and opaque. The opposition correctly asserts that past practice does not equate to legality or fairness, suggesting the AEC is either blindly adhering to flawed procedures or intentionally maintaining a biased system. The refusal to release the legal advice, despite claims of waived privilege, highlights a shocking lack of transparency and fuels suspicions of a cover-up, implying the advice may not withstand public scrutiny or could reveal further systemic issues.\n\nIn summary, these documents paint a picture of an FOI system in chaos and an electoral commission facing grave, credible accusations of subverting democratic fairness through a discriminatory counting policy. This dual failure—information withheld and an independent body accused of partisan manipulation—demands immediate and thorough investigation into what appears to be either profound incompetence or a malicious intent to influence the outcome of a national referendum.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "An FOI request sought documents related to the membership testing of \"VOTEFLUX.ORG | Upgrade Democracy!\". The retrieved documents included a March 24, 2022, minute recommending the party's deregistration and a March 18, 2022, report detailing membership testing outcomes. The minute outlined that following an initial review and the party's submission of a membership list, further testing of 1,650 names confirmed the party failed to meet the statutory requirement of at least 1,500 members. Consequently, the minute recommended the deregistration of \"VOTEFLUX.ORG | Upgrade Democracy!\" under sections 137(6) and 138A of the Commonwealth Electoral Act 1918, which would also invalidate any pending applications from the party."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 608,
+    "candidates_token_count": 172,
+    "total_token_count": 1223,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\n### Summary of FOI Request Documents\n\n**Main Purpose of FOI Request:**\nThe Freedom of Information (FOI) request sought documents related to the membership testing of \"VOTEFLUX.ORG | Upgrade Democracy!\".\n\n**Documents from FOI Request:**\nThe schedule of retrieved documents lists two items:\n*   A \"Minute: For action – Deregistration under s 137(6) of the Commonwealth Electoral Act 1918 (Electoral Act) – VOTEFLUX.ORG | Upgrade Democracy! (the Party)\" dated 24 March 2022.\n*   A document titled \"Membership testing outcomes – VOTEFLUX.ORG | Upgrade Democracy!\" dated 18 March 2022 (the content of this document is not provided, but its outcome is referenced in the Minute).\n\n**Main Content from FOI Request Documents:**\nThe primary document provided, the \"Minute\" dated 24 March 2022, details the process and recommendation for deregistering \"VOTEFLUX.ORG | Upgrade Democracy!\" due to insufficient membership:\n\n*   **Initiation of Review:** On January 13, 2022, the Electoral Commission issued a notice under s 137 of the Electoral Act to the Party's Registered Officer, Mr. Nathan Spataro, indicating consideration of deregistration.\n*   **Party's Response:** The Party responded on February 13, 2022, providing a statement and a supplementary membership list containing 4,680 names.\n*   **Membership Testing:** On March 2, 2022, further membership testing was requested, with instructions to select the top 1,650 names from the provided list for assessment, in accordance with the AEC's testing methodology.\n*   **Outcome of Testing:** An assessment of the Party's membership list, based on the ABS methodology (Australian Bureau of Statistics), concluded that the Party \"failed to demonstrate to have at least 1,500 members,\" which is a statutory requirement for political party registration.\n*   **Recommendation for Deregistration:** Based on these findings, the Minute recommends that the delegate of the Electoral Commission deregister \"VOTEFLUX.ORG | Upgrade Democracy!\" under s 137(6) and s 138A of the Electoral Act, as it does not meet the minimum membership threshold to be an 'eligible political party'.\n*   **Impact on Other Applications:** An application lodged by the Party on February 19, 2022, to change its name, abbreviation, and logo would become invalid if the Party is deregistered.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

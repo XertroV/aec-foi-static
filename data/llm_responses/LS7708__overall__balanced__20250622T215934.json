@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "### FOI Request LS7708 Summary\n\n**Main Purpose of FOI Request:**\nThe Freedom of Information (FOI) request LS7708 sought correspondence between the Australian Electoral Commission (AEC) and major US technology companies (Facebook Inc., Google, and Twitter Inc.) regarding compliance with the Commonwealth Electoral Act 1918 during the 2019 federal elections.\n\n**Documents from the FOI Request:**\nThis specific release (Tranche 6, Document No. 42) comprises a schedule entry identifying the document and three pages of screenshots.\n\n**Main Content Relating to the FOI Request:**\nDocument No. 42, dated May 17, 2019, contains screenshots of \"unauthorised electoral advertising on Facebook.\" These screenshots depict active advertisements from three distinct Facebook pages:\n*   **No Greens Facebook:** Showing ads with messages like \"Preferencing Labour\" and \"Vote Labour,\" some explicitly stating \"Authorised by J. Williams.\"\n*   **Agents in their Community:** Displaying an ad promoting \"Agents in their Community.\"\n*   **Women of Murray:** Featuring an ad about \"Empowering Women in our Community,\" also authorised by \"J. Williams.\"\n\nThese visual records directly relate to the FOI request's focus by illustrating specific instances of electoral advertising on Facebook during the 2019 election period that were identified as \"unauthorised,\" thus providing insight into the types of compliance issues that would be the subject of correspondence between the AEC and Facebook."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 381,
+    "candidates_token_count": 318,
+    "total_token_count": 2103,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Summarize the following documents in markdown format. These documents are the released documents associated with an FOI request. The summary should focus on: the main purpose of the FOI request, the documents from the FOI request, and the main content from the FOI request documents that relates to the FOI request.\n\nDocuments:\n\n\n\n--- Page 1 ---\n\nRequest for: \n\ncorrespondence about compliance with the Commonwealth Electoral Act 1918 between the Australian Election \nCommission and the US technology companies Facebook Inc., Google and Twitter Inc. during the 2019 federal \nelections. \n\nFOI LS7708  \n\nSCHEDULE OF RELEASED DOCUMENT \n\nTranche 6 \n\n42.  Document contains screenshots of unauthorised electoral advertising on Facebook. \n\n17/05/2019 \n\n5:33 PM \n\n1 of 1 \n\nReleased under the Freedom of Information Act 1982LS7708 Released Document No. 42\n\n\n\n--- Page 1 ---\n\nLS7708 Released Document No. 42\n\nNo Greens Facebook - https://www.facebook.com/NoGreens/,  active unauthorised electoral \nads: \n\nAgents in their Community - https://www.facebook.com/AgentsintheirCommunity/, active \nunauthorised electoral ads: \n\nReleased under the Freedom of Information Act 1982\n\n\n--- Page 2 ---\n\nReleased under the Freedom of Information Act 1982\n\n\n--- Page 3 ---\n\nWomen of Murray - https://www.facebook.com/womenofmurray/, active unauthorised electoral ad: \n\nReleased under the Freedom of Information Act 1982\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "An FOI request sought access to the Australian Electoral Commission's (AEC) internal briefing documents prepared for its November 2022 appearances before the Joint Standing Committee on Electoral Matters (JSCEM) and Estimates Committee. The released materials comprise a structured compilation including executive summaries, detailed sections for each hearing, various statistical and operational summaries (e.g., fast facts, infographics), and extensive \"Group briefs\"—often designated as Ministerial hot issue or back pocket briefs—from various AEC branches. These documents collectively provide a comprehensive overview of the AEC's operations, performance, and key issues, primarily in the context of the 2022 federal election and preparedness for a potential referendum. Key content areas covered include parliamentary engagement, financial matters, electoral operations and service delivery (e.g., diverse voting methods, roll management), electoral integrity and security (e.g., misinformation, foreign interference), regulatory functions (e.g., donations, redistributions), workforce and technology, and overall performance statistics."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 603,
+    "candidates_token_count": 204,
+    "total_token_count": 1470,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\n*   **Main Purpose of the FOI Request:** The FOI request sought access to the Australian Electoral Commission (AEC)'s internal briefing documents prepared for parliamentary hearings in November 2022. Specifically, these documents were compiled for appearances before the Joint Standing Committee on Electoral Matters (JSCEM) and Estimates Committee.\n\n*   **Documents from the FOI Request:** The released documents comprise a structured compilation of briefing materials, including:\n    *   An executive summary outlining the content.\n    *   Sections dedicated to the JSCEM Hearing and Estimates Hearing, detailing their programs, members, AEC submissions, Hansard records, and Questions on Notice.\n    *   Various \"Summaries\" such as the Commissioner's summary, election fast facts, key statistics, and infographics (e.g., Indigenous, RAMP, communication, funding/disclosure, redistributions).\n    *   Extensive \"Group briefs\" categorized by AEC branches (e.g., Deputy Electoral Commissioner, Finance and Corporate Performance, Community and International Engagement, Service Delivery, Electoral Integrity and Operations, Enabling and Regulation, Organisational Transformation). Many of these are designated as Ministerial hot issue briefs (HIB) or Executive back pocket briefs (BPB).\n\n*   **Main Content from the FOI Request Documents:** The documents provide a comprehensive overview of the AEC's operations, performance, and key issues, primarily in the context of the 2022 federal election and preparedness for a potential referendum. Key content areas include:\n    *   **Parliamentary Engagement:** Agendas, participant lists, and records of AEC's engagement with parliamentary committees.\n    *   **Financial Matters:** AEC budget, cost of the 2022 federal election, and funding arrangements for a referendum.\n    *   **Electoral Operations & Service Delivery:** Detailed briefs on voter enfranchisement (including for COVID-19), various voting methods (early, mobile, remote, telephone, postal, overseas), residential aged care facilities, management of the electoral roll, measures to address informality, and interpreting services.\n    *   **Electoral Integrity & Security:** Addressing foreign interference, general electoral integrity and security, misinformation and disinformation campaigns, and close counts from the 2022 election.\n    *   **Regulatory Functions:** Party registration, political donations, funding and disclosure obligations, electoral redistributions, truth in electoral advertising, and legal frameworks for referendums.\n    *   **Workforce & Technology:** Workforce statistics, temporary election staff, political neutrality requirements, election systems modernisation, and data centre services.\n    *   **Performance & Statistics:** High-level summaries and statistics related to election performance, Indigenous enrolment, communication efforts, and financial disclosures.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

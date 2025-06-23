@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The alleged \"full release\" of an utterly untitlted 'Document 1' isn't transparency; it's a chilling exposé of governmental dereliction, signaling either record-keeping so catastrophically incompetent that basic identification fails, or a cynical act of obfuscation ensuring any genuinely sensitive material was pre-sanitized into meaninglessness. This \"release\" merely confirms the document's harmlessness, having been thoroughly scrubbed of any truly incriminating content, thus cynically precluding genuine accountability for systemic failures, corruption, or malice."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 244,
+    "candidates_token_count": 110,
+    "total_token_count": 852,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "With a highly critical view, provide a scathing, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe complete absence of a document title for 'Document 1' immediately exposes a profound systemic failure: either record-keeping is so catastrophically incompetent that basic identification is impossible, or this omission is a deliberate act of obfuscation, designed to impede any meaningful public scrutiny. The assertion that this untitled, contextless document was 'Released in full' without any exemption is not a sign of transparency, but rather a chilling implication of prior malice or extreme negligence. It suggests that 'Document 1' was either so thoroughly pre-sanitized and expunged of any genuinely damaging or sensitive information before reaching this stage that its 'full' release is functionally meaningless, or that the government, in its unparalleled incompetence, simply failed to identify any material warranting restriction. This 'full release' is a cynical performance, signaling that the document contains nothing genuinely incriminating, thereby ensuring that even when forced to release information, no true accountability for failure, corruption, or malice is ever achieved.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

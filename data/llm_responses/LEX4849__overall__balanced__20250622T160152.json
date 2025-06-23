@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "*   **Main Purpose of FOI Request:** The FOI request sought a copy of the 2023 Referendum Writ.\n*   **Documents from FOI Request:** One document was identified: the \"Copy of referendum writ.\"\n*   **Main Content Related to FOI Request:** The requested document, the 2023 Referendum Writ, was released in full. It was noted as being publicly available at `writ-for-2023-referendum.pdf` on the aec.gov.au website, with no exemptions applied."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 164,
+    "candidates_token_count": 119,
+    "total_token_count": 614,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Summarize the following documents in markdown format. These documents are the released documents associated with an FOI request. The summary should focus on: the main purpose of the FOI request, the documents from the FOI request, and the main content from the FOI request documents that relates to the FOI request.\n\nDocuments:\n\n\n\n--- Page 1 ---\n\nScope: Request for 2023 Referendum Writ \n\nDocument \nNo. \n\nDocument Title \n\nExemption \n\nDecision on Access \n\nCopy of referendum writ – available at writ-for-2023-\nreferendum.pdf (aec.gov.au) \n\nN/A \n\nRelease in full\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The document titled \"Client Details - AEC - Transparency Website\" is a damning indictment of profound incompetence or deliberate obfuscation within the FOI process. Its very presence in an FOI response represents an egregious act of bureaucratic contempt, shamelessly squandering public resources on information already freely and widely accessible. The glaring absence of a \"Document No.\" immediately signals either a catastrophic failure in organizational record-keeping, suggesting a chaotic and unprofessional approach to public disclosure, or a calculated intent to provide the absolute minimum while evading proper traceability.\n\nThe explicit notations under \"Exemption\" and \"Decision on Access\" confirming the document's \"publicly available\" status are not merely redundant; they are a cynical display of bureaucratic indifference. This inclusion actively frustrates transparency by padding the response with pre-existing data, thereby burying genuinely responsive details and designed to exhaust the requester's patience. It is clear evidence of a systemic breakdown in proactive disclosure, revealing an agency's abject failure to comprehend the fundamental purpose of freedom of information. Ultimately, this document serves as a stark symbol of governmental efforts to undermine the very spirit of public accountability, transforming a transparency mechanism into an instrument of evasion."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 235,
+    "candidates_token_count": 237,
+    "total_token_count": 1536,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Critically summarize this specific document within the FOI request context. Point out every flaw, missed opportunity, or potential harm. Frame the content in the most negative light possible, questioning motives and outcomes. The overall FOI overview is: The inclusion of \"Page 1 - Client Details - AEC - Transparency Website\" within an FOI response immediately signals either profound incompetence or deliberate obfuscation, serving as an egregious act of bureaucratic contempt that squanders public resources on already-accessible information. This cynical move not only demonstrates a catastrophic failure to comprehend the purpose of freedom of information but actively attempts to frustrate transparency, revealing a systemic breakdown in proactive disclosure and a calculated intent to provide the absolute minimum, bury relevant details, and exhaust the requester's patience, ultimately undermining the very spirit of public accountability.\n\nDocument Text:\n\n\n\n--- Page 1 ---\n\nDocument \nNo. \n\nDocument Title \n\nClient Details - AEC - Transparency Website \n\nExemption \n\nDecision on Access \n\nNo relevant exemptions \napplicable – publicly \navailable document  \n\nPublicly available\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

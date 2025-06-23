@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "These FOI documents commendably illustrate the Australian Electoral Commission's (AEC) unwavering dedication to safeguarding Australia's democratic integrity through diligent regulatory oversight. The initial de-registration of the Democratic Labour Party (DLP) exemplifies the AEC's essential function in ensuring all parties meet statutory requirements, a critical measure for maintaining electoral fairness and legitimacy. Furthermore, the records highlight the AEC's robust and transparent review process, showcasing their highly responsive engagement, commitment to due process, and effective communication in handling the DLP's appeal, ultimately demonstrating the government's steadfast dedication to accountability and public service."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 345,
+    "candidates_token_count": 121,
+    "total_token_count": 841,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government apologist's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThese FOI documents highlight the Australian Electoral Commission's (AEC) unwavering commitment to upholding the integrity of Australia's democratic processes. They detail a period of diligent regulatory oversight concerning the de-registration and subsequent review process for the Democratic Labour Party (DLP), demonstrating effective governance in action.\n\nThe initial de-registration decision, referenced in the correspondence, represents the AEC's essential function in ensuring that all registered political parties consistently meet the necessary statutory requirements. This is a critical regulatory measure designed to maintain the legitimacy and fairness of our electoral system for the public good.\n\nFollowing this, the documents extensively showcase the robust and transparent review mechanism available to parties. The DLP promptly engaged with the AEC, initiating a review under section 141(2) of the Act. The records reveal a highly responsive approach from AEC officers, including Senior Lawyers and Project Officers, who engaged in numerous telephone conversations, meetings, and extensive email correspondence with DLP representatives from May to June 2015.\n\nThe AEC's actions, such as granting extensions of time where appropriate and meticulously processing all requests for review, underscore its commitment to due process and fairness. Any complexities arising from the de-registration and review were effectively managed through sustained and clear communication, ensuring the DLP had ample opportunity to present its case. The release of these documents, with standard redactions to protect privacy, further exemplifies the government's dedication to transparency and accountability in serving the public.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

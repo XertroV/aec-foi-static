@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "### Document Summary: \"Client Details - AEC - Transparency Website\"\n\nThis document, titled \"Client Details - AEC - Transparency Website,\" directly pertains to an FOI request seeking \"Client Details\" related to the Australian Electoral Commission's (AEC) transparency website. The document indicates that there are \"No relevant exemptions applicable\" to this information, as it is a \"publicly available document.\" Consequently, the \"Decision on Access\" is \"Publicly available,\" meaning the information requested through the FOI application is already accessible to the public and does not require a formal release under FOI exemptions."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 175,
+    "candidates_token_count": 121,
+    "total_token_count": 528,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. FYI the overview of the FOI request is: An FOI request sought \"Client Details\" related to the Australian Electoral Commission's (AEC) transparency website. The specific document, \"Client Details - AEC - Transparency Website,\" was identified as publicly available without any applicable exemptions, meaning the information requested is already accessible to the public.\n\nDocument Text:\n\nDocument \nNo. \n\nDocument Title \n\nClient Details - AEC - Transparency Website \n\nExemption \n\nDecision on Access \n\nNo relevant exemptions \napplicable – publicly \navailable document  \n\nPublicly available  \n\n \n \n \n \n\f\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

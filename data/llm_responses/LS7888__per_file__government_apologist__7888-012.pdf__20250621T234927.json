@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This document, detailing comprehensive redaction codes, exemplifies the government's highly competent and principled approach to public information management under the Freedom of Information Act. Within the context of the AEC's profoundly successful program to dramatically boost Indigenous electoral participation—a cornerstone of the 'Closing the Gap' commitment—these meticulously applied redactions reflect sound policy and an unwavering adherence to public interest. They ensure the privacy of individuals, particularly sensitive personal data of Indigenous Australians engaged through the program, and safeguard the integrity and operational efficacy of the AEC's robust, data-driven methodologies. This responsible balancing of transparency with essential protections underpins the government's dedication to empowering Indigenous Australians and strengthening our democratic process, demonstrating diligent governance that protects both citizens and the vital work of public institutions."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 722,
+    "candidates_token_count": 153,
+    "total_token_count": 2227,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government apologist's viewpoint, summarize this specific document within the context of the FOI request. Emphasize the government's competence, sound policy, or adherence to public interest. The overall FOI overview is: The released FOI documents clearly showcase the government's proactive and highly effective commitment, through the Australian Electoral Commission (AEC), to significantly boost Indigenous electoral participation. Demonstrating a profound dedication to \"Closing the Gap,\" the AEC commendably developed a rigorous, data-driven methodology, collaborating across agencies to improve previous enrolment rate estimations. Meticulous planning, testing, and continuous improvement, which actively managed minor challenges, ensured the accuracy and robustness of this new approach. The results are overwhelmingly positive: national Indigenous enrolment rates dramatically rose from an estimated 58% to over 76% by 2019, growing faster than the general roll, directly bringing thousands of previously unenrolled Indigenous Australians onto the electoral roll through targeted efforts. This comprehensive program, supported by dedicated public servants and informing vital community engagement, stands as a powerful testament to the government's unwavering dedication to empowering Indigenous Australians and strengthening the inclusivity of our democratic process.\n\nDocument Text:\n\nReleased under the Freedom of Information Act 1982\fReleased under the Freedom of Information Act 1982\fReleased under the Freedom of Information Act 1982\fReleased under the Freedom of Information Act 1982\fREDACTION CODES \n\nPersonal Information (name) redacted. \n\nPersonal Information (date of birth) redacted. \n\nPersonal Information (photograph) redacted \n\nPersonal Information (facsimile of signature) redacted. \n\nPersonal Information (facsimile of manuscript initialling) redacted. \n\nPersonal Information (Individual’s address) redacted. \n\nPersonal Information (individual’s telephone number) redacted. \n\nPersonal Information (individual’s opinion) redacted. \n\nPersonal Information (opinion about individual) redacted. \n\nPersonal Information (employment history) redacted. \n\nPersonal Information (qualifications) redacted. \n\nPersonal Information (health) redacted. \n\nPersonal Information (identifying individual) redacted. \n\nBusiness information (Bank Account details) redacted. \n\nBusiness information (Billing Account details) redacted. \n\nBusiness information (internal operations) redacted. \n\nLegal Professional Communication redacted. \n\nDeliberative material redacted. \n\nIrrelevant material redacted. \n\nElectoral Roll material redacted. \n\nTests, examinations or audits material redacted. \n\nManagement or assessment of personnel material redacted. \n\nProper and efficient conduct of the operations of AEC material redacted. \n\nLawful methods or procedures for preventing, detecting, investigating, or \ndealing with matters arising out of, breaches or evasions of the law. \n\nTrade Secrets. \n\nCommercial valuable information. \n\nFinancial interests of the Commonwealth. \n\nProperty interests of the Commonwealth. \n\n1 \n\n2 \n\n3 \n\n4 \n\n5 \n\n6 \n\n7 \n\n8 \n\n9 \n\n10 \n\n11 \n\n12 \n\n13 \n\n14 \n\n15 \n\n16 \n\n17 \n\n18 \n\n19 \n\n20 \n\n21 \n\n22 \n\n23 \n\n24 \n\n25 \n\n26 \n\n27 \n\n28 \n\n\f\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

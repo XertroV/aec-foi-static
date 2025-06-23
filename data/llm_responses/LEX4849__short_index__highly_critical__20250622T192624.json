@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This FOI log brutally exposes a government preferring obscurity and control over genuine public service, where the very act of citizens being forced to petition for a foundational democratic document like the 2023 Referendum Writ epitomizes profound systemic negligence. The fact that taxpayer money and bureaucratic time were squandered on an FOI request for information that should have been proactively and instantly accessible underscores not transparency, but a reactive, gatekeeping mechanism, further compounded by the baffling lack of internal record-keeping rigor indicated by the \"N/A\" document number. The \"release in full\" decision, far from being virtuous, merely reinforces the deeply flawed paradigm where access to crucial public information is a discretionary grant, not an inherent right, highlighting an administration fundamentally committed to managing rather than truly sharing information, to inefficiency rather than accessibility."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 366,
+    "candidates_token_count": 164,
+    "total_token_count": 746,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "With a highly critical view, provide a scathing, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThis FOI log reveals a glaring indictment of government incompetence and a fundamental failure in proactive public information dissemination. The very necessity of an FOI request for the 2023 Referendum Writ, a foundational document underpinning a national democratic process, is damning evidence of systemic negligence.\n\nDespite the writ being \"available\" online, the fact a citizen had to formally invoke the Freedom of Information Act indicates a profound breakdown in the government's responsibility to make critical public information readily and universally accessible. This isn't transparency; it's reactive gatekeeping. Taxpayer money and precious bureaucratic time were wasted processing an FOI request for a document that should have been proactively highlighted, front-and-center, across all government platforms from the moment of its creation. The \"N/A\" in the \"Document No.\" field further suggests a startling lack of internal organizational rigor for even basic record-keeping.\n\nThe \"Release in full\" decision, while seemingly benign, is not a mark of virtue but rather a stark reminder of the government's inherent power to control and withhold information. It highlights that even for crucial public documents, access is granted as a \"decision,\" not as an inherent right or a default position of openness. This passive, reactive approach to transparency, where citizens must formally petition for documents that should be freely and instantly available, underscores a deep-seated institutional preference for managing information rather than truly sharing it. The entire process exposed by this log entry is a testament to an administration that prefers obscurity over clarity, inefficiency over accessibility, and control over true public service.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

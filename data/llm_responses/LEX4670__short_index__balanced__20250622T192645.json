@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This FOI request released documents detailing the Australian Electoral Commission's (AEC) communication with the Yes23 campaign concerning compliance with electoral authorisation requirements for their referendum communications. The materials, primarily emails and letters, focus on a specific interaction in July 2023 where the AEC identified non-compliance with Yes23's digital advertisements, stating that the text \"Yes23.com.au\" was not sufficiently clear as a URL for authorisation. Yes23 subsequently agreed to modify their authorisation to \"www.Yes23.com.au\" and underline it, a solution accepted by the AEC as achieving compliance."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 742,
+    "candidates_token_count": 129,
+    "total_token_count": 1221,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\n### Summary of FOI Request Documents\n\nThese documents represent a collection of released materials related to an FOI request concerning the Australian Electoral Commission's (AEC) engagement with the \"Australians for Indigenous Constitutional Recognition Ltd\" (Yes23 campaign) regarding compliance with electoral authorisation requirements for their referendum communications.\n\n#### Main Purpose of the FOI Request\n\nThe primary purpose of the FOI request was to obtain official correspondence and related documents detailing the communication between the Australian Electoral Commission and the Yes23 campaign regarding the authorisation of Yes23's advertisements and other referendum-related materials, specifically focusing on instances of identified non-compliance and subsequent rectifications.\n\n#### Documents from the FOI Request\n\nThe released documents consist primarily of:\n*   Email correspondence between the AEC's Authorisation Section and Marque Lawyers Pty Ltd (representing the Yes23 campaign).\n*   Attached letters exchanged between the AEC and Marque Lawyers.\n*   An official \"Referendum flowchart\" document produced by the AEC, outlining authorisation requirements.\n\n#### Main Content from the FOI Request Documents\n\nThe documents detail a specific interaction between the AEC and the Yes23 campaign in July 2023 concerning the authorisation of Yes23's referendum advertisements:\n\n*   **Initial Notification of Non-Compliance (July 20, 2023):** The AEC initiated contact with the Yes23 campaign, advising that certain digital advertisements issued by the campaign were deemed non-compliant with electoral authorisation requirements. This notification included a \"Referendum flowchart\" clarifying the rules for when and how referendum communications must be authorised, particularly for \"referendum matter\" communicated by \"disclosure entities.\"\n\n*   **Yes23's Response and Request for Clarification (July 21, 2023):** Marque Lawyers, on behalf of Yes23, responded to the AEC, seeking specific details regarding the reasons for the non-compliance finding. They outlined Yes23's current authorisation methods for their digital advertisements (stationary images with text), explaining that the text \"yes23.com.au\" was included at the foot of the images. This text, acting as a URL, directed users to the Yes23 official website where full authorisation particulars were displayed at the bottom of the homepage. Yes23 argued this method complied with section 12(2)(d)(ii) of the Authorisation Determination, which permits authorisation via a URL.\n\n*   **AEC's Specific Concern (July 24, 2023):** In a follow-up communication, the AEC clarified their concern was that the text \"Yes23.com.au\" was \"not sufficiently clear\" to be identifiable as a URL for the purposes of the authorisation requirements.\n\n*   **Resolution and Compliance (July 24, 2023):** To address the AEC's clarity concern, Yes23's lawyers proposed using \"www.Yes23.com.au\" to make it unequivocally clear that the text was a URL. The AEC accepted this proposal, adding a condition that the text also appear underlined to further visually indicate it was a URL. The AEC concluded by acknowledging Yes23's \"compliance\" following this agreed-upon modification.\n\nThe documents highlight a focused discussion and resolution regarding the visual clarity of URL-based authorisations for digital referendum communications.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

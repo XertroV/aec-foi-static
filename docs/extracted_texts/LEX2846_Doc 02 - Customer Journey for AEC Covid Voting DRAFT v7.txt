@@ -1,0 +1,310 @@
+
+
+--- Page 1 ---
+
+AUSTRALIAN 
+
+ELECTORAL 
+
+COMMISSION 
+
+Phone Voting for 
+
+COVID Isolating 
+
+customers
+
+Meet Wendy
+
+Wendy is an experienced 
+voter. She has tested 
+positive for Covid and is 
+required to isolate over 
+the voting period. 
+
+She has a computer at 
+home that she uses to 
+access information and 
+services.
+
+LEGEND
+
+Voter
+
+Service Officer
+
+System
+
+Y
+E
+N
+R
+U
+O
+
+J
+R
+E
+M
+O
+T
+S
+U
+C
+
+S
+S
+E
+C
+O
+R
+P
+E
+N
+I
+L
+N
+O
+
+S
+S
+E
+C
+O
+R
+P
+E
+N
+O
+H
+P
+
+E
+V
+I
+T
+A
+N
+R
+E
+T
+L
+A
+
+CUSTOMER JOURNEY - PROPOSED VOTING EXPERIENCE FOR COVID ISOLATING CUSTOMERS 
+
+1 March 2022
+
+Wendy checks the 
+Australian Electoral 
+Commission (AEC) 
+website and sees that 
+she can vote on the 
+phone because she is 
+isolating.
+
+Voter goes 
+to website 
+(AEC) and 
+selects 
+option to 
+register for 
+telephony 
+voting 
+service.
+
+Voter enters 
+personal 
+details and 
+the system 
+checks for a 
+correct 
+match.
+
+Wendy enters 
+her personal 
+details online.
+
+Wendy finds she is 
+eligible after 
+answering some 
+online questions.
+
+REGISTRATION SERVICE
+
+System 
+checks if 
+voter details 
+match 
+electoral roll 
+details.
+
+YES
+
+Voter 
+answers 
+online 
+eligibility 
+questions.
+
+ELIGIBLE
+
+NOT 
+ELIGIBLE
+
+Wendy receives 
+her registration 
+number and 
+reviews the 
+ballot 
+information to 
+help her vote.
+
+Voter chooses and 
+enters a PIN. She is 
+then advised she will 
+receive the link to the 
+ballot information. 
+A registration number 
+will be provided in 
+approximately 
+10 minutes (via email/ 
+SMS*) 
+
+The voter is prompted 
+to click the link for 
+alternate voting 
+options. 
+Process ends here
+
+Wendy calls the 
+voting line with her 
+registration number 
+and PIN, and the 
+Service Officer 
+records her vote.
+
+Voter 
+views the 
+ballot 
+paper 
+image to 
+plan their 
+vote.
+
+Voter calls 
+the voting 
+line and 
+the 
+Service 
+Officer 
+takes their 
+registratio
+n and PIN 
+to ensure 
+anonymity
+
+Real time 
+check to 
+ensure the 
+voter 
+hasn’t 
+previously 
+voted and 
+identifies 
+correct 
+electorate.
+
+VOTING SERVICE
+
+Service 
+Officer 
+writes the 
+electorate 
+and 
+registration 
+number on 
+an 
+envelope 
+and 
+obtains the 
+physical 
+ballot 
+papers for 
+the 
+identified 
+electorate.
+
+Service 
+Officer 
+records 
+the voter’s 
+preference 
+on the 
+ballot 
+papers 
+and clicks 
+‘VOTE 
+COMPLETE’ 
+on the 
+system
+
+The voter 
+is marked 
+off the 
+electoral 
+roll in the 
+system.
+
+Service 
+Officer 
+places the 
+ballot 
+papers in 
+the 
+envelope. 
+Envelope 
+gets 
+placed in 
+a ballot 
+box.
+Process 
+ends here
+
+NO
+
+NOT 
+ELIGIBLE
+
+The voter is advised they 
+are not eligible to use this 
+service and must use 
+alternate voting options.
+Process ends here
+
+Voter verbally chooses 
+a PIN (6 digit), and
+provides the service 
+officer their email 
+address or phone 
+number so the 
+registration number 
+can be issued with a 
+link to ballot paper in 
+approximately 10 
+minutes.
+
+ELIGIBLE
+
+Phone details 
+provided for 
+the voter to 
+complete 
+registration 
+via phone
+
+Voter calls 
+and answers 
+eligibility 
+questions on 
+the phone

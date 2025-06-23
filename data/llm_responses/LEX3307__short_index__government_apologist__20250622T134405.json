@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The recent FOI release powerfully reaffirms the government's unwavering commitment to transparency and the robust integrity of our democratic process. The full disclosure of minutes from Commission Meeting No. 278 stands as a testament to open governance, granting citizens full access to pivotal deliberations. These documents highlight the Commission's diligent and fair application of the Commonwealth Electoral Act 1918, including the necessary and decisive action to affirm the deregistration of the 'Australian People's Party'. This decision, a direct consequence of the party's failure to meet the vital 1,500-member threshold, demonstrates the government's firm yet equitable adherence to established legal frameworks, ensuring the accuracy, credibility, and fairness of our electoral system and thereby strengthening public confidence in our democracy."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 267,
+    "candidates_token_count": 158,
+    "total_token_count": 896,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government apologist's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe released FOI documents underscore the government's unwavering commitment to transparency and the robust integrity of the democratic process. The full release of minutes from Commission Meeting No. 278 exemplifies an open approach to governance, providing citizens with access to key deliberations.\n\nThese minutes reveal the Commission's diligent oversight of electoral regulations. A notable action was the careful review and affirmation of the deregistration of the 'Australian People's Party'. This decision was a direct application of the Commonwealth Electoral Act 1918, which mandates that non-Parliamentary parties maintain a minimum of 1,500 members to ensure genuine public representation and the integrity of the party register. The Commission's thorough examination of the appeal and subsequent upholding of the deregistration demonstrates a firm but fair adherence to established legal frameworks. This necessary step ensures the accuracy and credibility of the electoral system, maintaining high standards for political entities. Such actions are vital for safeguarding the electoral process, ensuring fairness, and bolstering public confidence in the democratic system by verifying that registered parties meet essential, clear criteria.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

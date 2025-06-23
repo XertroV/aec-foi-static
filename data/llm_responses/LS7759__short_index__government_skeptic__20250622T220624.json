@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The FOI documents reveal how the Australian Electoral Commission (AEC) employed a protracted, inefficient, and seemingly obstructive bureaucratic process to hinder the 'Stop Selling Australia' party's registration. Despite the party exceeding the 500-member threshold, the AEC’s four-month review was marred by inefficient manual checks, a refusal to provide crucial feedback for \"privacy reasons,\" and an overly rigid, hyper-scrupulous application of rules. The ultimate rejection, based on a single additional denial identified in double the statistically required sample size, exemplifies a wasteful, arbitrary bureaucratic overreach that prioritizes process over legitimate political participation, squandering public and private resources in the apparent suppression of new political movements."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 666,
+    "candidates_token_count": 141,
+    "total_token_count": 1222,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government skeptic's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe FOI documents reveal a protracted and overly bureaucratic process by the Australian Electoral Commission (AEC) in handling the 'Stop Selling Australia' party's registration application, highlighting a potential for inefficiency, lack of transparency, and rigid application of rules that hinders new political movements.\n\n1.  **Protracted & Inefficient Bureaucracy:** The application process spanned over four months (November 2018 to March 2019) for a party that seemingly met most requirements. Initial automated roll checks only matched 70% of the party's members, requiring extensive manual verification that the AEC itself admitted \"impacted the expected time to process\" (Document 5, Page 4). This points to either inefficient internal systems or an excessive data quality burden placed on aspiring parties.\n\n2.  **Lack of Transparency & Obstructive Policies:** The AEC explicitly refused to provide the party with a list of members who could not be verified on the electoral roll, citing \"privacy reasons\" (Document 5, Page 2-3). This policy, while perhaps adhering to a narrow interpretation of privacy, actively undermined the party's ability to efficiently correct its membership list, forcing them to perform their own time-consuming checks without precise feedback from the official body. This places an unnecessary obstacle in the path of new political organizations.\n\n3.  **Arbitrary & Overly Rigid Application of Rules:**\n    *   Despite the AEC's own checks confirming **503 enrolled members** for the party (exceeding the 500-member minimum threshold for registration) (Document 25, Page 3), the application was ultimately refused.\n    *   The refusal stemmed from a disproportionately strict interpretation of membership sampling. While the statistical formula required a sample of 26 members with only one denial permitted, the AEC **attempted to contact 52 members**—double the required sample size—citing \"uncontactable\" members (Document 24, Page 3; Document 25, Page 3).\n    *   From these 52 attempts, 24 confirmations were received, but critically, **two denials** were recorded. One denial was even secured through a follow-up phone call to a previously \"neutral\" respondent (Document 21), suggesting a persistent effort to identify non-confirming members. This hyper-scrupulous approach, contacting double the required sample and pursuing a denial to reach an arbitrary limit, appears to prioritize bureaucratic adherence over facilitating legitimate political participation.\n\n4.  **Waste of Public and Private Resources:** The extensive internal reviews, multiple data submissions, manual checks, and prolonged membership verification process, culminating in a refusal based on a single additional denial in an *oversized* sample, represents a significant expenditure of taxpayer money and administrative resources. This bureaucratic overreach and a seemingly adversarial approach to a party that otherwise met the core numerical requirement constitutes questionable decision-making and a waste of both government and the party's resources.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

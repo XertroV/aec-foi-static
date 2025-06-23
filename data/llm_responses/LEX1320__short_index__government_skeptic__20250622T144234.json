@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "From a skeptical viewpoint, these FOI documents reveal an Australian Electoral Commission (AEC) that actively offloads crucial oversight, operates inefficiently, and creates an uneven playing field. The AEC abdicates responsibility for candidate eligibility, relying on an honor system that shifts the high cost of vetting to the public and third parties, rather than proactively ensuring a fair process. Bureaucratic inefficiency is evident in the re-issuance of entire handbooks for minor updates. Most critically, the substantial financial barriers and bulk nomination system inherently favor established political parties, creating a two-tiered system that disadvantages independent and grassroots candidates, compounded by the AEC's limited oversight on the content of political messaging."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 501,
+    "candidates_token_count": 138,
+    "total_token_count": 938,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government skeptic's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe FOI documents provide a glimpse into the Australian Electoral Commission's (AEC) bureaucratic processes for the 2016 Federal Election, but also reveal areas of concern from a skeptical viewpoint.\n\nFirstly, the AEC actively offloads the crucial responsibility of constitutional eligibility onto individual candidates. Both the 2015 and 2016 Candidate Handbooks repeatedly state that the AEC \"cannot provide you with formal or informal legal advice\" regarding eligibility under Section 44 of the Constitution. Furthermore, \"Electoral officers are not generally empowered to question, challenge or provide advice on the declaration made by an intending candidate on the nomination form.\" This policy means the AEC operates largely on an honor system, foregoing proactive vetting of candidate eligibility. Consequently, the costly burden of challenging potentially ineligible candidates falls to other candidates or public interest groups, typically through High Court proceedings, which ultimately incurs significant public expense rather than being addressed by the electoral body responsible for ensuring a fair process from the outset. This represents a systemic inefficiency and a transfer of public cost to third parties.\n\nSecondly, the existence of two distinct \"Candidates Handbook\" versions within a nine-month period (August 2015 and May 2016), with the later version primarily detailing minor changes to Senate voting, logos, and declaration vote handling, raises questions about the efficiency of government document management. The re-issuance of a complete handbook for relatively minor updates could be seen as an unnecessary expenditure of resources.\n\nFinally, the financial barrier to entry, combined with the \"bulk nomination\" system, appears to disproportionately favor established political parties. The Liberal Party's single payment of $45,000 for 45 House of Representatives nominations highlights the substantial upfront cost ($1,000 per candidate) that independent or grassroots candidates must bear individually. While bulk nominations streamline the process for large parties, this structure inherently creates a two-tiered system, making it more challenging for individuals without significant financial backing or party infrastructure to participate effectively in the democratic process. The AEC's explicit avoidance of regulating the \"content of political messages\" in advertising also signals a limited scope of oversight, potentially fostering a less accountable environment for broader campaign claims.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

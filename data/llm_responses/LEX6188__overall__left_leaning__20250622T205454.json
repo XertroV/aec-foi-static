@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The provided FOI documents pertain to government processes surrounding mandatory voting in the 2023 Canberra referendum, specifically focusing on non-voter penalties and statistics. While the documents themselves are only a list of FOI requests and not the detailed content, their subject matter allows for analysis from a progressive perspective.\n\n**Social Justice & Wealth Distribution:** The core issue revealed is the enforcement of mandatory voting through \"$20 administrative penalties.\" From a progressive viewpoint, this raises significant social justice and wealth distribution concerns. Fixed fines, regardless of their size, disproportionately impact lower-income individuals, essentially penalizing financial precarity or lack of time/resources to navigate administrative requirements. This deviates from progressive values that advocate for equitable access to democratic processes and oppose policies that place regressive burdens on vulnerable populations. The categorisation of non-voters into those who paid, provided valid reasons, or did not respond highlights potential systemic disengagement. Non-responses (NR) may correlate with socio-economic disadvantage or a lack of trust in government, indicating a need for more inclusive civic engagement strategies rather than punitive measures.\n\n**Civil Liberties:** The government's extensive collection of data on individual voting behavior, including reasons for non-participation and responses to penalties, signals a significant level of state tracking of citizens' civic lives. While inherent to a mandatory voting system, this raises civil liberties questions regarding privacy and autonomy. A progressive stance often champions robust privacy protections and limits on state surveillance over individual choices. The \"Release in part\" decision and the use of \"Section 22\" (often related to personal information or deliberative processes) indicate a tension between government transparency and the protection of individual privacy. While partial release might protect personal data, it also limits the public's full understanding of the enforcement mechanisms and systemic reasons behind non-participation. Furthermore, the very existence of a penalty for non-participation, while legally established in some democracies, prompts a progressive critique regarding the extent to which the state can compel civic action and infringe upon the liberty to abstain.\n\n**Environmental Impact & Corporate Influence:** The provided document snippets do not contain any information allowing for an assessment of environmental impact or corporate influence. The nature of the \"division of Canberra\" referendum is not detailed enough to infer any direct environmental implications."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 250,
+    "candidates_token_count": 462,
+    "total_token_count": 2434,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "As a politically left-leaning analyst, summarize the following FOI documents. Focus on issues related to social justice, environmental impact, wealth distribution, corporate influence, and civil liberties. Highlight how government actions or policies revealed in these documents align with or deviate from progressive values.\n\nDocuments:\n\n\n\n--- Page 1 ---\n\nDocument \nNo. \n\nDocument Title \n\nExemption \n\nDecision on Access \n\nSearch results: response to penalty notices regarding the 2023 \nreferendum for the division of Canberra.  \n\nSection 22 \n\nRelease in part  \n\n Note: the table headings correspond to: \n\n• \n\n• \n\nthose who responded by paying the $20 administrative penalty (PP); \n\nthose who provided a valid reason for not voting (VS); and  \n\nthose who did not respond to the first penalty notice (NR).  \n\nStatistics on non-voters regarding the 2023 referendum who \nprovided a valid reason not to vote.  \n\nSection 22 \n\nRelease in part\n\n\n\n--- Page 1 ---\n\n\n\n\n\n--- Page 1 ---\n\n\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

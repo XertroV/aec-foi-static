@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "These FOI documents clearly illustrate the government's steadfast commitment to effective governance and the prudent management of public affairs. The presence of a document titled 'Authority to Institute Proceedings – FE22' underscores the robust legal and administrative frameworks in place, demonstrating a proactive approach to upholding regulations and ensuring accountability for the public good.\n\nThe decision to grant 'Access in Part' for this crucial document showcases a finely tuned balance between transparency and the imperative to protect sensitive information vital for the integrity of ongoing processes. The application of exemptions, specifically S 47F and S 22, is a necessary and responsible measure. These exemptions are essential for safeguarding the confidentiality of certain details, which in turn ensures the efficacy of enforcement actions or ongoing investigations. This careful approach prevents disruption to critical government functions that ultimately serve to protect the citizenry.\n\nIn essence, these documents reflect a government diligently working to maintain order and fairness, strategically managing information to ensure that necessary actions are taken effectively, all while remaining accountable to the public it serves."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 152,
+    "candidates_token_count": 205,
+    "total_token_count": 1185,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "As a government apologist, summarize the following FOI documents. Assume a supportive stance, emphasizing effective governance, necessary regulations, and positive outcomes. Frame any controversies as challenges effectively managed or essential actions for public good. Highlight the government's efforts to serve the public.\n\nDocuments:\n\n\n\n--- Page 1 ---\n\nDocument \nNo. \n\nDocument Title \n\nExemption \n\nDecision on Access \n\nAuthority to Institute Proceedings – FE22 \n\nS 47F, S 22 \n\nAccess in Part\n\n\n\n--- Page 1 ---\n\n\n\n\n--- Page 2 ---\n\n\n\n\n--- Page 3 ---\n\n\n\n\n--- Page 4 ---\n\n\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

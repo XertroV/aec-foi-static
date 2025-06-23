@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "### Summary of Document LS7888 Released Document No. 19/19444/1945\n\nThis document, identified as part of FOI release LS7888, primarily consists of administrative information pertaining to the Freedom of Information Act 1982. The initial pages display standard FOI release numbering and disclaimers. The substantive content is a list of \"REDACTION CODES\" (Page 4), which enumerates and defines various categories of information that may be withheld or redacted from documents released under the FOI Act, such as personal information, business information, deliberative material, and electoral roll data. The document itself contains no direct content, data, or discussion related to the Australian Electoral Commission's (AEC) Indigenous Electoral Participation Program (IEPP) new methodology.\n\n### Relevance to FOI Request LS7888\n\nThis document's relevance to FOI request LS7888 is purely administrative. It does not contain any direct information or detail concerning the AEC's new methodology for its Indigenous Electoral Participation Program (IEPP), its planning, implementation, outcomes, Indigenous involvement, or costs, which are the core subjects of the request. Instead, it serves as a key or legend for understanding the types of information that may have been redacted from *other* documents released as part of the broader LS7888 FOI disclosure. While it confirms its inclusion in the overall FOI release, it provides no substantive contribution to addressing the specific queries regarding the IEPP methodology."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 803,
+    "candidates_token_count": 318,
+    "total_token_count": 1874,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. FYI the overview of the FOI request is: FOI request LS7888 sought documents from 2018-2019 concerning the Australian Electoral Commission's (AEC) new methodology for its Indigenous Electoral Participation Program (IEPP), specifically regarding its planning, implementation, outcomes, Indigenous involvement, and costs. The released documents reveal the AEC transitioned to a more direct method for estimating Indigenous electoral enrolment rates, primarily by utilising self-identified Indigeneity data from Centrelink. This shift, driven by the availability of new Centrelink data, significantly increased estimated Indigenous enrolment rates from approximately 58% (under the old 2014 methodology) to 76.4% by June 2018 and 76.6% by June 2019. The documents detail the new methodology, its impact, and efforts to track enrolment stimulation, including identifying over 72,000 potentially unenrolled Indigenous Australians in mid-2018 and subsequent enrolment events. However, the released content did not explicitly detail the number of Indigenous people involved in the methodology's development or its final costs and dedicated AEC staffing.\n\nDocument Text:\n\n\n\n--- Page 1 ---\n\nLS7888 Released Document No. 1945 NOTEDReleased under the Freedom of Information Act 1982\n\n\n--- Page 2 ---\n\nLS7888 Released Document No. 19444Released under the Freedom of Information Act 1982\n\n\n--- Page 3 ---\n\nLS7888 Released Document No. 19Released under the Freedom of Information Act 1982\n\n\n--- Page 4 ---\n\nREDACTION CODES \n\nPersonal Information (name) redacted. \n\nPersonal Information (date of birth) redacted. \n\nPersonal Information (photograph) redacted \n\nPersonal Information (facsimile of signature) redacted. \n\nPersonal Information (facsimile of manuscript initialling) redacted. \n\nPersonal Information (Individual’s address) redacted. \n\nPersonal Information (individual’s telephone number) redacted. \n\nPersonal Information (individual’s opinion) redacted. \n\nPersonal Information (opinion about individual) redacted. \n\nPersonal Information (employment history) redacted. \n\nPersonal Information (qualifications) redacted. \n\nPersonal Information (health) redacted. \n\nPersonal Information (identifying individual) redacted. \n\nBusiness information (Bank Account details) redacted. \n\nBusiness information (Billing Account details) redacted. \n\nBusiness information (internal operations) redacted. \n\nLegal Professional Communication redacted. \n\nDeliberative material redacted. \n\nIrrelevant material redacted. \n\nElectoral Roll material redacted. \n\nTests, examinations or audits material redacted. \n\nManagement or assessment of personnel material redacted. \n\nProper and efficient conduct of the operations of AEC material redacted. \n\nLawful methods or procedures for preventing, detecting, investigating, or \ndealing with matters arising out of, breaches or evasions of the law. \n\nTrade Secrets. \n\nCommercial valuable information. \n\nFinancial interests of the Commonwealth. \n\nProperty interests of the Commonwealth. \n\n1 \n\n2 \n\n3 \n\n4 \n\n5 \n\n6 \n\n7 \n\n8 \n\n9 \n\n10 \n\n11 \n\n12 \n\n13 \n\n14 \n\n15 \n\n16 \n\n17 \n\n18 \n\n19 \n\n20 \n\n21 \n\n22 \n\n23 \n\n24 \n\n25 \n\n26 \n\n27 \n\n28\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

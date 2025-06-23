@@ -1,0 +1,1716 @@
+
+
+--- Page 1 ---
+
+November 2020 
+
+Inquiry on the future conduct 
+of elections operating during 
+times of emergency situations 
+
+Australian Electoral Commission submission to the Joint 
+Standing Committee on Electoral Matters
+
+
+--- Page 2 ---
+
+Contents 
+
+Introduction ........................................................................................................................... 2 
+
+Administering elections in emergency situations ................................................................... 3 
+
+The complex environment ................................................................................................. 3 
+
+Proposed areas of legislation for consideration of amendment ............................................. 6 
+
+Existing provisions ............................................................................................................. 7 
+
+Responding to the COVID-19 pandemic ............................................................................... 9 
+
+Eden-Monaro by-election................................................................................................... 9 
+
+Conclusion .......................................................................................................................... 17 
+
+Attachment A - Responses to COVID-19 ............................................................................ 18 
+
+Attachment B – Eden-Monaro by-election Service Plan ...................................................... 21 
+
+Page 1
+
+
+--- Page 3 ---
+
+Introduction 
+
+The Australian Electoral Commission (AEC) welcomes the opportunity to make this 
+submission to the Joint Standing Committee on Electoral Matters (the Committee) inquiry on 
+the future conduct of elections operating during times of emergency situations. 
+
+A federal election is perhaps the biggest peacetime logistical event in Australia, and 
+continues to grow in scale and complexity. There are currently over 16 million Australians 
+enrolled to vote, and the federal election dates are not known in advance. Once the writs are 
+issued, the AEC mobilises to identify suitable polling staff, venues, and all supporting 
+logistical arrangements to administer the event.  
+
+Emergency situations are inherently difficult to predict and are typically associated with high 
+levels of uncertainty about either their cause or the scope and severity of their impacts.  An 
+emergency situation has the potential to affect more than one jurisdiction, impact the 
+community, and create pressure for resources when there is competing demand.  
+
+The Australian federal electoral system may be vulnerable to emergency situations in 
+circumstances where key components of the election are disrupted, including voting, election 
+administration and campaigning. The timing and location of an emergency situation will 
+influence the required adjustments to administration and the mitigation strategies which are 
+used.  
+
+There are a number of key limitations in the Commonwealth Electoral Act 1918 (Electoral 
+Act) that could constrain the AEC’s ability to respond to circumstances requiring suspension 
+or disruption to components of election delivery, including at polling places.  
+
+This submission highlights requirements for Parliament’s consideration that would assist the 
+AEC in continuing to deliver high integrity federal elections through various emergency 
+scenarios at the national, state, or regional level.  
+
+To this end, the AEC considers the following amendments to legislation are advisable in 
+order to provide the AEC with greater flexibility to respond to emergency situations: 
+
+  Enabling the Electoral Commissioner to determine how certain electoral processes 
+and activities may be undertaken, where these processes or activities are impacted 
+by an emergency situation 
+
+  Providing the Electoral Commissioner with the authority to make a decision to 
+
+adjourn or suspend polling, or provide for the temporary suspension or adjournment 
+of other events. 
+
+Page 2
+
+
+--- Page 4 ---
+
+Administering elections in 
+emergency situations  
+
+Building confidence and trust in elections is as complex as it has ever been. The AEC is 
+committed to ensuring Australia’s elections are conducted in a manner that inspires and 
+sustains confidence of the public, and election stakeholders.  
+
+An enduring challenge in the electoral environment during ordinary times is maintaining a 
+mutual understanding amongst electoral stakeholders of the shared responsibilities and 
+accountabilities in a number of areas, including maintaining voters’ trust in elections and 
+ensuring proactive actions are being taken to meet reasonable expectations around flexibility 
+and responsiveness while providing for electoral integrity. 
+
+Election planning and delivery in an emergency situation involves new stakeholders with 
+their own remits and additional complexities. A more flexible legislative framework would 
+provide the AEC with greater flexibility to respond to emergencies and their impact on the 
+public and election stakeholders. 
+
+The complex environment  
+
+External guidance 
+
+Most emergency situations will involve a declaration under Commonwealth, state or territory 
+law. Those charged with managing an emergency situation and its consequences have 
+pressing priorities related to their respective remits around preservation and protection of 
+life, health, property and essential services. 
+
+During any emergency situation, the AEC is only one stakeholder in a complex environment. 
+Management of an election during an emergency situation requires engagement with 
+ministers and senior officials across governments as well as advisory bodies. The specific 
+stakeholders and their respective roles and responsibilities are dependent on the nature and 
+severity of the emergency situation, and can evolve as the situation changes.  
+
+A challenge with delivering a federal electoral event in a state or territory with a declared 
+emergency will be conducting the event consistently with state or territory emergency 
+requirements. While the constitutional position is that a state or territory law should not 
+prevent a Commonwealth agency or a person from carrying out their responsibilities under 
+Commonwealth law, it will nevertheless be important to work with local authorities to ensure 
+electoral events are conducted consistently with local emergency requirements so that 
+electors, staff and others in an election are not put at risk.  
+
+A critical feature of the successful delivery of the Eden-Monaro by-election in the COVID-19 
+environment was the significant investment of time required, and the immense value 
+obtained, from engaging with government departments across jurisdictions before and 
+
+Page 3
+
+
+--- Page 5 ---
+
+during the by-election. In delivering the by-election the AEC liaised closely with the 
+Commonwealth Chief Medical Officer and the NSW Department of Health, emergency 
+services, the Electoral Integrity Assurance Taskforce and political participants. A similar 
+model of consultation is in train for the Groom by-election.  
+
+The AEC’s emergency situation response requires a streamlined approach to access key 
+stakeholders, such as police, fire and emergency services, Chief Medical Officers, Defence 
+and central security agencies. 
+
+Key logistical challenges 
+
+Emergencies can pose major logistical difficulties that could force significant compromises, 
+delays, or even render an election partially or fully undeliverable.  
+
+Staffing: The delivery of elections is reliant on huge temporary workforces who in an 
+emergency situation may be less available. At a federal election the AEC relies on a 
+temporary workforce of approximately 90,000 people. Recruitment of temporary workers is 
+increasingly challenging in normal circumstances and an emergency situation could 
+suddenly pose significant recruitment and absenteeism challenges that could threaten the 
+delivery of the election. This is amplified in the context of the COVID-19 pandemic where 
+additional staff will be required to perform hygiene and sanitisation duties, manage queues 
+and maintain voting service levels. 
+
+Materials and logistics: Supply chains are also likely to be affected depending on the scale 
+of the emergency. The rapid outbreak of COVID-19 resulted in global shortages of personal 
+protective equipment (PPE) and lockdowns affected the transportation industry resulting in 
+the slower delivery of food and other supplies. In these circumstances, the supply of 
+essential items for an election could become difficult or unattainable.   
+
+Turnout: Limitations on the movement and concentration of electors together with the risks 
+of casualties during an emergency situation (for example, a natural disaster) can impact 
+voter turnout at an election and the legitimacy of the result. 
+
+Premises: An election relies on the availability, at short notice, of thousands of premises to 
+conduct voting and for counting centres. An emergency situation may reduce the availability 
+or suitability of premises or reduce the willingness of venue owners to hire to the AEC.   
+
+Service suppliers: The AEC partners with external service providers to facilitate aspects of 
+the election. Any impact to these major suppliers would have significant flow-on effects to 
+the running of an election event – for example in the preparation and dispatch of postal 
+votes, scanning and data capture of Senate ballot papers, printing of ballot papers, 
+preparation of paper and electronic certified lists, etcetera. 
+
+Exacerbated existing challenges: Conducting an electoral event during an emergency 
+situation will exacerbate existing election delivery challenges including: 
+
+  access to electoral services by electors: 
+
+o  with disability 
+o 
+o 
+
+living or travelling overseas 
+located in regional and remote areas 
+
+Page 4
+
+
+--- Page 6 ---
+
+o  experiencing homelessness 
+
+ 
+
+ 
+
+the impacts of increasing number of electors voting early 
+
+reliability and timeliness of postal services 
+
+  provision of services to electors in Indigenous communities. 
+
+Arrangements for a federal election commence immediately following the previous one, with 
+approach and policy decisions required early in order to implement required contracts, 
+materials and plans in advance of the earliest possible election date. Changes to an election 
+delivery model will be shaped by election delivery options at that time.  
+
+Business Continuity 
+The AEC already has planned contingencies in place that position it to respond to significant 
+business disruption during the election period as part of its business continuity planning 
+arrangements. 
+
+Proposals that allow for greater flexibility in the way in which the AEC might respond to 
+emergency situations will strengthen the AEC’s ability to effectively respond to and mitigate 
+business disruptions caused by such emergencies. 
+
+Page 5
+
+
+--- Page 7 ---
+
+Proposed areas of legislation for 
+consideration of amendment   
+
+The prescriptive nature of the Electoral Act provides limited flexibility for how an election can 
+be conducted. For example, the Electoral Act provides few exceptions to the requirement for 
+physical attendance when voting, and those exceptions (for example, postal or telephone 
+voting) may not be available to all or scalable in an emergency situation.  
+
+Temporary modification 
+
+To provide greater flexibility in the event of an emergency situation, the Electoral Act could 
+be modified, for example, to: 
+
+  extend the reasons electors can postal or pre-poll vote 
+
+  conduct an election solely by postal vote (in some or all geographic areas) 
+
+  streamline application and/or declaration requirements for postal voting and pre-poll 
+
+voting 
+
+  expand categories of electors who may utilise the electronic (telephone) voting 
+
+method 
+
+  extend operating or polling hours, and/or 
+
+  conduct scrutiny more safely.  
+
+Any modifications to the Electoral Act would only be possible for federal electoral events 
+conducted in a state or territory or a geographic area of Australia where there is a declared 
+emergency.    
+
+Given the timeframes prescribed in the Electoral Act for conducting federal electoral events 
+(from as little as 33 days), it is recommend that the authority to make emergency 
+modifications:  
+
+  may be exercised when there is a local or national emergency situation declared (or 
+
+other public direction or determination made by a Minister in relation to an 
+emergency’s effects on an election) under Commonwealth, state or territory law  
+
+ 
+
+ 
+
+is limited to the extent necessary to conduct an electoral event in the circumstances 
+
+is exercised by the Electoral Commissioner and cannot be delegated to others 
+
+  must be exercised by prescribing the modification in an instrument that will be tabled 
+
+in Parliament 
+
+ 
+
+is time limited, for example available only for the necessary time to respond to the 
+emergency situation and its impact, or conduct the electoral event. 
+
+To exercise the authority to make emergency modifications the Electoral Commissioner 
+would have regard to the following matters: 
+
+ 
+
+the election is conducted in a manner that inspires trust and sustains public 
+confidence 
+
+Page 6
+
+
+--- Page 8 ---
+
+ 
+
+ 
+
+the need to ensure the safety of voters and electoral officials 
+
+the election process and release of results occur in a timely manner.  
+
+Practically, the exercise of any authority will be shaped by the time and operational 
+environment of the given situation, and election delivery options available at that time. 
+
+The exercise of this authority would be subject to Parliamentary scrutiny in the same manner 
+as the conduct of federal elections is reviewed in detail by the Joint Standing Committee on 
+Electoral Maters. 
+
+The temporary nature of the modification means the electoral system remains unchanged 
+once the emergency situation has passed. 
+
+Adjournment and temporary suspension 
+
+Sections 240A, 241 and 242 of the Electoral Act provide for the temporary suspension of 
+polling and adjournment of polling (to another day) in certain circumstances. These sections 
+do not provide for flexibility in who may make a decision to adjourn or suspend polling, or 
+provide for the temporary suspension or adjournment of other election requirements, for 
+example where an emergency may affect close of rolls, nominations, early voting or scrutiny.  
+
+The AEC recommends that Parliament consider broadening the powers in sections 240A, 
+241 and 242 as follows: 
+
+  The power to adjourn polling is given to the Electoral Commissioner rather than 
+presiding officer, with the Electoral Commissioner having power to delegate this 
+responsibility to other officers as he or she considers appropriate. 
+
+  The power to suspend polling be retained for presiding officers, and explicitly 
+
+extended to officers in charge of pre-poll voting centres. 
+
+  Broaden these powers or establish a new power for the Electoral Commissioner to 
+
+suspend or adjourn other electoral processes during the election period, for example 
+where an emergency may affect the process such as close of rolls, nominations, 
+early voting or scrutiny. 
+
+Existing provisions  
+The following are areas where the Electoral Act does provide limited flexibility should an 
+issue arise shortly before or on polling day.  
+
+The most recent update to these provisions occurred in 2004, when following 
+recommendation of the AEC and the Committee, section 240A was inserted and section 241 
+was amended to cover incidents such as a bomb threat, health hazard (the examples 
+provided to the Committee by the AEC at the time included ‘an anthrax scare’ or ‘dangerous 
+animal’), fire or fire alarms or sprinklers being set off.  
+
+Temporary suspension of polling (s240A) 
+Section 240A gives presiding officers the power to temporarily suspend polling at their 
+polling place for physical or voter safety reasons. The section provides riots, storms, fires, 
+and health hazards as specific examples. 
+
+Page 7
+
+
+--- Page 9 ---
+
+This power only allows suspension of polling that has already commenced, and only allows 
+for suspensions until later the same day. 
+
+At the 2019 federal election, polling at the Sydney Central pre-poll voting centre (PPVC) at 
+Central Railway Station, Haymarket, was temporarily suspended after a bag was left 
+unattended in the vicinity of the premises. Police attended promptly and polling resumed 
+approximately fifteen minutes later. 
+
+Adjournment of polling (s241) 
+Section 241 gives presiding officers the power to adjourn polling at their polling place for 
+physical or voter safety reasons. Like section 240A, section 241 provides riots, storms, fires, 
+and health hazards as specific examples. 
+
+This power only allows for adjournment of polling from one day to the next. For an 
+adjournment to continue indefinitely, the presiding officer would need to repeatedly adjourn 
+polling each day.  
+
+At the 2019 federal election polling at the Crows Nest PPVC (NSW), a person died outside 
+the PPVC shortly after voting. Polling was adjourned to the following day. 
+
+Adjournment of polling in other cases (s242) 
+Section 242 gives presiding officers the general power to adjourn polling if, for any cause, a 
+polling booth at a polling place is not opened on polling day. 
+
+This power only allows for adjournment for up to 21 days. 
+
+Extension of time for holding an election (s286) 
+
+Section 286 gives ‘the person causing the writ to be issued’ (that is, depending on the 
+electoral event involved, either the Governor-General, a state Governor, or the Speaker of 
+the House of Representatives) the broad power to extend the time for holding an election in 
+order for ‘meeting any difficulty which might otherwise interfere’ with the election. 
+
+This power has rarely been used and, whilst broad, is not held by any AEC officer. For these 
+reasons it is unlikely that the AEC can utilise this power at short notice.    
+
+Page 8
+
+
+--- Page 10 ---
+
+Responding to the COVID-19 
+pandemic 
+
+The proposals to amend legislation outlined earlier in the submission are intended to apply 
+to the inherent unknowns of most conceivable emergency situations.  
+
+This said, the COVID-19 pandemic is an example of an emergency situation that, should the 
+AEC’s proposals be legislated in a sufficiently swift manner, would allow the Electoral 
+Commissioner to adopt modified arrangements for a future election or by-election that could 
+improve the accessibility and safety of an election that takes place during pandemics. 
+
+The COVID-19 pandemic is a highly unusual and unique emergency situation in that while its 
+impacts are evident and highly relevant to the conduct of an election, its length of duration is 
+unknown. The pandemic may be with us for some time yet and its impacts for even longer.  
+
+The AEC’s experience in the delivery of the by-election in the Division of Eden-Monaro 
+provided a sense of considerations that may apply to a federal election conducted during the 
+pandemic.  
+
+There are also numerous recent examples of adaptation of election laws and processes to 
+the impacts of COVID-19 nationally and internationally. Some examples are outlined at 
+Attachment A. 
+
+Eden-Monaro by-election 
+
+The AEC demonstrated its agility and professionalism in delivering the Eden-Monaro by-
+election in the aftermath of the 2019/20 bushfire season and the COVID-19 pandemic. 
+Surveys conducted following the election of both voters and the temporary election 
+workforce highlighted their satisfaction with the voting service and safety measures 
+implemented.  
+
+The Eden-Monaro by-election held on 4 July 2020 was the first federal electoral event to be 
+held during a pandemic in 100 years and one of the first electoral events held in Australia 
+during the COVID-19 pandemic. As such the Eden-Monaro by-election provides an 
+opportunity to analyse the implications COVID-19 may have for future electoral events, 
+including the federal election. 
+
+The AEC set out its commitment to delivering the Eden-Monaro by-election to ensure the 
+integrity of electoral services and participation, and to protect the welfare of voters, staff and 
+other participants in the COVID-19 pandemic environment in the Eden-Monaro by-election 
+Service Plan, which is provided at Attachment B. 
+
+The AEC conducted the by-election in accordance with the Electoral Act which provides for 
+in-person voting and postal voting (subject to an application). There was no legislated 
+
+Page 9
+
+
+--- Page 11 ---
+
+alternative open to the AEC. However, in evaluating the viability of options (such as 100 per 
+cent postal voting, use of electronic voting options or expansion of telephone voting), it was 
+clear that the business process in each case would require significant review and adjustment 
+in order to facilitate the possibility of using these options. That is, the AEC would not simply 
+need the flexibility to expand or contract the various voting services, but also the flexibility to 
+change components of the process to facilitate an expansion of that scale, and the 
+necessary lead time in which to do that. 
+
+Consultation: Delivering a by-election in the COVID-19 environment, in an area already 
+impacted by a natural disaster, required close consultation with a great number of 
+stakeholders, including Commonwealth and state government agencies.  
+
+The breadth and depth of stakeholder consultation and liaison required to run the by-election 
+was not only fundamentally important, but required significant time and resources. The AEC 
+had to work extremely hard, be flexible and agile to establish an acceptable way for voters to 
+participate safely. 
+
+Examples of some of the unprecedented consultation and coordination undertaken within the 
+compressed timeframes of an election included: 
+
+  working with the Commonwealth Chief Medical Officer, NSW Chief Health Officer 
+and ACT Chief Medical Officer and their respective Departments, as well as the 
+Australian Federal Police and NSW Police, to determine rapidly evolving 
+Commonwealth, state and territory laws and health restrictions and determine 
+appropriate safety measures to conduct the by-election during the pandemic 
+
+  seeking approval from the NSW Minister for Health to be able to hold the by-election  
+
+  hosting a walk-through by the Commonwealth health advisor of the counting centre 
+used for the by-election and a polling place mock-up, to demonstrate COVID-safety 
+measures in place 
+
+  seeking approval from the Secretary of the NSW Department of Education for 
+
+schools to be used as polling booths 
+
+  seeking assistance from the NSW Minister for Local Government to work with local 
+
+councils regarding the use of facilities as polling places  
+
+  working with the NSW Police Commissioner and NSW Police in relation to the 
+
+activities permitted by the Electoral Act around distribution of how-to-vote material 
+and the role of scrutineers, and the AEC approach to implementing the by-election 
+
+ 
+
+ 
+
+ 
+
+liaison with the National Bushfire Recovery Agency and Resilience NSW to facilitate 
+access to networks involved in supporting bushfire impacted communities 
+
+liaison with Services Australia, which supported the AEC in areas affected by the 
+bushfires by providing information from the AEC to clients affected by the bushfires, 
+and  
+
+liaison with the Chief Executive of Australia Post to ensure there would be no 
+disruption to the delivery of postal votes. 
+
+This high-level activity was supported and arrangements implemented by significant levels of 
+officer-level liaison and coordination. 
+
+Communication: The pandemic has been an incredibly stressful time for the community. 
+The AEC aimed to reduce voter anxiety in our communications campaign by showing the 
+AEC was prepared. The AEC’s expanded communication campaign included information 
+
+Page 10
+
+
+--- Page 12 ---
+
+concerning COVID-19 safety measures, with ‘Plan your vote’ as the key message. Public 
+awareness survey results indicated: 
+
+  at least 85 per cent of respondents were aware of the health measures in place 
+
+  all measures made at least three-quarters of respondents feel safer 
+
+  nearly all respondents who voted at voting centres were satisfied with the queue time 
+
+(98 per cent, which in nearly all cases (96 per cent) was less than 15 minutes). 
+
+An awareness of the environmental context was key to the campaign’s success. 
+
+Training: Following announcement of the by-election, the AEC had to adapt quickly to 
+develop and deliver appropriate and relevant training to support a COVID-safe by-election. 
+This included specialised training videos and eLearning courses on proper hand hygiene, 
+the use of PPE, cleaning surfaces in a polling place and safely managing queues of voters. 
+These new training resources complement the AEC’s existing suite of learning products, and 
+were produced by the AEC’s specialised National Training and Education Unit in only three 
+weeks to meet the timeframe of the by-election. 
+
+Additionally, the AEC’s traditional face-to-face training of polling officials was successfully 
+delivered under new social distancing and hygiene requirements. The by-election 
+represented the first time that 100 per cent of all polling officials were required to undertake 
+at least some of their training online. The AEC’s Learning Management System was able to 
+monitor and report on training completion, to ensure that staff had completed all mandatory 
+COVID-safe courses before commencing work. 
+
+Voting services: The AEC expanded the number of pre-poll voting centres compared with 
+the 2019 federal election (13, an increase of 5), had more centres open for the maximum 
+pre-poll period, and adjusted polling places (71, an increase of 2) to spread the flow of voters 
+and communicated these to the electorate, along with the option to postal vote. On the basis 
+of advice from the Chief Medical Officer, the AEC did not conduct mobile polling for the 
+event, and instead established a dedicated team to provide advice and facilitate postal 
+voting for aged care facilities and hospitals in the electorate. 
+
+Cost: The COVID-19 prevention measures had a clear impact on the cost of the by-election 
+event, almost doubling the total cost, to $3.954 million. In comparison, the by-elections held 
+between 2016 and 2019 cost on average approximately $2 million each. While the AEC is 
+assessing any potential efficiencies with what was implemented, the vast majority of 
+measures will be necessary to implement unless there is a major change in the 
+environmental risk. The likely impact on the federal election budget is clear. 
+
+The impact on cost is primarily driven by: additional polling locations throughout the pre-poll 
+period and on polling day; additional staff required for sanitising, queue control and vote 
+issuing and counting; PPE and other hygiene materials and services; as well as new 
+communication and training packages.  
+
+Page 11
+
+
+--- Page 13 ---
+
+Impact on turnout: The by-election had a turnout of 89 per cent, one of the best rates of 
+turnout for a by-election, and only a slight drop from the 2019 federal election turnout of 93 
+per cent for Eden-Monaro.  
+
+Eligible Electors 
+
+Turnout 
+
+Informality 
+
+2019 federal 
+election 
+114,147 
+
+2020 by-
+election 
+114,178 
+
+93.31% 
+
+89.13% 
+
+6.80% 
+
+6.71% 
+
+% 
+change 
+0.03% 
+
+-4.18% 
+
+-0.09% 
+
+Impact on voting trends: The number of postal votes counted was 13,340, more than 
+double that at the federal election. The number of pre-poll ordinary votes counted was 
+43,701, a moderate increase from the federal election pre-poll ordinary vote of 37,808. 
+
+Vote type 
+
+Pre-poll ordinary votes 
+
+Pre-poll declaration votes 
+
+Polling day votes 
+
+Postal votes 
+
+Mobile votes 
+
+Total votes 
+
+2019 federal 
+election 
+ 37,808 
+
+2020 by-
+election 
+43,701 
+
+% 
+change 
+15.59% 
+
+ 6,207 
+
+56,064 
+
+5,969 
+
+457 
+
+156 
+
+-97.49% 
+
+44,570 
+
+-20.50% 
+
+13,340  123.49% 
+
+  -   
+
+N/A 
+
+106,505 
+
+101,767 
+
+-4.45% 
+
+Interaction between state and federal laws: As outlined further above, an emergency 
+situation may cause conflict between federal and state laws. Where the AEC is attempting to 
+manage competing stakeholder expectations, significant complexity is created. For example 
+in the Eden Monaro by-election scrutiny centre, combining social distancing requirements 
+with the entitlement in the Electoral Act for candidates to be represented by one scrutineer 
+per counting officer was challenging given the high number of scrutineers that presented on 
+election night. 
+
+Facilitation of non-mainstream categories of electors: Careful consideration is required 
+to the impact on services to groups such as overseas electors, voters in aged care facilities, 
+hospitals, and remote communities. Without the ability to provide in-person voting services, 
+only postal voting is available, which is in turn also impacted by the pandemic situation and 
+likely to result in disenfranchisement of electors. For the Eden-Monaro by-election, only 
+9  per cent of postal votes sent to overseas electors were admitted to the count, by 
+comparison the equivalent rate for the 2019 federal election was 33 per cent. 
+
+Complexity in federal election planning: The AEC is rapidly approaching its minimum 
+possible lead times to make large-scale adjustments to its polling premises footprint, staffing 
+and budget estimates; to order required materials; and develop required training, procedures 
+and communication packages. As such, the AEC must make some assumptions about the 
+potential COVID-19 impact as at the earliest possible federal election date (August 2021) 
+and plan for an event in a pandemic. 
+
+Page 12
+
+
+--- Page 14 ---
+
+It should be noted that the requirements and outcomes would certainly have been impacted 
+if there were higher levels of community transmission at the time or different local legal 
+requirements in place. It was clear during the Eden-Monaro by-election and in the time 
+following, that the dynamic nature of the current environment adds a significant layer of 
+complexity to planning for an approach to running a federal election in a COVID-19 
+environment. This would be compounded where different processes and different materials 
+were required in different states as tailoring training, materials and requirements adds 
+additional complexity, risk and cost.  
+
+Data collection and analysis 
+
+The AEC has partnered with Deakin University over a number of election events to collect 
+data on process timings, run scenario modelling and use this information to help inform 
+decisions on the staffing profile, optimum staff numbers and count sizes. This modelling has 
+the dual aim of maximising efficiency and minimising queuing. In a COVID-19 scenario, 
+minimising the amount of time people are gathered together in a queue is even more 
+important.  
+
+Data was collected during the Eden-Monaro by-election at a number of polling centres and 
+at the counting centre. The data collected shows that issuing and counting processes took 
+longer than those from data collected at previous events. For example, on average the 
+ordinary vote issuing process took 16.5 seconds (or 46 per cent) longer than at the 2017 
+Bennelong by-election.  
+
+Issuing times may be impacted by a number of COVID-19-related factors, for example: 
+
+ 
+
+ 
+
+the impact of using masks and screens on communication and efficient vote issuing 
+
+issuing staff sanitising hands between voters 
+
+  having the main queue outside and reducing the ability to use ‘mini-queues’ at each 
+
+issuing point 
+
+  handing out single-use pencils 
+
+  cleaning issuing points and voting screens. 
+
+The AEC has extrapolated the data collected to model federal event scenarios. The table 
+below illustrates some of the data modelling conducted to assess the impact of variables on 
+time in queue for a polling place expected to issue around 1,200 ordinary votes.  
+
+The scenarios modelled varied the number of issuing officers, voting screens, frequency of 
+hand sanitiser use, whether issuing officers provided a pencil to the elector, and whether the 
+issuing point was covered during breaks taken by the issuing officer. The model then uses 
+data for elector arrival rates across the course of the day, and process timings to arrive at 
+estimated average and maximum queues for each scenario. 
+
+Page 13
+
+
+--- Page 15 ---
+
+Table 1 – Examples of scenarios for queue modelling, and entry queue wait time, 
+1,200 ordinary votes threshold 
+
+Scenarios  
+
+Average 
+
+Maximum 
+
+queue 
+
+queue 
+
+(minutes) 
+
+(minutes) 
+
+S21  4 ordinary vote issuing officers (IOs); 12 voting screens; IOs used hand 
+
+23.33 
+
+55.42 
+
+sanitisation after every elector, provided pencil to elector, issuing point not 
+
+covered during breaks.  
+
+S24  4 IOs; 12 voting screens; IOs used hand sanitisation every 10th elector, 
+
+15.99 
+
+45.18 
+
+provided pencil to elector, issuing point not covered during breaks 
+
+S25  4 IOs; 12 voting screens; IOs used hand sanitisation every 10th elector, did not 
+
+13.12 
+
+40.15 
+
+provide pencil to elector, issuing point not covered during breaks 
+
+S26  4 IOs; 12 voting screens; IOs used hand sanitisation every 10th elector, did not 
+
+3.38 
+
+16.07 
+
+provide pencil to elector, issuing point covered during breaks 
+
+S23  5 IOs; 13 voting screens; IOs used hand sanitisation after every elector, 
+
+5.35 
+
+21.85 
+
+provided pencil to elector, issuing point not covered during breaks 
+
+S27  5 IOs; 13 voting screens; IOs used hand sanitisation every 10th elector, 
+
+3.17 
+
+13.85 
+
+provided pencil to elector, issuing point not covered during breaks 
+
+S28  5 IOs; 13 voting screens; IOs used hand sanitisation every 10th elector, did not 
+
+2.67 
+
+13.65 
+
+provide pencil to elector, issuing point not covered during breaks 
+
+S29  5 IOs; 13 voting screens; IOs used hand sanitisation every 10th elector, did not 
+
+0.22 
+
+1.73 
+
+provide pencil to elector, issuing point covered during breaks 
+
+In order to avoid queue lengths increasing to unacceptable levels, the data modelling shows 
+that it is necessary to reduce the table loading (the number of ballot papers each issuing 
+officer is expected to issue per day), thereby increasing the overall number of issuing staff. 
+In addition, the queue controller positions assigned to each polling place (which would 
+normally only be at busier locations) and new hygiene officer position would remain 
+imperative.  
+
+Even in times of emergency and crisis, the AEC is of the view that evidence-based staffing 
+estimations that prioritise safety and the efficient flow of voters through a polling place is 
+preferred. The images from the recent United State elections of hours-long lines for voting in 
+various states, such as in Georgia which experienced waiting times of up to 10 hours at one 
+location on its first day of early voting, are scenes that would not be tolerated by most 
+Australians, even in extraordinary times. 
+
+Having multiple additional staff necessary at every polling location would have a significant 
+impact on cost, particularly when applied to a national electoral event. This equates to an 
+estimated 30 per cent increase in polling staff required, costing approximately an additional 
+$13 million.  
+
+Supply chain implications  
+
+COVID-19 PPE procured for the Eden-Monaro by-election was appropriate and effective. 
+The addition of many new materials to AEC polling operations in such a short timeframe 
+
+Page 14
+
+
+--- Page 16 ---
+
+required new policy development to support polling staff training requirements to create 
+effective COVID safety practices and PPE use at polling locations.  
+
+Procurement and consumption analysis data from the Eden-Monaro event has been 
+presented in Table 2 below. 
+
+The need for the AEC to continue to ensure its planned practices and PPE will assist it in 
+providing a safe environment for electors, staff and stakeholders needs to be of the highest 
+priority for the duration of the pandemic. This is brought into sharp relief by reports this year 
+from United States election administrators of polling officials and temporary staff falling ill 
+with COVID-19; of partial or full closure of polling and processing operations due to COVID-
+19 illness or close contact; and of the death of staff who worked at polling booths and in 
+elections offices, due to COVID-19. 
+
+For the AEC, when considering supply of COVID-19 PPE for a federal election there are 
+challenges with procurement lead times, and supply chain risks to securing these items in 
+the timeframe necessary. Assurance of access to the National Medical Stockpile (controlled 
+by the Department of Health) would be necessary to provide significant volumes of common 
+PPE items (masks, wipes and sanitiser). This would also address the issue of consistent 
+product quality as opposed to procuring multiple amounts of different products to meet the 
+overall need. COVID-19 global demand for PPE may place supply chains originating 
+overseas at risk of not being able to deliver in time for the AEC preparatory needs. 
+
+Additionally, the AEC will face significant challenges for bulk storage availability, and 
+associated costs, for these large volumes of PPE on top of the already large volumes of 
+material required for a federal election.  
+
+Procuring specialised materials for COVID-19 prevention may raise the cost of running a 
+federal election by in excess of $30 million. In addition, it is becoming clear that the cost of 
+normal election materials is impacted by the pandemic, where either the materials 
+themselves, or components to make them are often sourced overseas. 
+
+Table 2: COVID-19 material required for the Eden-Monaro by-election 
+
+Product 
+
+Facemask 
+
+Quantity 
+
+Required 
+
+11,000 
+
+Remarks 
+
+Non-woven material – global shortage – increase 
+
+in prices from China 
+
+Issuing point screens -
+
+450 
+
+Improved, hardened designed product after by-
+
+Sneeze screen 
+
+election experience. Potentially will take 9 months 
+
+or more to manufacture for a full federal event 
+
+Hand sanitiser 
+
+10,280 bottles 
+
+National Medical Stockpile  
+
+Single use half-size pencil 
+
+130,000  
+
+ Short– half size pencil 
+
+Vote screen insert 
+
+1,800 
+
+Product proved highly effective in by-election 
+
+Disinfectant wipes 
+
+300 packs (50 
+
+wipes per pack) 
+
+Page 15
+
+
+--- Page 17 ---
+
+Disposable gloves 
+
+150 packs (50 
+
+Global demand shortage 
+
+Sanitising spray 
+
+gloves per 
+
+pack) 
+
+300 bottles 
+
+Wipe – cloth (chux) 
+
+250 rolls 
+
+For use with sanitising spray. By-election showed 
+
+that disposable paper towel was significantly more 
+
+effective than re-usable cloths. 
+
+Cloth tape 
+
+400 rolls 
+
+For additional floor markings 
+
+Large screen - over table 
+
+10 
+
+For use in the OPC as barriers.  Ineffective in 
+
+protection 
+
+application 
+
+Disposable Tape measure  
+
+150 
+
+Supplied to staff to mark out 1.5m 
+
+Bio hazard plastic bag 
+
+1,000 
+
+Used as backup for Bio hazard durable waste bins. 
+
+No longer required under current health advice  
+
+Polling place personal 
+
+400 
+
+For storage of personal effects 
+
+storage box 
+
+Polling place personal plastic 
+
+2,000 
+
+bag  
+
+Ponchos 
+
+10,200 
+
+Mitigation against rain for those potentially queued 
+
+- not used 
+
+Page 16
+
+
+--- Page 18 ---
+
+Conclusion 
+
+This inquiry comes at a unique time in the course of the COVID-19 pandemic, where there 
+are many uncertainties and unknowns about what circumstances the nation might find itself 
+in at the time of the next federal election.  
+
+We are mindful of the broader focus of the inquiry and understand that during times of 
+emergency or crisis - such as a health pandemic, a terror or security incident, a weather 
+event or other natural disaster, public unrest, to name a few – we are one small but 
+important part of a broader response, which is focused on managing and protecting threats 
+to life, health, property and essential services. 
+
+The AEC welcomes ongoing engagement with the Committee during the course of this 
+inquiry. We look forward to the Committee’s consideration of the necessary additional 
+operational supports to safeguard democracy and enable the AEC to continue to deliver high 
+integrity elections, including during an emergency situation. 
+
+Page 17
+
+
+--- Page 19 ---
+
+Attachment A - Responses to 
+COVID-19 
+
+The World Health Organisation advises that the virus that causes COVID-19 commonly 
+spreads between people through direct, indirect (through contaminated objects or surfaces), 
+or close contact with infected people via mouth and nose secretions.1  
+
+This poses fundamental public health challenges for the conduct of an election, which 
+involves large gatherings of people for campaigning, canvassing, voting and counting, and 
+the handling of equipment and materials by multiple people. As one study noted, ‘More than 
+40 points in the electoral process involve the assembly of people or transfer of objects and 
+therefore pose risks of virus transmission if no preventive measures are taken.’2 
+
+Initially, many governments around the world, including in Australia, took the decision to 
+postpone planned elections. However, increasingly, many elections are proceeding with 
+governments holding national or subnational elections as originally planned despite 
+concerns related to COVID-19, and holding elections that were initially postponed. 
+
+The experience of selected fellow members of the Electoral Council of Australia and New 
+Zealand (ECANZ) in dealing with scheduled electoral events in 2020 has shown a diversity 
+of service models and regulatory approaches to dealing with election delivery in the context 
+of rapidly evolving conditions and other challenges associated with the pandemic. 
+
+Queensland local government elections were the first large-scale elections conducted in 
+Australia following the declaration of a pandemic, with election day falling on 28 March 2020. 
+
+The elections were delivered in a highly dynamic and uncertain environment. This included 
+the declaration of a pandemic by the WHO during the election period, and urgent legislative 
+and regulatory changes impacting electoral processes that came into effect after early voting 
+had commenced on 16 March. Notably, the amended legal framework provided for a 
+temporary regulation making power, and enabled the commission to issue Directions 
+concerning the distribution or display of how-to-vote cards or other election material.3 
+
+The election saw a significant shift in the voting patterns of the Queensland public compared 
+with previous elections:  
+
+  1.2 million people who voted during the two-week early voting period (500,000 in 
+
+2016)  
+
+  470,000 postal votes were returned of the 570,000 issued (320,000 returned in 2016)  
+
+  37,000 people who cast a telephone vote (500 in 2016), and  
+
+1  World Health Organization, Q&A: How is COVID-19 transmitted?, www.who.int/news-room/q-a-detail/q-a-how-is-covid-19-
+transmitted, accessed 11 November 2020 
+2 International Foundation for Electoral Systems, Safeguarding Health and Elections, May 2020, p. 4, 
+https://www.ifes.org/sites/default/files/ifes_covid19_briefing_series_safeguarding_health_and_elections_may_2020.pdf, 
+accessed 11 November 2020. 
+3 See Public Health and Other Legislation (Public Health Emergency) Amendment Act 2020 (Qld). 
+
+Page 18
+
+
+--- Page 20 ---
+
+  750,000 people who voted on election day at a polling booth (1.6 million in 2016). 
+
+Voting for the New Zealand general election took place from Saturday 3 October to 
+Saturday 17 October. The timing of the election period was delayed for four weeks on 17 
+August 2020 following the reemergence of COVID-19 in New Zealand.  
+
+The legal framework for elections in New Zealand provides powers to respond to defined 
+emergency situations. Sections 195 to 195E of the Electoral Act 1993 (NZ), sets out powers 
+for responding to an unforeseen or unavoidable disruption that is likely to prevent voters 
+voting at a polling place or pose a risk to the proper conduct of an election. The provisions:  
+
+  define the situations when provisions for managing polling disruptions may be used 
+
+  provide for the use of alternative voting processes to respond to polling disruptions 
+
+  provide for an adjournment power 
+
+  outline how the effect of polling disruptions on the preliminary vote count is to be 
+
+manage. 
+
+Notwithstanding these powers, Regulations were also made which provided for special 
+measures during a pandemic.4  
+
+Measures implemented at the election included: 
+
+  voters were encouraged to vote early  
+
+  an increase in voting locations  
+
+o 
+
+o 
+
+there were around 750 advanced voting locations (up from 485 at the 2017 
+general election), and this doubled to around 1,500 voting places on the 
+weekend before election day 
+there were expected to be around 2,500 voting booths on election day (up 
+from 2,378 in 2017) 5 
+
+ 
+
+ 
+
+those who were unable to get to a voting place could apply for a postal vote, or ask 
+someone to bring them their voting papers6 
+
+telephone dictation voting, normally only available to voters with particular disabilities, 
+for use by voters who were in COVID-19 related managed isolation and quarantine 
+facilities.   
+
+Preliminary election results reported indicated:  
+
+  over 60 per cent of the 3.2 million enrolled voters cast an advance vote (1,976,996, 
+
+up from 1,240,740 in 2017)  
+
+ 
+
+the largest number of advance votes received was on Saturday 10 October, a week 
+before the election.7 
+
+Election day for the Queensland state election occurred on Saturday 31 October 2020. 
+
+4 See COVID-19 Public Health Response (Election and Referendums) Order 2020 (NZ). 
+5 Jason Walls, Election officials are expecting the highest early voting turnout in history this election, New Zealand Herald, 
+27  July 2020 2:20pm, https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12351328, accessed 11 November 
+2020. 
+6 New Zealand Electoral Commission, 2020 General Election: COVID-19, https://vote.nz/voting/2020-general-election/covid-19/, 
+accessed 10 November 2020.  
+7 Radio New Zealand, Election 2020: Advance votes total just under 2 million, 17 October 2020, 
+https://www.rnz.co.nz/news/political/428576/election-2020-advance-votes-total-just-under-2-million, accessed 30 October 2020.  
+
+Page 19
+
+
+--- Page 21 ---
+
+Due to the ongoing risk posed by COVID-19, the Electoral Commission of Queensland 
+adapted its election delivery model. The model was supported by legislative enhancements 
+resulting from passage of the Electoral and Other Legislation (Accountability, Integrity and 
+Other Matters) Amendment Act 2020. This Act included amendments to the Electoral Act 
+1992 (Qld) providing extra flexibility in the statutory framework for the elections including:  
+
+ 
+
+flexibility to change dates for election milestones contained in the writ  
+
+  ability for the ECQ to issue notices that change timeframes for postal vote 
+
+applications and expand eligibility for telephone voting  
+
+  power for the ECQ to issue directions regulating the handing out of election materials 
+
+or how-to-vote cards near polling place and the activity of scrutineers, and  
+
+  ability to declare certain classes of voters or electorates to automatically receive a 
+
+postal vote by regulation. 
+
+Measures in place for the election included: 
+
+ 
+
+the election was conducted over an election period rather than focussing on an 
+election day  
+
+  expanded early voting options were available across the two-week early voting 
+
+period, with extra centres established, and extended operating hours, including from 
+9am to 4pm on the Saturday prior to election day  
+
+  electors were, for the first time, able to apply for a postal vote before the issue of the 
+
+writ with applications opening from 14 September 2020 
+
+  declaration of additional categories of electors eligible for telephone voting, and  
+
+  special arrangements for postal voting in aged care and rehabilitation facilities which 
+
+would usually receive a mobile polling service. 
+
+While the election count is still being finalised, pre-poll and postal votes will exceed the 
+volumes received at the March 2020 election, with many more people casting their vote 
+before election day than on election day.  
+
+Beyond ECANZ, Elections Canada is presently engaging with the Canadian Parliament in 
+relation to legislative responses that may assist it deliver an accessible, safe and secure 
+election. 
+
+Key elements of its suggested changes, which it proposes to apply to the next general 
+election only, include a focus on: 
+
+  extending the voting period, shifting polling day from one 12-hour period on a 
+
+Monday to 8 hours per day on a Saturday and a Sunday 
+
+ 
+
+flexibility in approach to aged care facility voting, enabling the Chief Electoral Officer 
+to prescribe the timing and manner in which voting occurs at these facilities 
+
+  extending the existing ‘adaptation power’ in section 17 of the Canada Elections Act to 
+
+include all areas within the Chief Electoral Officer’s mandate. 
+
+Page 20
+
+
+--- Page 22 ---
+
+Attachment B – Eden-Monaro by-
+election Service Plan 
+
+Page 21
+
+
+--- Page 23 ---
+
+28 May 2020 
+
+Eden-Monaro 
+by-election 
+Service Plan 
+
+May 2020
+
+
+--- Page 24 ---
+
+Foreword  
+
+The AEC is committed to providing the highest standard of electoral services for the Eden-
+Monaro by-election. During the COVID-19 pandemic this includes a range of safety 
+measures for voters, AEC staff and other participants.  
+
+We have introduced a range of COVID-19 safety measures at voting venues and also 
+through the entire by-election process, including the receipt and declaration of nominations, 
+the management of election materials and at our counting centre.  
+
+The operating model for this by-election includes social distancing and hygiene measures 
+that conform with federal and local health advice and are also within the legislative 
+framework of the Commonwealth Electoral Act 1918. The infection-control advice the AEC is 
+following has been provided by the Australian Government’s Chief Medical Officer, and 
+relevant NSW and ACT health authorities. 
+
+It is also important to note these measures, which must be enacted to protect the 
+community, will inevitably slow the voting process. Whilst we are implementing measures to 
+try and reduce this impact, the AEC thanks all electors and participants for their patience and 
+adherence to the new measures in the polling place and at our count centre. 
+
+The counting of votes will also take longer due to the measures in place in polling places and 
+at our counting centre. The expected increase in postal and pre-poll votes cast will also 
+impact the speed of the count, noting the legislative requirement to wait 13 days after 
+election day for the return of postal votes.  
+
+As a result, it is likely to take longer to formally declare a final result in this by-election 
+compared with previous federal by-elections but, as per our normal practice, the AEC will do 
+everything possible to provide an indicative result on polling night. 
+
+The AEC is committed to continuous improvement. This service plan outlines the key 
+election services and standards that will underpin the AEC’s delivery of the 2020 Eden-
+Monaro by-election during a pandemic. 
+
+Should you have any comments on the service plan or the AEC’s delivery on these 
+commitments, I would ask you to take the time to let us know through our online enquiry 
+form so we can consider your feedback as we continue to improve the delivery of election 
+services. 
+
+Tom Rogers  
+Electoral Commissioner 
+
+Page 1 
+
+Eden-Monaro by-election Service Plan
+
+
+--- Page 25 ---
+
+COVID-19 related measures  
+for the Eden-Monaro by-election 
+
+The operating model for the by-election will see measures introduced that conform with 
+federal and local health advice and are applied within the Commonwealth Electoral Act 
+1918. The infection-control advice the AEC is following has been provided by the Australian 
+Government’s Chief Medical Officer, and reviewed by NSW and ACT health authorities. 
+
+It is also important to note these measures, which must be put in place to protect the 
+community, will inevitably slow the voting process. Whilst we are implementing measures to 
+try and reduce this impact, the AEC thanks all electors and participants for their patience and 
+adherence to the new measures in the polling places and at our count centre. 
+
+The counting of votes will also take longer due to the measures in place in our polling places 
+and at our counting centre. The expected increase in postal and pre-poll votes cast will also 
+impact the speed of the count, noting also the legislative requirement to wait 13 days after 
+election day for the return of postal votes. As a result, it is likely to take longer to formally 
+declare a final result in this by-election compared with previous federal by-elections but, as 
+per our normal practice, the AEC will do everything possible to provide an indicative result 
+on polling night. 
+
+This document outlines the ways in which the key processes in the operation of the by-
+election will be modified or enhanced.  
+
+Taking nominations  
+
+People wishing to nominate for the by-election will need to make an appointment with the 
+Divisional Returning Officer for Eden-Monaro before attending the AEC office to lodge their 
+nomination forms. At the office, hand sanitiser will be available at the entrance, on all 
+meeting tables, and on the way out. AEC staff may wear surgical masks, and social 
+distancing of 1.5 metres will be in place wherever possible between staff and nominees.  
+
+Where possible AEC staff will also seek to minimise the amount of back-and-forth handling 
+of forms. Contactless Eftpos facilities will be available for candidates to pay their nomination 
+fee. 
+
+Ballot draw 
+
+Social-distancing rules will apply to everybody attending the ballot draw and seating will be 
+appropriately spaced. Hand sanitiser will be at the entrance and exit of the venue. 
+
+AEC staff performing the ballot draw will observe necessary personal hygiene measures and 
+sanitise the equipment used. 
+
+Page 2 
+
+Eden-Monaro by-election Service Plan
+
+
+--- Page 26 ---
+
+During training 
+
+Our online training suite has been enhanced to include a new online training module on the 
+required health measures put in place for this by-election. This will be mandatory for all AEC 
+staff and temporary election workers working at this by-election. Where AEC staff conduct 
+face-to-face training, social-distancing rules will be observed and all of the health measures 
+that will be applied throughout the by-election will also be observed throughout the 
+corresponding practical exercises. Hand sanitiser will be available on arrival and exit, and 
+participants will wash or sanitise their hands before and after each practical exercise. 
+
+Voting for residents of aged care facilities and hospital patients 
+
+The AEC is very conscious of the health and safety of voters during the by-election; 
+particularly those who are potentially vulnerable to infection. Accordingly, we have adopted 
+special measures to protect residents of aged care facilities and hospitals in the Eden-
+Monaro electorate during these extraordinary times, whilst still ensuring they can exercise 
+their right to vote. Based on medical advice, the AEC will be providing effective alternatives 
+to mobile polling (which are normally a feature of electoral events). Specifically, the AEC has 
+established a support team for these facilities and has already provided enrolment forms and 
+general postal vote applications for residents to complete and return to the AEC. Residents 
+of aged care facilities and hospitals will have the option to either vote via a postal vote 
+delivered directly to their facility; telephone voting for those who are blind or low vision; or by 
+attending a polling location (depending on their personal circumstances), which will have 
+health and safety measures in place.  
+
+The AEC will also maintain ongoing contact with aged care facilities and relevant hospitals in 
+the Division of Eden-Monaro to provide support, answer questions and deliver additional 
+enrolment and postal vote application forms, if needed.  
+
+Blind and Low Vision 
+
+Voters who are blind or have low vision can cast a vote in secret by telephone from any 
+location for the Eden-Monaro by-election. 
+
+Telephone voting is a simple two-step process, voters who are blind or have low vision will 
+be invited to register for a telephone vote by calling a dedicated 1800 number for this 
+election. They will not need to give their name when they vote using the telephone voting 
+service. Their registration number and pin will be used to mark their name off the electoral 
+roll, ensuring the voter’s identity remains secret. 
+
+Postal voting 
+
+Postal voting will be an important voting option available to eligible Eden-Monaro electors. 
+Postal voting helps minimise contact and movement, and given the COVID-19 environment, 
+it is anticipated that a greater number of voters will meet the eligibility criteria under the 
+legislation to apply for a postal vote in this by-election. 
+
+Page 3 
+
+Eden-Monaro by-election Service Plan
+
+
+--- Page 27 ---
+
+Voting at polling places 
+
+If on arrival voters are not able to immediately enter the 
+polling place, they will be required to queue outside 
+where social-distancing rules will be in place. Extra 
+queue controllers that have been appropriately trained 
+in social-distancing rules and the traditional “six-metre 
+rule” regarding campaigners will be outside the polling 
+place to ensure adherence to these important 
+measures. 
+
+The number of voters entering a polling place will be 
+counted at the door to limit the number of people inside 
+the polling place at any one time. Hand sanitiser will be 
+available at the entrance to the polling place and at 
+each ballot-paper issuing point and when exiting the 
+polling place. Signage about hygiene and social 
+distancing will be prominent in the polling place for 
+voters and staff.  
+
+Where possible a “sneeze shield” will be installed at all ballot-paper issuing points, and 
+issuing tables will be sprayed regularly with sanitising spray throughout the day and 
+whenever issuing staff are rotated. Voters will be encouraged to bring their own pencil or pen 
+to the polling place but electors will also be offered a single-use pencil when handed their 
+ballot papers. 
+
+Voting screens will separated by a distance of 1.5 metres and the plastic writing surface 
+inserted into the voting screen will be regularly cleaned with sanitising spray throughout 
+polling day. 
+
+AEC staff may wear surgical masks and will under no circumstances share their bibs or 
+lanyards with other staff. Bio-hazard bags will be used for the disposal of surgical masks, 
+gloves and cleaning cloth waste.  
+
+Photo opportunities of the inside of a polling place will only be allowed when there is a 
+sufficiently low number of voters present so social distancing can be maintained, and when 
+the Officer-in-Charge approves. 
+
+Campaigning at polling places 
+
+Whilst the AEC has no legislative jurisdiction or responsibility for campaigners outside six 
+metres of the entrance to the polling place, we acknowledge that the current COVID-19 
+environment may impact on their ability to hand our how-to-vote cards as they ordinarily 
+would for any other federal electoral event. Parties and candidates will need to ensure that 
+those campaigning on their behalf near a polling venue have fully informed themselves of 
+NSW Government health restrictions and laws in place regarding social distancing, and that 
+they abide by these directives. 
+
+Acknowledging the challenges faced by parties and candidates for this by-election, the AEC 
+has decided to assist parties and candidates by seeking to collect the details of all 
+candidate’s official campaign website addresses at the time of nomination. The AEC will 
+
+Page 4 
+
+Eden-Monaro by-election Service Plan
+
+
+--- Page 28 ---
+
+provide a link to these websites which will be available on the AEC website alongside the 
+candidate’s details. 
+
+Counting on election night at polling places 
+
+After 6pm, when the counting commences at polling places, hand sanitiser for all polling 
+place officials and scrutineers will be at the polling place entry point, at each sorting and 
+counting table, and at the exit to the polling place.  
+
+Ballot boxes will be cleaned with sanitising spray before they are opened for counting on the 
+tables. Staff will sanitise their hands immediately before and after they handle ballot-box 
+tags. 
+
+Surgical masks may be worn by both staff and scrutineers, and no sharing of bibs or 
+lanyards will be allowed. If practicable, “sneeze shields” may be used at each counting and 
+sorting table to separate scrutineers from counting staff. 
+
+There will be signs outlining the hygiene and social distancing rules, and those who do not 
+adhere to the rules will be requested to leave.  
+
+The area used for polling and counting at each polling place will be fully cleaned after 
+election night. 
+
+Counting at AEC out-posted centres 
+
+Hand sanitiser will be available at the entry and exit of the out-posted centre (OPC), at each 
+sorting and counting table and in break-out areas.  
+
+The outside surfaces of election materials returned to the OPC – including ballot boxes 
+transported on election night from pre-poll voting centres – will be cleaned with sanitising 
+spray on arrival. 
+
+Ballot boxes will be cleaned with sanitising spray before opening, and staff will wash or 
+sanitise their hands after handling ballot-box tags, and before and after each count of ballot 
+papers. Surgical masks may be worn both by staff and scrutineers and, if practicable, 
+“sneeze shields” will be used at each counting and sorting table to separate scrutineers from 
+counting staff. 
+
+The OPC will be set up with prominent hygiene signage and 1.5-metre standard markings on 
+the floor. There will be regular cleaning of surfaces, equipment and break-out areas during 
+operational hours. Only single-use water bottles will be allowed, all plates and cutlery must 
+be disposable, and there will be no provision for the serving of coffee or tea inside. 
+
+All equipment used for scrutiny will be cleaned before installing and it will also be regularly 
+cleaned during use and before return. Additional Security Officers and Hygiene Officers will 
+be present in the OPC to ensure everyone’s safety and adherence to the health measures. 
+They will be wearing distinctive bibs.  
+
+Deep cleaning of the OPC will occur overnight and at the conclusion of the counting. 
+Biohazard bags will be used to dispose of all waste from the clearing process.  
+
+Page 5 
+
+Eden-Monaro by-election Service Plan
+
+
+--- Page 29 ---
+
+When counting postal votes 
+
+The outside of all transport containers used by Australia Post or couriers will be sprayed with 
+sanitising spray prior to opening. 
+
+Hand sanitiser will be regularly applied by staff before opening batches of postal-vote 
+envelopes and the extraction of ballot papers. Staff will also wash or sanitise their hands 
+immediately before and after each count or when they handle batches of ballot papers.  
+
+Surgical masks should be worn by both staff and scrutineers.  
+
+At the declaration of the poll 
+
+Social-distancing rules will apply to all in attendance and seating will be appropriately 
+spaced. Hand sanitiser will be at the entrance and exit of the venue. 
+
+Page 6 
+
+Eden-Monaro by-election Service Plan
+
+
+--- Page 30 ---
+
+Achieving the AEC Service Standards  
+
+The AEC is committed to upholding five key service standards. 
+
+The AEC will support effective participation in the Eden-Monaro by-election by ensuring 
+information provided to the voting public and candidates is timely, accurate, comprehensive 
+and easy to understand. 
+
+The AEC will conduct a public information and education campaign and will deliver an official 
+guide for the by-election to households across the division. Information will also be available 
+on the AEC website including information in accessible formats. The AEC will provide 
+services to assist people living with disability to ensure they are not disadvantaged from 
+participating in the electoral process. 
+
+Prospective candidates will also be provided with a range of information and services. The 
+AEC website serves as a central information hub providing guidance on standing for election 
+to Parliament. 
+
+Standard 1: Voters and candidates receive timely  
+and accurate information 
+
+Achieved by: 
+
+The AEC will provide timely and accurate information using appropriate technology and 
+channels. 
+
+Details of voting centres (early voting centres and polling places) will be published on the 
+AEC website a minimum of 48 hours prior to being open to the public. 
+
+Information published on the AEC website about the location and accessibility of voting 
+centres (early voting centres and polling places) will be accurate. 
+
+Preliminary results will be published as soon as they are available. 
+
+Standard 2: The AEC delivers a high-quality service 
+
+Achieved by: 
+
+AEC staff will be courteous and professional in all their dealings with the public and 
+candidates.  
+
+Polling places will be inspected and assessed for accessibility. Polling place accessibility 
+rankings will be made available on the AEC website.  
+
+Enrolment claims received by the Close of Roll deadline will be processed in time for the 
+by-election. 
+
+Page 7 
+
+Eden-Monaro by-election Service Plan
+
+
+--- Page 31 ---
+
+Postal vote packs will be dispatched upon receipt of a valid and complete application 
+(once ballot papers are available), according to the following timeline: 
+
+  Prior to the Monday before election day 
+
+-  Paper postal vote applications – within five business days of receipt 
+
+-  Online postal vote applications – within three business days of receipt. 
+
+  From the Monday before polling day 
+
+-  Paper and online – within two business day of receipt. 
+
+Voting locations (including early voting centres and polling places) will open in 
+accordance with advertised dates and times. 
+
+Standard 3: Votes will be counted in accordance with the Electoral 
+Act and the public and stakeholders have confidence in the result     
+
+Achieved by: 
+
+After by-election night, accurate count information will be progressively updated on the 
+AEC website. 
+
+Ballot papers (both used and unused) will be accounted for.1 
+
+Standard 4: The public and stakeholders have confidence that the 
+electoral process is well managed 
+
+Achieved by: 
+
+The writ for the by-election will be returned in accordance with the relevant legislation. 
+
+The AEC’s conduct of the by-election is upheld in the event of any challenges to results 
+taken to the Court of Disputed Returns.  
+
+All instances of apparent multiple voting will be reviewed and dealt with in accordance 
+with AEC policy and procedures and within statutory timeframes. 
+
+All instances of apparent non-voting will be reviewed and dealt with in accordance with 
+AEC policy and procedures and within statutory timeframes. 
+
+1 The AEC will follow established processes to account for ballot papers from the time they are printed, issued to an elector, 
+placed in a ballot box (or discovered as discarded or returned as spoilt), counted and then placed in long term storage prior to 
+statutorily authorised destruction. The AEC will also follow established processes to account for ballot papers that are not 
+issued, from the time they are printed until statutorily authorised destruction. 
+
+Page 8 
+
+Eden-Monaro by-election Service Plan
+
+
+--- Page 32 ---
+
+Standard 5: By-election processes will  
+conform with federal, state and local health advice 
+
+Achieved by: 
+
+The by-election will be delivered in accordance with the COVID-19 operating model 
+(incorporated in this service plan) as endorsed by the Chief Medical Officer, and reviewed 
+by NSW and ACT health authorities. 
+
+Further information 
+
+For more information on the Eden-Monaro by-election visit the AEC website  
+or call 13 23 26.  
+Download the COVIDSafe app at covidsafe.gov.au. 
+
+Information in this service plan reflects circumstances at the time of publishing. The AEC will continue to monitor the COVID-19 
+situation and follow the advice from federal and state health authorities. This may result in changes to measures put in place. 
+
+Page 9 
+
+Eden-Monaro by-election Service Plan

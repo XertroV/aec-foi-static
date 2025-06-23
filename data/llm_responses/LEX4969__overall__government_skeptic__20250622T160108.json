@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The Australian Electoral Commission (AEC) stands accused of implementing a \"fundamentally lopsided\" and potentially biased approach to assessing votes in the upcoming referendum, raising serious concerns about the impartiality of a key government institution. Documents reveal that the AEC's Scrutineers Handbook (July 2023) intends to count a 'tick' as a 'yes' vote, but inexplicably dismiss a 'cross' as ambiguous and therefore informal. This administrative decision is flagged as having the potential to \"artificially skew the count towards the yes vote,\" directly undermining the integrity and fairness of the national ballot.\n\nCritics further highlight a glaring lack of transparency, noting that the AEC relies on legal advice from the Attorney-General’s Department for this controversial stance but refuses to release it, despite claims that legal privilege has been waived through public discussion of the advice. This withholding of crucial justification fuels suspicion of deliberate opacity. The AEC's defence that this approach is consistent with past referendums is dismissed as insufficient justification for a policy deemed \"not appropriate or legally correct,\" suggesting a pattern of questionable decision-making that prioritizes internal consistency over fundamental fairness and public confidence. Ultimately, the documentation points to a worrying instance where a government body's administrative choices could directly impact democratic outcomes and erode public trust in its neutrality."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 779,
+    "candidates_token_count": 269,
+    "total_token_count": 1929,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "As a government skeptic, summarize the following FOI documents. Assume a critical stance, scrutinizing government claims, highlighting potential inefficiencies, overreach, or lack of transparency. Focus on findings that suggest waste, power abuse, or questionable decision-making.\n\nDocuments:\n\n\n\n--- Page 1 ---\n\nDocument \nNo. \n\nDocument Title \n\nExemption \n\nDecision on Access \n\nLetter to Electoral Commissioner \n\nLetter to Cash/Dutton \n\nN/A \n\nN/A \n\nRelease in full \n\nRelease in full\n\n\n\n--- Page 1 ---\n\nTHE HON PETER DUTTON MP \nLEADER OF THE OPPOSITION \n\nMr Tom Rogers \nElectoral Commissioner \nAustralian Electoral Commission \n10 Mort St  \nCANBERRA ACT 2600 \n\nvia email: tom.rogers@aec.gov.au  \n\nDear Commissioner, \n\nWe are writing to express our serious concerns in relation to how the Australian \nElectoral Commission intends to assess the formality of votes at the upcoming \nreferendum.  \n\nIn the referendum, Australians will be asked to write ‘yes’ or ‘no’ on the ballot paper. \nA ballot paper will also be counted as a formal vote if the voter’s intention is clear – \nfor example, s 93(9) of the Referendum (Machinery Provisions) Act 1984 makes \nclear that a “Y” will count as a yes and a “N” will be accepted as a no.  \n\nHowever, the Scrutineers Handbook published in July 2023 goes much further than \nthe example provided above. The handbook indicates that while a tick will likely be \ntreated by the AEC as a ‘yes’ vote, a cross on its own is considered by the AEC to \nbe ambiguous, and therefore will be treated as informal. \n\nWith the greatest of respect, this approach is fundamentally lopsided. It risks \ndistorting the national vote. \n\nAustralians expect the AEC to act fairly and impartially in the execution of its duties. \nCounting a tick as a formal vote while simultaneously excluding a cross as informal \ncould artificially skew the count towards the yes vote, and fail to accurately reflect the \nwill of the Australian people.\n\n\n--- Page 2 ---\n\nWe understand that the AEC’s current approach is broadly consistent with the \napproach that it has adopted in previous referendums. However, just because the \nAEC has adopted this approach before, does not mean that it is appropriate or \nlegally correct.  \n\nGiven the AEC’s purported reliance on legal advice from the Attorney-General’s \nDepartment in reaching this view, the AEC should release this advice so the \nAustralian public can properly consider the AEC’s position. We note that any legal \nprofessional privilege that existed in the legal advice has clearly been waived by the \nAEC through its public statements about the advice over many years.  \n\nMore importantly, we call on you to reconsider the AEC’s approach. If a tick counts \nfor yes, a cross should count for no. To do otherwise gives the yes case an unfair \nadvantage, and has the potential to undermine the impartiality and fairness of the \nreferendum. \n\nIt is, after all, in the interests of every Australian to ensure that this basic standard of \nfairness is applied. \n\nYours sincerely \n\nPETER DUTTON \n\nMICHAELIA CASH \n\n24 August 2023\n\n\n\n--- Page 1 ---\n\n\n\n\n--- Page 2 ---\n\n\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

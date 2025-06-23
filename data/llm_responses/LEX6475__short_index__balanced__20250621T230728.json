@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "An FOI request for the Australian Electoral Commission's (AEC) 2023 \"Action Plan\" yielded a two-page \"2023 CENSUS ACTION PLAN\" from the \"SDFB - NO\" branch. This internal strategic and operational document focuses on enhancing the branch's team effectiveness, staff wellbeing, strategic thinking, and communication during 2023. Key actions include implementing short secondments (Jan-Jun 2023) for improved knowledge and resource allocation, conducting monthly strategic thinking activities (from Jun 2023) to connect work to broader objectives, and fostering better agency understanding through guest speakers and internal stakeholder invitations to section meetings (from Jun 2023). Progress on these actions, for which Directors and \"AC\" are responsible, is to be discussed at monthly branch meetings and updated on physical posters. Notably, the \"2023 CENSUS ACTION PLAN\" title refers to an internal branch plan coinciding with the 2023 Census period, not a plan for conducting the census itself."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 475,
+    "candidates_token_count": 221,
+    "total_token_count": 1535,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\nThe following is a summary of the provided documents associated with an FOI request:\n\n*   **Main purpose of the FOI request:** To obtain documents related to the Australian Electoral Commission's (AEC) planning, specifically an \"Action Plan,\" for 2023.\n*   **Documents from the FOI request:** The FOI response contains a two-page document titled \"2023 CENSUS ACTION PLAN,\" originating from the \"SDFB - NO\" branch/state of the Australian Electoral Commission.\n*   **Main content from the FOI request documents:** The \"2023 CENSUS ACTION PLAN\" is an internal strategic and operational plan for a specific AEC branch. Its primary focus is on enhancing internal team effectiveness, staff wellbeing, strategic thinking, and communication within the branch during the 2023 period. Key areas of action include:\n    *   **Team Building:** Developing a plan for short secondments across the branch (aiming for placements from January-June 2023) to improve knowledge, engagement, and resource allocation. The intended impact is better inter-section relationships and understanding of work pressures.\n    *   **Wellbeing & Strategic Thinking:** Implementing a monthly strategic thinking activity (ongoing from June 2023) to provide staff with time and space for strategic planning and to connect their work to broader agency and government objectives.\n    *   **Communication:** Inviting guest speakers from relevant stakeholder areas and inviting \"AC and BPO\" to section meetings (ongoing from June 2023) to foster a better understanding of agency functions and connections to the branch's work.\n\n    Progress on these actions is intended to be discussed at monthly branch meetings and updated on physical posters. Responsibility for these actions primarily lies with Directors and \"AC\" (likely Assistant Commissioner or similar role). The title \"2023 CENSUS ACTION PLAN\" appears to refer to an internal AEC branch's action plan for the period coinciding with the 2023 Census, rather than a plan for conducting the census itself.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

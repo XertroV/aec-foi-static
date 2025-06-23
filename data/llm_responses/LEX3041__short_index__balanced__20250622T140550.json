@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "FOI Request LEX3041 sought a list of \"foreign objects\" (non-ballots) found in ballot boxes and the Australian Electoral Commission's (AEC) response procedures. The AEC released the Election Procedures Handbook, Prematurely Opened Ballot Box Policy, and Prematurely Opened Ballot Box SOP. These documents reveal that the AEC's primary response to \"foreign objects\" (like personal items) is non-retrieval, as opening a box to retrieve such items would compromise electoral integrity, and no procedures or forms for listing or describing non-ballot foreign objects exist. While the \"Prematurely Opened\" documents detail handling for ballot boxes opened prematurely due to issues like seal discrepancies or damage, their focus is on managing the integrity and inclusion/exclusion of *ballots* and declaration vote envelopes, not on cataloging non-ballot items, consistently prioritizing the \"integrity of the result.\""
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 816,
+    "candidates_token_count": 187,
+    "total_token_count": 1243,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\n## FOI Request Summary: LEX3041\n\nThis summary addresses FOI Request No. LEX3041, focusing on \"foreign objects\" in ballot boxes and the Australian Electoral Commission (AEC)'s procedural responses.\n\n### Main Purpose of FOI Request\n\nThe request sought two primary pieces of information:\n1.  **A list of identifiers and descriptions** of \"foreign objects\" (defined as \"all objects received in ballot boxes that were not ballots\").\n2.  **The current 'playbooks'** that the AEC use, including pre-established methods and procedures, for responding to a \"foreign object\" in a ballot box.\n\n### Documents from FOI Request\n\nThe following documents were released in response to the request:\n*   **Static OIC Election Procedures Handbook** (Date: N/A)\n*   **Prematurely Opened Ballot Box Policy** (Date: 09/2021)\n*   **Prematurely Opened Ballot Box SOP** (Date: 07/2020)\n\n### Main Content Related to the FOI Request\n\n**1. Foreign Objects in Ballot Boxes:**\n*   **Definition:** The FOI request explicitly defines \"foreign objects\" as \"all objects received in ballot boxes that were not ballots.\"\n*   **AEC Guidance:**\n    *   The **Election Procedures Handbook** (Page 5) directly addresses the scenario of a voter dropping a \"personal something\" into a ballot box: \"although it may be distressing for a voter if they have dropped something personal into the ballot box, you must never open the ballot box to retrieve it as the integrity of the result is first priority.\"\n    *   This highlights that the primary procedural response to such a \"foreign object\" (specifically, a personal item) is **non-retrieval** due to the paramount importance of electoral integrity.\n*   **Absence of Listing/Description Procedures:** The provided documents do not contain procedures or forms for listing identifiers or descriptions of non-ballot \"foreign objects\" that may be received in ballot boxes. The focus is on preventing retrieval and maintaining ballot box integrity.\n\n**2. Procedural Response 'Playbooks':**\n*   The three documents provided (Election Procedures Handbook, Prematurely Opened Ballot Box Policy, and Prematurely Opened Ballot Box SOP) serve as the AEC's \"playbooks\" for ballot box procedures.\n*   **Election Procedures Handbook:** As noted above, this handbook explicitly states the procedural response to personal items dropped into ballot boxes: they are not to be retrieved, prioritizing \"integrity of the result.\"\n*   **Prematurely Opened Ballot Box Policy & SOP:** These documents outline detailed procedures for instances where a ballot box is opened *prematurely* (i.e., before the legislated time frame). This includes scenarios where:\n    *   A ballot box containing ordinary ballot papers or declaration vote envelopes is opened before the prescribed time.\n    *   A ballot box is discovered to have been opened prematurely.\n    *   Seal numbers on a ballot box do not match records and the discrepancy cannot be explained.\n    *   A cardboard ballot box splits or comes open, and ballot papers are spilt.\n*   **Focus on Ballot Integrity:** The Policy and SOP are designed to investigate and manage the impact of premature openings on the **ballot papers and declaration vote envelopes** contained within, determining whether they should be included or excluded from scrutiny. They do not detail procedures for recording or managing non-ballot \"foreign objects\" beyond the general instruction in the Election Procedures Handbook to not open the box to retrieve personal items. The guiding principle for all ballot box handling is maintaining the \"integrity of the result.\"\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

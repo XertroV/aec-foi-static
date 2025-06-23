@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The FOI documents revealing \"penalty notices\" for non-voters in the 2023 Canberra referendum underscore significant right-leaning concerns regarding economic efficiency, individual liberty, and limited government. The extensive bureaucratic apparatus required to track and penalize non-voters, even for a local administrative division, represents a questionable allocation of taxpayer funds, diverting resources to enforce compulsory participation rather than delivering essential services efficiently. This system profoundly infringes upon individual liberty by coercing civic engagement through financial penalties, undermining the fundamental right to abstain without government interference. Ultimately, it signifies an expansive government that overreaches into personal autonomy and micromanages civic life, rather than adhering to a limited scope focused on its essential duties."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 506,
+    "candidates_token_count": 144,
+    "total_token_count": 947,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a right-leaning perspective, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe provided FOI documents, detailing \"penalty notices regarding the 2023 referendum for the division of Canberra\" and \"statistics on non-voters,\" highlight government actions that prompt significant conservative scrutiny regarding economic efficiency, individual liberty, and limited government principles.\n\n**Economic Efficiency and Fiscal Responsibility:** The revelation of \"penalty notices\" for non-voters, categorized by those who \"responded by paying the $20 administrative penalty (PP),\" those who \"provided a valid reason for not voting (VS),\" and those who \"did not respond (NR),\" points to a substantial administrative bureaucracy. This system necessitates significant taxpayer expenditure for enforcement, tracking, and processing related to a referendum on an internal administrative division. From a fiscal responsibility standpoint, the cost-benefit of coercing participation in such a local matter, and the associated overhead of managing penalties, appears questionable and likely represents an inefficient allocation of public funds away from core government functions. It raises concerns that resources are being diverted to expand bureaucratic control rather than ensuring efficient delivery of essential services.\n\n**Individual Liberty:** The core issue presented by these documents is the implied system of compulsory voting, enforced through \"penalty notices.\" This fundamentally deviates from the conservative principle of individual liberty. Mandating civic participation and penalizing non-compliance infringes upon the freedom of the individual to choose whether or not to engage in political processes. A free society, under a limited government, should respect the individual's right to abstain without fear of government coercion or financial penalty, particularly for referendums concerning administrative rather than fundamental national issues. This represents an overreach of government into personal choice and autonomy.\n\n**Limited Government:** The mere existence of a governmental apparatus dedicated to tracking non-voters and imposing penalties for non-participation in a referendum on a regional administrative division signifies an expansive view of government's role. A limited government should focus on its essential duties—protecting rights, ensuring national security, and facilitating a free market—rather than expending resources on micromanaging civic engagement through coercive means. The administrative burden of this system reflects a government that has grown beyond its necessary scope, intruding into areas best left to individual discretion.\n\n**National Security:** The documents provide no direct information relevant to national security concerns.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

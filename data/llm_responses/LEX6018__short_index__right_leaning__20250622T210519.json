@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The Australian Electoral Commission's management of 2023 Lingiari referendum non-voters starkly deviates from core conservative principles. The vast administrative effort to issue 9110 penalty notices, generating a mere $17,300 while the majority went unpaid, highlights a profound lack of fiscal responsibility and economic inefficiency, squandering taxpayer resources on a coercive, ineffective enforcement mechanism. More fundamentally, compulsory voting itself, and the requirement for individuals to justify their non-participation to the state, represents a direct affront to individual liberty and personal autonomy, forcing citizen behavior rather than respecting freedom of choice. This extensive, intrusive bureaucratic apparatus for tracking and penalizing non-voters further exemplifies an expansive government overreach, contradicting the principle of limited government and minimal state intervention in personal decisions."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 483,
+    "candidates_token_count": 162,
+    "total_token_count": 1211,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a right-leaning perspective, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe provided FOI documents, detailing the Australian Electoral Commission's (AEC) management of non-voters for the 2023 Lingiari referendum, highlight several areas where government actions deviate from core conservative principles.\n\n**Economic Efficiency and Fiscal Responsibility:** The documents reveal a significant administrative burden and questionable economic efficiency in enforcing compulsory voting. Out of 9110 non-voters issued penalty notices, only 865 paid the $20 administrative penalty, generating a modest $17,300 in revenue. This sum is unlikely to cover the extensive costs associated with identifying non-voters, printing and mailing thousands of notices, processing responses, and managing the vast majority (5592, or approximately 61%) who did not respond at all. This represents a substantial allocation of taxpayer resources towards a coercive enforcement mechanism, demonstrating a lack of fiscal prudence and an inefficient use of public funds, particularly when the compliance rate through financial penalty is low.\n\n**Individual Liberty:** The very existence of \"penalty notices\" for non-voting is a direct affront to individual liberty. A core tenet of conservatism is the protection of individual freedom from government overreach. Compulsory voting dictates citizen behavior, forcing participation in the electoral process rather than allowing individuals the fundamental freedom to choose whether or not to engage. The requirement for non-voters to provide a \"valid reason\" to the state further infringes on personal autonomy, compelling citizens to justify their private choices to a government bureaucracy.\n\n**Limited Government:** The detailed administrative processes for tracking, penalizing, and managing non-voters exemplify an expansive and intrusive government. A limited government respects individual choice and focuses on essential functions, rather than mandating citizen participation in democratic processes and establishing a bureaucratic apparatus to enforce such mandates. The AEC's role in monitoring and sanctioning non-voters signifies an overreach of state power into personal decisions, rather than upholding the principle of minimal government intervention.\n\n**National Security:** These documents provide no direct information or insights related to national security. The disclosed information pertains exclusively to domestic electoral administration and compliance within Australia.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

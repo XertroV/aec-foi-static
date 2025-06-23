@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "An FOI request sought specific official documents related to individual nominations and qualifications for April 15, 2019, and April 13, 2022. The four identified responsive documents—signed Nomination Forms and Qualification Checklists for both dates—were all deemed subject to exemption under section 47F(1) for personal information. Consequently, the decision for all documents was \"Release in part,\" meaning the forms were provided with sensitive personal details redacted."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 265,
+    "candidates_token_count": 98,
+    "total_token_count": 608,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\n### FOI Request Summary\n\n*   **Main Purpose of FOI Request:** The request sought access to specific official documents related to the nomination and qualification of individuals for two distinct periods: April 15, 2019, and April 13, 2022.\n\n*   **Documents from FOI Request:** The following four documents were identified as responsive to the request:\n    *   Signed Nomination Form dated April 13, 2022\n    *   Signed Nomination Form dated April 15, 2019\n    *   Signed Qualification Checklist dated April 13, 2022\n    *   Signed Qualification Checklist dated April 15, 2019\n\n*   **Main Content and Outcome:** All listed documents were deemed subject to an exemption under section 47F(1), which typically pertains to personal information. Consequently, the decision for all documents was \"Release in part,\" indicating that the forms containing details about nominations and qualifications were provided, but sensitive personal information within them was redacted.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

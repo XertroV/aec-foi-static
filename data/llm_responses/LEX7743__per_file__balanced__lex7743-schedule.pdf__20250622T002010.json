@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "### Document Summary\n\nThe document is titled \"Client Details - AEC - Transparency Website.\" It indicates that it is a publicly available document with no relevant exemptions applicable.\n\n### Relevance to FOI Request\n\nThis document is the specific record \"Client Details - AEC - Transparency Website\" that was the subject of the FOI request. Its status as publicly available, as noted within the document itself, directly supports the FOI request's outcome of granting access without applying any exemptions."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 149,
+    "candidates_token_count": 95,
+    "total_token_count": 565,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. FYI the overview of the FOI request is: The FOI request sought access to the document \"Client Details - AEC - Transparency Website,\" which was found to be publicly available with no relevant exemptions, resulting in the granting of access.\n\nDocument Text:\n\n\n\n--- Page 1 ---\n\nDocument \nNo. \n\nDocument Title \n\nClient Details - AEC - Transparency Website \n\nExemption \n\nDecision on Access \n\nNo relevant exemptions \napplicable – publicly \navailable document  \n\nPublicly available\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

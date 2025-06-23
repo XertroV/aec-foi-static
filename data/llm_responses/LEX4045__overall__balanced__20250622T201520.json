@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The FOI request primarily sought **access to the electoral roll**.\n\nThe documents released in response to this request include:\n*   An **email related to access to the electoral roll**, likely initiating or discussing the request.\n*   A **signed deed for the roll**, suggesting a formal agreement or condition for access.\n*   Documents concerning **exemptions (s 47F)**, indicating certain information was withheld based on this exemption.\n*   A **decision on access (s 47F)**, outlining the determination made regarding the request.\n*   Documents granting **access to an edited copy** of the requested information, implying that full, unredacted access was not provided due to the applied exemptions.\n\nThe main content reveals that while access to the electoral roll was requested, the ultimate outcome involved granting access only to an **edited copy**, with specific exemptions (s 47F) applied to justify the redactions or limitations. This suggests a process where the request was evaluated, legal conditions (deed) were potentially involved, and a partial release of information was decided upon."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 205,
+    "candidates_token_count": 226,
+    "total_token_count": 1210,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Summarize the following documents in markdown format. These documents are the released documents associated with an FOI request. The summary should focus on: the main purpose of the FOI request, the documents from the FOI request, and the main content from the FOI request documents that relates to the FOI request.\n\nDocuments:\n\n\n\n--- Page 1 ---\n\nDocument \nNo. \n\nDocument Title \n\nEmail – Access to the electoral roll \n\nSigned Deed for Roll \n\nExemption \n\nDecision on Access \n\ns 47F \n\ns 47F \n\nAccess to edited copy \n\nAccess to edited copy\n\n\n\n--- Page 1 ---\n\n\n\n\n\n--- Page 1 ---\n\n\n\n\n--- Page 2 ---\n\n\n\n\n--- Page 3 ---\n\n\n\n\n--- Page 4 ---\n\n\n\n\n--- Page 5 ---\n\n\n\n\n--- Page 6 ---\n\n\n\n\n--- Page 7 ---\n\n\n\n\n--- Page 8 ---\n\n\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

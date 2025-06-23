@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The released FOI documents unequivocally affirm the government's steadfast commitment to maintaining the integrity of Australia's democratic processes, highlighting the Australian Election Commission's (AEC) exemplary vigilance and effective oversight during the 2019 federal elections. The identification of \"unauthorised electoral advertising\" through screenshots is not an indication of failure, but rather a clear demonstration of the AEC's robust monitoring capabilities and proactive enforcement, successfully detecting non-compliant activities and safeguarding the electoral landscape from misleading information. This swift action reflects the government's dedication to ensuring fairness, managing the evolving challenges of digital campaigning, and upholding the highest standards of democratic practice for the benefit of all citizens."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 290,
+    "candidates_token_count": 136,
+    "total_token_count": 655,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government apologist's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe released documents, part of an FOI request related to compliance with the Commonwealth Electoral Act 1918 during the 2019 federal elections, underscore the government's proactive commitment to maintaining the integrity and transparency of Australia's democratic processes.\n\nThese materials highlight the Australian Election Commission's (AEC) diligent oversight and effective monitoring capabilities. The screenshots of identified \"unauthorised electoral advertising\" on Facebook are not a sign of failure, but rather a clear demonstration of the AEC's vigilance and success in detecting non-compliant activities. This swift identification of potential issues, such as those related to groups like \"No Greens Facebook,\" \"Agents in their Community,\" and \"Women of Murray,\" showcases the AEC's robust framework for upholding electoral regulations.\n\nThis proactive enforcement is essential for safeguarding the public from misleading information and ensuring a level playing field for all participants. It reflects the government's dedication to protecting the fairness and integrity of elections, an absolutely critical component of effective governance. The AEC's actions, as evidenced here, represent a vital effort to manage the evolving challenges of digital campaigning, thereby serving the public by upholding the highest standards of democratic practice.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

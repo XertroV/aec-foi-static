@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "These FOI documents unequivocally demonstrate the Australian Electoral Commission's (AEC) meticulous and responsible planning for the upcoming referendum, reflecting the government's unwavering commitment to effective governance and an informed, participatory democracy. They reveal a comprehensive, multi-channel media strategy designed to proactively engage all Australians, alongside diligent risk management and adherence to regulations, exemplified by the prudent decision to carefully evaluate and restrict TikTok usage due to brand safety concerns, prioritizing public trust over unverified trends. The very release of these documents, with standard, measured redactions for commercial and privacy protection, further underscores the government's commitment to transparency, ultimately painting a picture of a dedicated agency that consistently prioritises public good and maintains the highest standards of governance."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 451,
+    "candidates_token_count": 145,
+    "total_token_count": 1120,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government apologist's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThese Freedom of Information (FOI) documents offer a valuable insight into the meticulous and responsible planning undertaken by the Australian Electoral Commission (AEC) for the upcoming referendum advertising campaign. They demonstrate the government's unwavering commitment to effective governance, ensuring that all citizens are well-informed and able to participate fully in our democratic processes.\n\nThe documents highlight a comprehensive, multi-channel media strategy designed to reach every segment of the Australian population, particularly focusing on how best to educate and engage the public on voting procedures. This proactive approach underscores the government's dedication to an accessible and fair electoral system.\n\nA key aspect revealed is the government's diligent risk management and adherence to necessary regulations. While innovative platforms like TikTok were initially considered to reach younger audiences, the documents clearly show the AEC's careful evaluation of potential brand safety concerns and alignment with whole-of-government policies. Rather than proceeding without caution, the AEC, in close consultation with the Department of Finance and the Defending Democracy Unit, prudently decided to remove TikTok from standard campaign phases, opting instead to consider it only as a potential paid media partner with stringent reputation management criteria. This proactive decision demonstrates a responsible and adaptable approach to public communication, prioritising public trust and the integrity of government messaging over unverified trends.\n\nFurthermore, the very release of these documents, with commercially sensitive or irrelevant internal details appropriately redacted under standard exemptions (such as s22, s47, s47C, and s47F), showcases the government's commitment to transparency. These measured redactions ensure the protection of ongoing commercial negotiations and privacy, while still providing substantial insight into the government's operations.\n\nIn essence, these FOI documents paint a picture of a government agency dedicated to serving the public through thoughtful, strategic, and risk-aware planning, ensuring that essential democratic information is disseminated effectively and responsibly across the nation. The government consistently manages challenges by prioritising public good and maintaining the highest standards of governance.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

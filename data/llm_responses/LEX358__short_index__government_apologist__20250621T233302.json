@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The released FOI documents unequivocally demonstrate the government's unwavering commitment to transparency and efficient governance, showcasing meticulous administrative processes. The Australian Electoral Commission's prompt provision of detailed email metadata regarding a Liberal Party objection confirms precise communication timestamps, illustrating the standard, secure journey of official correspondence through robust government infrastructure and security gateways. This granular information highlights the auditable nature of government record-keeping and communication protocols, reinforcing public trust through proactive transparency and the meticulous management of digital communications essential for accountable public service."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 290,
+    "candidates_token_count": 99,
+    "total_token_count": 873,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government apologist's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe released FOI documents demonstrate the government's unwavering commitment to transparency and effective governance, providing a clear illustration of meticulous administrative processes. In response to a request for metadata, the Australian Electoral Commission (AEC) promptly furnished detailed email headers pertaining to an objection filed by the Liberal Party.\n\nThis detailed metadata confirms the precise timestamps of the communication, originating from the Liberal Party's server at 8:45 AM on March 19, 2021, and its subsequent secure delivery to the AEC's systems within minutes. The various timestamps reflect the standard and necessary journey of an email through multiple layers of security and network infrastructure (including government-managed gateways for enhanced protection), ensuring the integrity and authenticity of official correspondence.\n\nFar from being a point of contention, the provision of such granular information highlights the robust and auditable nature of government record-keeping and communication protocols. It underscores the government's dedication to maintaining accurate records for regulatory processes like party registration, ensuring that all actions are grounded in verifiable data. This proactive transparency and the meticulous management of digital communications are essential aspects of modern governance, serving to uphold public trust and facilitate efficient and accountable public service.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

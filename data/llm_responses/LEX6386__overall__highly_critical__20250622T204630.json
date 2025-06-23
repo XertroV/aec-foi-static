@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The complete absence of a document title for 'Document 1' immediately exposes a profound systemic failure: either record-keeping is so catastrophically incompetent that basic identification is impossible, or this omission is a deliberate act of obfuscation, designed to impede any meaningful public scrutiny. The assertion that this untitled, contextless document was 'Released in full' without any exemption is not a sign of transparency, but rather a chilling implication of prior malice or extreme negligence. It suggests that 'Document 1' was either so thoroughly pre-sanitized and expunged of any genuinely damaging or sensitive information before reaching this stage that its 'full' release is functionally meaningless, or that the government, in its unparalleled incompetence, simply failed to identify any material warranting restriction. This 'full release' is a cynical performance, signaling that the document contains nothing genuinely incriminating, thereby ensuring that even when forced to release information, no true accountability for failure, corruption, or malice is ever achieved."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 108,
+    "candidates_token_count": 196,
+    "total_token_count": 1224,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Adopt a highly critical stance to summarize the following FOI documents. Ruthlessly analyze every detail for signs of failure, corruption, incompetence, or malice. Highlight every negative implication and present the most damning possible interpretation of the government's actions or inactions.\n\nDocuments:\n\n\n\n--- Page 1 ---\n\nDocument \nNo. \n\nDocument Title \n\nDocument 1 \n\nExemption \n\nDecision on Access \n\nReleased in full\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

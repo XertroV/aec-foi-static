@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "FOI Request LS6374 sought all correspondence and detailed records between Australian Electoral Commission (AEC) officers and Democratic Labour Party (DLP) representatives concerning the DLP's representations for a review of its de-registration decision, covering April 23, 2015, to March 1, 2016. The released documents, comprising edited emails, letters, and file notes of conversations, detail interactions between various AEC officers (e.g., Tom Rogers, Paul Pirani) and DLP representatives (e.g., Michael Byrne). Key content includes the AEC's formal de-registration notification to the DLP on May 19, 2015, the DLP's subsequent explicit requests for an extension and a formal \"Request for Review under s. 141(2),\" and the AEC's detailed responses regarding the review submission process, with a concentrated period of communication from May through early June 2015."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 652,
+    "candidates_token_count": 200,
+    "total_token_count": 1304,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\n## FOI Request LS6374 Summary\n\n### Main Purpose of the FOI Request\n\nThe main purpose of FOI Request LS6374 was to obtain all correspondence (via any media) and detailed records (including file notes of meetings and telephone conversations) between the Australian Electoral Commission (AEC) officers and representatives of the Democratic Labour Party (DLP). This information was sought specifically regarding the DLP's representations to the Commission requesting a review of the original de-registration decision, whether accepted under s.141(2) of the Act or otherwise. The request covered the period from April 23, 2015, up to and including March 1, 2016.\n\n### Documents from the FOI Request\n\nThe released documents consist of a schedule of 41 items (one removed as out of scope), primarily comprising:\n*   **Emails:** Many were edited copies or included s47F redactions.\n*   **Letters:** Edited copies were provided.\n*   **File Notes:** Records of telephone conversations and face-to-face discussions.\n*   **Notes:** Records of conversations.\n\nThese documents detail communications between various AEC officers (e.g., Tom Rogers, Kevin Kitson, Giles Tranter, Paul Pirani, Luke Phelps) and representatives of the Democratic Labour Party (e.g., Michael Byrne - Federal Secretary, Rosemary Lorrimar - Federal President, Clara Geoghegan - State Secretary), as well as a letter from the Victorian Electoral Commission.\n\n### Main Content Related to the FOI Request\n\nThe main content of the released documents directly addresses the FOI request by detailing the interactions between the AEC and the DLP concerning the party's de-registration and subsequent review efforts:\n*   **De-registration Decision:** A letter dated May 19, 2015, from the AEC formally notified the DLP of its decision to de-register the party.\n*   **DLP's Request for Review and Extension:** Numerous emails and letters from Michael Byrne (DLP Federal Secretary) in late May 2015 explicitly requested an extension of time and, critically, a formal \"Request for Review under s. 141(2)\" of the de-registration decision.\n*   **AEC's Responses and Process:** AEC officers, particularly Paul Pirani (Chief Legal Officer) and Luke Phelps (Senior Lawyer), engaged in extensive email and recorded telephone correspondence with DLP representatives. This communication focused on the process for submitting a review request, clarification of details, and the AEC's internal handling of the review application.\n*   **Timeline:** The documents highlight a concentrated period of back-and-forth communication, primarily from May 19, 2015, through early June 2015, demonstrating the immediate and ongoing dialogue surrounding the de-registration and the DLP's efforts to challenge it through the review process.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The FOI documents reveal significant right-leaning concerns over the Australian Electoral Commission's (AEC) perceived deviation from core conservative principles. Primarily, the AEC's policy of counting a 'tick' as 'yes' while deeming a 'cross' ambiguous for referendums is seen as directly undermining individual liberty and threatening to disenfranchise 'no' voters, thus distorting the democratic will and fair representation. This approach further raises concerns about limited government, as an unelected body appears to overstep its neutral mandate by granting an unfair advantage, eroding public trust in impartial governance. Additionally, the demand for the AEC to release its legal advice highlights a crucial call for greater transparency and accountability, vital for ensuring good stewardship and public confidence in government agencies and the integrity of the electoral process."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 435,
+    "candidates_token_count": 159,
+    "total_token_count": 1236,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a right-leaning perspective, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe provided FOI documents, specifically the letter from Peter Dutton and Michaelia Cash to the Electoral Commissioner, reveal significant concerns regarding government actions that deviate from core conservative principles.\n\n**Individual Liberty and Fair Representation:** The primary concern articulated is the Australian Electoral Commission's (AEC) policy for assessing referendum votes, where a \"tick\" is likely counted as a 'yes' vote, but a \"cross\" is deemed ambiguous and informal. This approach directly undermines individual liberty by threatening to disenfranchise voters whose clear intent to vote 'no' is arbitrarily invalidated. It risks distorting the national vote and failing to accurately reflect the will of the Australian people, thereby compromising the individual's fundamental right to fair and equal participation in the democratic process.\n\n**Limited Government and Impartiality:** The letter critically questions the AEC's impartiality, stating that \"Australians expect the AEC to act fairly and impartially.\" By implementing a rule that gives the 'yes' case an \"unfair advantage,\" the AEC, an unelected government body, is perceived to be overstepping its neutral administrative role. This action deviates from the principle of limited government, which dictates that government agencies should operate strictly within their defined mandates, facilitating democratic processes without manipulating or influencing outcomes. Such perceived bias from a government institution erodes public trust in impartial governance.\n\n**Fiscal Responsibility and Transparency:** While not directly addressing fiscal expenditure, the demand for the AEC to release its legal advice from the Attorney-General's Department highlights a call for greater transparency and accountability from a government agency. A lack of transparency in the legal justifications for such a critical and potentially biased policy decision can obscure underlying inefficiencies or a lack of rigorous adherence to equitable principles, which in turn reflects poor stewardship and indirectly impacts the public's confidence in how public resources and authority are exercised. An electoral process perceived as unfair could ultimately lead to less effective governance and less efficient allocation of resources.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

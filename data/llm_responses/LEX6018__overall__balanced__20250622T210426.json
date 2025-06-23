@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The FOI request sought statistical data concerning responses to penalty notices issued to non-voters in the 2023 referendum for the electoral division of Lingiari. The request aimed to understand how non-voters addressed these notices, specifically categorizing them by those who paid an administrative penalty, provided a valid reason for not voting, or did not respond.\n\nThe following documents were released in part under Section 22:\n*   \"Search results: response to penalty notices regarding the 2023 referendum for the division of Lingiari.\"\n*   \"Search results: non-voters regarding the 2023 referendum who provided a valid reason not to vote for the division of Lingiari.\"\n\nThe main content of the released documents indicates the following statistics for the 2023 referendum in the division of Lingiari:\n*   Out of a total of **9110** non-voters who received penalty notices:\n    *   **588** individuals provided a valid reason for not voting (VS).\n    *   **865** individuals responded by paying the $20 administrative penalty (PP).\n    *   **5592** individuals did not respond to the first penalty notice (NR).\n*   A separate statistical report specifically confirms **588** valid replies were entered, aligning with the number of individuals who provided a valid reason for not voting."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 594,
+    "candidates_token_count": 299,
+    "total_token_count": 2106,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Summarize the following documents in markdown format. These documents are the released documents associated with an FOI request. The summary should focus on: the main purpose of the FOI request, the documents from the FOI request, and the main content from the FOI request documents that relates to the FOI request.\n\nDocuments:\n\n\n\n--- Page 1 ---\n\nDocument \nNo. \n\nDocument Title \n\nExemption \n\nDecision on Access \n\nSearch results: response to penalty notices regarding the 2023 \nreferendum for the division of Lingiari.  \n\nSection 22 \n\nRelease in part  \n\n Note: the table headings correspond to : \n\n• \n\n• \n\n• \n\nthose who responded by paying the $20 administrative penalty (PP); \n\nthose who provided a valid reason for not voting (VS); and  \n\nthose who did not respond to the first penalty notice (NR).  \n\nSearch results: non-voters regarding the 2023 referendum who \nprovided a valid reason not to vote for the division of Lingiari. \n\nSection 22 \n\nRelease in part\n\n\n\n--- Page 1 ---\n\nRMNSR2P1       AEC Roll Management System - NT  - PRODUCTION \n RMNSR2M1 \n Statistics on Reply Reason Code \n -------------------------------------------------------------------------------\n         VS              PP         NR  \n Area        \n -------------------------------------------------------------------------------\n\n 14/05/2024\n 11:45 \n\n   Total \n\n  1 \n\n          588 \n\n    865 \n\n 5592 \n\n 9110 \n\n -------------------------------------------------------------------------------\n Enter-PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10--PF11--PF12---\n\n Cont        Rstrt                   Up    Down  Help  Menu\n\n\n--- Page 2 ---\n\nRMNSV1P1       AEC Roll Management System - NT  - PRODUCTION        14/05/2024\n  RMNSV1M2  Statistics on Valid Replies entered for All Notices       11:39     \n -------------------------------------------------------------------------------\n                                                         Total   \n -------------------------------------------------------------------------------\n                              588   \n    1            \n\n -------------------------------------------------------------------------------\n Enter-PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10--PF11--PF12---\n       Cont        Rstrt                   Up    Down  Help  Menu\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "FOI Request LS7791 sought unredacted copies of approximately 30 objections lodged with the Australian Electoral Commission (AEC) against the registration of \"The Women's Party.\" The released documents, comprising 15 third-party emails sent between January and February 2019, consistently raised concerns that the party's name was misleading, particularly given its international association with Radical Feminism. A central objection was that the party's registered officer, Divvi de Vendre, identified as a transgender individual born male, made the party's name \"misleading and offensive\" and excluded biological women. Objectors also framed the registration as an act of political sabotage against grassroots feminist work, an attempt to mislead voters with \"anti-woman propaganda,\" and cited various sections of the Electoral Act."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 705,
+    "candidates_token_count": 166,
+    "total_token_count": 1277,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\nThis summary details FOI Request LS7791 concerning objections to the registration of \"The Women's Party\".\n\n### Main Purpose of the FOI Request\nThe primary purpose of FOI Request LS7791 was to obtain unredacted copies of approximately 30 objections lodged with the Australian Electoral Commission (AEC) against the registration of \"The Women's Party\". These objections were made during the application process, in response to AEC advertising calling for objections under Section 132 of the Electoral Act.\n\n### Documents from the FOI Request\nThe released documents consist of multiple emails from third-party individuals to the AEC. These emails were sent between January 22, 2019, and February 10, 2019. The schedule of published documents lists 15 distinct emails (Document Nos. 1, 3, 5, 6, 11, 13, 16, 17, 20, 21, 24, 25, 26, 32), all described as \"Email from third party individual to the AEC re registration of The Women’s Party.\"\n\n### Main Content from the FOI Request Documents\nThe core content of the released emails reveals a consistent set of objections and concerns regarding the proposed registration of \"The Women's Party\":\n\n*   **Misleading Name & Confusion:** Many objectors argued that the name \"The Women's Party\" is misleading. They frequently cited that \"The Women's Party\" is internationally known as a Radical Feminist Party and that registering a \"non-feminist party\" under this name would cause significant confusion among voters, potentially garnering \"false votes.\"\n*   **Registrant's Identity (Divvi de Vendre):** A central point of contention was the identity of the registered officer, Divvi de Vendre, who is consistently identified by objectors as a transgender individual born male.\n    *   Objectors stated that the party's registration by a biological male was \"misleading and offensive\" and incompatible with a party named \"Women's Party,\" which they believe should be led by and represent biological females with female-centred politics.\n    *   Some emails explicitly stated that the name \"excludes women born women\" if based on \"notions of gender rather than that of biological sex.\"\n*   **Political Sabotage:** Several objections framed the registration as an \"act of sabotage of grassroots feminist work\" and a hindrance to the formation of a strong, genuine \"Women's Party\" in Australia. Concerns were raised that it could prevent the reactivation of a previously feminist-aligned party that had used similar names.\n*   **Intent and Propaganda:** One objection specifically suggested the party's intent was to mislead \"less-politically savvy females\" and disseminate \"anti-woman propaganda.\"\n*   **Legal Grounds:** Objectors referenced various sections of the Australian Electoral Act in their formal objections, including Section 132 (the general provision for objections), Section 129, Section 137 Subsection 2, Section 134A, and Section 138A.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "These Freedom of Information documents exemplify the government's profound commitment to transparency and robust governance. The diligent processing of requests, including those for Nomination Forms and Qualification Checklists from both 2019 and 2022, underscores a dedication to public access.\n\nThe decision to release these important documents \"in part\" represents a careful and responsible balancing act. This approach ensures that the public receives substantial information while judiciously safeguarding sensitive personal details, consistent with exemption 47F(1). This protection of individual privacy is a cornerstone of ethical governance and essential for maintaining the trust and integrity of our processes.\n\nThe very nature of these documents—nomination and qualification materials—further highlights the government's rigorous standards and commitment to ensuring that only highly qualified individuals are entrusted with public service. This unwavering focus on merit and proper procedure is fundamental to effective administration and delivers positive outcomes for all citizens. Any redactions are not limitations on transparency but a necessary and expertly managed aspect of serving the public good by upholding both accountability and the privacy rights of individuals."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 363,
+    "candidates_token_count": 213,
+    "total_token_count": 1566,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "As a government apologist, summarize the following FOI documents. Assume a supportive stance, emphasizing effective governance, necessary regulations, and positive outcomes. Frame any controversies as challenges effectively managed or essential actions for public good. Highlight the government's efforts to serve the public.\n\nDocuments:\n\n\n\n--- Page 1 ---\n\nDocument \nNo. \n\nDocument Title \n\nExemption \n\nDecision on Access \n\nSigned Nomination Form 13.04.2022 \n\n47F(1) \n\nRelease in part \n\nSigned Nomination Form 15.04.2019 \n\n47F(1) \n\nRelease in part \n\nSigned Qualification Checklist 13.04.2022 \n\n47F(1) \n\nRelease in part \n\nSigned Qualification Checklist 15.04.2019 \n\n47F(1) \n\nRelease in part\n\n\n\n--- Page 1 ---\n\n\n\n\n--- Page 2 ---\n\n\n\n\n\n--- Page 1 ---\n\n\n\n\n--- Page 2 ---\n\n\n\n\n\n--- Page 1 ---\n\n\n\n\n--- Page 2 ---\n\n\n\n\n--- Page 3 ---\n\n\n\n\n--- Page 4 ---\n\n\n\n\n--- Page 5 ---\n\n\n\n\n--- Page 6 ---\n\n\n\n\n--- Page 7 ---\n\n\n\n\n--- Page 8 ---\n\n\n\n\n--- Page 9 ---\n\n\n\n\n--- Page 10 ---\n\n\n\n\n\n--- Page 1 ---\n\n\n\n\n--- Page 2 ---\n\n\n\n\n--- Page 3 ---\n\n\n\n\n--- Page 4 ---\n\n\n\n\n--- Page 5 ---\n\n\n\n\n--- Page 6 ---\n\n\n\n\n--- Page 7 ---\n\n\n\n\n--- Page 8 ---\n\n\n\n\n--- Page 9 ---\n\n\n\n\n--- Page 10 ---\n\n\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

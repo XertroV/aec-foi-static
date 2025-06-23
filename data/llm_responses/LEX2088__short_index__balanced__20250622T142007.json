@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "FOI request LEX2088 sought PDF copies of the five formally declared Federal Election 2022 candidate nominations for the division of Cook, identifying Catherine Elizabeth Dyson, Jacqueline Guinane, Simon Roger Earle, Scott John Morrison, and Gaye Cameron. The released documents primarily consist of a \"SCHEDULE OF PUBLISHED DOCUMENTS\" listing the relevant AECEF060, AEC060-a, and AEC060-b nomination forms, alongside extensive pages detailing the \"REDACTION CODES\" applied. While confirming the existence and types of these documents, the actual content of the nomination forms is heavily redacted to withhold personal information (e.g., name, address, signature, citizenship), business information, and other exempt categories such as legal professional communication or electoral roll material, in accordance with the Freedom of Information Act 1982."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 668,
+    "candidates_token_count": 175,
+    "total_token_count": 1176,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\n## Summary of FOI Request Documents\n\nThis document set pertains to Freedom of Information (FOI) request LEX2088.\n\n### Main Purpose of the FOI Request\nThe primary purpose of the FOI request was to obtain a PDF copy of the five formally declared Federal Election 2022 candidate nominations for the division of Cook in the House of Representatives.\n\n### Documents from the FOI Request\nThe FOI request documents primarily consist of a \"SCHEDULE OF PUBLISHED DOCUMENTS\" listing the relevant nomination forms and multiple pages detailing the \"REDACTION CODES\" applied to the released material. The actual content of the nomination forms themselves is heavily redacted in the provided release.\n\nThe scheduled documents relate to five candidates for the Division of Cook:\n*   **Catherine Elizabeth Dyson:** Nomination Form (AECEF060) and Bulk Nomination (AEC060-a).\n*   **Jacqueline Guinane:** Nomination Form (AECEF060) and Bulk Nomination (AEC060-a).\n*   **Simon Roger Earle:** Bulk Nomination (AEC060-a), noting Document No. 5 is subject to exhaustion of third-party review rights.\n*   **Scott John Morrison:** Nomination Form (AECEF060) and Bulk Nomination (AEC060-a).\n*   **Gaye Cameron:** Facsimile transmission of Nomination Form (AECEF060) and Single Nomination (AEC060-b).\n\n### Main Content from FOI Request Documents\nThe key content provided by this FOI release, beyond the request itself, is:\n*   **Identification of Candidates and Forms:** The schedule confirms the specific candidates (Catherine Elizabeth Dyson, Jacqueline Guinane, Simon Roger Earle, Scott John Morrison, Gaye Cameron) and the types of nomination forms (AECEF060, AEC060-a, AEC060-b) associated with their formal declaration for the 2022 Federal Election in the Division of Cook.\n*   **Redaction Information:** Multiple pages of \"REDACTION CODES\" are included, detailing the specific categories of information that have been withheld from the nomination forms. These categories include:\n    *   **Personal Information:** Name, date/place of birth, citizenship, photograph, signatures, addresses, email/phone numbers, political/religious beliefs, health, employment history, qualifications, and other identifying details.\n    *   **Business Information:** Bank account/billing details, trade secrets, and information that could adversely affect lawful business or prejudice future supply of information.\n    *   **Other Exemptions:** Legal professional communication, deliberative material, electoral roll material, and information related to the proper and efficient conduct of AEC operations or investigations.\n\nIn essence, the FOI request confirms the existence and types of nomination documents for the specified candidates but releases them with significant redactions to protect sensitive personal and business information under the Freedom of Information Act 1982.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The FOI request primarily sought information regarding non-voters in the 2023 referendum for the division of Canberra.\n\nThe documents released in response to the request are:\n*   \"Search results: response to penalty notices regarding the 2023 referendum for the division of Canberra.\"\n*   \"Statistics on non-voters regarding the 2023 referendum who provided a valid reason not to vote.\"\n\nThe main content from the released documents pertains to the categorized responses of individuals who did not vote in the 2023 referendum in the division of Canberra. This includes data on:\n*   Those who paid the $20 administrative penalty (PP).\n*   Those who provided a valid reason for not voting (VS).\n*   Those who did not respond to the first penalty notice (NR).\nAdditionally, broader statistics are provided on non-voters who offered a valid reason for their non-participation. Both documents were released in part under Section 22."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 259,
+    "candidates_token_count": 208,
+    "total_token_count": 1029,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Summarize the following documents in markdown format. These documents are the released documents associated with an FOI request. The summary should focus on: the main purpose of the FOI request, the documents from the FOI request, and the main content from the FOI request documents that relates to the FOI request.\n\nDocuments:\n\n\n\n--- Page 1 ---\n\nDocument \nNo. \n\nDocument Title \n\nExemption \n\nDecision on Access \n\nSearch results: response to penalty notices regarding the 2023 \nreferendum for the division of Canberra.  \n\nSection 22 \n\nRelease in part  \n\n Note: the table headings correspond to: \n\n• \n\n• \n\nthose who responded by paying the $20 administrative penalty (PP); \n\nthose who provided a valid reason for not voting (VS); and  \n\nthose who did not respond to the first penalty notice (NR).  \n\nStatistics on non-voters regarding the 2023 referendum who \nprovided a valid reason not to vote.  \n\nSection 22 \n\nRelease in part\n\n\n\n--- Page 1 ---\n\n\n\n\n\n--- Page 1 ---\n\n\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

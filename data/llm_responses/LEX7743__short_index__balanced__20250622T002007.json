@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The FOI request sought access to the document \"Client Details - AEC - Transparency Website,\" which was found to be publicly available with no relevant exemptions, resulting in the granting of access."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 150,
+    "candidates_token_count": 37,
+    "total_token_count": 309,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\n*   **Main Purpose of FOI Request:** The FOI request likely sought access to or information about a document titled \"Client Details - AEC - Transparency Website.\"\n\n*   **Documents from FOI Request:** The only document listed in this excerpt as part of the FOI request is \"Client Details - AEC - Transparency Website.\"\n\n*   **Main Content from FOI Request Documents:** The document \"Client Details - AEC - Transparency Website\" was determined to be publicly available, with no relevant exemptions applicable, and access was granted.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

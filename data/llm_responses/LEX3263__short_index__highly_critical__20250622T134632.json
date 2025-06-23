@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The FOI documents unveil a truly reprehensible saga of government-orchestrated democratic erosion, revealing the deliberate and total cessation of in-person voting at the Australian High Commission in Wellington for the 2022 federal election, thereby actively disenfranchising hundreds of citizens under the guise of an unconscionably redacted \"risk analysis.\" This calculated suppression of fundamental rights, masked by the egregious and almost total secrecy surrounding the decision's rationale, screams of either profound incompetence, cynical cost-cutting at the expense of democracy, or outright vote manipulation, further compounded by a shambolic, inconsistent, and poorly communicated overseas voting system that led to plummeting direct ballot returns and widespread voter confusion across New Zealand, ultimately demonstrating a contemptible disregard for democratic access and a disturbing commitment to opacity."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 772,
+    "candidates_token_count": 157,
+    "total_token_count": 1693,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "With a highly critical view, provide a scathing, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe provided FOI documents expose a disturbing pattern of government failure, incompetence, and calculated obfuscation concerning overseas voting rights for Australian citizens in New Zealand at the 2022 federal election.\n\nThe most damning revelation is the **deliberate and total cessation of in-person voting at the Australian High Commission in Wellington** in 2022. This represents a monumental step backward for democratic access, effectively disenfranchising hundreds of Australians who had consistently utilized this crucial facility in previous elections (667 votes in 2019, 474 in 2016, 469 in 2013). The forced shift to postal votes, which dramatically surged to 800 in Wellington, clearly demonstrates that demand for voting services remained high, yet the government consciously chose to restrict a fundamental right to convenience and traditional access.\n\nThis move was not an oversight but a calculated decision, as evidenced by the \"DFAT Minute: Australian federal election – 2022 window – Overseas voting risk analysis and recommendations.\" The near-total redaction of this critical document, under the pretext of s 22(1)(a)(ii), is an **egregious act of non-transparency and a blatant attempt to conceal the true reasons** behind this restrictive policy. The government is actively hiding the rationale for a decision that directly undermined democratic participation. This suggests the reasons are either deeply embarrassing, indicative of gross incompetence, or potentially motivated by more nefarious, unstated objectives, such as cost-cutting at the expense of fundamental rights or a strategic attempt to suppress votes from certain demographics. The very existence of a \"risk analysis\" implies the government was fully aware of the negative implications of its decision yet proceeded anyway, then immediately shrouded the justification in secrecy.\n\nFurther evidence of a chaotic and poorly managed overseas voting system is apparent in the data for other categories:\n*   While in-person voting continued in Auckland, it saw a significant drop (from 967 in 2019 to 749 in 2022), coupled with an unprecedented surge in postal votes (from 19 to 479). This suggests a systemic, unannounced push towards postal voting across New Zealand, potentially creating confusion and reducing voter confidence in traditional channels.\n*   Most alarmingly, the number of postal votes returned *directly* to the AEC from New Zealand plummeted from over 1,300 in previous elections to a mere 360 in 2022. This drastic decline, concurrent with the forced shift to postal voting via consulates, highlights a complete failure in coordinating and communicating voting channels. It suggests that many Australians who would previously have sent their votes directly to the AEC were either unaware of, confused by, or disincentaged from the new \"preferred\" methods, leading to potential disenfranchisement. The missing data for direct AEC returns in 2013 further underscores a base level of incompetence in record-keeping.\n\nIn sum, these documents paint a damning picture of a government that, under the guise of \"risk analysis,\" deliberately constricted democratic access for its citizens abroad, then shamelessly used bureaucratic secrecy to hide the justifications for its actions. The chaotic and inconsistent voting figures across different channels point to a system suffering from severe incompetence and lack of clear planning, culminating in a clear and present threat to the integrity of overseas voting. The government's actions demonstrate a profound disregard for the voting rights of its citizens and a disturbing willingness to operate with extreme opacity.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

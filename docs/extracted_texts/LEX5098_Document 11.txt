@@ -1,0 +1,796 @@
+
+
+--- Page 1 ---
+
+OFFICIAL 
+
+Briefing 
+
+1 
+
+Section 22Section 22
+
+
+--- Page 2 ---
+
+Section 22
+
+
+--- Page 3 ---
+
+Section 22
+
+
+--- Page 4 ---
+
+Section 22
+
+
+--- Page 5 ---
+
+Section 22
+
+
+--- Page 6 ---
+
+Section 22
+
+
+--- Page 7 ---
+
+Section 22
+
+
+--- Page 8 ---
+
+Section 22
+
+
+--- Page 9 ---
+
+Section 22
+
+
+--- Page 10 ---
+
+Section 22
+
+
+--- Page 11 ---
+
+Section 22
+
+
+--- Page 12 ---
+
+Section 22
+
+
+--- Page 13 ---
+
+Section 22
+
+
+--- Page 14 ---
+
+Section 22
+
+
+--- Page 15 ---
+
+Section 22
+
+
+--- Page 16 ---
+
+Section 22
+
+
+--- Page 17 ---
+
+Section 22
+
+
+--- Page 18 ---
+
+Section 22
+
+
+--- Page 19 ---
+
+Section 22
+
+
+--- Page 20 ---
+
+Section 22
+
+
+--- Page 21 ---
+
+Section 22
+
+
+--- Page 22 ---
+
+Section 22
+
+
+--- Page 23 ---
+
+Section 22
+
+
+--- Page 24 ---
+
+Section 22
+
+
+--- Page 25 ---
+
+Section 22
+
+
+--- Page 26 ---
+
+Section 22
+
+
+--- Page 27 ---
+
+Section 22
+
+
+--- Page 28 ---
+
+Section 22
+
+
+--- Page 29 ---
+
+Section 22
+
+
+--- Page 30 ---
+
+Section 22
+
+
+--- Page 31 ---
+
+Section 22
+
+
+--- Page 32 ---
+
+Section 22
+
+
+--- Page 33 ---
+
+Section 22
+
+
+--- Page 34 ---
+
+Section 22
+
+
+--- Page 35 ---
+
+Section 22
+
+
+--- Page 36 ---
+
+Section 22
+
+
+--- Page 37 ---
+
+Section 22
+
+
+--- Page 38 ---
+
+Section 22
+
+
+--- Page 39 ---
+
+Section 22
+
+
+--- Page 40 ---
+
+Section 22
+
+
+--- Page 41 ---
+
+Section 22
+
+
+--- Page 42 ---
+
+Section 22
+
+
+--- Page 43 ---
+
+Section 22
+
+
+--- Page 44 ---
+
+Section 22
+
+
+--- Page 45 ---
+
+Section 22
+
+
+--- Page 46 ---
+
+Section 22
+
+
+--- Page 47 ---
+
+Section 22
+
+
+--- Page 48 ---
+
+Section 22
+
+
+--- Page 49 ---
+
+Section 22
+
+
+--- Page 50 ---
+
+Section 22
+
+
+--- Page 51 ---
+
+Section 22
+
+
+--- Page 52 ---
+
+Section 22
+
+
+--- Page 53 ---
+
+Section 22
+
+
+--- Page 54 ---
+
+Section 22
+
+
+--- Page 55 ---
+
+Section 22
+
+
+--- Page 56 ---
+
+Section 22
+
+
+--- Page 57 ---
+
+Section 22
+
+
+--- Page 58 ---
+
+Section 22
+
+
+--- Page 59 ---
+
+Section 22
+
+
+--- Page 60 ---
+
+1 
+
+Section 22
+
+
+--- Page 61 ---
+
+Section 22
+
+
+--- Page 62 ---
+
+Section 22
+
+
+--- Page 63 ---
+
+Section 22
+
+
+--- Page 64 ---
+
+Roll Integrity
+
+
+--- Page 65 ---
+
+
+
+
+--- Page 66 ---
+
+
+
+
+--- Page 67 ---
+
+OFFICIAL:SENSITIVE 
+
+AEC Roll Integrity Assurance System Talking 
+Points 
+
+Updated 11 July 2023 
+
+Page 1 
+
+Section 22
+
+
+--- Page 68 ---
+
+Page 2 
+
+Section 22
+
+
+--- Page 69 ---
+
+Page 3 
+
+Section 22
+
+
+--- Page 70 ---
+
+Page 4 
+
+Section 22
+
+
+--- Page 71 ---
+
+Page 5 
+
+Section 22
+
+
+--- Page 72 ---
+
+OFFICIAL:SENSITIVE 
+
+High integrity roll program 
+
+Page 6 
+
+Section 22
+
+
+--- Page 73 ---
+
+Page 7 
+
+Section 22
+
+
+--- Page 74 ---
+
+Deletions (duplicate, death, and eligible overseas electors) 
+
+•  Removing electors from the roll to maintain accuracy and integrity is important to ensure the roll is 
+
+always up to date. Deletions from the roll can occur for several reasons. Specifically, an 
+enrolment can be deleted when: 
+
+o  existing records are merged (if there are duplicate enrolment records) 
+o  an elector has died 
+
+•  Duplicate enrolment records occur when an elector’s name appears on the current electoral roll 
+more than once. This can occur when a State Direct, Federal Direct, or ordinary enrolment 
+application is processed without being matched to a current enrolment. The AEC investigates and 
+corrects duplicate enrolments on a fortnightly basis. 
+
+Page 8 
+
+Section 22Section 22
+
+
+--- Page 75 ---
+
+OFFICIAL:SENSITIVE 
+
+•  The AEC receives death notifications from a variety of sources including the registrar of Births 
+
+Deaths and Marriages, electoral events, state and territory electoral authorities, Public Trustees, 
+and members of the public. 
+
+•  The AEC processes death notifications from Births Deaths and Marriages monthly; and receives 
+notification directly from relatives and interested parties. Notifications are matched to current and 
+deleted enrolment records (e.g. where a person has been removed from the roll by objection). 
+Once matched with a death notification, further investigation is required before re-enrolment can 
+occur. This process is an important integrity measure that reduces impersonation opportunity.  
+
+Page 9 
+
+Section 22
+
+
+--- Page 76 ---
+
+OFFICIAL:SENSITIVE 
+
+High trust data sources as inputs 
+
+Talking points 
+
+•  The Electoral Act provides for the AEC to obtain and use data from other government agencies to 
+
+assist in reviewing and maintaining the roll. These data sources include: 
+
+o  Australian Bureau of Statistics 
+o  Services Australia 
+o  Australian Taxation Office 
+o  National Exchange of Vehicle and Driver Information System (NEVDIS) (licence holders in 
+
+each state and territory) 
+
+o  Births, Deaths and Marriage registries (in each state and territory) 
+
+o  Australia Post 
+
+•  Data from these sources is used to support the following roll management activities: 
+
+o  death deletions 
+
+o 
+
+identity verification 
+
+Page 10 
+
+Section 22Section 22Section 22Section 22Section 22Section 22
+
+
+--- Page 77 ---
+
+OFFICIAL:SENSITIVE 
+
+Roll management data sources 
+
+Page 11 
+
+Section 22
+
+
+--- Page 78 ---
+
+Death notification data 
+
+•  The AEC employs a robust process to remove deceased electors from the roll and prevent 
+
+deceased persons from being added to the electoral roll. 
+
+•  The AEC manages the removal of deceased electors from the roll by collecting and analysing 
+information from a variety of sources, including advice from the elector’s family and data from 
+state registrars (Births, Deaths, and Marriages), and other electoral authorities. 
+
+• 
+
+In the 12 months ending 30 June 2023, the AEC removed 145,000 deceased persons from the 
+electoral roll. 
+
+Page 12 
+
+Section 22Section 22
+
+
+--- Page 79 ---
+
+Page 13 
+
+Section 22
+
+
+--- Page 80 ---
+
+OFFICIAL:SENSITIVE 
+
+Human checks and system checks 
+
+Talking points 
+
+Human checks 
+
+Monthly Roll Integrity Checks 
+
+•  As part of the Roll Program, the AEC utilises system code to generate internal lists (from the 
+
+current electoral roll data) that identifies elector records with similar and or exactly matching client 
+details. The lists are distributed to trained operators across the country. In this, operators review 
+records on the electoral roll for applications with: 
+
+o  same Given Name/DOB/Address data 
+o  identical Elector Names and Addresses data 
+o  review of Electoral Twins data (‘Electoral Twins’ are different individuals with the same name 
+
+and date of birth) 
+
+o  other potential duplicates identified for transactions processed in the last month 
+•  There are genuine instances in which two separate clients have matching details. The roll 
+integrity checks identify genuine processing errors where a client’s existing record was not 
+matched correctly. 
+
+•  An amendment is a transaction used to correct any error made by the AEC during enrolment 
+
+processing. An ‘error’ can take many forms including a data entry error or incorrectly matching an 
+elector. 
+
+•  A Federal Direct Enrolment Update (FDEU) transaction is corrected if the AEC has information 
+
+that the transaction was wrongfully applied.  
+
+Page 14 
+
+Section 22Section 22
+
+
+--- Page 81 ---
+
+Page 15 
+
+Section 22
+
+
+--- Page 82 ---
+
+Page 16 
+
+Section 22
+
+
+--- Page 83 ---
+
+Page 17 
+
+Section 22
+
+
+--- Page 84 ---
+
+Page 18 
+
+Section 22
+
+
+--- Page 85 ---
+
+Page 19 
+
+Section 22
+
+
+--- Page 86 ---
+
+Page 20 
+
+Section 22
+
+
+--- Page 87 ---
+
+Page 21 
+
+Section 22
+
+
+--- Page 88 ---
+
+Page 22 
+
+Section 22
+
+
+--- Page 89 ---
+
+Page 23 
+
+Section 22
+
+
+--- Page 90 ---
+
+Page 24 
+
+Section 22
+
+
+--- Page 91 ---
+
+OFFICIAL:SENSITIVE 
+
+Joint Standing Committee on Electoral 
+Matters (JSCEM) 
+
+Page 25 
+
+Section 22
+
+
+--- Page 92 ---
+
+Page 26 
+
+Section 22
+
+
+--- Page 93 ---
+
+OFFICIAL:SENSITIVE 
+
+Questions 
+
+Other remarks 
+
+•  On any given day we estimate that more than 7,000 people on the roll either move house or die, 
+
+thereby necessitating a change in their enrolment. 
+
+o  These are identified through a range of mechanisms (self-initiated, death deletion, FDEU 
+
+etc.) but this cannot be done on the day it occurs due to varying factors. 
+
+o  The AEC processes on average 10,000 transactions each day to add and remove people 
+from the roll or make changes to address and/or name and other details – the roll is highly 
+current and accurate. 
+
+Page 27 
+
+Section 22Section 22
+
+
+--- Page 94 ---
+
+OFFICIAL:SENSITIVE 
+
+•  The final safety net of roll integrity for an electoral event is the Close of Rolls period. 
+
+Applications are accepted up to 8pm (local time) on the seventh day after issue of the writ. 
+
+•  During the Close of Rolls period, the focus of AEC advertising is for people to enrol or check their 
+
+enrolment and update their details if necessary  
+
+Page 28 
+
+Section 22
+
+
+--- Page 95 ---
+
+Page 29 
+
+Section 22
+
+
+--- Page 96 ---
+
+Page 30 
+
+Section 22
+
+
+--- Page 97 ---
+
+Senate Assurance
+
+
+--- Page 98 ---
+
+Federal Senate processing and assurance brief 
+
+Page 1 
+
+Section 22
+
+
+--- Page 99 ---
+
+Page 2 
+
+Section 22
+
+
+--- Page 100 ---
+
+Page 3 
+
+Section 22
+
+
+--- Page 101 ---
+
+Page 4 
+
+Section 22
+
+
+--- Page 102 ---
+
+Page 5 
+
+Section 22
+
+
+--- Page 103 ---
+
+Section 22
+
+
+--- Page 104 ---
+
+Section 22
+
+
+--- Page 105 ---
+
+Section 22
+
+
+--- Page 106 ---
+
+Section 22
+
+
+--- Page 107 ---
+
+Section 22
+
+
+--- Page 108 ---
+
+Section 22
+
+
+--- Page 109 ---
+
+Section 22
+
+
+--- Page 110 ---
+
+Section 22
+
+
+--- Page 111 ---
+
+Section 22
+
+
+--- Page 112 ---
+
+Section 22

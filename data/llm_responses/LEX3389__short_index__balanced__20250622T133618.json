@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This FOI request sought documents on the Australian Bureau of Statistics' (ABS) methodology for sampling and testing political party membership lists, specifically concerning the deregistration review of VoteFlux.Org | Upgrade Democracy! The released documents, including advice from the ABS Chief Methodologist, clarified that for statistically valid conclusions about an entire list, samples must be drawn randomly from the whole list, not merely a sub-list. It emphasized that larger lists require proportionately larger sample sizes (e.g., 564 for 4,680 members) to maintain desired confidence levels and control false rejection risks (below 6%). The methodology is designed as a practical and fair system encouraging accurate record-keeping, noting that filtering names improves list quality and reduces false rejection likelihood, and warning that using an incorrect sample size for larger lists increases the probability of false rejection."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 745,
+    "candidates_token_count": 172,
+    "total_token_count": 1354,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\n## Summary of FOI Request Documents\n\n### Main Purpose of the FOI Request\nThe main purpose of the FOI request was to obtain documents related to the Australian Bureau of Statistics (ABS) methodology for sampling and testing political party membership lists. This was specifically in the context of a review of the decision to deregister a political party, VoteFlux.Org | Upgrade Democracy!, which raised questions about the statistical validity and application of the methodology.\n\n### Documents from the FOI Request\nThe FOI request yielded the following documents:\n*   **Document 1:** Extract of ABS sample size calculator set to a 6% risk of rejecting a valid list. (Published on Disclosure Log)\n*   **Document 2:** Advice from ABS Chief Methodologist on sampling and methodology used, dated 29 July 2022. (Published on Disclosure Log)\n*   **Document 3:** Letter to Mr Tom Rogers, Australian Electoral Commissioner from Dr Gruen AO, Australian Statistician, regarding non-parliamentary political party membership testing methodology, dated 2 September 2022. (Published on Disclosure Log)\n*   **Document 4:** ABS Party membership testing methodology table. (Published on Disclosure Log)\n*   **Document 5:** Advice from ABS Chief Methodologist on sampling and methodology used, dated 19 August 2022. (Access in Part, with exemption 47F applied)\n\n### Main Content from FOI Request Documents\nThe core content, primarily derived from the advice from the ABS Chief Methodologist, addresses key aspects of the sampling methodology:\n\n*   **Statistical Validity of Sampling:** For a sample to allow statistically meaningful conclusions about an entire list (e.g., 4680 names), the sample must be drawn randomly from the whole list. If only a non-random sub-list (e.g., the top 1,650 names) is tested, conclusions can only be drawn about that sub-list, not the entire original list.\n*   **Sample Size and Error Rates:** To test a larger list to the desired confidence levels (probability of accepting an invalid list less than 2%, probability of falsely rejecting a valid list less than 6%), a larger sample size is required. For a list of 4,680 members, an approximate sample size of 564 would be needed, allowing a maximum of 399 denials (non-members). The ABS provides a calculator to determine appropriate sample sizes.\n*   **Effect of Filtering Names:** Filtering names in accordance with ABS methodology (e.g., removing members unlikely to meet requirements) is beneficial to parties. It improves the 'quality' of the list and reduces the likelihood of finding non-members in the sample, thereby decreasing false rejection risks.\n*   **Purpose of Methodology:** The sampling methodology is designed to be a practical and fair method for testing party lists. It aims to encourage parties to maintain accurate membership records and discourages the provision of large \"low quality\" lists, which would require extensive sampling to control false rejection risks.\n*   **Context of Application:** The advice was provided in the context of reviewing a decision to deregister a political party, specifically addressing questions raised about the sampling approach used for their membership list. It underscored that if the correct sampling size is not adopted for a larger list, the likelihood of false rejection increases.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

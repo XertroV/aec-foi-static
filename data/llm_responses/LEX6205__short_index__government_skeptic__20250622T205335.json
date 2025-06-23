@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The entirely blank FOI documents represent a direct obstruction of transparency and the Freedom of Information Act, indicating either deliberate stonewalling or a catastrophic failure in government record-keeping. This complete absence of disclosed content precisely prevents public identification of waste, power abuse, or questionable decisions, thereby underscoring a critical, systemic absence of accountability."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 154,
+    "candidates_token_count": 67,
+    "total_token_count": 774,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government skeptic's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe provided FOI documents are entirely blank, offering no discernible information. This constitutes a profound lack of transparency, effectively stonewalling scrutiny into government operations. The absence of any disclosed content suggests either a deliberate withholding of information, a critical failure in record-keeping, or an attempt to obstruct the intent of the Freedom of Information Act. Without any data to review, it is impossible to identify specific instances of waste, power abuse, or questionable decision-making, which ironically underscores a significant systemic failure in accountability and openness.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

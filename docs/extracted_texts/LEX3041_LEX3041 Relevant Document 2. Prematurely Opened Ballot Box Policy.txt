@@ -1,0 +1,331 @@
+
+
+--- Page 1 ---
+
+POLICY 
+
+Prematurely Opened 
+Ballot Box 
+
+SEPTEMBER 2021
+
+
+--- Page 2 ---
+
+Table of contents 
+
+Purpose of policy ..................................................................................................................................................... 3 
+
+1. 
+
+Legislative background .................................................................................................................................... 3 
+
+2.  Prematurely opened ballot box ....................................................................................................................... 3 
+
+3. 
+
+Investigation process ....................................................................................................................................... 4 
+
+4.  Scenario guide .................................................................................................................................................. 4 
+
+Related policies and references .............................................................................................................................. 5 
+
+2       POLICY PREMATURELY OPENED BALLOT BOX
+
+
+--- Page 3 ---
+
+Purpose of policy 
+
+The purpose of this policy is to ensure that instances where a ballot box is opened 
+prematurely are managed, reported, and conducted in accordance with the provisions of the 
+Commonwealth Electoral Act 1918 (Electoral Act) and in the case of a referendum, the 
+Referendum (Machinery Provisions) Act 1984 (Referendum Act). 
+
+This policy is not applicable for overseas pre-poll voting centres – all overseas voting is covered in relevant 
+procedural documents established specifically for overseas voting services.  
+
+1.  Legislative background 
+
+1.1  Section 238B of the Electoral Act and s 41AB of the Referendum Act outline the process that the AEC 
+
+and its officers are to undertake when a ballot box is opened prematurely. 
+
+2.  Prematurely opened ballot box 
+
+2.1  A prematurely opened ballot box includes any ballot box: 
+
+• 
+
+containing either ordinary ballot papers or declaration vote envelopes, that has been opened before 
+the relevant legislated time frame1 
+
+•  discovered to have been opened before the legislated time frame 2  
+
+•  where the seal numbers do not match the numbers recorded on the Record of security seals form, 
+
+and the discrepancy cannot be explained. 
+
+2.2 
+
+It excludes ballot boxes where a seal was not affixed correctly in the first place and/or the seal has been 
+accidentally damaged and requires replacement. These types of instances are to be dealt with as part of 
+normal operations. 
+
+2.3  The legislated time frame for opening ballot boxes is as follows: 
+
+Ballot boxes 
+
+Prior to election day 
+
+Before 6 pm 
+
+After 6 pm 
+
+Containing pre-poll ordinary 
+ballot papers 
+
+Unable to be opened for 
+any reason 
+
+Able to be opened to sort 
+(but not count) from 4pm 
+on election day 
+
+Able to be opened for 
+scrutiny 
+
+Containing other (static or 
+mobile) ordinary ballot papers 
+
+Unable to be opened for 
+any reason 
+
+Unable to be opened for 
+any reason 
+
+Able to be opened for 
+scrutiny 
+
+Containing ONLY declaration 
+vote envelopes in a static 
+polling place, PPVC or mobile 
+team 
+
+Unable to be opened for 
+any reason 
+
+Unable to be opened for 
+any reason 
+
+Able to be opened for 
+sorting and forwarding of 
+envelopes 
+
+Containing ONLY declaration 
+vote envelopes at an 
+overseas post 
+
+Able to be opened for 
+sorting and forwarding of 
+envelopes  
+
+Able to be opened for 
+sorting and forwarding of 
+envelopes 
+
+Able to be opened for 
+sorting and forwarding of 
+envelopes 
+
+Containing ONLY declaration 
+vote envelopes; held by a 
+DRO 
+
+Able to be opened for 
+preliminary scrutiny, 
+preparation for 
+declaration exchange 
+and forwarding of 
+envelopes within OPCs 
+
+Able to be opened for 
+preliminary scrutiny, 
+preparation for 
+declaration exchange 
+and forwarding of 
+envelopes within OPCs 
+
+Able to be opened for 
+preliminary and further 
+scrutinies and declaration 
+exchange 
+
+3       POLICY PREMATURELY OPENED BALLOT BOX
+
+
+--- Page 4 ---
+
+3.  Investigation process 
+
+3.1  The premature opening of a ballot box (including declaration vote ballot boxes) or the discovery of a 
+
+prematurely opened ballot box triggers the requirement to undertake: 
+
+•  an investigation into and recording of the details of the premature opening of the ballot box 
+
+•  an examination of the ballot papers or declaration vote envelopes in the prematurely opened ballot 
+
+box to enable the Australian Electoral Officer (AEO) for the state or territory concerned to determine 
+if they are to be included or excluded from scrutiny. 
+
+3.2  The identification of prematurely opened ballot boxes and actions to be taken are the same for federal 
+
+elections and referendums, or where the two events are held concurrently.  
+
+3.3  The Prematurely Opened Ballot Box SOP details the correct process to undertake an investigation and 
+the subsequent actions. These procedures must be followed where an officer suspects there is a 
+prematurely opened ballot box.  
+
+4.  Scenario guide 
+
+4.1  Certain scenarios may be breaches of the Ballot Paper Handling Policy, but are not considered a 
+prematurely opened ballot box. These should be dealt with as part of normal operations. 
+
+4.2  The following scenario guide provides further information on the definition of what constitutes an ‘opened’ 
+
+ballot box. Specific action to be taken can be found in the Prematurely Opened Ballot Box SOP. 
+
+In the polling place 
+
+Ballot box situation 
+
+Is this a prematurely opened ballot box? 
+
+1. 
+
+2. 
+
+ AEC staff person (such as OIC) has opened ballot box 
+prematurely (before prescribed time). 
+
+ Seal records indicate the ballot box has been opened and 
+then sealed again. 
+
+3. 
+
+ Seal on ballot box has broken or appears faulty. 
+
+Yes 
+
+Yes 
+
+No 
+
+4. 
+
+ Original seal has not been affixed to the ballot box properly. 
+
+No 
+
+5. 
+
+ When moving a cardboard ballot box, it splits or comes 
+open, or seal comes off or pulls through cardboard. Ballot 
+papers are not spilt. 
+
+No 
+
+6. 
+
+ Cardboard ballot box splits or comes open. Ballot papers are 
+spilt. 
+
+Yes 
+
+In transit 
+
+Ballot box situation 
+
+Is this a prematurely opened ballot box? 
+
+4       POLICY PREMATURELY OPENED BALLOT BOX
+
+
+--- Page 5 ---
+
+7. 
+
+8. 
+
+9. 
+
+ Seal comes off or is broken/cracked during transit of ballot 
+boxes. Record of security seals form (EF082-b) matches 
+numbers on seals. 
+
+ Seal numbers do not match Record of security seals form 
+(EF082-b). DRO investigates and is satisfied ballot box has 
+not been opened. 
+
+ Seal numbers do not match Record of security seals form 
+(EF082-b). DRO investigates and cannot resolve 
+discrepancy. 
+
+No 
+
+No 
+
+Yes 
+
+At the out-posted centre 
+
+Ballot box situation 
+
+Is this a prematurely opened ballot box? 
+
+10. 
+
+ AEC staff person (such as Officer In Charge has opened 
+ballot box prematurely (before prescribed time). 
+
+11. 
+
+ Seal records indicate the ballot box has been opened and 
+then sealed again. 
+
+12. 
+
+ Seal on ballot box has broken or appears faulty. 
+
+Yes 
+
+Yes 
+
+No 
+
+13. 
+
+ Original seal has not been affixed to the ballot box properly. 
+
+No 
+
+14. 
+
+ Seal on the flap of the (moulded) ballot box is broken or not 
+affixed. 
+
+No 
+
+Related policies and references 
+
+Ballot Paper Handling Policy 
+
+Prematurely Opened Ballot Box SOP 
+
+Scrutineers Handbook 
+
+The Election policies and procedures intranet page provides access to the latest versions of election policies, 
+standard operating procedures and supporting guides. 
+
+5       POLICY PREMATURELY OPENED BALLOT BOX

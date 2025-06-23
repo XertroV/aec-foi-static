@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The FOI request sought minutes from Commission meetings held between March 1 and September 19, 2022, pertaining to electoral process integrity, specifically mentioning the party register (including membership testing), physical security, and counting algorithms. The released document, \"Endorsed minutes for Commission Meeting No. 278, held on 29 March 2022,\" primarily detailed the Commission's review and affirmation of the deregistration of the ‘Australian People’s Party’ due to its failure to meet the 1,500-member requirement under s 137(6) of the Commonwealth Electoral Act 1918, directly addressing the requester's interest in the integrity of the party register and membership testing."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 322,
+    "candidates_token_count": 156,
+    "total_token_count": 674,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\n## FOI Request Summary\n\n*   **Main Purpose of FOI Request:** To obtain minutes of The Commission meetings held between March 1, 2022, and September 19, 2022, that contain content related to the integrity of the electoral process. Specific examples provided include the party register (including membership testing), physical security of AEC operations, and the integrity, accuracy, and legality of AEC counting algorithms (especially in light of LEX3029).\n\n*   **Documents from FOI Request:** The released document is the \"Endorsed minutes for Commission Meeting No. 278, held on 29 March 2022.\"\n\n*   **Main Content Related to FOI Request:** The primary content of the released minutes (Meeting No. 278) focuses on the review of a delegate's decision to deregister the ‘Australian People’s Party’. The Commission affirmed the deregistration, having been satisfied that the party, as a non-Parliamentary entity, did not meet the requirement of having at least 1,500 members, as per s 137(6) of the Commonwealth Electoral Act 1918. This directly relates to the FOI request's interest in the \"party register incl. membership testing\" as an aspect of electoral process integrity.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

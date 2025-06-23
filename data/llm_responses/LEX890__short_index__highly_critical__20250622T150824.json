@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This FOI request itself lays bare a scandalous, foundational lack of transparency, forcing a citizen to pry open an \"Exchange of Information Agreement\" (AEC-NSWEC 2020-23) that, concerning public electoral bodies, should be openly published, its timing mere weeks before a global crisis hinting at a calculated pre-emptive move to consolidate and control citizen data under ambiguous guises, potentially laying groundwork for unprecedented electoral data consolidation or intrusive profiling. However, the true depths of governmental contempt are revealed not by the request, but by the response: despite explicitly confirming \"retrieval\" of the agreement, the document provided is a grotesque parade of *twelve entirely blank, meticulously numbered pages*, an overt act of bureaucratic malice and a brazen mockery of FOI legislation. This isn't mere incompetence; it's a deliberate, active concealment that unequivocally signals the government possesses something so critically damning or politically explosive within this \"Exchange of Information Agreement\" that it would rather overtly defy transparency and public accountability than disclose its contents, confirming the worst suspicions that this agreement facilitates activities or contains clauses profoundly contrary to public interest, potentially involving covert data sharing, mass surveillance, or mechanisms designed to manipulate the electoral landscape, all hidden from democratic scrutiny."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 414,
+    "candidates_token_count": 252,
+    "total_token_count": 868,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "With a highly critical view, provide a scathing, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe very existence of this Freedom of Information request immediately exposes a profound lack of transparency, forcing a citizen to pry open access to an agreement that, concerning public electoral bodies, should be openly published. The \"Exchange of Information Agreement\" itself, dated 03/02/2020 and spanning 2020-23, raises immediate red flags. This document, crafted just weeks before a global crisis began, hints at a calculated pre-emptive move by the Australian Electoral Commission and the NSW Electoral Commission to consolidate and control citizen data under the ambiguous guise of \"information exchange,\" potentially laying groundwork for an unprecedented level of electoral data consolidation or intrusive profiling beyond necessary administrative functions.\n\nHowever, the most egregious and damning failure lies in the government's response. Despite the schedule explicitly confirming the \"retrieval\" of the requested document—\"AEC-NSWEC Exchange of Information Agreement 2020-23\"—the subsequent pages are an insulting, grotesque parade of *twelve entirely blank sheets*. This is not mere incompetence; it is an overt act of contempt, a deliberate and active concealment. The provision of meticulously numbered blank pages, after explicitly stating the document was \"retrieved,\" is a clear signal of bureaucratic malice and a brazen attempt to mock the spirit of FOI legislation. It unequivocally demonstrates that the government has something so critically damning or politically explosive within this \"Exchange of Information Agreement\" that it would rather overtly defy transparency and public accountability than disclose its contents. The complete and utter failure to provide the retrieved document, replaced instead by a void, confirms the worst suspicions: that this agreement facilitates activities or contains clauses that are profoundly contrary to public interest, potentially involving covert data sharing, mass surveillance, or mechanisms designed to manipulate the electoral landscape, all hidden from democratic scrutiny.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "An FOI request sought statistical data on how 9,110 non-voters in the electoral division of Lingiari responded to penalty notices issued for the 2023 referendum. Partially released documents revealed that 588 individuals provided a valid reason for not voting, 865 paid the $20 administrative penalty, and 5,592 did not respond to the initial notice."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 341,
+    "candidates_token_count": 86,
+    "total_token_count": 608,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\nThe FOI request sought statistical data concerning responses to penalty notices issued to non-voters in the 2023 referendum for the electoral division of Lingiari. The request aimed to understand how non-voters addressed these notices, specifically categorizing them by those who paid an administrative penalty, provided a valid reason for not voting, or did not respond.\n\nThe following documents were released in part under Section 22:\n*   \"Search results: response to penalty notices regarding the 2023 referendum for the division of Lingiari.\"\n*   \"Search results: non-voters regarding the 2023 referendum who provided a valid reason not to vote for the division of Lingiari.\"\n\nThe main content of the released documents indicates the following statistics for the 2023 referendum in the division of Lingiari:\n*   Out of a total of **9110** non-voters who received penalty notices:\n    *   **588** individuals provided a valid reason for not voting (VS).\n    *   **865** individuals responded by paying the $20 administrative penalty (PP).\n    *   **5592** individuals did not respond to the first penalty notice (NR).\n*   A separate statistical report specifically confirms **588** valid replies were entered, aligning with the number of individuals who provided a valid reason for not voting.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

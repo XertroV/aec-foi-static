@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This FOI log uncovers a government's questionable administrative overreach in a 2023 Canberra division referendum, characterized by coercive \"administrative penalties\" for non-voters and a burdensome bureaucratic apparatus designed to compel compliance. The \"Section 22 - Release in part\" exemption applied to documents detailing non-voter statistics and penalty responses immediately signals a deliberate lack of transparency, obstructing public scrutiny and raising concerns that the government is concealing the true extent of public disengagement, enforcement inefficiencies, or other information regarding this exercise."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 334,
+    "candidates_token_count": 108,
+    "total_token_count": 888,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government skeptic's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe provided FOI log offers a glimpse into a government process marked by questionable decision-making and a lack of transparency. The focus on a \"2023 referendum for the division of Canberra\" immediately raises concerns about potential administrative overreach and the allocation of public resources towards a seemingly internal or potentially controversial restructuring, the justification for which remains unclear.\n\nThe issuance of \"penalty notices\" for non-voters underscores a coercive approach to civic participation, with the government resorting to punitive measures—dubbed an \"administrative penalty\"—to enforce engagement in a process whose public benefit is not articulated. The very need to track \"valid reasons\" for non-voting and the categories of citizens who either paid penalties or failed to respond suggests a burdensome bureaucratic apparatus designed to compel compliance rather than foster genuine democratic participation.\n\nCrucially, both documents, detailing responses to these penalties and statistics on non-voters, are subject to a \"Section 22 - Release in part\" exemption. This deliberate withholding of information immediately signals a lack of transparency. It suggests the government may be attempting to conceal the full extent of public disengagement, the actual number of individuals unwilling or unable to participate, or potentially, inefficiencies in the penalty collection process. The selective release of information regarding a referendum and its enforcement mechanisms obstructs public scrutiny and raises legitimate questions about what the government is unwilling to disclose regarding this administrative exercise and its public reception.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

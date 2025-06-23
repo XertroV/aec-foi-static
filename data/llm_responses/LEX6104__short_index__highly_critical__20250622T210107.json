@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This FOI response is a contemptible charade, a transparent attempt to subvert accountability by delivering utterly blank \"released\" documents for critical nomination and qualification forms from 2019 and 2022. Masquerading as partial disclosure, the government's wholesale application of a personal information exemption (47F(1)) to entirely sanitize these records is either damning proof of profound departmental incompetence or, more insidiously, a deliberate weaponization of the FOI Act to conceal systemic cronyism, unsuitability, or glaring procedural irregularities in their selection processes. Far from transparency, this effective total refusal demonstrates an alarming contempt for public scrutiny, transforming a fundamental democratic right into an instrument of official stonewalling and raising immediate red flags about the integrity of state appointments."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 519,
+    "candidates_token_count": 160,
+    "total_token_count": 1207,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "With a highly critical view, provide a scathing, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe provided FOI documents represent an egregious failure of government transparency and accountability, amounting to a sham disclosure designed to actively conceal critical information. Despite a stated decision to \"Release in part\" four key documents—\"Signed Nomination Form\" and \"Signed Qualification Checklist\" from both 2019 and 2022—the actual content provided is **entirely blank**, rendering the FOI response utterly meaningless.\n\nThis is not a partial release; it is an effective total refusal of information, masquerading as compliance. The government has applied exemption 47F(1) (typically relating to personal information) across all documents. While personal information can be redacted, the complete absence of *any* non-personal, substantive content from \"Nomination Forms\" and \"Qualification Checklists\" points to one of two damning scenarios:\n\n1.  **Gross Incompetence:** The FOI process is so poorly managed that the department is incapable of properly redacting and releasing documents, instead providing empty shells. This demonstrates a profound lack of respect for statutory obligations and public access rights.\n2.  **Deliberate Obfuscation and Malice:** The government is intentionally weaponizing the \"personal information\" exemption to hide all details of its nomination and qualification processes. This suggests a desire to suppress information that could expose:\n    *   **Cronyism or Nepotism:** Protection of individuals involved in potentially questionable appointments or nominations.\n    *   **Incompetence or Unsuitability:** Concealment of nominees who lacked the necessary qualifications but were put forward or appointed regardless.\n    *   **Procedural Irregularities:** Hiding evidence of a flawed, unfair, or non-compliant selection process.\n    *   **Lack of Due Diligence:** Obscuring how qualifications were assessed or if checks were even conducted.\n\nThe dates (2019 and 2022) indicate a recurring process, implying a systemic, rather than isolated, pattern of secrecy in appointments or nominations. The government's actions effectively nullify the purpose of the Freedom of Information Act, transforming a public right into a mechanism for official stonewalling. This non-release raises immediate red flags about the integrity and transparency of government selection processes and demonstrates a profound contempt for public scrutiny and democratic accountability.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

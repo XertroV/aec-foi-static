@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "These FOI documents clearly demonstrate the government's unwavering commitment to transparency and the integrity of our democratic processes. The full release of numerous \"Postal Vote CSV file for upload\" documents, spanning from September 22 to October 11, 2023, without any exemptions, showcases an exemplary dedication to public access and openness. This proactive disclosure of daily electoral data underscores the government's meticulous management of voting processes, ensuring every step is transparent and verifiable. It highlights an efficient administration diligently upholding the public's right to information and fostering trust in our electoral system, ultimately serving the public good through robust and accountable governance."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 602,
+    "candidates_token_count": 128,
+    "total_token_count": 965,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "As a government apologist, summarize the following FOI documents. Assume a supportive stance, emphasizing effective governance, necessary regulations, and positive outcomes. Frame any controversies as challenges effectively managed or essential actions for public good. Highlight the government's efforts to serve the public.\n\nDocuments:\n\n\n\n--- Page 1 ---\n\nDocument \nNo. \n\nDocument Title \n\nExemption \n\nDecision on Access \n\nPostal Vote CSV file for upload - 22/09/23 \n\nPostal Vote CSV file for upload - 23/09/23 \n\nPostal Vote CSV file for upload - 24/09/23 \n\nPostal Vote CSV file for upload - 25/09/23 \n\nPostal Vote CSV file for upload - 26/09/23 \n\nPostal Vote CSV file for upload - 27/09/23 \n\nPostal Vote CSV file for upload - 28/09/23 \n\nReleased in full \n\nReleased in full \n\nReleased in full \n\nReleased in full \n\nReleased in full \n\nReleased in full \n\nReleased in full\n\n\n--- Page 2 ---\n\nDocument \nNo. \n\nDocument Title \n\nExemption \n\nDecision on Access \n\nPostal Vote CSV file for upload - 29/09/23 \n\nPostal Vote CSV file for upload - 30/09/23 \n\nPostal Vote CSV file for upload - 1/10/23 \n\nPostal Vote CSV file for upload - 2/10/23 \n\nPostal Vote CSV file for upload - 3/10/23 \n\nPostal Vote CSV file for upload - 4/10/23 \n\nPostal Vote CSV file for upload - 5/10/23 \n\nPostal Vote CSV file for upload - 6/10/23 \n\nReleased in full \n\nReleased in full \n\nReleased in full \n\nReleased in full \n\nReleased in full \n\nReleased in full \n\nReleased in full \n\nReleased in full\n\n\n--- Page 3 ---\n\nDocument \nNo. \n\nDocument Title \n\nExemption \n\nDecision on Access \n\nPostal Vote CSV file for upload - 7/10/23 \n\nPostal Vote CSV file for upload - 8/10/23 \n\nPostal Vote CSV file for upload - 9/10/23 \n\nPostal Vote CSV file for upload - 10/10/23 \n\nPostal Vote CSV file for upload - 11/10/23 \n\nReleased in full \n\nReleased in full \n\nReleased in full \n\nReleased in full \n\nReleased in full\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

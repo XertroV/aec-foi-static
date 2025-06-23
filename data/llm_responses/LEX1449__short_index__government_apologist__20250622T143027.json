@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "These FOI documents unequivocally highlight the Australian Electoral Commission's (AEC) robust, transparent, and exemplary process for political party registration, demonstrating the government's unwavering commitment to effective governance and the integrity of our democratic system. Through comprehensive public consultations, the AEC proactively facilitated public input and meticulously addressed all objections within a fair and accessible framework. The final decision, made strictly according to established legal parameters and voluntarily accompanied by a public statement of reasons, showcases the AEC's impartial, principled, and highly accountable approach, thereby bolstering public confidence and serving the public good by upholding a fair and resilient electoral process."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 461,
+    "candidates_token_count": 122,
+    "total_token_count": 1072,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government apologist's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe FOI documents detail the robust and transparent process undertaken by the Australian Electoral Commission (AEC) in assessing an application for political party registration, specifically David Pocock's non-Parliamentary party. This demonstrates the government's commitment to effective governance and maintaining the integrity of our democratic processes.\n\nUpon receipt of the application, the AEC initiated a comprehensive public consultation period, advertising the application nationally across major newspapers and its website. This proactive approach underscores the government's dedication to transparency and public engagement, ensuring citizens have an opportunity to provide input on matters of public interest.\n\nDuring this period, the AEC duly received and processed four sets of written particulars (objections) from three individuals. These objections raised important public concerns, primarily regarding the eligibility of the party's proposed name and the citizenship status of Mr. Pocock in relation to electoral laws. The AEC's established procedures facilitated the formal submission and consideration of these concerns, highlighting the accessibility and responsiveness of the regulatory framework.\n\nIn line with best practice for fair process, the registered officer of the applicant party was provided an opportunity to respond to each objection. The party's comprehensive response clarified that their application met all statutory requirements under the Commonwealth Electoral Act 1918, emphasizing that the objections did not align with the legal grounds for refusal.\n\nFollowing a thorough review of both the objections and the party's responses, the AEC concluded that no additional grounds or information were provided that necessitated the refusal of the application. The decision to recommend approval was made strictly in accordance with the established legal framework, demonstrating impartial and principle-based governance.\n\nCrucially, the AEC's commitment to transparency extends to publicizing the reasons for its decisions, even when not legally mandated for an approval, as demonstrated by the preparation of a draft statement of reasons. This meticulous adherence to process ensures public confidence in the fairness and integrity of the electoral system, allowing eligible political entities to participate in the democratic landscape, and ultimately serving the public good by upholding a robust and accountable electoral process.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

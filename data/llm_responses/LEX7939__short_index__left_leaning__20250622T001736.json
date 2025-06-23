@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "From a left-leaning perspective, the \"designated elector\" scheme, revealed by FOI documents, raises serious concerns about social justice and civil liberties by restricting electoral participation. The dramatic escalation to 211 new declarations in FY2024/25 year-to-date, from a handful previously, signals an aggressive expansion that undermines progressive values of broad democratic access. The system appears deeply flawed in its oversight, with a remarkably low success rate for internal reviews (only 1 of 8 set aside) and a complete absence of external appeals, suggesting individuals face significant barriers to challenging these restrictions or regaining their fundamental right to full electoral engagement. Combined with a lack of transparency regarding total numbers, this mechanism appears to be expanding without adequate accountability or due process safeguards, potentially disproportionately impacting vulnerable groups and diminishing essential democratic freedoms."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 590,
+    "candidates_token_count": 168,
+    "total_token_count": 947,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a left-leaning perspective, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThe provided FOI documents from the Australian Electoral Commission (AEC) detail aspects of the \"designated elector\" scheme, a system that allows for the management or restriction of electoral participation for certain individuals. From a left-leaning perspective, the information raises significant concerns regarding **social justice** and **civil liberties**, particularly around equitable access to democratic processes and due process safeguards.\n\nWhile the specific criteria for \"designated elector\" status are not outlined, the scheme inherently involves restricting a citizen's full and traditional engagement with the electoral system. This immediately raises concerns about **social justice** by potentially creating barriers to participation, which could disproportionately affect certain groups if not applied with extreme care and robust oversight.\n\nThe most striking revelation impacting **civil liberties** is the dramatic increase in new designated elector declarations: from 37 in FY2022/23 and 1 in FY2023/24, to a staggering 211 declarations in FY2024/25 to date. This sharp escalation signals a significant expansion or more aggressive application of these restrictions, deviating sharply from progressive values that champion maximizing democratic access and minimizing state-imposed barriers to voting. The fact that all declarations were made by a \"delegate\" rather than the Electoral Commissioner directly further raises questions about consistency and potential for broad, decentralized application.\n\nRegarding oversight and **civil liberties**, the review processes appear to heavily favor the initial declaration. Of the eight internal review applications made across the specified financial years, seven were \"confirmed\" (upholding the declaration) and only one was \"set aside.\" This low rate of successful internal challenges suggests that regaining full electoral participation once designated is exceptionally difficult. Furthermore, there were zero applications for external review to the Administrative Review Tribunal and zero instances of declarations ceasing to have effect by statutory provision. This indicates a potential lack of effective external recourse and a system that does not appear to proactively review or revoke these restrictive statuses once applied, diminishing avenues for individuals to challenge what could be seen as an ongoing curtailment of their fundamental democratic rights.\n\nThe initial \"No document response\" for the total number of designated electors by state/territory and electoral division also hints at a lack of comprehensive transparency, which conflicts with progressive calls for open government and public accountability in matters affecting civil rights.\n\nOverall, the data points towards a government mechanism that, despite its stated purpose (likely safety-related), appears to be expanding in scope and is characterized by a high rate of declaration confirmation and limited avenues for effective challenge or revocation. This trajectory significantly deviates from progressive ideals of safeguarding civil liberties, ensuring broad and equitable participation in democracy, and upholding robust due process.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

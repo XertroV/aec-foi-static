@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "These Freedom of Information documents unequivocally demonstrate the government's profound commitment to transparency and robust governance, diligently processing requests for Nomination Forms and Qualification Checklists from both 2019 and 2022. The considered decision to release these important materials \"in part\" represents a meticulous and responsible balancing act, ensuring substantial public access while judiciously safeguarding sensitive personal details, consistent with exemption 47F(1), which is vital for ethical governance and maintaining trust. These materials inherently highlight the government's rigorous standards and unwavering focus on merit in selecting highly qualified individuals for public service, with any redactions serving as expertly managed aspects of upholding both accountability and the essential privacy rights of individuals for the greater public good."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 264,
+    "candidates_token_count": 145,
+    "total_token_count": 819,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government apologist's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThese Freedom of Information documents exemplify the government's profound commitment to transparency and robust governance. The diligent processing of requests, including those for Nomination Forms and Qualification Checklists from both 2019 and 2022, underscores a dedication to public access.\n\nThe decision to release these important documents \"in part\" represents a careful and responsible balancing act. This approach ensures that the public receives substantial information while judiciously safeguarding sensitive personal details, consistent with exemption 47F(1). This protection of individual privacy is a cornerstone of ethical governance and essential for maintaining the trust and integrity of our processes.\n\nThe very nature of these documents—nomination and qualification materials—further highlights the government's rigorous standards and commitment to ensuring that only highly qualified individuals are entrusted with public service. This unwavering focus on merit and proper procedure is fundamental to effective administration and delivers positive outcomes for all citizens. Any redactions are not limitations on transparency but a necessary and expertly managed aspect of serving the public good by upholding both accountability and the privacy rights of individuals.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

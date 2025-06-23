@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The provided FOI documents, detailing the Australian Electoral Commission's (AEC) management of non-voters for the 2023 Lingiari referendum, highlight several areas where government actions deviate from core conservative principles.\n\n**Economic Efficiency and Fiscal Responsibility:** The documents reveal a significant administrative burden and questionable economic efficiency in enforcing compulsory voting. Out of 9110 non-voters issued penalty notices, only 865 paid the $20 administrative penalty, generating a modest $17,300 in revenue. This sum is unlikely to cover the extensive costs associated with identifying non-voters, printing and mailing thousands of notices, processing responses, and managing the vast majority (5592, or approximately 61%) who did not respond at all. This represents a substantial allocation of taxpayer resources towards a coercive enforcement mechanism, demonstrating a lack of fiscal prudence and an inefficient use of public funds, particularly when the compliance rate through financial penalty is low.\n\n**Individual Liberty:** The very existence of \"penalty notices\" for non-voting is a direct affront to individual liberty. A core tenet of conservatism is the protection of individual freedom from government overreach. Compulsory voting dictates citizen behavior, forcing participation in the electoral process rather than allowing individuals the fundamental freedom to choose whether or not to engage. The requirement for non-voters to provide a \"valid reason\" to the state further infringes on personal autonomy, compelling citizens to justify their private choices to a government bureaucracy.\n\n**Limited Government:** The detailed administrative processes for tracking, penalizing, and managing non-voters exemplify an expansive and intrusive government. A limited government respects individual choice and focuses on essential functions, rather than mandating citizen participation in democratic processes and establishing a bureaucratic apparatus to enforce such mandates. The AEC's role in monitoring and sanctioning non-voters signifies an overreach of state power into personal decisions, rather than upholding the principle of minimal government intervention.\n\n**National Security:** These documents provide no direct information or insights related to national security. The disclosed information pertains exclusively to domestic electoral administration and compliance within Australia."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 585,
+    "candidates_token_count": 434,
+    "total_token_count": 2484,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "As a politically right-leaning analyst, summarize the following FOI documents. Focus on issues related to economic efficiency, individual liberty, national security, fiscal responsibility, and limited government. Highlight how government actions or policies revealed in these documents align with or deviate from conservative principles.\n\nDocuments:\n\n\n\n--- Page 1 ---\n\nDocument \nNo. \n\nDocument Title \n\nExemption \n\nDecision on Access \n\nSearch results: response to penalty notices regarding the 2023 \nreferendum for the division of Lingiari.  \n\nSection 22 \n\nRelease in part  \n\n Note: the table headings correspond to : \n\n• \n\n• \n\n• \n\nthose who responded by paying the $20 administrative penalty (PP); \n\nthose who provided a valid reason for not voting (VS); and  \n\nthose who did not respond to the first penalty notice (NR).  \n\nSearch results: non-voters regarding the 2023 referendum who \nprovided a valid reason not to vote for the division of Lingiari. \n\nSection 22 \n\nRelease in part\n\n\n\n--- Page 1 ---\n\nRMNSR2P1       AEC Roll Management System - NT  - PRODUCTION \n RMNSR2M1 \n Statistics on Reply Reason Code \n -------------------------------------------------------------------------------\n         VS              PP         NR  \n Area        \n -------------------------------------------------------------------------------\n\n 14/05/2024\n 11:45 \n\n   Total \n\n  1 \n\n          588 \n\n    865 \n\n 5592 \n\n 9110 \n\n -------------------------------------------------------------------------------\n Enter-PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10--PF11--PF12---\n\n Cont        Rstrt                   Up    Down  Help  Menu\n\n\n--- Page 2 ---\n\nRMNSV1P1       AEC Roll Management System - NT  - PRODUCTION        14/05/2024\n  RMNSV1M2  Statistics on Valid Replies entered for All Notices       11:39     \n -------------------------------------------------------------------------------\n                                                         Total   \n -------------------------------------------------------------------------------\n                              588   \n    1            \n\n -------------------------------------------------------------------------------\n Enter-PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10--PF11--PF12---\n       Cont        Rstrt                   Up    Down  Help  Menu\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

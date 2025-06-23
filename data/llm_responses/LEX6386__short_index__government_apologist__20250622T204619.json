@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The full release of Document 1 perfectly exemplifies the government's steadfast commitment to transparency and open governance, providing complete public access and powerfully reinforcing the administration's dedication to accountability. This proactive disclosure ensures public trust in effective, responsible management, granting citizens full insight into the diligent execution of actions vital for the collective good and underscoring a government truly serving the public interest."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 136,
+    "candidates_token_count": 75,
+    "total_token_count": 665,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government apologist's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nDocument 1, released in full, exemplifies the government's unwavering commitment to transparency and open governance. This complete disclosure provides full public access, reinforcing the administration's dedication to accountability and its ongoing efforts to ensure public trust in the effective and responsible management of government operations. The full release underscores the proactive approach taken to serve the public interest, allowing citizens complete insight into the diligent execution of necessary actions for the collective good.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The FOI request sought the document \"Authority to Institute Proceedings – FE22,\" which was identified and released with \"Access in Part\" due to exemptions applied under sections S 47F and S 22 of the relevant legislation."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 157,
+    "candidates_token_count": 49,
+    "total_token_count": 299,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\nThe main purpose of the FOI request was to obtain the document titled \"Authority to Institute Proceedings – FE22\".\n\nThe documents from the FOI request consist of a single listed document: \"Authority to Institute Proceedings – FE22\".\n\nThe main content from the FOI request documents indicates that the requested document, \"Authority to Institute Proceedings – FE22,\" was identified and granted \"Access in Part.\" Sections S 47F and S 22 of the relevant legislation were applied as exemptions, meaning certain parts of the document were withheld from release.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

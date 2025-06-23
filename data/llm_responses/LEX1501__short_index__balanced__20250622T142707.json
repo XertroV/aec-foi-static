@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The FOI request LEX1501 sought documents regarding Australian Electoral Commissioner Tom Rogers' involvement in the Sky News documentary \"The Campaign Uncovered,\" revealing four email chains from January-February 2022. These documents show Sky News requested an interview with Rogers for a \"behind-the-scenes\" federal election special hosted by Peta Credlin, which the Australian Electoral Commission (AEC) and Rogers enthusiastically supported, offering filming locations and archival footage. The interview was scheduled for February 14, 2022, in the AEC's command centre. Crucially, the day before, Rogers was briefed by AEC staff regarding Credlin's past focus on \"multiple voting\" and \"fears of ballot rigging,\" with a warning that she might pose \"pointed questions about integrity matters,\" which Rogers acknowledged as \"incredibly useful.\""
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 611,
+    "candidates_token_count": 175,
+    "total_token_count": 938,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\n*   **Main Purpose of the FOI Request:**\n    The Freedom of Information (FOI) request, identified as LEX1501, sought documents concerning or relating to the Australian Electoral Commissioner Tom Rogers' involvement in the Sky News Documentary \"The Campaign Uncovered.\"\n\n*   **Documents from the FOI Request:**\n    The retrieved documents consist of four email chains, dated:\n    *   25 January 2022\n    *   28 January 2022\n    *   2 February 2022\n    *   13 February 2022\n\n*   **Main Content from the FOI Request Documents:**\n    *   **Sky News Request:** On January 25, 2022, a producer for Sky News Documentaries requested an interview with Australian Electoral Commissioner Tom Rogers for a 1-hour special hosted by Peta Credlin, titled \"The Campaign Matters.\" The documentary aimed to provide a \"behind-the-scenes look at federal elections,\" explain the electoral process, and discuss Australia's electoral architecture, including the need for in-person voting in a 'covid' election.\n    *   **AEC's Response and Agreement:** The Australian Electoral Commission (AEC) expressed immediate interest, with Principal Media Advisor Evan Ekin-Smyth deeming it \"a very interesting and worthwhile pre-election endeavour.\" Commissioner Tom Rogers himself stated, \"Love it – the more we do, the better it is.\" The AEC offered its premises, including the new command centre and warehouses, as potential filming locations for \"good overlay\" footage.\n    *   **Scheduling and Logistics:** The interview was scheduled for Monday, February 14, 2022, at 9:30 AM in the AEC's Canberra office, specifically the command centre. Sky News also requested, and the AEC provided, various archive footage of electoral activities such as postal vote printing, vote counting from 2019, people at voting centres, and declarations of nominations. The AEC also offered to source footage of remote polling teams.\n    *   **Pre-Interview Briefing:** On February 13, 2022, the day before the interview, Evan Ekin-Smyth briefed Commissioner Rogers on Peta Credlin's past commentary on electoral matters. The briefing specifically highlighted Credlin's focus on \"multiple voting\" and the \"fears of ballot rigging,\" providing links to previous Sky News segments and opinion pieces by Credlin. Rogers was warned that while the documentary's stated purpose was a behind-the-scenes look, Credlin might ask \"pointed questions about integrity matters, particularly multiple voting.\" Rogers acknowledged the briefing as \"incredibly useful.\"\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

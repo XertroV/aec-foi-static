@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The FOI request sought all communications between the Australian Electoral Commission (AEC) and the Australian Bureau of Statistics (ABS) within 12 months of initial contact regarding advice on \"party membership testing.\" Five documents were released, detailing a consultative process where the ABS provided detailed methodologies and advice for membership verification. This input directly informed the AEC's internal approval of a \"methodology policy,\" demonstrating the ABS's significant advisory role in the AEC's development of its approach to verifying political party membership."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 444,
+    "candidates_token_count": 102,
+    "total_token_count": 793,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\n### FOI Request Summary\n\n**Main Purpose of the FOI Request:**\nThe request sought \"all communications between the AEC and the ABS\" within 12 months of the Australian Electoral Commission's (AEC) initial contact with the Australian Bureau of Statistics (ABS) regarding advice on \"party membership testing.\" The request specifically included communications \"epistemically related\" to this initial contact, meaning those that explain, causally connect, or directly contribute to understanding the full story.\n\n**Documents from the FOI Request:**\nThe request resulted in the release of five documents:\n1.  **Document 1:** Detailed letter re methodology from ABS to AEC dated 8 August 1996.\n2.  **Document 2:** Letter from AEC to ABS dated 28 August 1996.\n3.  **Document 3:** Letter and sample table from ABS to AEC dated 4 September 1996.\n4.  **Document 4:** Internal AEC minute approving methodology policy dated 9 September 1996.\n5.  **Document 5:** Letter from ABS to AEC dated 29 October 1996.\n\n**Main Content Relating to the FOI Request:**\nThe released documents detail the consultative process between the AEC and ABS concerning the methodology for testing political party membership. The core content shows the ABS providing advice and detailed methodologies (e.g., via Document 1 and 3, which includes a sample table) to the AEC. The AEC, in turn, engages with this advice (Document 2). Crucially, Document 4, an internal AEC minute, indicates that the ABS's input directly informed and led to the AEC's approval of a \"methodology policy\" for membership testing. Document 5 suggests ongoing communication related to this advice. These documents collectively demonstrate the ABS's role in advising the AEC on developing its approach to verifying party membership.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

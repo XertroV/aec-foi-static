@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "FOI request LS7708 sought correspondence between the Australian Electoral Commission (AEC) and major US technology companies (Facebook, Google, and Twitter) regarding compliance with the Commonwealth Electoral Act 1918 during the 2019 federal elections. Document No. 42 (Tranche 6), dated May 17, 2019, provides screenshots of \"unauthorised electoral advertising on Facebook\" from pages including \"No Greens Facebook\" (promoting Labour, authorised by J. Williams), \"Agents in their Community,\" and \"Women of Murray\" (also authorised by J. Williams), directly illustrating the types of compliance issues that were the subject of the requested correspondence."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 360,
+    "candidates_token_count": 143,
+    "total_token_count": 851,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Create a concise, single-paragraph summary in markdown format of the following FOI request summary:\n\nSummary:\n\n### FOI Request LS7708 Summary\n\n**Main Purpose of FOI Request:**\nThe Freedom of Information (FOI) request LS7708 sought correspondence between the Australian Electoral Commission (AEC) and major US technology companies (Facebook Inc., Google, and Twitter Inc.) regarding compliance with the Commonwealth Electoral Act 1918 during the 2019 federal elections.\n\n**Documents from the FOI Request:**\nThis specific release (Tranche 6, Document No. 42) comprises a schedule entry identifying the document and three pages of screenshots.\n\n**Main Content Relating to the FOI Request:**\nDocument No. 42, dated May 17, 2019, contains screenshots of \"unauthorised electoral advertising on Facebook.\" These screenshots depict active advertisements from three distinct Facebook pages:\n*   **No Greens Facebook:** Showing ads with messages like \"Preferencing Labour\" and \"Vote Labour,\" some explicitly stating \"Authorised by J. Williams.\"\n*   **Agents in their Community:** Displaying an ad promoting \"Agents in their Community.\"\n*   **Women of Murray:** Featuring an ad about \"Empowering Women in our Community,\" also authorised by \"J. Williams.\"\n\nThese visual records directly relate to the FOI request's focus by illustrating specific instances of electoral advertising on Facebook during the 2019 election period that were identified as \"unauthorised,\" thus providing insight into the types of compliance issues that would be the subject of correspondence between the AEC and Facebook.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The FOI documents unleash a scathing indictment of the Australian Electoral Commission (AEC), exposing a staggering display of bureaucratic overreach, crippling incompetence, and an obsessive fixation on trivialities that actively fostered an opaque, hostile environment for public communication during a critical national referendum. The deluge of \"Release in part\" documents, predominantly shielded by the s47F exemption, immediately signals a deliberate attempt to obscure the full extent of the AEC's internal machinations and the specific individuals responsible for these deeply questionable decisions, betraying any semblance of public interest transparency. At the core of the AEC's failure lies its pedantic, digitally illiterate rejection of \"Yes23.com.au\" as a sufficient authorisation URL, inexplicably demanding ludicrous additions like \"www.\" and arbitrary underlining – an astounding waste of resources that forced expensive legal intervention over basic web address recognition. This entire saga paints a damning picture of a technologically inept, obstructionist bureaucracy, seemingly more intent on dictating inconsequential visual formatting and creating burdensome obstacles than ensuring accessible, clear public information, thereby stifling legitimate discourse and scandalously squandering taxpayer funds on its own absurd, self-imposed trivialities."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 706,
+    "candidates_token_count": 234,
+    "total_token_count": 1623,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "With a highly critical view, provide a scathing, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThese FOI documents expose a shocking display of bureaucratic overreach, incompetence, and a crippling obsession with minor details by the Australian Electoral Commission (AEC), effectively creating an opaque and hostile environment for public communication during a critical national referendum.\n\nThe sheer volume of \"Release in part\" documents, coupled with the reliance on the s47F exemption (personal privacy), immediately raises red flags, suggesting a deliberate attempt to obscure the full extent of the AEC's internal machinations and the specific individuals responsible for these questionable decisions. This lack of transparency is a disservice to the public interest.\n\nThe core of the AEC's failure is brutally exposed in its pedantic and fundamentally incompetent approach to digital communication. Despite \"Yes23\" making a clear attempt at compliance by placing \"Yes23.com.au\" on their advertisements, linking directly to a page containing all required authorisation details, the AEC inexplicably deemed this insufficient. Their justification — that \"it is not sufficiently clear that the ‘Yes23.com.au’ is a URL\" — is an astounding display of digital illiteracy and an unforgivable waste of resources. This reveals an agency entirely out of touch with modern internet standards, demonstrating a breathtaking level of incompetence that threatens to undermine the very principles of clear and accessible information dissemination.\n\nThe subsequent exchange further damns the AEC. \"Yes23,\" forced to engage expensive lawyers, had to explicitly ask if \"www.Yes23.com.au\" would satisfy the AEC's arbitrary demands, essentially begging for clarity on basic web address recognition. The AEC's eventual \"concession\" — that \"www.Yes23.com.au\" would be acceptable *only if it also appeared underlined* — is not a compromise but a further demonstration of a rigid, unreasonable, and potentially malicious bureaucratic mindset. This is the epitome of a system more concerned with trivial formatting requirements than ensuring that essential authorisation information is actually accessible to the public.\n\nThis entire saga paints a damning picture:\n*   **Incompetence:** The AEC's inability to understand basic internet protocols (that \"Yes23.com.au\" is clearly a functional URL without the \"www.\" or an underline) highlights a profound lack of technical understanding.\n*   **Bureaucratic Overreach:** The AEC's insistence on nitpicking over inconsequential details, effectively dictating arbitrary visual formatting requirements for a URL, demonstrates an agency that abuses its power and imposes unnecessary burdens.\n*   **Wasted Resources:** The extensive correspondence, legal fees, and administrative time consumed by this absurd debate over URL formatting represent a scandalous waste of both taxpayer money (for the AEC's time) and \"Yes23\"'s campaign resources, which could have been directed towards informing the public.\n*   **Chilling Effect:** Such an overly burdensome and arbitrary enforcement regime risks stifling legitimate public communication and discouraging compliance by making the rules unnecessarily complex and punitive.\n\nIn sum, these documents reveal an AEC that is not a fair and facilitating body, but rather a cumbersome, technologically illiterate, and obstructionist bureaucracy, seemingly intent on creating obstacles and expending resources on absurdly trivial matters rather than ensuring meaningful transparency in the public discourse.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}
