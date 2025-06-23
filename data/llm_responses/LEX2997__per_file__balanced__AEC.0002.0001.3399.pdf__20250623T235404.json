@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "### Document Summary\nThis document is an internal Australian Electoral Commission (AEC) email dated May 4, 2021, from Andrew Johnson to Kimberley Baillie and Louise Parrott. It forwards an email with the subject \"Weekly Reporting [SEC=OFFICIAL]\" and includes an attachment titled \"03. Weekly reports 30.04.2021.pdf\".\n\n### Relevance to FOI Request\nThis document's relevance lies in demonstrating the AEC's internal reporting mechanisms for its ongoing activities. Given the FOI request's focus on the AEC's investigation into Andrew Laming MP's Facebook pages for electoral authorisation compliance, it is highly probable that the forwarded \"Weekly Reporting\" attachment (dated April 30, 2021) contains updates, status reports, or other information directly related to the Laming investigation or other compliance matters. It signifies the AEC's systematic tracking and dissemination of information regarding its investigative and compliance workload."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 344,
+    "candidates_token_count": 202,
+    "total_token_count": 1387,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] The FOI request disclosed documents detailing the Australian Electoral Commission's (AEC) investigation into Andrew Laming MP's Facebook pages for compliance with federal electoral authorisation laws. This inquiry was triggered by public complaints and media reports, notably from *The Guardian*, alleging Laming used numerous pages (e.g., \"Redland Bay Bulletin,\" \"Redlands Institute\") disguised as community or news groups to promote political content and attack opponents without mandatory disclosures. The AEC confirmed an active investigation, noting 2018 Electoral Act amendments broadened social media authorisation, and issued formal notices to Laming for detailed information and to third parties (like Facebook) for data, with Facebook confirming its cooperation. Findings revealed some pages were removed or updated with authorisation, while others remained active and unauthorised.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nAEC.0002.0001.3399\n\nFrom:                                 Andrew JohnsonSent:                                  Tue, 4 May 2021 13:28:45 +1000To:                                      Kimberley Baillie;Louise ParrottSubject:                             FW: Weekly Reporting [SEC=OFFICIAL]Attachments:                   03. Weekly reports 30.04.2021.pdfFYI\n\n"
+}

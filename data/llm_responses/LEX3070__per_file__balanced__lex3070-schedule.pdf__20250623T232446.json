@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The document is a schedule of nine communications and applications released in response to FOI request LEX3070, dated between March and May 2022. It lists applications made to the Australian Electoral Commission (AEC) under s 141(2) of the Commonwealth Electoral Act 1918, primarily concerning requests for review of party deregistration decisions. Key entries include multiple requests for review regarding the deregistration of Flux/VOTEFLUX.ORG, an application concerning the Health Australia Party, and an internal review request regarding the deregistration of the Australian Progressives. It also lists a notice under s 134(6)(c) concerning the Australian Federation Party.\n\nThis document is directly relevant to FOI request LEX3070 as it serves as the official schedule of the documents being released. It directly confirms the existence and dates of applications made under s 141(2) and reviews of deregistration decisions, as sought by the FOI. It substantiates the FOI request's overview by identifying the specific parties (Flux, Health Australia Party, Australian Progressives, Australian Federation Party) that submitted such applications or communications challenging AEC decisions during the specified period, thereby directly supporting the theme of challenges to the AEC's administrative processes regarding party registration and deregistration."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 727,
+    "candidates_token_count": 268,
+    "total_token_count": 2410,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] The FOI request (LEX3070) sought applications made to the Australian Electoral Commission (AEC) under s 141(2) of the Commonwealth Electoral Act 1918 during early 2022, concerning reviews of party registration and deregistration decisions. The released documents, primarily communications and a detailed statistical analysis, reveal a strong theme of challenges to the AEC's administrative processes. Key content includes multiple parties (e.g., Democratic Labour Party, Flux, Health Australia Party) arguing that the AEC's party membership verification methodology is statistically flawed, unfair, and results in arbitrary deregistration outcomes, with Flux providing extensive analysis asserting the method is \"rigged.\" Additional challenges include the Australian Progressives alleging a clerical error in their deregistration, an objection to the registration of the David Pocock party based on candidate eligibility and name consistency, and an objection to the Australian Federation Party's logo for potential voter confusion.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nRequest for: \n\nLEX3070 FOI REQUEST \n\nall applications made to the Australian Electoral Commission under s 141 (2) of the Commonwealth Electoral Act 1918 during the year 2022 prior to \n21st June 2022. \n\nSCHEDULE OF PUBLISHED DOCUMENTS \n\nPage 1 of 2\n\n\n--- Page 2 ---\n\n1 \n\n2 \n\n3 \n\n4 \n\n5 \n\n6 \n\n7 \n\n8 \n\n9 \n\nDocument \nNo. \n\nDescription \n\n  Email re Notice under s 134(6)(c) of the Commonwealth Electoral Act 1918 \n\n(Electoral Act) - Australian Federation Party \n\n  Letter re Request for Review of Decision.  \n\n  Letter re Request for Review of Decision to Deregister Flux \n\n  Email re Request for review of the deregistration of VOTEFLUX.ORG \n\nWithheld pending exhaustion of third party review rights. \n\nDate \n\n11/03/2022 \n7:17 PM \n\n31/03/2022 \n\n14/04/2022 \n(date of receipt) \n\n26/04/2022 \n12:03 AM \n\n  Email re Please review your recent decision to deregister flux party. \n\n06/05/2022 \n\n  Email re Application under s 141(2) regarding Health Australia Party \n\n05/05/2022 \n\n  Email re Attention Mr Tom Rogers  \n\n  Email re request for internal review \n\n  Letter re internal review of the AEC’s decision to deregister the Australian \n\nProgressives \n\nEnd \n\n8/04/2022 \n10:50 AM \n\n11/04/2022 \n\n16/03/2022 \n(date or receipt) \n\nPage 2 of 2\n\n"
+}

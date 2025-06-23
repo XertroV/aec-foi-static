@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This document is an internal Australian Electoral Commission (AEC) media monitoring summary dated May 14, 2021. It highlights a *Guardian* article that \"mentions the AEC's investigation into Dr Laming's use of Facebook\" without providing further detail on the inquiry itself.\n\n**Relevance to FOI Request:** This document demonstrates the AEC's internal awareness and tracking of media coverage related to their ongoing investigation into Andrew Laming MP's Facebook pages, confirming that the inquiry was a subject of public and media discussion monitored by the AEC during its active phase."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 832,
+    "candidates_token_count": 121,
+    "total_token_count": 1823,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] The FOI request disclosed documents detailing the Australian Electoral Commission's (AEC) investigation into Andrew Laming MP's Facebook pages for compliance with federal electoral authorisation laws. This inquiry was triggered by public complaints and media reports, notably from *The Guardian*, alleging Laming used numerous pages (e.g., \"Redland Bay Bulletin,\" \"Redlands Institute\") disguised as community or news groups to promote political content and attack opponents without mandatory disclosures. The AEC confirmed an active investigation, noting 2018 Electoral Act amendments broadened social media authorisation, and issued formal notices to Laming for detailed information and to third parties (like Facebook) for data, with Facebook confirming its cooperation. Findings revealed some pages were removed or updated with authorisation, while others remained active and unauthorised.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nAEC.0002.0001.4454\n\nFrom:                                 Media MonitoringSent:                                  Fri, 14 May 2021 09:00:38 +1000To:                                      Andrew JohnsonSubject:                             Daily media monitoring summaries - Friday-14-May.aspxMedia MonitoringFriday-14-May.aspx has been changed Modify my alert settings|View Friday-14-May.aspx|View Daily media monitoring summaries|Mobile View Title:Friday 14 May Document ID Value:47W6QKDQUKK3-2087665346-210 Document ID:47W6QKDQUKK3-2087665346-210 Comments: Contact:Alex Morris Contact E-Mail Address: Contact Name: Page Layout:Body only Rollup Image: Target Audiences: Hide physical URLs from search:No Hide from Internet Search Engines:No Page Image: Page Content:Dear all, The Isentia portal, from which we curate the daily media summary, is not working this morning. So we have put together a makeshift set of news clippings and social media posts.Member for Bowman The Guardian – Scott Morrison's warm welcome to Andrew Laming is a rebuke to Australia's womenThis comment piece by Sarah Martin mentions the AEC's investigation into Dr Laming's use of Facebook, but goes into no detail.  Election speculationThe Australian – Shake it off\n\n\n--- Page 2 ---\n\nAEC.0002.0001.4455\n\nIn this morning's 'Strewth!' column, Alice Workman reports that Prime Minister Scott Morrison has started a diet of meal replacement shakes and speculates that this is a subtle sign that the election could be 'closer than previously thought'. Electoral Commission of Queensland Courier Mail – Political parties fined by Electoral Commission of Queensland for election non-compliance The New LiberalsRepresentatives of The New Liberals have posted to Twitter that their party has \"filed with the AEC\" to have the LNP deregistered.-- On a personal note, this will be he final media summary from Mark Batistich, who is returning to his ancestral homeland of Adelaide. Thanks for everything Mark. We'll miss you. - Alex (who wrote this footer while Mark wasn't looking)Summary Links:1 1 EditedByline:Mark Batistich Article Date:14/05/2021 Image Caption: Hidden Page:No Date Grouping:05/13/2021 - 05/19/2021 Associated File:No Checked Out To: Last Modified 14/05/2021 8:55 AM by Alex Morris\n\n"
+}

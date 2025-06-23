@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The document comprises 24 pages, with the majority (pages 12-14 and 17-24) being fully redacted under section 22(1)(a)(ii) of the Freedom of Information Act. This redaction indicates the withheld content consists of internal deliberative material, such as opinions, advice, or recommendations concerning the agency's functions.\n\nThe document's relevance to FOI request LEX3263 is significant as it likely constitutes one of the \"briefing documents for the decision not to offer in-person voting in Wellington in 2022\" specifically sought by the request. The extensive redactions under s 22(1)(a)(ii) suggest that the document contains the internal discussions, risk analyses, or recommendations that informed the decision regarding the cessation of in-person voting in Wellington for the 2022 federal election, thereby directly addressing a key component of the FOI request."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 542,
+    "candidates_token_count": 197,
+    "total_token_count": 1486,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] An FOI request (LEX3263) sought data on Australian federal election voting processes in New Zealand over the last four general elections, specifically covering in-person and postal declaration votes at the Wellington High Commission and Auckland Consulate-General, postal votes returned directly to the AEC from NZ addresses, and briefing documents for the decision not to offer in-person voting in Wellington in 2022. Released documents provided this quantitative data and a DFAT minute, revealing Wellington had 0 in-person votes in 2022 (resulting in a significant increase in its postal votes), while Auckland continued in-person voting but also saw a substantial rise in postal votes. Direct AEC postal returns from NZ significantly decreased in 2022. The DFAT minute confirmed the Wellington decision stemmed from a redacted risk analysis and recommendations for overseas voting.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\n\n\n\n--- Page 2 ---\n\n\n\n\n--- Page 3 ---\n\n\n\n\n--- Page 4 ---\n\n\n\n\n--- Page 5 ---\n\n\n\n\n--- Page 6 ---\n\n\n\n\n--- Page 7 ---\n\n\n\n\n--- Page 8 ---\n\n\n\n\n--- Page 9 ---\n\n\n\n\n--- Page 10 ---\n\n\n\n\n--- Page 11 ---\n\n\n\n\n--- Page 12 ---\n\ns 22(1)(a)(ii)\n\n\n--- Page 13 ---\n\ns 22(1)(a)(ii)\n\n\n--- Page 14 ---\n\ns 22(1)(a)(ii)\n\n\n--- Page 15 ---\n\n\n\n\n--- Page 16 ---\n\n\n\n\n--- Page 17 ---\n\ns 22(1)(a)(ii)\n\n\n--- Page 18 ---\n\ns 22(1)(a)(ii)\n\n\n--- Page 19 ---\n\ns 22(1)(a)(ii)\n\n\n--- Page 20 ---\n\ns 22(1)(a)(ii)\n\n\n--- Page 21 ---\n\ns 22(1)(a)(ii)\n\n\n--- Page 22 ---\n\ns 22(1)(a)(ii)\n\n\n--- Page 23 ---\n\ns 22(1)(a)(ii)\n\n\n--- Page 24 ---\n\ns 22(1)(a)(ii)\n\n"
+}

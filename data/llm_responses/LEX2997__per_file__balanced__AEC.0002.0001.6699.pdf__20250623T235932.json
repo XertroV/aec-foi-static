@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "### Document Summary: AEC.0002.0001.6699\n\nThis document is an internal email from \"ELT Support\" to AEC staff on May 27, 2021, reminding them to update various weekly reports, including a \"Weekly Issues Report\" and \"Over the Horizon\" report, via SharePoint links. It also notes the attachment of the \"Weekly Report for week ending 21 May 2021\".\n\n### Relevance to FOI Request\n\nThis document demonstrates the Australian Electoral Commission's (AEC) routine internal administrative processes for collecting and collating weekly operational information and issues. While it doesn't contain specific details about the Andrew Laming MP investigation, it indicates the existence of an internal \"Weekly Issues Report\" where ongoing investigations or significant matters, such as the Laming inquiry, might be tracked or summarized internally within the AEC. The email itself serves as a logistical reminder for reporting, rather than disclosing substantive information about the investigation itself."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 508,
+    "candidates_token_count": 207,
+    "total_token_count": 1357,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] The FOI request disclosed documents detailing the Australian Electoral Commission's (AEC) investigation into Andrew Laming MP's Facebook pages for compliance with federal electoral authorisation laws. This inquiry was triggered by public complaints and media reports, notably from *The Guardian*, alleging Laming used numerous pages (e.g., \"Redland Bay Bulletin,\" \"Redlands Institute\") disguised as community or news groups to promote political content and attack opponents without mandatory disclosures. The AEC confirmed an active investigation, noting 2018 Electoral Act amendments broadened social media authorisation, and issued formal notices to Laming for detailed information and to third parties (like Facebook) for data, with Facebook confirming its cooperation. Findings revealed some pages were removed or updated with authorisation, while others remained active and unauthorised.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nAEC.0002.0001.6699\n\nFrom:                                 ELT SupportSent:                                  Thu, 27 May 2021 08:34:18 +1000To:                                      ELT Support;ELT Weekly ReportingSubject:                             FOR ACTION: ELT Weekly Reporting - DUE COB TODAY [SEC=OFFICIAL]Attachments:                   03. Weekly Reports 21.05.2021.pdfGood morning,  The SharePoint links for weekly reporting are live and ready for your input.Please update the reports with all key information including risks, issues, movements and any divisional office closures via the links provided below. Weekly Issues Report Absences Report Over the Horizon  All reports due COB TODAY.  Please update absences for 31 May – 4 June 2021 in the report as necessary then change to black. Please also complete the week 7 – 11 June 2021.If you experience any problems with SharePoint please contact ELTSupport@aec.gov.au as soon as possible.  The Weekly Report for week ending 21 May 2021 is attached for your reference. Kind regards,ELT Support\n\n"
+}

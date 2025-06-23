@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This document is a schedule of five records relevant to the Australian Electoral Commission's (AEC) membership verification process for VOTEFLUX.ORG. It includes internal AEC emails and reports, as well as correspondence with Services Australia. Crucially, the list identifies the \"AEC Membership Testing – Realtime Report VOTEFLUX.ORG Upgrade Democracy! as at 10 March 2022,\" which directly corresponds to the key document outlined in the FOI request overview detailing the 66-person membership sample results. The listed documents are partially released, with exemptions cited under S 47F (personal privacy) and S 22 (irrelevant information)."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 427,
+    "candidates_token_count": 139,
+    "total_token_count": 1818,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] The FOI request sought information on the Australian Electoral Commission's (AEC) process for verifying political party membership, specifically concerning VOTEFLUX.ORG's eligibility to retain federal registration, which requires at least 1500 members. Documents reveal the AEC reviews supplied membership lists by sampling and directly contacting individuals to confirm their status. An \"AEC Membership Testing – Realtime Report\" for VOTEFLUX.ORG as of March 10, 2022, detailed results from a 66-person sample: 29 confirmed membership, 17 denied, 4 were neutral, and 16 were non-contactable.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nDocument \nNo. \n\nDocument Title \n\nExemption \n\nDecision on Access \n\nEmail from Ben Rushton to PartyMembership-Testing dated 16 \nMarch 2022 \n\nA message from the Australian Electoral Commission \n\nS 47F (personal privacy) \n\nRelease in part \n\nS 22 \n\nEmail from Services Australia to AEC dated 17 March 2022 \n\nS 47F (personal privacy) \n\nRelease in part \n\nAEC Member Testing Complete: VOTEFLUX.ORG_Upgrade \nDemocracy! \n\nS 22 \n\nAttachment to email dated 17 March 2022  \n\nS 47F (personal privacy) \n\nRelease in part \n\nAEC Membership Testing – Realtime Report VOTEFLUX.ORG \nUpgrade Democracy! as at 10 March 2022 \n\nS 22\n\n"
+}

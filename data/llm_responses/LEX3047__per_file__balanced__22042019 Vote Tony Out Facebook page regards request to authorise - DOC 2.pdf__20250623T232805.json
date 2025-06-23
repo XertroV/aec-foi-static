@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This document is an email complaint dated April 20, 2019, sent to the Australian Electoral Commission (AEC) concerning electoral material lacking proper authorisation. The sender draws attention to the website \"www.votetonyout.com\" and its merchandise, which feature messages calling to vote out Tony Abbott (Liberal candidate for Warringah) and support Zali Steggall (independent candidate). The complaint alleges that neither the website nor the merchandise contains the required particulars in accordance with Part XXA of the Commonwealth Electoral Act 1918. It notes that the business \"VOTE TONY OUT\" was registered on April 5, 2019, and requests the AEC to investigate this alleged breach and take appropriate action.\n\n**Relevance to FOI Request LEX3047:**\nThis document is highly relevant to FOI Request LEX3047 as it is a direct example of a public complaint received by the AEC regarding electoral advertisements lacking authorisation. The complaint specifically highlights the absence of required authorisation details on digital (website) and physical (merchandise) political advertising, aligning perfectly with the FOI request's focus on complaints about non-compliant electoral advertising in April-May 2019 and the AEC's role in enforcing authorisation requirements under the Commonwealth Electoral Act 1918."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 657,
+    "candidates_token_count": 275,
+    "total_token_count": 1284,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] FOI Request LEX3047 obtained Australian Electoral Commission (AEC) documents concerning complaints made primarily in April and May 2019 about electoral advertisements lacking authorisation or being misleading. The released materials include public email complaints and the AEC's responses to various entities like \"Our Vote Our Community\" and \"Bass Deserves Better\" Facebook pages, \"RiteOn!\" website, and other media. The complaints predominantly highlighted the absence of required authorisation details on political advertising across digital and print platforms, with some also raising concerns about misleading \"community group\" portrayals or unauthorised paid ads. In response, the AEC consistently clarified 'electoral matter' and authorisation requirements under the Commonwealth Electoral Act 1918, requested subjects to add necessary authorisations, cease distribution of non-compliant materials, and advised on potential penalties up to $25,200 for non-compliance, as well as obligations for \"disclosure entities.\"\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\n\n\n\n--- Page 2 ---\n\nFrom: \n<\nSent: Saturday, 20 April 2019 12:45 PM \nTo: \n <\nSubject: Authorisation \nImportance: High \n\n@nsw.liberal.org.au>  \n\n@aec.gov.au> \n\nDear \n\nI draw to your attention the website www.votetonyout.com which is selling a range of merchandise in the context of \nthe forthcoming federal election. \n\nIn particular, the merchandise features messages calling for voters to vote out the Liberal candidate for Warringah, \nTony Abbott, and alternatively supporting the independent candidate, Zali Steggall. \n\nI note that neither the website, nor the merchandise being sold through the website (that requires authorisation), \ncontains the required particulars in accordance with Part XXA of the Commonwealth Electoral Act 1918 (‘the Act’).   \n\nAccording to a search of ASIC records of the ABN listed on the website \nOUT was registered on 5/04/2019 to a \n\n of \n\n the business VOTE TONY \n\n. \n\nI would ask that the AEC investigates this breach of the Act and take appropriate action if warranted. \n\nRegards, \n\nMessage protected by MailGuard: e-mail anti-virus, anti-spam and content filtering. \nhttp://www.mailguard.com.au/mg \n\nClassified by \n\nFor Official Use Only \n\n@aec.gov.au on 21/04/2019 12:53:21 PM \n\n2\n\n47F47F47F47F47F47F47F47F47F47F\n\n"
+}

@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This document details the media and social media response to the Australian Electoral Commission's (AEC) investigation into Andrew Laming MP's Facebook pages. It specifically references reports from *The Australian* and *Brisbane Times* on the AEC's probe. The document notes significant activity on Twitter, with approximately 600 mentions and a potential reach of 5 million users, largely driven by journalists. It highlights a low number of Facebook mentions and observes some commentary questioning the AEC's integrity, though most social media posts were simple retweets of news stories.\n\n**Relevance to FOI Request:** This document directly supports the FOI request's overview by illustrating the public and media attention surrounding the AEC's investigation into Andrew Laming MP, corroborating that the inquiry was triggered and amplified by media reports and public discourse. It provides an internal AEC perspective on the external reaction to their ongoing compliance activities related to Laming's Facebook pages."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 461,
+    "candidates_token_count": 194,
+    "total_token_count": 1212,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] The FOI request disclosed documents detailing the Australian Electoral Commission's (AEC) investigation into Andrew Laming MP's Facebook pages for compliance with federal electoral authorisation laws. This inquiry was triggered by public complaints and media reports, notably from *The Guardian*, alleging Laming used numerous pages (e.g., \"Redland Bay Bulletin,\" \"Redlands Institute\") disguised as community or news groups to promote political content and attack opponents without mandatory disclosures. The AEC confirmed an active investigation, noting 2018 Electoral Act amendments broadened social media authorisation, and issued formal notices to Laming for detailed information and to third parties (like Facebook) for data, with Facebook confirming its cooperation. Findings revealed some pages were removed or updated with authorisation, while others remained active and unauthorised.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\n\n\n\n--- Page 2 ---\n\nAEC.0002.0001.1302\n\n         The Australian: AEC to probe Andrew Laming over Facebook pages          Brisbane Times: Electoral watchdog to investigate Andrew Laming’s Facebook pages  Social media         A wave of activity on social media, centred primarily on Twitter o   Approximately 600 mentions of the matter since 10am, with a potential reach of around 5m users  This shows that it is largely journalists with big follower bases and relatively small secondary conversations  The graph below shows how quickly something rises and falls on social o   Very low number of Facebook mentions - primarily from profiles that regularly advocate for one side of politics, and criticise the other          A relatively small number of users have provided commentary about the AEC’s integrity (or perceived lack thereof – see typical example below)o   However, the vast majority of posts on the matter have been simple retweets of journalists and news outlets ‘breaking’ the story.\n\n\n--- Page 3 ---\n\n\n\n"
+}

@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "### Document Summary: AEC Investigation into Andrew Laming MP\n\nThis document, an email alert from *The Australian* sent to AEC Commissioner Tom Rogers on April 7, 2021, is a news report announcing the Australian Electoral Commission's (AEC) impending investigation into Andrew Laming MP. The report states Laming is to be probed for \"allegedly operating 30 Facebook pages without proper authorisation.\"\n\n### Relevance to FOI Request:\n\nThis document is highly relevant as it serves as a direct notification to the AEC Commissioner regarding the public commencement or confirmation of the AEC's investigation into Andrew Laming MP, which is the central subject of the FOI request. It specifically highlights the core allegation—operating numerous Facebook pages without mandatory electoral authorisation—and provides a key date early in the investigation's public timeline (April 7, 2021), corroborating the FOI request's overview regarding media triggers and the nature of the inquiry."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 569,
+    "candidates_token_count": 199,
+    "total_token_count": 1815,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] The FOI request disclosed documents detailing the Australian Electoral Commission's (AEC) investigation into Andrew Laming MP's Facebook pages for compliance with federal electoral authorisation laws. This inquiry was triggered by public complaints and media reports, notably from *The Guardian*, alleging Laming used numerous pages (e.g., \"Redland Bay Bulletin,\" \"Redlands Institute\") disguised as community or news groups to promote political content and attack opponents without mandatory disclosures. The AEC confirmed an active investigation, noting 2018 Electoral Act amendments broadened social media authorisation, and issued formal notices to Laming for detailed information and to third parties (like Facebook) for data, with Facebook confirming its cooperation. Findings revealed some pages were removed or updated with authorisation, while others remained active and unauthorised.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nAEC.0002.0001.1240\n\nFrom:                                 The AustralianSent:                                  Wed, 7 Apr 2021 12:49:20 +1000To:                                      Tom RogersSubject:                             BREAKING: AEC to probe Laming over Facebook pagesCAUTION: This email originated from outside of the Australian Federal Government. Do not click links or open attachments unless you recognise the sender and know the content is safe.To view this email as a web page, go here.\n\n\n--- Page 2 ---\n\nAEC.0002.0001.1241\n\nBREAKINGAEC to probe Laming over Facebook pages Disgraced Coalition MP to be investigated for allegedly operating 30 Facebook pages without proper authorisation. By SARAH ELKS\n\n\n--- Page 3 ---\n\nAEC.0002.0001.1242\n\nMIND GAMESTODAY'S PAPERTHE AUSTRALIAN PLUSDo not reply to this email, as this email address is not monitored.Unsubscribe from The Australian newsletter.View your profile or update your preferences here.This email was sent in accordance with the principles of the Spam Act by The AustralianGPO Box 4245, Sydney, NSW, 2001 Australia.We have sent you this message because our records show that you have opted in to receive newsletters, announcements or special offers from The Australian. Add The Australian to your address book to ensure you continue to receive subscription emails.\n\n"
+}

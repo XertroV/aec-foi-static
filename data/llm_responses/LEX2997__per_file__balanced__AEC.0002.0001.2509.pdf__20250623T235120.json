@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "### Document Summary\n\nThis document is an internal email from Megan Mackie to the \"Community and International Engagement\" team, requesting input for a weekly Executive Leadership Team (ELT) report. The email asks for updates on upcoming events, key highlights, issues, or potential risks to be submitted by a specific deadline. A previous week's report is attached for reference.\n\n### Relevance to FOI Request\n\nThis document's direct relevance to the FOI request regarding the Andrew Laming MP investigation is minimal. It is a procedural internal communication from the Australian Electoral Commission (AEC) requesting input for a general weekly report. While the Laming investigation might be an \"issue\" or \"key highlight\" that *could* be reported in such a document, this specific email only details the *request for information* for the ELT report and does not contain any substantive details, updates, or findings related to the investigation itself. Its inclusion in the FOI disclosure indicates it is part of the broader internal communications during the period of the investigation."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 452,
+    "candidates_token_count": 209,
+    "total_token_count": 1032,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] The FOI request disclosed documents detailing the Australian Electoral Commission's (AEC) investigation into Andrew Laming MP's Facebook pages for compliance with federal electoral authorisation laws. This inquiry was triggered by public complaints and media reports, notably from *The Guardian*, alleging Laming used numerous pages (e.g., \"Redland Bay Bulletin,\" \"Redlands Institute\") disguised as community or news groups to promote political content and attack opponents without mandatory disclosures. The AEC confirmed an active investigation, noting 2018 Electoral Act amendments broadened social media authorisation, and issued formal notices to Laming for detailed information and to third parties (like Facebook) for data, with Facebook confirming its cooperation. Findings revealed some pages were removed or updated with authorisation, while others remained active and unauthorised.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nAEC.0002.0001.2509\n\nFrom:                                 Megan MackieSent:                                  Thu, 22 Apr 2021 11:41:48 +1000To:                                      Community and International EngagementSubject:                             For Action: Weekly ELT Reporting [SEC=OFFICIAL]Attachments:                   Weekly Reports 16.04.2021.pdfHi all, As part of the weekly ELT report, can you please provide me with any input on upcoming events, key highlights, issues, or potential risks that are occurring.  Could you please have your responses to me by 2pm today so I can get it approved and published in time. The last week’s report is attached for your reference.  Regards  Meg Mackie | Graduate Community & International Engagement | Deputy CommissionerAustralian Electoral CommissionT: 0481 225 584  X: 21325\n\n"
+}

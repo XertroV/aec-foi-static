@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The provided document contained no discernible text for summarization. No specific content, policies, or agreements were present within the document to analyze or summarize.\n\nNo relevance to FOI Request LEX3437 can be determined as the document is empty and offers no specific information regarding AEC policies on staff conduct, public communication, or MOUs with the AFP."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 255,
+    "candidates_token_count": 71,
+    "total_token_count": 1413,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] FOI Request No. LEX3437 sought Australian Electoral Commission (AEC) policies governing staff adherence to APS Values, Employment Principles, and Code of Conduct, limitations on staff telephone communication with the public, and Memoranda of Understanding (MOUs) with the Australian Federal Police (AFP). The released documents primarily address staff conduct and public engagement, providing details on formal breach procedures, mandatory obligation acknowledgements at staff engagement emphasizing commitment to APS Values, Code of Conduct, and political neutrality, and comprehensive induction programs covering ethical behavior, values, security, privacy, and conflict of interest. Additionally, documents outline specific rules for public telephone communication, including not transferring marketing calls or confirming staff details, taking messages for senior executives, and guidelines for service standards and referral protocols for complex inquiries. No documents pertaining to MOUs with the AFP were provided.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\n\n\n"
+}

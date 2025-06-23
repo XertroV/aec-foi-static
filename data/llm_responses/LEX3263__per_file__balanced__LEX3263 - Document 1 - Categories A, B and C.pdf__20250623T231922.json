@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This document provides quantitative data on Australian federal election voting processes in New Zealand for the 2013, 2016, 2019, and 2022 general elections.\n\n**Summary of Contents:**\n\n*   **Wellington High Commission (Category A):**\n    *   Confirms **0 in-person votes** were cast in Wellington in 2022, a significant decrease from 667 in 2019.\n    *   Shows a substantial increase in **postal votes returned to Wellington**, rising to 800 in 2022 from 5 in 2019.\n*   **Auckland Consulate-General (Category B):**\n    *   Indicates **in-person voting continued** in Auckland in 2022 (749 votes), though slightly lower than 967 in 2019.\n    *   Details a notable increase in **postal votes returned to Auckland**, reaching 479 in 2022 compared to 19 in 2019.\n*   **Postal Votes Returned Directly to AEC from NZ Addresses (Category C):**\n    *   Records a significant decrease in these votes in 2022 (360) compared to 1,389 in 2019 and 1,309 in 2016. Data for 2013 is not available.\n\n**Relevance to the FOI Request (LEX3263):**\n\nThis document directly addresses the quantitative data sought by the FOI request for Categories A, B, and C. It confirms the key observations outlined in the request overview:\n\n*   The complete cessation of in-person voting at the Wellington High Commission in 2022 and the resulting substantial increase in postal votes processed there.\n*   The continuation of in-person voting at the Auckland Consulate-General alongside a significant rise in postal votes received at that location in 2022.\n*   The dramatic decrease in postal votes returned directly to the AEC from New Zealand addresses in 2022.\n\nThe data presented provides the statistical foundation for understanding the shifts in voting patterns in New Zealand following the decision not to offer in-person voting in Wellington in 2022, and supports the broader context established by the accompanying DFAT minute mentioned in the FOI request overview."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 696,
+    "candidates_token_count": 513,
+    "total_token_count": 2250,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] An FOI request (LEX3263) sought data on Australian federal election voting processes in New Zealand over the last four general elections, specifically covering in-person and postal declaration votes at the Wellington High Commission and Auckland Consulate-General, postal votes returned directly to the AEC from NZ addresses, and briefing documents for the decision not to offer in-person voting in Wellington in 2022. Released documents provided this quantitative data and a DFAT minute, revealing Wellington had 0 in-person votes in 2022 (resulting in a significant increase in its postal votes), while Auckland continued in-person voting but also saw a substantial rise in postal votes. Direct AEC postal returns from NZ significantly decreased in 2022. The DFAT minute confirmed the Wellington decision stemmed from a redacted risk analysis and recommendations for overseas voting.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nNumber of declaration votes cast at the Australian High Commission in Wellington, New Zealand at each of the last four general elections. If you are \nable to distinguish between declaration votes cast in-person, and postal votes returned to this location, please do so (Category A). \n\nFederal election \nVote type \nVotes received at post \n\n2022 \n\n2019 \n\n2016 \n\n2013 \n\nIn-person \n0 \n\nPostal \n800 \n\nIn-person \n667 \n\nPostal \n5 \n\nIn-person \n474 \n\nPostal \n9 \n\nIn-person \n469 \n\nPostal \n4 \n\nNumber of declaration votes cast in-person at the Australian Consulate-General in Auckland, New Zealand at each of the last four general elections. If \nyou are able to distinguish between declaration votes cast in-person, and postal votes returned to this location, please do so (Category B). \n\nFederal election \nVote type \nVotes received at post \n\n2022 \n\n2019 \n\n2016 \n\n2013 \n\nIn-person \n749 \n\nPostal \n479 \n\nIn-person \n967 \n\nPostal \n19 \n\nIn-person \n805 \n\nPostal \n20 \n\nIn-person \n819 \n\nPostal \n29 \n\nNumber of votes returned directly to the AEC at each of the last four general elections, that were postal votes issued to a New Zealand address. This \npresumably would exclude postal votes returned via either of the High Commission in Wellington or Consulate-General in Auckland (Category C). \n\nFederal election \nReturned direct to AEC \n\n2022 \n360 \n\n2019 \n1,389 \n\n2016 \n1,309 \n\n2013 \n-\n\n"
+}

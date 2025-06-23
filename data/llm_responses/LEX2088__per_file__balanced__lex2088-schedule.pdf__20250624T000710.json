@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This document is the \"SCHEDULE OF PUBLISHED DOCUMENTS\" for FOI request LEX2088, which sought PDF copies of Federal Election 2022 candidate nominations for the division of Cook. It lists the specific nomination forms (AEC Form AECEF060, AEC Form AEC060-a, AEC Form AEC060-b) identified and processed for each of the five named candidates: Catherine Elizabeth Dyson, Jacqueline Guinane, Simon Roger Earle, Scott John Morrison, and Gaye Cameron, along with their respective dates. A note indicates that \"Document No. 5\" (Jacqueline Guinane's AEC Form AEC060-a) was \"subject to the exhaustion of review rights of a third party.\"\n\nThe document's relevance to the FOI request is paramount as it serves as the definitive inventory and confirmation of the existence and types of the candidate nomination forms that were located and either released (likely redacted, as per the FOI overview) or processed in response to LEX2088, directly addressing the core request for these specific documents."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 880,
+    "candidates_token_count": 224,
+    "total_token_count": 2477,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] FOI request LEX2088 sought PDF copies of the five formally declared Federal Election 2022 candidate nominations for the division of Cook, identifying Catherine Elizabeth Dyson, Jacqueline Guinane, Simon Roger Earle, Scott John Morrison, and Gaye Cameron. The released documents primarily consist of a \"SCHEDULE OF PUBLISHED DOCUMENTS\" listing the relevant AECEF060, AEC060-a, and AEC060-b nomination forms, alongside extensive pages detailing the \"REDACTION CODES\" applied. While confirming the existence and types of these documents, the actual content of the nomination forms is heavily redacted to withhold personal information (e.g., name, address, signature, citizenship), business information, and other exempt categories such as legal professional communication or electoral roll material, in accordance with the Freedom of Information Act 1982.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nRequest for: \n\nLEX2088 FOI REQUEST  \n\na PDF copy of the five formally declared Federal Election 2022 candidate nominations for the division of Cook in the House of Representatives.  \n\nSCHEDULE OF PUBLISHED DOCUMENTS \n\nDocument \nNo. \n\nDescription \n\nDate \n\nAEC Form AECEF060 Nomination Form Nomination of a Member of the House of \nRepresentative completed by Catherine Elizabeth Dyson. \n\nAEC Form AEC060-a Nomination of a Member of the House of Representatives Bulk \nnomination – endorsed candidate in respect of the nomination of Catherine Elizabeth Dyson for \nthe Division of Cook \n\nAEC Form AECEF060 Nomination Form Nomination of a Member of the House of \nRepresentative completed by Jacqueline Guinane dated 12/04/2022 \n\nAEC Form AEC060-a Nomination of a Member of the House of Representatives Bulk \nnomination – endorsed candidate in respect of the nomination of Jacqueline Guinane for the \nDivision of Cook \n\nDocument No. 5 is subject to the exhaustion of review rights of a third party. \n\nAEC Form AEC060-a Nomination of a Member of the House of Representatives Bulk \nnomination – endorsed candidate in respect of the nomination of Simon Roger Earle for the \nDivision of Cook \n\n11/04/2022 \n\n13/04/2022 \n\n12/04/2022 \n\n1/04/2022 \n\n12/04/2022 \n\n16/04/2022 \n\nPage 1 of 2\n\n\n--- Page 2 ---\n\nDocument \nNo. \n\nDescription \n\nDate \n\nAEC Form AECEF060 Nomination Form Nomination of a Member of the House of \nRepresentative completed by Scott John Morrison. \n\nAEC Form AEC060-a Nomination of a Member of the House of Representatives Bulk \nnomination – endorsed candidate in respect of the nomination of Scott John Morrison for the \nDivision of Cook \n\nFacsimile transmission received by the AEC comprising AEC Form AECEF060 Nomination \nForm Nomination of a Member of the House of Representative dated 20/04/2022 completed by \nGaye Cameron \n\nAEC Form AEC060-b Nomination of a Member of the House of Representatives Single \nnomination – endorsed candidate in respect of the nomination of Gaye Cameron for the Division \nof Cook \n\n11/04/2022 \n\n18/04/2022 \n\n20/04/2022 \n4:14:39 PM \n\n20/04/2022 \n\nEnd \n\nPage 2 of 2\n\n"
+}

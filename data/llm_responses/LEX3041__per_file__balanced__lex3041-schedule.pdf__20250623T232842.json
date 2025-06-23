@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This document outlines FOI Request LEX3041, which sought a list and description of \"foreign objects\" (non-ballots) found in Australian Electoral Commission (AEC) ballot boxes, and the AEC's procedural guidelines for responding to such objects. It also lists the documents provided by the AEC in response: the Election Procedures Handbook, Prematurely Opened Ballot Box Policy, and Prematurely Opened Ballot Box SOP.\n\n**Relevance to FOI Request:** This document directly defines the scope and specific demands of FOI Request LEX3041, establishing the exact information requested (a list of non-ballot \"foreign objects\" and their handling procedures). The listed documents are the AEC's official response to the request, indicating the source materials available for understanding their established procedures related to items in ballot boxes, even if, as per the request overview, they do not provide a direct list of foreign objects."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 483,
+    "candidates_token_count": 189,
+    "total_token_count": 1490,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] FOI Request LEX3041 sought a list of \"foreign objects\" (non-ballots) found in ballot boxes and the Australian Electoral Commission's (AEC) response procedures. The AEC released the Election Procedures Handbook, Prematurely Opened Ballot Box Policy, and Prematurely Opened Ballot Box SOP. These documents reveal that the AEC's primary response to \"foreign objects\" (like personal items) is non-retrieval, as opening a box to retrieve such items would compromise electoral integrity, and no procedures or forms for listing or describing non-ballot foreign objects exist. While the \"Prematurely Opened\" documents detail handling for ballot boxes opened prematurely due to issues like seal discrepancies or damage, their focus is on managing the integrity and inclusion/exclusion of *ballots* and declaration vote envelopes, not on cataloging non-ballot items, consistently prioritizing the \"integrity of the result.\"\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nRequest for: \n\nFOI REQUEST NO. LEX3041 \n\n \n\n“A list of the identifiers of foreign objects received in ballot boxes, and a description (if any) of each foreign object. Please ensure that the cases \nwhere no description was noted, but a foreign object was received, are identified as such. Here, \"foreign objects\" are all objects received in ballot \nboxes that were not ballots. \n\n  The current 'playbooks' that the AEC have which include the procedural response to a foreign object in a ballot box. That is: the pre-established \n\nmethods and procedures that are enacted upon receipt of a foreign object.” \n\nDoc No. \n\nDescription \n\nSCHEDULE OF RETRIEVED DOCUMENTS \n\nStatic OIC Election Procedures Handbook \n\nPrematurely Opened Ballot Box Policy \n\nPrematurely Opened Ballot Box SOP \n\nDate \n\nN/A \n\n09/2021 \n\n07/2020\n\n"
+}

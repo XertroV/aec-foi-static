@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "### Document Summary: AEC.0002.0001.1445 - AEC Facebook Pages Update\n\n*   **Date:** 8 April 2021\n*   **Sender:** Isabella McCormick, AEC Digital & Social Media Officer\n*   **Content:** An internal AEC email updating on the status of Facebook pages associated with Andrew Laming MP.\n*   **Key Findings:**\n    *   Confirmed two pages, \"Thornlands 4164\" and \"Redland Hospital: Let’s fight for fair funding,\" previously linked to Mr. Laming, have been removed and their URLs are no longer active.\n    *   Noted that the \"Redlands Institute\" page remains live and provided several specific post links from it.\n    *   Suggested contacting Facebook to retrieve posts from the removed pages and advised on the importance of regularly taking screenshots of live pages, including bios, due to potential changes.\n\n### Relevance to FOI Request:\n\nThis document directly relates to the FOI request detailing the AEC's investigation into Andrew Laming MP's Facebook pages. It provides an update on the status of specific pages under scrutiny, confirming the removal of some while identifying others, like \"Redlands Institute,\" as still active. This aligns with the FOI overview's mention that \"some pages were removed or updated with authorisation, while others remained active and unauthorised.\" The email also illustrates the AEC's internal processes for gathering evidence, such as seeking data from Facebook and documenting page content, which are key aspects of the disclosed investigation."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 754,
+    "candidates_token_count": 324,
+    "total_token_count": 1667,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] The FOI request disclosed documents detailing the Australian Electoral Commission's (AEC) investigation into Andrew Laming MP's Facebook pages for compliance with federal electoral authorisation laws. This inquiry was triggered by public complaints and media reports, notably from *The Guardian*, alleging Laming used numerous pages (e.g., \"Redland Bay Bulletin,\" \"Redlands Institute\") disguised as community or news groups to promote political content and attack opponents without mandatory disclosures. The AEC confirmed an active investigation, noting 2018 Electoral Act amendments broadened social media authorisation, and issued formal notices to Laming for detailed information and to third parties (like Facebook) for data, with Facebook confirming its cooperation. Findings revealed some pages were removed or updated with authorisation, while others remained active and unauthorised.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nAEC.0002.0001.1445\n\nFrom:                                 Isabella McCormickSent:                                  Thu, 8 Apr 2021 15:39:43 +1000To:                                      Louise ParrottCc:                                      Alex MorrisSubject:                             Facebook pages - links [SEC=OFFICIAL:Sensitive]Hi Louise, Alex and I have looked through the screenshots and found the following: Two pages associated with Mr Laming have now been removed – screenshots we’ve been using have included direct URLs to the pages, and we can confirm the links are no longer active. The short URLs for each page are:  Thornlands 4164 – www.facebook.com/ThornlandsQLD Redland Hospital: Let’s fight for fair funding – www.facebook.com/RedlandHospital  We would suggest a reasonable approach here would be for you to contact Facebook, provide the above links and a list of dates and times for relevant posts to be retrieved. The other page – Redlands Institute is still live and all of the links are below: Redland Institute https://www.facebook.com/RInstit/photos/289654448560573 https://www.facebook.com/RInstit/photos/343065656552785 https://www.facebook.com/RInstit/photos/311386569720694 https://www.facebook.com/RInstit/photos/305907743601910 https://www.facebook.com/RInstit/posts/366292914230059 https://www.facebook.com/RInstit/posts/368025340723483 Assuming you already have but also a good idea to be taking screen shots of everything – including the page bio’s as they can change at any time. Let us know if you need anything else! Cheers,Bella  Isabella McCormick | Digital & Social Media Officer Australian Electoral CommissionT: (02) 6271 4704 X: 21086\n\n\n--- Page 2 ---\n\nAEC.0002.0001.1446\n\n"
+}

@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This document is a \"SCHEDULE OF RELEASED DOCUMENTS\" for FOI request LEX3177. It lists the materials provided by the Australian Electoral Commission (AEC) in response to the request seeking documentation for the \"rational, fair and practical\" nature of its membership testing methodology.\n\nThe primary document released, as indicated in the schedule, is the \"Commission Paper – Review of the delegate’s decision to deregister the Senior United Party of Australia\" dated 17 November 2021.\n\nSupporting documents listed include:\n*   Advice provided to the Commission regarding party registration (20 March 2017).\n*   Australian Bureau of Statistics (ABS) testing methodology tables (November 2016).\n*   Applications and further submissions from the Senior United Party of Australia (SUPA) concerning their deregistration review (March 2021).\n*   Documents detailing the September 2021 membership test, including identification of duplicates, records of individuals contacted and outcomes, and a breakdown of membership numbers (October 2021).\n\n**Relevance to FOI Request LEX3177:** This schedule directly addresses the FOI request by enumerating the specific documents the AEC has released to demonstrate the appropriateness, rationality, fairness, and practicality of its membership testing methodology, particularly as applied during the review of SUPA's deregistration. The listed documents collectively form the basis of the AEC's justification."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 699,
+    "candidates_token_count": 301,
+    "total_token_count": 1960,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] This FOI request (LEX3177) sought documents supporting the Australian Electoral Commission's (AEC) conclusion that its membership testing methodology was \"rational, fair and practical.\" The primary released document, the \"Commission Paper – Review of the delegate’s decision to deregister the Senior United Party of Australia\" (17 Nov 2021), details the AEC's methodology, developed by the Australian Bureau of Statistics (ABS) and re-endorsed in 2017, as the foundation for its appropriateness. The paper outlines three membership testing rounds for the Seniors United Party of Australia (SUPA), with initial tests in October 2020 and February 2021 failing to meet the 500-member threshold, leading to deregistration. However, a September 2021 test, conducted during an internal review, successfully verified SUPA's membership, leading to the party's re-registration. The paper also systematically addresses SUPA's claims of unfairness (e.g., due to demographics, alleged errors, lack of scrutineers), asserting the methodology's consistent application, impartiality, and focus on formal membership, thus demonstrating its adherence to the principles of rationality, fairness, and practicality.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nRequest for: \n\nFOI REQUEST NO. LEX3177 \n\n•  All supporting documents behind the commission's conclusion that \"the [AEC's membership testing] methodology was appropriate for membership \n\ntesting, including because it was rational, fair and practical in all the circumstances\" used in that determination from LEX967, including the \ndocument(s) supporting the claim that it is rational, and including the document(s) supporting the claim that it is fair. \n\nDoc No. \n\nDescription \n\nDate \n\nCommission Paper – Review of the delegate’s decision to deregister the Senior United Party of Australia \n\n17 November 2021 \n\nSCHEDULE OF RELEASED DOCUMENTS \n\nAttachment B: Advice provided to the Commission in relation to Party registration \n\n20 March 2017 \n\nAttachment L: Australian Bureau of Statistics testing methodology table for a list of 539 individuals \n\nNovember 2016 \n\nAttachment N: Application for review of the delegates decision from part officer to the Electoral Commission \n\n21 March 2021 \n\nAttachment P: Further submission by the party officer in support of the review application \n\nAttachment ZV: Identification of duplicates included in the September 2021 List \n\nAttachment ZW: The ABS testing methodology table for a list of 538 individuals \n\nAttachment ZX: Record of individuals contacted and the outcome of those contacts \n\n25 March 2021 \n\n8 October 2021 \n\nNovember 2016 \n\nAttachment ZY Breakdown of Membership Numbers \n\n19 October 2021\n\n"
+}

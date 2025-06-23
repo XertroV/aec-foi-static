@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This document is a schedule confirming the retrieval of the core subject of FOI Request No. LEX1785: Mr. Max Kaye's application dated 14 April 2022, made under section 141(2) of the Commonwealth Electoral Act 1918. Its relevance is to confirm the identification and inclusion of the specific application that initiates the review of the AEC's decision to deregister \"VOTEFLUX.ORG | Upgrade Democracy!\", which is the central focus of the FOI request concerning Kaye's detailed critique of the AEC's membership eligibility testing methodology."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 415,
+    "candidates_token_count": 126,
+    "total_token_count": 1094,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] This FOI request (No. LEX1785) concerned Mr. Max Kaye's 14 April 2022 application to the Australian Electoral Commission (AEC) under s141(2) of the Commonwealth Electoral Act 1918, seeking a review of the decision to deregister \"VOTEFLUX.ORG | Upgrade Democracy!\" (Flux). Kaye, a former Flux officer, contended that the AEC's methodology for testing party membership eligibility was fundamentally flawed, using detailed statistical analysis to demonstrate an extremely high probability of false negatives (over 99.99% for a hypothetical eligible party) and arguing that the test was \"rigged\" and a \"farce.\" His critique highlighted issues such as sampling bias (only A-G names sampled for Flux), an artificially limited sample size (1,650 names maximum allowed for submission regardless of actual membership), and a method that could become less reliable as a party gained members. Kaye asserted that the AEC's policies systematically disadvantaged non-parliamentary parties, enabling the entrenchment of existing political power.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nRequest for the application made under s141(2) by Max Kaye on 14 April 2022 to the Electoral Commission. \n\nFOI REQUEST NO. LEX1785 \n\nDoc No. \n\nDescription \n\nDate \n\nApplication made under section 141(2) of the Commonwealth Electoral Act 1918 by Mr. Max Kaye \n\n14 April 2022 \n\nSCHEDULE OF RETRIEVED DOCUMENTS\n\n"
+}

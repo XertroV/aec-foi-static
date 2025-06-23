@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "### Document Summary\n\nThe provided document text is empty. However, within the context of FOI Request No. LEX3172, this document, dated 1996, is described as detailing the \"oldest advice\" provided by the Australian Bureau of Statistics (ABS) to the Australian Electoral Commission (AEC) concerning membership testing methodology. The FOI overview indicates it illustrates a collaborative process where the ABS offered expert guidance and detailed information, influencing the AEC's internal approval of its membership testing methodology policy in that year.\n\n### Relevance to FOI Request LEX3172\n\nThis document is directly relevant to FOI Request No. LEX3172 as it pertains to the \"earliest advice\" sought regarding ABS recommendations to the AEC on membership testing methodology. While the specific content is not present, its described nature aligns with the request for documents from 1996 demonstrating the ABS's role in shaping the AEC's policy. The FOI request overview also clarifies that while documents relating to \"earliest advice\" were provided, no documents pertaining to the \"most recent advice\" were released."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 197,
+    "candidates_token_count": 230,
+    "total_token_count": 1715,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] An FOI request (No. LEX3172) sought ABS advice to the AEC on membership testing methodology, specifically the earliest and most recent. The released documents, all from 1996, detail the \"oldest advice\" and illustrate a collaborative process where the ABS provided expert guidance and detailed information, influencing the AEC's internal approval of its membership testing methodology policy that year. No documents pertaining to the \"most recent advice\" were provided.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\n\n\n\n--- Page 2 ---\n\n\n\n\n--- Page 3 ---\n\n\n\n\n--- Page 4 ---\n\n\n\n"
+}

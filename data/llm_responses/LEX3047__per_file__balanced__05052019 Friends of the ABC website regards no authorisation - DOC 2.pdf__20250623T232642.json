@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "### Summary of Document:\nThis document is a public email complaint dated May 5, 2019, concerning political advertising. The complainant alleges that a \"How-to-vote card\" distributed online by \"Friends of the ABC Queensland\" lacks proper authorisation. Furthermore, the complaint highlights that the use of the ABC logo (an Australian Government trademark) on the material has the potential to mislead voters regarding the source of the electoral matter. The expected outcome requested is for \"Friends of the ABC\" to cease circulating the unauthorised material.\n\n### Relevance to FOI Request LEX3047:\nThis document is directly relevant to FOI Request LEX3047 as it constitutes a complaint made in May 2019 about electoral advertising. Specifically, it aligns with the FOI's scope by addressing two key concerns: the absence of required authorisation details on political advertising and the potential for material to be misleading through the alleged misuse of a government trademark, which could portray it as from an official source or a community group. The nature of the complaint—lack of authorisation and misleading content—directly reflects the types of issues the AEC consistently clarified and acted upon as described in the FOI request overview."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 570,
+    "candidates_token_count": 246,
+    "total_token_count": 1126,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] FOI Request LEX3047 obtained Australian Electoral Commission (AEC) documents concerning complaints made primarily in April and May 2019 about electoral advertisements lacking authorisation or being misleading. The released materials include public email complaints and the AEC's responses to various entities like \"Our Vote Our Community\" and \"Bass Deserves Better\" Facebook pages, \"RiteOn!\" website, and other media. The complaints predominantly highlighted the absence of required authorisation details on political advertising across digital and print platforms, with some also raising concerns about misleading \"community group\" portrayals or unauthorised paid ads. In response, the AEC consistently clarified 'electoral matter' and authorisation requirements under the Commonwealth Electoral Act 1918, requested subjects to add necessary authorisations, cease distribution of non-compliant materials, and advised on potential penalties up to $25,200 for non-compliance, as well as obligations for \"disclosure entities.\"\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nFrom:\nSent:\nTo:\nSubject:\n\nSunday, 5 May 2019 6:21 PM\nLegal Services Mailbox\n[COMPLAINT Political advertising] \n[SEC=UNCLASSIFIED]\n\n (2914) *WWW* \n\nComplaint \n\nCategory \n\nPolitical advertising \n\nPrimary Details \n\nGiven name(s): \nSurname: \nOrganisation: \nEmail: \nPhone number: \n\nElectoral division: \n\nComplaint Details \n\nI draw your attention to the Friends of the ABC Queensland How-to-vote card which can be found \nat https://me.abcfriends.org.au/index.php/2019/04/25/queensland-how-to-vote-report-card-on-\nparties/ This does not appear to contain an authorisation. The use of an Australian Government \ntrademark (the ABC logo) has the potential to mislead voters as to the source of the electoral \nmatter. \n\nExpected Outcome \n\nRequest the Friends of the ABC to desist from circulating unauthorised material. \n\nAdditional Information \n\nAddress: \nLine 2: \nLocality: \nState: \nPostcode: \n\n1\n\n47F47F47F47F\n\n\n--- Page 2 ---\n\n2\n\n47F\n\n"
+}

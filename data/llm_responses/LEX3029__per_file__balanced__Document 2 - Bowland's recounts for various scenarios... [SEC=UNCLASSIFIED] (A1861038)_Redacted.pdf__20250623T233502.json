@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This document is an internal Australian Electoral Commission (AEC) email from August 2, 2017. It informs AEC staff about independently developed Senate count software by Grahame Bowland, a private citizen, which he used to run various scenarios, providing a link to his work. The email's purpose is to \"raise awareness of its existence\" within the AEC.\n\n**Relevance to FOI Request:**\nThis document is relevant to the FOI request as it demonstrates the AEC's internal awareness of independent efforts to develop and test Senate election counting algorithms during the 2016-2017 period. This aligns with the FOI request's mention of \"early independent tests (2016-2017)\" that \"found no issues replicating the AEC's 2013 WA Senate count.\" It provides context regarding the AEC's knowledge of external scrutiny and attempts at replicating their counting methodology prior to the 2021 Conway and Teague report, which subsequently identified significant discrepancies and issues with the AEC's algorithm and processes."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 442,
+    "candidates_token_count": 225,
+    "total_token_count": 1563,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] This FOI request sought information concerning the accuracy, methodology, and identified issues with the Australian Electoral Commission's (AEC) Senate election counting algorithm and associated scrutiny processes. While early independent tests (2016-2017) found no issues replicating the AEC's 2013 WA Senate count, a subsequent 2021 report by Conway and Teague identified significant discrepancies. This report detailed that the AEC's software used tie-breaking rules inconsistent with the Electoral Act, noted the non-implementation of bulk exclusions (which can alter outcomes), and highlighted ambiguities in the Electoral Act concerning the count's termination. The report proposed various legislative and procedural recommendations, including publishing the AEC's code, correcting tie-breaking, and clarifying statutory definitions, to which the AEC subsequently responded.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nFrom:\nTo:\n\nSubject:\nDate:\nAttachments:\n\nHello all\n\nStrategic Research and Analysis - NO; Counting The Senate Project - NO; Parliamentary Engagement and Party\nRegistration\nBowland\"s recounts for various scenarios... [SEC=UNCLASSIFIED]\nWednesday, 2 August 2017 2:54:19 PM\nimage001.gif\nimage002.gif\n\nGrahame Bowland is a private citizen and Greens member who has devised his own Senate\ncount software. He has recently been running scenarios to cover the various s.44\npossibilities, which can be found here:\n\nhttps://sirgraha.me/senate2016/#/index\n\nJust figured I’d raise awareness of its existence.\n\nRegards,\n\nSam.\n\n| Senior Research Officer\n\nResearch & Analysis Section | Roll Management Branch\nAustralian Electoral Commission\n\n"
+}

@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "### Document Summary\nThis document comprises the minutes for Australian Electoral Commission Meeting No. 279, held on September 26, 2022. Attendees included Justice Susan Kenny AM (Chair), Mr. Tom Rogers (Electoral Commissioner), and Dr. David Gruen AO (Australian Statistician). The Commission made two key decisions: affirming the delegate's decision to deregister the VOTEFLUX.ORG | Upgrade Democracy! party, and affirming the delegate's decision to approve the Australian Federation Party's logo change application. One agenda item for discussion remains redacted.\n\n### Relevance to FOI Request\nThis document is directly relevant to the FOI request as it falls within the specified timeframe (March 2, 2021, to October 19, 2022) and details Commission decisions pertinent to political party deregistration (VOTEFLUX.ORG | Upgrade Democracy!) and changes to party registration details (Australian Federation Party logo). The presence of the Australian Statistician and a redacted \"For discussion\" item aligns with the FOI request's interest in the evolving methodology for verifying party membership and seeking ABS advice, although the specific content of this item is withheld."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 985,
+    "candidates_token_count": 248,
+    "total_token_count": 2236,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] An FOI request sought minutes from Australian Electoral Commission (AEC) meetings held between March 2, 2021, and October 19, 2022, resulting in the release of seven sets of endorsed, edited minutes. These documents primarily detail the Commission's decisions and discussions concerning political party registration, deregistration, and name changes, alongside the evolving methodology for verifying party membership, particularly in response to legislative amendments increasing the minimum member requirement from 500 to 1,500. Key discussions included seeking Australian Bureau of Statistics (ABS) advice on membership testing, and specific rulings on party names (e.g., \"The New Liberals,\" \"Liberal Democratic Party\"), deregistration (e.g., \"Australian People’s Party,\" \"VOTEFLUX.ORG\"), and re-registration (e.g., \"Seniors United Party of Australia\").\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nMinutes \n\nAustralian Electoral Commission \nMeeting No. 279 \n\nDate: Monday 26 September 2022  Time: 10:00am \nLocation: Lvl 10 Conference Room, 305 William Street, Melbourne Victoria 3000; Microsoft Teams \n\nAttendees:  \nThe Hon. Justice Susan Kenny AM (Chair) \nMr. Tom Rogers (Electoral Commissioner) \nDr. David Gruen AO (Australian Statistician) (by Microsoft Teams) \n\n (Commission Secretariat) \n\nAction officers:  \n\nAgenda \n\nNo. \n\nDescription \n\nWelcome \n\n1 \n\nFor decision: VOTEFLUX.ORG | Upgrade Democracy! – internal review (deregistration) \n\n2 \n\n3 \n\nItem 1a. Commission Paper \n\nItem 1b. Draft Notice of Decision \n\nFor discussion: \n\nFor decision: Australian Federation Party – internal review (logo change decision) \n\nItem 3a. Commission Paper \n\nItem 3b. Draft Notice of Decision \n\nClosing \n\nWelcome and Commissioner’s introduction \n\nThe meeting opened at approximately 10:00am with the three-person Australian Electoral \nCommission (the Commission) in attendance. The Hon. Justice Susan Kenny AM and Mr Tom \nRogers attended in person and Dr David Gruen AO joined via Microsoft Teams. The Commission \ndecided that agenda item 3 would be addressed before agenda item 2. \n\nsection 47Fsection 47C\n\n\n--- Page 2 ---\n\nAgenda items – in order of discussion \n\nAgenda item 1: For decision: VOTEFLUX.ORG | Upgrade Democracy! – internal review \n(deregistration) \n\nThe Commission examined and discussed the material before it in relation to the three applications \nfor review brought by \n of the delegate’s decision of 24 March \n2022 to deregister the VOTEFLUX.ORG | Upgrade Democracy! party. \n\nThe Commission decided:  \n\n•  To affirm the delegate’s decision of 24 March 2022 pursuant to s 141(4)(a) of the \n\nCommonwealth Electoral Act 1918 (Electoral Act).  \n\nAgenda item 3: For decision: Australian Federation Party – internal review (logo change \ndecision) \n\nThe Commission examined and discussed the material before it in relation to the application for \nreview brought by \nmade by the Australian Federation Party to change its logo on the Register of Political Parties to the \nlogo set out in the Party’s application. \n\n of the delegate’s decision of 11 March 2022 to grant the application \n\nThe Commission decided:  \n\n•  To affirm the delegate’s decision of 11 March 2022 pursuant to s 141(4)(a) of the \n\nCommonwealth Electoral Act 1918 (Electoral Act).  \n\nAgenda item 2: For discussion: \n\nClosing \n\nThe Chair thanked members for attending and closed the meeting at 11:00am. \n\nMinutes: Australian Electoral Commission Meeting No. 279 \n\nPage 2 \n\nsection 47Csection 47Fsection 47F\n\n"
+}

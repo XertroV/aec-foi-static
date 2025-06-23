@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This document is an email dated April 8, 2021, from Justin Sowden, a Senior Lawyer at the Australian Electoral Commission (AEC), to Louise Parrott. It provides a sample of posts and images from four Facebook pages examined by Sowden: \"Redlands Institute,\" \"Redlands Hospital Let's fight for fair funding,\" \"Thornlands 4164,\" and \"Redland Bay Bulletin.\"\n\nIts relevance to the FOI request is significant as it demonstrates the AEC's active investigation into Andrew Laming MP's Facebook pages for compliance with electoral authorisation laws. The email confirms the AEC's collection of evidential material, specifically sample posts and images, from pages explicitly identified in the FOI request overview (e.g., \"Redland Bay Bulletin,\" \"Redlands Institute\") as being central to allegations of unauthorised political content disguised as community or news groups. This email serves as direct evidence of the investigative steps taken by AEC legal services to gather information regarding the alleged breaches."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 757,
+    "candidates_token_count": 208,
+    "total_token_count": 1486,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] The FOI request disclosed documents detailing the Australian Electoral Commission's (AEC) investigation into Andrew Laming MP's Facebook pages for compliance with federal electoral authorisation laws. This inquiry was triggered by public complaints and media reports, notably from *The Guardian*, alleging Laming used numerous pages (e.g., \"Redland Bay Bulletin,\" \"Redlands Institute\") disguised as community or news groups to promote political content and attack opponents without mandatory disclosures. The AEC confirmed an active investigation, noting 2018 Electoral Act amendments broadened social media authorisation, and issued formal notices to Laming for detailed information and to third parties (like Facebook) for data, with Facebook confirming its cooperation. Findings revealed some pages were removed or updated with authorisation, while others remained active and unauthorised.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nAEC.0002.0001.1339\n\nFrom:                                 Justin SowdenSent:                                  Thu, 8 Apr 2021 10:53:03 +1000To:                                      Louise ParrottSubject:                             Laming Facebook pages [SEC=OFFICIAL]Attachments:                   20190516 - Redlands Institute.jpg, 20190519 - Redlands Institute.jpg, 20181224 - Redlands Institute.jpg, 20190122 - Redlands Institute.jpg, 20190201 - Redlands Institute.jpg, 20190403 - Redlands Institute.jpg, 20190403 - Redlands Institute.png, 20181223 - Redlands Hospital Let's fight for fair funding.jpg, 20190113 - Redlands Hospital Let's fight for fair funding.jpg, 20190115 - Redlands Hospital Let's fight for fair funding.jpg, 20190121 - Redlands Hospital Let's fight for fair funding.jpg, 20190128 - Redlands Hospital Let's fight for fair funding.jpg, 20190302 - Redlands Hospital Let's fight for fair funding.jpg, 20190426 - Redlands Hospital Let's fight for fair funding.jpg, 20190307 - Thornlands 4164.jpg, 20190503 - Thornlands 4164.jpg, 20190308 - Thornlands 4164.jpg, 20160527 - Redland Bay Bulletin.jpg, 20201015 - Redland Bay Bulletin.jpgHi Louise Please find attached a sample of posts and images from the four Facebook pages I examined. I found some from the Redlands Institute which are also attached. Justin Sowden | Senior LawyerLegal Services Section | Legal & Procurement BranchAustralian Electoral CommissionT: (02) 6271 4595 X: 21719\n\n"
+}

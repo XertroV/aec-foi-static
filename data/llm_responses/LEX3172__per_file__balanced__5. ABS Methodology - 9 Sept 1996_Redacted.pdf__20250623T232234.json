@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The provided document content is empty. Based on FOI request LEX3172's overview, this document, if populated, would represent the \"oldest advice\" provided by the ABS to the AEC in 1996 concerning membership testing methodology. Its relevance to the FOI request is to demonstrate the collaborative process where the ABS offered expert guidance and detailed information, influencing the AEC's internal approval of its membership testing methodology policy that year."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 191,
+    "candidates_token_count": 92,
+    "total_token_count": 805,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] An FOI request (No. LEX3172) sought ABS advice to the AEC on membership testing methodology, specifically the earliest and most recent. The released documents, all from 1996, detail the \"oldest advice\" and illustrate a collaborative process where the ABS provided expert guidance and detailed information, influencing the AEC's internal approval of its membership testing methodology policy that year. No documents pertaining to the \"most recent advice\" were provided.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\n\n\n\n--- Page 2 ---\n\n\n\n\n--- Page 3 ---\n\n\n\n"
+}

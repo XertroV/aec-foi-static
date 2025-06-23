@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "### Document Summary\nThis document is an email complaint submitted to the Australian Electoral Commission (AEC) Legal Services Mailbox on April 13, 2019. The complaint categorizes the issue as \"Political advertising\" and specifically alleges \"No authorisation for misleading ads\" observed on the Facebook page \"Our Vote Our Community\" (`https://www.facebook.com/Our-Vote-Our-Community-353462745204606/`).\n\n### Relevance to FOI Request LEX3047\nThis document is highly relevant to FOI Request LEX3047. It directly aligns with the request's scope by providing a specific instance of a public email complaint made in April 2019 concerning electoral advertisements lacking authorisation and being misleading. The complaint specifically targets the \"Our Vote Our Community\" Facebook page, which is explicitly mentioned in the FOI request overview as one of the entities that was the subject of such complaints. It serves as a primary example of the type of input the AEC received, leading to their subsequent actions as detailed in the FOI request overview (e.g., clarifying authorisation requirements and advising on non-compliance)."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 496,
+    "candidates_token_count": 246,
+    "total_token_count": 1241,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] FOI Request LEX3047 obtained Australian Electoral Commission (AEC) documents concerning complaints made primarily in April and May 2019 about electoral advertisements lacking authorisation or being misleading. The released materials include public email complaints and the AEC's responses to various entities like \"Our Vote Our Community\" and \"Bass Deserves Better\" Facebook pages, \"RiteOn!\" website, and other media. The complaints predominantly highlighted the absence of required authorisation details on political advertising across digital and print platforms, with some also raising concerns about misleading \"community group\" portrayals or unauthorised paid ads. In response, the AEC consistently clarified 'electoral matter' and authorisation requirements under the Commonwealth Electoral Act 1918, requested subjects to add necessary authorisations, cease distribution of non-compliant materials, and advised on potential penalties up to $25,200 for non-compliance, as well as obligations for \"disclosure entities.\"\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nFrom:\nSent:\nTo:\nSubject:\n\ncom\n\nSaturday, 13 April 2019 9:19 AM\nLegal Services Mailbox\n[COMPLAINT Political advertising] \n[SEC=UNCLASSIFIED]\n\n (2010) *WWW* \n\nComplaint \n\nCategory \n\nPolitical advertising \n\nPrimary Details \n\nGiven name(s): \nSurname: \nOrganisation: \nEmail: \nPhone number: \n\nElectoral division: \n\nComplaint Details \n\nNo authorisation for misleading ads \nhttps://www.facebook.com/Our-Vote-Our-Community-353462745204606/ \n\nExpected Outcome \n\nAdditional Information \n\nAddress: \nLine 2: \nLocality: \nState: \nPostcode: \n\n1\n\n47F47F47F47F47F47F47F47F47F47F47F\n\n"
+}

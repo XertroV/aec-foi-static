@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "### Document Summary: Complaint Regarding Unauthorised Online Advertisement\n\nThis document is an email complaint sent to the Australian Electoral Commission (AEC) Legal Services Mailbox on 10 May 2019. The complainant reported encountering an online advertisement, purportedly from \"Liberal,\" while reading the \"NewDaily\" online newspaper. The core of the complaint is that this advertisement lacked any authorisation details or links to a website, despite having sufficient space for such information. The complainant requested that the AEC demand proper authorisation for such advertisements and compel the responsible organisation to cease further unauthorised advertising.\n\n### Relevance to FOI Request LEX3047:\n\nThis document is directly relevant to FOI Request LEX3047 as it constitutes an example of the \"public email complaints\" received by the AEC concerning electoral advertisements. Specifically, it falls within the requested timeframe (May 2019) and addresses a primary concern of the FOI request: the \"absence of required authorisation details on political advertising across digital... platforms.\" The nature of the complaint and the requested outcome align with the AEC's standard responses and enforcement actions outlined in the FOI request overview, which involved clarifying authorisation requirements and requesting subjects to add necessary authorisations or cease distribution of non-compliant materials."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 553,
+    "candidates_token_count": 255,
+    "total_token_count": 1146,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] FOI Request LEX3047 obtained Australian Electoral Commission (AEC) documents concerning complaints made primarily in April and May 2019 about electoral advertisements lacking authorisation or being misleading. The released materials include public email complaints and the AEC's responses to various entities like \"Our Vote Our Community\" and \"Bass Deserves Better\" Facebook pages, \"RiteOn!\" website, and other media. The complaints predominantly highlighted the absence of required authorisation details on political advertising across digital and print platforms, with some also raising concerns about misleading \"community group\" portrayals or unauthorised paid ads. In response, the AEC consistently clarified 'electoral matter' and authorisation requirements under the Commonwealth Electoral Act 1918, requested subjects to add necessary authorisations, cease distribution of non-compliant materials, and advised on potential penalties up to $25,200 for non-compliance, as well as obligations for \"disclosure entities.\"\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nFrom:\nTo:\nSubject:\nDate:\nAttachments:\n\nLegal Services Mailbox\n[COMPLAINT Political advertising] \nFriday, 10 May 2019 10:16:31 AM\n[Attachment 01]\n\n.jpg\n\n (3070) *WWW* [SEC=UNCLASSIFIED]\n\nComplaint\n\nCategory\n\nPolitical advertising\n\nPrimary Details\n\nGiven name(s):\n\nSurname:\n\nOrganisation:\n\nEmail:\n\nPhone number:\n\nElectoral division:\n\nComplaint Details\n\nWhile reading the online paper NewDaily, I received the attached advertisement \nclaiming to be from \"Liberal\"\nThis advertisement has no authorisation and no links to any other web site.\nLike my previous complaints about unauthorised advertising, this advertisement \nhas more than enough room at the bottom for authorisation\n\nExpected Outcome\n\nDeamnd that these types of advertisements are properly authorised and advise the \norganisation responsible to halt further unauthorised advertising.\n\nAdditional Information\n\nAddress:\n\nLine 2:\n\nLocality:\n\nState:\n\nPostcode:\n\n47F47F47F 47F 47F47F 47F47F47F47F47F\n\n\n--- Page 2 ---\n\n47F\n\n\n--- Page 3 ---\n\n\n\n"
+}

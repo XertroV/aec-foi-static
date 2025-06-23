@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This document is a schedule of five documents released in response to an FOI request concerning the Australian Bureau of Statistics' (ABS) methodology for sampling and testing political party membership lists.\n\n**Summary of Document:**\nThe document, titled \"Attachment A – Schedule of Relevant Documents,\" lists five specific records:\n*   **Document 1:** An extract from the ABS sample size calculator, configured for a 6% risk of rejecting a valid list.\n*   **Document 2 & 5:** Two separate pieces of advice from the ABS Chief Methodologist on sampling and methodology (dated 29 July 2022 and 19 August 2022, respectively).\n*   **Document 3:** A letter from the Australian Statistician to the Australian Electoral Commissioner regarding non-parliamentary political party membership testing methodology (dated 2 September 2022).\n*   **Document 4:** The ABS Party membership testing methodology table.\nAll documents except Document 5 (which was partially accessed) are indicated as published on the AEC Disclosure Log.\n\n**Relevance to FOI Request:**\nThis schedule directly confirms the release and identifies key documents pertaining to the FOI request's scope. It shows that the ABS provided specific advice and methodologies related to sampling and testing political party membership lists, particularly concerning:\n*   The statistical basis for sample size determination, including the risk of false rejection (notably the 6% threshold).\n*   Expert advice from the ABS Chief Methodologist on the sampling methodology used.\n*   The official methodology and associated tables used for testing non-parliamentary political party membership, which directly addresses the core of the request regarding the deregistration review of VoteFlux.Org | Upgrade Democracy! The document serves as an index to the specific records that contain the detailed information described in the FOI request overview, such as the requirement for random sampling from the whole list and the principles of sample size calculation."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 611,
+    "candidates_token_count": 403,
+    "total_token_count": 1986,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] This FOI request sought documents on the Australian Bureau of Statistics' (ABS) methodology for sampling and testing political party membership lists, specifically concerning the deregistration review of VoteFlux.Org | Upgrade Democracy! The released documents, including advice from the ABS Chief Methodologist, clarified that for statistically valid conclusions about an entire list, samples must be drawn randomly from the whole list, not merely a sub-list. It emphasized that larger lists require proportionately larger sample sizes (e.g., 564 for 4,680 members) to maintain desired confidence levels and control false rejection risks (below 6%). The methodology is designed as a practical and fair system encouraging accurate record-keeping, noting that filtering names improves list quality and reduces false rejection likelihood, and warning that using an incorrect sample size for larger lists increases the probability of false rejection.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nAttachment A – Schedule of Relevant Documents \n\nDoc ref  \n\nDocument description \n\nExemption \n\nDecision on Access  \n\nDocument 1 \n\nExtract of ABS sample size calculator set to risk \nrejection at 6% for rejecting a valid list \n\nDocument 2 \n\nAdvice from ABS Chief Methodologist on sampling \nand methodology used dated 29 July 2022  \n\nDocument 3 \n\nLetter to Mr Tom Rogers, Australian Electoral \nCommissioner from Dr Gruen AO, Australian \nStatistician regarding non-parliamentary political \nparty membership testing methodology dated 2 \nSeptember 2022 \n\n- \n\n- \n\n- \n\nDocument 4 \n\nABS Party membership testing methodology table \n\n- \n\nPublished on the Disclosure Log under LEX3388:  \nhttps://www.aec.gov.au/information-access/foi/2022/  \n\nPublished on the Disclosure Log under LEX3388:  \nhttps://www.aec.gov.au/information-access/foi/2022/  \n\nPublished on the Disclosure Log under LEX3388:  \nhttps://www.aec.gov.au/information-access/foi/2022/  \n\nPublished on the Disclosure Log under LEX3388:  \nhttps://www.aec.gov.au/information-access/foi/2022/  \n\nDocument 5 \n\nAdvice from ABS Chief Methodologist on sampling \nand methodology used dated 19 August 2022  \n\n47F \n\nAccess in Part\n\n"
+}

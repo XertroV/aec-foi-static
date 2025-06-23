@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The provided document content is empty, preventing a specific summary of its details.\n\nHowever, based on the context of the FOI request, this document would be directly relevant to the Australian Electoral Commission's (AEC) investigation into Andrew Laming MP's Facebook pages for compliance with federal electoral authorisation laws. Such a document would typically detail:\n*   The origin of the inquiry, stemming from public complaints and media reports concerning Laming's alleged use of numerous disguised community/news pages (e.g., \"Redland Bay Bulletin,\" \"Redlands Institute\") to disseminate political content and attack opponents without mandatory disclosures.\n*   The AEC's procedural steps, including the issuance of formal notices to Laming for information and data requests to third parties like Facebook.\n*   Facebook's cooperation in the investigation.\n*   Findings related to the pages, specifically noting whether pages were removed, updated with proper authorisation, or continued to operate without the required disclosures.\n*   The application of the 2018 Electoral Act amendments concerning social media authorisation."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 254,
+    "candidates_token_count": 218,
+    "total_token_count": 1104,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] The FOI request disclosed documents detailing the Australian Electoral Commission's (AEC) investigation into Andrew Laming MP's Facebook pages for compliance with federal electoral authorisation laws. This inquiry was triggered by public complaints and media reports, notably from *The Guardian*, alleging Laming used numerous pages (e.g., \"Redland Bay Bulletin,\" \"Redlands Institute\") disguised as community or news groups to promote political content and attack opponents without mandatory disclosures. The AEC confirmed an active investigation, noting 2018 Electoral Act amendments broadened social media authorisation, and issued formal notices to Laming for detailed information and to third parties (like Facebook) for data, with Facebook confirming its cooperation. Findings revealed some pages were removed or updated with authorisation, while others remained active and unauthorised.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\n\n\n\n--- Page 2 ---\n\n\n\n\n--- Page 3 ---\n\n\n\n"
+}

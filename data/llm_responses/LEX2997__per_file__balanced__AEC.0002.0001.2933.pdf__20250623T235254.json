@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "*   **Summary:** This document is an internal Australian Electoral Commission (AEC) email dated April 30, 2021, from Holly Castro (Chief of Staff) to Tom Rogers (Electoral Commissioner) and Kristen Wild. Its purpose is to distribute \"ELT Papers\" (likely Executive Leadership Team papers) for a meeting scheduled for May 3, 2021, with an attached PDF document titled \"ELT Papers 03.05.2021.pdf.\"\n*   **Relevance to FOI Request:** This document serves as cover correspondence for high-level internal AEC briefing materials. Given the ongoing and publicly acknowledged investigation into Andrew Laming MP's Facebook pages for electoral authorisation compliance, it is probable that updates or related discussions concerning this significant inquiry were contained within the attached \"ELT papers\" for review and decision by the AEC's senior leadership."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 390,
+    "candidates_token_count": 187,
+    "total_token_count": 1395,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] The FOI request disclosed documents detailing the Australian Electoral Commission's (AEC) investigation into Andrew Laming MP's Facebook pages for compliance with federal electoral authorisation laws. This inquiry was triggered by public complaints and media reports, notably from *The Guardian*, alleging Laming used numerous pages (e.g., \"Redland Bay Bulletin,\" \"Redlands Institute\") disguised as community or news groups to promote political content and attack opponents without mandatory disclosures. The AEC confirmed an active investigation, noting 2018 Electoral Act amendments broadened social media authorisation, and issued formal notices to Laming for detailed information and to third parties (like Facebook) for data, with Facebook confirming its cooperation. Findings revealed some pages were removed or updated with authorisation, while others remained active and unauthorised.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nAEC.0002.0001.2933\n\nFrom:                                 Holly CastroSent:                                  Fri, 30 Apr 2021 15:19:35 +1000To:                                      Tom Rogers;Kristen WildSubject:                             ELT papers for Monday [SEC=OFFICIAL]Attachments:                   ELT Papers 03.05.2021.pdf  Holly Castro | Chief of Staff National Executive | Australian Electoral CommissionT: (02) 6271 4523 X: 21260 M: 0418 629 297\n\n"
+}

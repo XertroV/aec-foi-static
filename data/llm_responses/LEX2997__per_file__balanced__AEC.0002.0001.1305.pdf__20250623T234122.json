@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "*   **Summary:** This document, identified as AEC.0002.0001.1306, details the extensive media and social media coverage surrounding the Australian Electoral Commission's (AEC) investigation into Andrew Laming MP's Facebook pages. It notes a \"large amount of media coverage,\" citing specific articles from *The Guardian* (initial follow-up), ABC radio, *Herald Sun*, AAP, *The Australian*, and *Brisbane Times*, all reporting on the AEC's probe into Laming's Facebook activities. Social media, particularly Twitter, also showed significant activity, largely driven by journalists sharing the news of the investigation.\n*   **Relevance to FOI Request:** This document directly supports the FOI request's overview by demonstrating the significant public and media attention that surrounded and likely contributed to the AEC's investigation. The FOI request states the inquiry was \"triggered by public complaints and media reports, notably from *The Guardian*,\" and this document confirms the widespread media reporting, specifically mentioning *The Guardian*'s role and the broader coverage of Laming being under investigation for his Facebook pages, thereby establishing the external visibility and pressure related to the AEC's actions."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 578,
+    "candidates_token_count": 251,
+    "total_token_count": 1313,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] The FOI request disclosed documents detailing the Australian Electoral Commission's (AEC) investigation into Andrew Laming MP's Facebook pages for compliance with federal electoral authorisation laws. This inquiry was triggered by public complaints and media reports, notably from *The Guardian*, alleging Laming used numerous pages (e.g., \"Redland Bay Bulletin,\" \"Redlands Institute\") disguised as community or news groups to promote political content and attack opponents without mandatory disclosures. The AEC confirmed an active investigation, noting 2018 Electoral Act amendments broadened social media authorisation, and issued formal notices to Laming for detailed information and to third parties (like Facebook) for data, with Facebook confirming its cooperation. Findings revealed some pages were removed or updated with authorisation, while others remained active and unauthorised.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\n\n\n\n--- Page 2 ---\n\nAEC.0002.0001.1306\n\nCoverageA large amount of media coverage. The initial Guardian follow-up article  - followed by a range of other online and broadcast content of a similar ilk. Would expect standard TV          ABC radio: news headlineso   Example audio attached          Herald Sun: Queensland MP Andrew Laming under investigation from AEC over Facebook postso   & other News Ltd titles          AAP: LNP MP under scrutiny over Facebook pageso   published in a host of country papers          The Australian: AEC to probe Andrew Laming over Facebook pages          Brisbane Times: Electoral watchdog to investigate Andrew Laming’s Facebook pages  Social media         A wave of activity on social media, centred primarily on Twitter o   Approximately 600 mentions of the matter since 10am, with a potential reach of around 5m users  This shows that it is largely journalists with big follower bases and relatively small secondary conversations  The graph below shows how quickly something rises and falls on social o   Very low number of Facebook mentions - primarily from profiles that regularly advocate for one side of politics, and criticise the other          A relatively small number of users have provided commentary about the AEC’s integrity (or perceived lack thereof – see typical example below)o   However, the vast majority of posts on the matter have been simple retweets of journalists and news outlets ‘breaking’ the story.\n\n\n--- Page 3 ---\n\n\n\n\n--- Page 4 ---\n\nAEC.0002.0001.1308\n\n"
+}

@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "### Document Summary & Relevance\n\nThis document is an email complaint, dated April 14, 2019, lodged with the Australian Electoral Commission's (AEC) Legal Services. The complaint concerns an independent candidate for the seat of Curtin, alleging their website lacks the required authorisations for electoral communications. The complainant requests the AEC provide advice on enforcement steps, remind the candidate of legal obligations, and monitor their compliance.\n\n**Relevance to FOI Request LEX3047:** This document is highly relevant as it falls squarely within the scope of FOI Request LEX3047. The request specifically covers AEC documents concerning complaints made primarily in April and May 2019 about electoral advertisements lacking authorisation. This complaint directly addresses the absence of required authorisation details on a digital platform (a candidate's website) and originates within the specified timeframe. It represents a common type of complaint the AEC would receive and respond to by clarifying authorisation requirements under the Commonwealth Electoral Act 1918 and seeking compliance."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 501,
+    "candidates_token_count": 209,
+    "total_token_count": 1147,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] FOI Request LEX3047 obtained Australian Electoral Commission (AEC) documents concerning complaints made primarily in April and May 2019 about electoral advertisements lacking authorisation or being misleading. The released materials include public email complaints and the AEC's responses to various entities like \"Our Vote Our Community\" and \"Bass Deserves Better\" Facebook pages, \"RiteOn!\" website, and other media. The complaints predominantly highlighted the absence of required authorisation details on political advertising across digital and print platforms, with some also raising concerns about misleading \"community group\" portrayals or unauthorised paid ads. In response, the AEC consistently clarified 'electoral matter' and authorisation requirements under the Commonwealth Electoral Act 1918, requested subjects to add necessary authorisations, cease distribution of non-compliant materials, and advised on potential penalties up to $25,200 for non-compliance, as well as obligations for \"disclosure entities.\"\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nFrom:\nTo:\nSubject:\nDate:\n\nLegal Services Mailbox\n[COMPLAINT Political advertising] \nSunday, 14 April 2019 1:25:35 PM\n\n () *WWW* [SEC=UNCLASSIFIED]\n\nComplaint\n\nCategory\n\nPolitical advertising\n\nPrimary Details\n\nGiven name(s):\n\nSurname:\n\nOrganisation:\n\nEmail:\n\nPhone number:\n\nElectoral division:\n\nComplaint Details\n\nThe website of \ndoesnt appear to contain the required authorisations required for electoral \ncommunications\n\n, an independent candidate for the seat of Curtin, \n\nExpected Outcome\n\n1 advice to me as to enforcement steps to be taken by the AEC, 2 reminder to the \ncandidate of her legal obligations, 3 monitoring of her compliance\n\nAdditional Information\n\nAddress:\n\nLine 2:\n\nLocality:\n\nState:\n\nPostcode:\n\n47F47F47F47F47F47F47F47F47F47F47F47F\n\n"
+}

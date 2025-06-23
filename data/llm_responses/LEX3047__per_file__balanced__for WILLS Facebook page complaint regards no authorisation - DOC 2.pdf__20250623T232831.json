@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "### Document Summary: Complaint Regarding \"for WILLS\" Facebook Page\n\nThis document is an email complaint sent to the Australian Electoral Commission (AEC) on April 23, 2019, concerning political advertising. The complaint, originating from the electoral division of Holt, alleges that the Facebook page \"for WILLS\" (facebook.com/pg/for-WILLS-2337394036272646/) carries no authorisation or contact details. It further states that the page engages in specific anti-Greens and Labor political commentary, including personal imputation. The complainant requests that the page name be changed to indicate it is an individual's page, not a political candidate's, or that it be taken down.\n\n### Relevance to FOI Request LEX3047\n\nThis document is directly relevant to FOI Request LEX3047 as it is an example of a public email complaint received by the AEC in April 2019 regarding electoral advertisements. The complaint specifically highlights two key themes central to the FOI request:\n1.  **Absence of required authorisation details:** The primary grievance is the lack of authorisation or contact details on a page making political commentary.\n2.  **Misleading portrayal:** The request for the page name to be changed to clarify it's an individual, not a political candidate, aligns with concerns about \"misleading 'community group' portrayals\" or misrepresentation.\n\nThis document serves as a specific instance of the types of public complaints the AEC received that prompted their responses concerning compliance with authorisation requirements and the Commonwealth Electoral Act 1918, as detailed in the FOI request overview."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 568,
+    "candidates_token_count": 349,
+    "total_token_count": 1611,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] FOI Request LEX3047 obtained Australian Electoral Commission (AEC) documents concerning complaints made primarily in April and May 2019 about electoral advertisements lacking authorisation or being misleading. The released materials include public email complaints and the AEC's responses to various entities like \"Our Vote Our Community\" and \"Bass Deserves Better\" Facebook pages, \"RiteOn!\" website, and other media. The complaints predominantly highlighted the absence of required authorisation details on political advertising across digital and print platforms, with some also raising concerns about misleading \"community group\" portrayals or unauthorised paid ads. In response, the AEC consistently clarified 'electoral matter' and authorisation requirements under the Commonwealth Electoral Act 1918, requested subjects to add necessary authorisations, cease distribution of non-compliant materials, and advised on potential penalties up to $25,200 for non-compliance, as well as obligations for \"disclosure entities.\"\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nFrom:\nSent:\nTo:\nSubject:\n\nTuesday, 23 April 2019 12:10 AM\nLegal Services Mailbox\n[COMPLAINT Political advertising] \n[SEC=UNCLASSIFIED]\n\n *WWW* \n\nComplaint \n\nCategory \n\nPolitical advertising \n\nPrimary Details \n\nGiven name(s): \nSurname: \nOrganisation: \nEmail: \nPhone number: \n\nElectoral division: \n\nHolt \n\nComplaint Details \n\nThe Facebook page \n\n for WILLS https://www.facebook.com/pg/\n\nfor-WILLS-2337394036272646/ carries no authorisation or contact details and is making \n\nspecific political commentary. The page consists of commentary and posts that are specifically anti-\nGreens and Labor, with personal imputation of \n\n. \n\nExpected Outcome \n\nThat either the page name be changed to show it is an individual and not a political candidate, or \nthat it be taken down. \n\nAdditional Information \n\nAddress: \nLine 2: \nLocality: \nState: \nPostcode: \n\n1\n\n47F47F47F47F47F47F47F47F\n\n\n--- Page 2 ---\n\n2\n\n47F\n\n"
+}

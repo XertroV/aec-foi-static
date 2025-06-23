@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "### Document Summary\nThis document is a table, titled \"Table supplied by ABS showing confidences in membership testing,\" updated by the Australian Bureau of Statistics (ABS) in November 2016. It details the parameters for membership verification for parties lodging between 500 and 550 members. For each number of \"Members Lodged,\" it specifies the \"Random sample\" size to be tested and the \"Max denials to pass\" allowed for the party to meet the threshold. For example, a party lodging 500-502 members requires an 18-member sample with 0 denials to pass, while a party lodging 548-550 members requires a 50-member sample with a maximum of 7 denials.\n\n### Relevance to FOI Request LEX3177\nThis table is directly relevant to FOI request LEX3177, which seeks documents supporting the AEC's \"rational, fair and practical\" membership testing methodology. The request overview highlights that the AEC's methodology was developed by the ABS and re-endorsed in 2017. As a table explicitly \"supplied by ABS\" and \"Updated by ABS November 2016,\" it provides concrete evidence of the ABS-derived quantitative rules that underpin the AEC's testing process. The systematic and predefined sample sizes and denial tolerances outlined in the table demonstrate the methodological rigor, supporting the AEC's claim that its approach is \"rational\" and \"practical.\" The consistent application of these parameters across varying membership numbers further illustrates the \"fairness\" of the testing process."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 852,
+    "candidates_token_count": 332,
+    "total_token_count": 1766,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] This FOI request (LEX3177) sought documents supporting the Australian Electoral Commission's (AEC) conclusion that its membership testing methodology was \"rational, fair and practical.\" The primary released document, the \"Commission Paper – Review of the delegate’s decision to deregister the Senior United Party of Australia\" (17 Nov 2021), details the AEC's methodology, developed by the Australian Bureau of Statistics (ABS) and re-endorsed in 2017, as the foundation for its appropriateness. The paper outlines three membership testing rounds for the Seniors United Party of Australia (SUPA), with initial tests in October 2020 and February 2021 failing to meet the 500-member threshold, leading to deregistration. However, a September 2021 test, conducted during an internal review, successfully verified SUPA's membership, leading to the party's re-registration. The paper also systematically addresses SUPA's claims of unfairness (e.g., due to demographics, alleged errors, lack of scrutineers), asserting the methodology's consistent application, impartiality, and focus on formal membership, thus demonstrating its adherence to the principles of rationality, fairness, and practicality.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nTable supplied by ABS showing confidences in membership testing\n(lists from 500-550)\n\nMembers Lodged\n500\n501\n502\n503\n504\n505\n506\n507\n508\n509\n510\n511\n512\n513\n514\n515\n516\n517\n518\n519\n520\n521\n522\n523\n524\n525\n526\n527\n528\n529\n530\n531\n532\n533\n534\n535\n536\n537\n538\n539\n540\n541\n542\n543\n544\n545\n546\n547\n548\n549\n550\n\nRandom sample \n18\n18\n18\n26\n26\n26\n26\n26\n26\n26\n26\n32\n32\n32\n32\n32\n32\n32\n32\n37\n37\n37\n37\n37\n37\n37\n41\n41\n41\n41\n41\n41\n41\n41\n44\n44\n44\n44\n44\n44\n44\n47\n47\n47\n47\n47\n47\n47\n50\n50\n50\n\nMax denials to pass\n0\n0\n0\n1\n1\n1\n1\n1\n1\n1\n1\n2\n2\n2\n2\n2\n2\n2\n2\n3\n3\n3\n3\n3\n3\n3\n4\n4\n4\n4\n4\n4\n4\n4\n5\n5\n5\n5\n5\n5\n5\n6\n6\n6\n6\n6\n6\n6\n7\n7\n7\n\nUpdated by ABS November 2016\n\n"
+}

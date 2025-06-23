@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This document serves as the schedule of released documents for FOI Request No. LEX3134. It confirms the release of two draft documents dated 5 July 2022: a \"Senate assurance detailed report and assurance outcomes\" and a \"Senate collation of Stage 2 assurance exceptions.\" These documents directly address the FOI request for Axiom Associates' audit report assessing the accuracy of the 2022 Senate scanning and digitisation process, indicating that the sought information, albeit in draft form, has been provided."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 424,
+    "candidates_token_count": 108,
+    "total_token_count": 1019,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] The FOI request sought Axiom Associates' audit report on the Australian Electoral Commission's (AEC) 2022 Senate scanning and digitisation accuracy. The released draft documents from July 2022, including a detailed report and a collation of exceptions, outline an external statistical assurance process for Senate ballot papers, ensuring electronic data accurately reflects physical records as per legislation. Based on a 10,103-ballot paper sample, Stage 1 identified 7 instances where scanned images did not exactly replicate physical papers, while Stage 2 found 33 discrepancies between physical ballots and electronic preference data/interpretations in the AEC's system, often due to inconsistent rule application or unclear voter markings, with a national sample exception rate of 0.45%. The detailed report estimates 3.2 to 5.8 exceptions per 1,000 ballot papers nationally with 95% confidence, noting no political bias in the exceptions, which typically arose from interpreting voter intent. The collation document further provides detailed examples and visual illustrations of these Stage 2 discrepancies.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nRequest for: \n\nFOI REQUEST NO. LEX3134 \n\n•  The report from Axiom Associates on the audit they conducted to assess the accuracy of the 2022 Senate scanning and digitisation process. \n\nSCHEDULE OF RELEASED DOCUMENTS \n\nDoc No. \n\nDescription \n\n  Draft – Senate assurance detailed report and assurance outcomes \n\n  Draft – Senate collation of Stage 2 assurance exceptions \n\nDate \n\n5/07/2022 \n\n5/07/2022\n\n"
+}

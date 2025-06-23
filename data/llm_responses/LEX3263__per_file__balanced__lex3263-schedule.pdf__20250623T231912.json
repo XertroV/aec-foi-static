@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This document is a \"Schedule of Released Documents\" for FOI Request LEX3263. It outlines the two documents provided in response to the request:\n*   A data compilation dated 13 September 2022, directly addressing the quantitative data sought in Categories A, B, and C (number of declaration votes at Wellington High Commission and Auckland Consulate-General, and direct AEC postal votes from New Zealand addresses).\n*   A DFAT Minute titled \"Australian federal election – 2022 window – Overseas voting risk analysis and recommendations,\" dated 20 December 2021, which directly responds to Category D regarding briefing or decision documents related to the cessation of in-person voting in Wellington in 2022.\n\n**Relevance to the FOI Request:**\nThis document confirms the specific items released to fulfill FOI request LEX3263, detailing how each category of information requested (quantitative voting data and the Wellington in-person voting decision documents) was addressed by the released materials. It serves as an index for the full response to the FOI request."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 600,
+    "candidates_token_count": 227,
+    "total_token_count": 1337,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] An FOI request (LEX3263) sought data on Australian federal election voting processes in New Zealand over the last four general elections, specifically covering in-person and postal declaration votes at the Wellington High Commission and Auckland Consulate-General, postal votes returned directly to the AEC from NZ addresses, and briefing documents for the decision not to offer in-person voting in Wellington in 2022. Released documents provided this quantitative data and a DFAT minute, revealing Wellington had 0 in-person votes in 2022 (resulting in a significant increase in its postal votes), while Auckland continued in-person voting but also saw a substantial rise in postal votes. Direct AEC postal returns from NZ significantly decreased in 2022. The DFAT minute confirmed the Wellington decision stemmed from a redacted risk analysis and recommendations for overseas voting.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nRequest for: \n\nFOI REQUEST NO. LEX3263 \n\n•  Number of declaration votes cast at the Australian High Commission in Wellington, New Zealand at each of the last four general elections. If you are \n\nable to distinguish between declaration votes cast in-person, and postal votes returned to this location, please do so. (‘Category A’) \n\n•  Number of declaration votes cast in-person at the Australian Consulate-General in Auckland, New Zealand at each of the last four general elections. \nIf you are able to distinguish between declaration votes cast in-person, and postal votes returned to this location, please do so. (‘Category B’) \n•  Number of votes returned directly to the AEC at each of the last four general elections, that were postal votes issued to a New Zealand address. \n\nThis presumably would exclude postal votes returned via either of the High Commission in Wellington or Consulate-General in Auckland. \n(‘Category C’) \n\n•  Any briefing or decision documents related to the decision to not offer in-person voting at the Australian High Commission in Wellington, New \n\nZealand at 2022 federal election. (‘Category D’) \n\nSCHEDULE OF RELEASED DOCUMENTS \n\nDoc No. \n\nDescription \n\nDate \n\n  Document created in response to this FOI request. Contains the data requested in Categories A, B & C of the FOI \n\n13 September 2022 \n\nrequest. \n\n  DFAT Minute: Australian federal election – 2022 window – Overseas voting risk analysis and recommendations \n\n20 December 2021\n\n"
+}

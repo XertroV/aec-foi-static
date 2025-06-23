@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```markdown\n### Document Summary\n\nThis document is an email from Isabella McCormick, Digital & Social Media Officer at the Australian Electoral Commission (AEC), to TikTok dated May 23, 2022. The email requests the swift removal of a TikTok video that recorded an AEC staff member without their awareness or consent inside a counting centre. The request cites a breach of privacy rules and the identification of AEC staff as reasons for removal.\n\n### Relevance to FOI Request LEX3037\n\nThis document is highly relevant to FOI request LEX3037 as it exemplifies the direct engagement and communication channels established between the Australian Electoral Commission (AEC) and major tech companies, specifically TikTok, during the 2022 federal election period. It demonstrates the AEC's proactive efforts, likely through its Electoral Integrity Assurance Taskforce, to address \"non-compliant content\" on social media platforms. While the specific issue is a privacy breach and unauthorized recording of staff rather than misinformation, it falls under the broader remit of safeguarding election integrity by managing content that impacts AEC operations and personnel. This aligns with the FOI request's description of AEC's collaboration with platforms for content referrals and direct communication to maintain election integrity.\n```"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 436,
+    "candidates_token_count": 252,
+    "total_token_count": 1444,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] An FOI request (LEX3037) revealed correspondence from early 2022 between the Australian Electoral Commission (AEC) and major tech companies, including Meta, Twitter, Google, Microsoft, and TikTok, regarding compliance with electoral law and the 2022 federal election. The released documents, featuring an \"Electoral Communications Escalation Scenarios\" guide and extensive communication, detail the AEC's proactive engagement—primarily through its Electoral Integrity Assurance Taskforce—with these platforms. This collaboration focused on identifying, monitoring, and addressing electoral misinformation, disinformation, and non-compliant content through direct communication channels and content referrals, thereby safeguarding election integrity.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nFrom:\nTo:\nSubject:\nDate:\nAttachments:\n\nSocial Media\n\nTIkTok - AEC staff being recorded without consent or awareness [SEC=OFFICIAL]\nMonday, 23 May 2022 9:33:34 AM\nimage001.gif\nimage002.gif\n\nHello team,\nWe have been sent the following tiktok. This video records one of our staff members without their\nawareness or consent in side of a counting centre. We would ask that this be removed as it breaks\nprivacy rules and identifies our staff.\n\nGrateful if this can be swiftly addressed.\n\nCheers,\nBella\n\nIsabella McCormick | Digital & Social Media Officer\nMedia and Digital Engagement, Electoral Integrity and Communications Branch\nAustralian Electoral Commission\nT: (02) 6271 4694 X: 21086\n\ns 47G(1)s 47FReleased under the FOI ActReleased under the FOI Act\n\n"
+}

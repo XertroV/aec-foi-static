@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The document is a \"SCHEDULE OF RELEASED DOCUMENTS\" for FOI Request No. LEX2846, listing the materials provided by the Australian Electoral Commission (AEC). Its relevance to the FOI request is direct and comprehensive, demonstrating the AEC's response to the detailed inquiries about its COVID-19 election preparations.\n\nSpecifically, the schedule reveals:\n*   **Development of the Commonwealth Electoral (COVID Enfranchisement) Regulations 2022 and secure telephone voting:** It lists the \"COVID Enfranchisement Regulations,\" \"Customer Journey – Proposed Voting Experience for Covid Isolating Customers DRAFT v7,\" \"Media talking points – secure telephone voting,\" \"Key messages – telephone voting,\" and \"Election contact center scripts – COVD-19 secure telephone voting,\" directly evidencing the system's creation and communication strategy.\n*   **Policy on postal voting for COVID-positive voters:** The \"Postal Voting policy\" document is included, addressing adaptations to existing voting methods.\n*   **Advice to staff on assisting COVID-positive voters:** \"Talking points provided to social media staff\" and \"Election contact center scripts – COVD-19 secure telephone voting\" confirm the provision of specific guidance to frontline staff.\n*   **Broader policy and logistical challenges:** The inclusion of an \"AEC submission to the Joint Standing Committee on Electoral Matters\" from 2020 suggests disclosed information regarding the strategic and systemic challenges, including the need for greater legislative flexibility, as highlighted in the FOI request overview.\n*   **Internal record-keeping on pandemic-related matters:** A \"list of files from the AEC's record management systems\" containing \"COVID\" or \"pandemic\" terms is also provided.\n\nIn summary, this document is the inventory of records released by the AEC, directly fulfilling the specific information requests and substantiating the AEC's extensive efforts in preparing for and managing federal elections during the COVID-19 pandemic, encompassing legislative, operational, and communication aspects."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 688,
+    "candidates_token_count": 409,
+    "total_token_count": 2318,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] The FOI request LEX2846 illuminated the Australian Electoral Commission's (AEC) extensive preparations for conducting federal elections amidst the COVID-19 pandemic. Released documents detailed the **Commonwealth Electoral (COVID Enfranchisement) Regulations 2022**, establishing a secure telephone voting system for eligible self-isolating voters diagnosed close to polling day, supported by detailed \"Customer Journey\" plans and staff scripts. The AEC also adapted its **postal voting policy** for COVID-positive individuals and noted reduced mobile polling. Revealed were significant **logistical and financial challenges**, including projected cost increases and staffing difficulties, prompting the AEC to seek greater legislative flexibility for emergency election management. The AEC ensured **COVID-safe measures** at polling places and maintained the integrity of new voting methods through staff neutrality, scrutineer observation, and robust complaint mechanisms.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nRequest for: \n\nFOI REQUEST NO. LEX2846 \n\n•  all drafts of legislation, drafts of explanatory material, policy tables, policy papers, executive briefs and ministerial briefs relating to the \n\ndevelopment of the COVID Enfranchisement Bill and Regulations; \n\n•  any advice to AEC social media staff and call-centre workers on how to assist voters who are COVID-positive during the election period; \n•  any policy documents relating to the use of postal voting for COVID-positive voters; \n•  a list of files from the AEC's record management systems whose titles or descriptions contain the words \"COVID\", \"COVID-19\", \"coronavirus\" or \n\n\"pandemic\". \n\nDoc No. \n\nDescription \n\nSCHEDULE OF RELEASED DOCUMENTS (PART 1) \n\nTalking points provided to social media staff \n\n  Media talking points – secure telephone voting \n\nKey messages – telephone voting \n\nElection contact center scripts – COVD-19 secure telephone voting \n\nPostal Voting policy \n\nList of files contain in the AEC record management system whose titles or descriptions contain the words \n\"COVID\", \"COVID-19\", \"coronavirus\" or \"pandemic\" \n\nDate \n\n17/05/2022 \n\n11/05/2022 \n\n28/03/2022 \n\nundated \n\n02/2022 \n\nundated\n\n\n--- Page 2 ---\n\nSCHEDULE OF RELEASED DOCUMENTS (PART 2) \n\nDoc No. \n\nDescription \n\nIS20-000009: JSCEM Submission No. 17 – Australian Electoral \n\nCommission submission to the Joint Standing Committee on Electoral \n\nMatters \n\nCustomer Journey – Proposed Voting Experience for Covid Isolating \n\nCustomers DRAFT v7 \n\n 14  \n\nCOVID Enfranchisement Regulations \n\nDate \n\n11/2020 \n\n1/03/2022 \n\n2022\n\n"
+}

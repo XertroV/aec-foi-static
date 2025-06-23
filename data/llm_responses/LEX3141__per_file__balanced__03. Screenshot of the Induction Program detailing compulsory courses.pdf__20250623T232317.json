@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This document, a collection of materials released in response to FOI Request No. LEX3141, comprises the 2022 Graduate Induction PowerPoint presentation and schedule, a screenshot detailing compulsory courses, and an email sent to graduates containing useful links and attachments (including an SDD PowerPoint, mouse settings guide, and workstation setup guides).\n\nIt comprehensively outlines the Australian Electoral Commission's role, the structure and requirements of its 2022 Graduate Program (including details on rotations, the APSC program, and criteria for advancement to APS 5), performance expectations, general roles and responsibilities, and essential administrative information. Furthermore, the materials cover security and conduct guidelines with a particular emphasis on political neutrality, describe available support systems, and provide practical immediate steps for new graduate staff.\n\nThis document is directly relevant to FOI Request No. LEX3141, as it provides precisely the \"PowerPoint slides, notes and any materials relating to the AEC graduate program's orientation sessions given to new staff\" that the request sought."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 258,
+    "candidates_token_count": 212,
+    "total_token_count": 1641,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] FOI Request No. LEX3141 sought \"PowerPoint slides, notes and any materials relating to the AEC graduate program's orientation sessions given to new staff from the beginning of this year's graduate program to date.\" In response, the AEC released the 2022 Graduate Induction PowerPoint and schedule, a screenshot of compulsory courses, and an email to graduates containing useful links and attachments (including an SDD PowerPoint, mouse settings, and workstation setup guides). These documents collectively provide a comprehensive overview of the Australian Electoral Commission's role, the structure and requirements of its 2022 Graduate Program (including rotations, APSC program, and APS 5 advancement criteria), performance expectations, roles and responsibilities, administrative information, security and conduct guidelines (emphasizing political neutrality), available support systems, and practical immediate steps for new staff.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\n\n\n"
+}

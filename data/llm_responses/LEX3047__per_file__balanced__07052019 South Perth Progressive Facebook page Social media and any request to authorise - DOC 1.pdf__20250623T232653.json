@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This document is an email complaint sent to the Australian Electoral Commission (AEC) on May 7, 2019, regarding a Facebook page named \"South Perth Progressive.\" The complaint alleges the page is misleadingly portraying itself as a community group while running paid political advertising in the electorate of Swan. Specific concerns raised include the absence of a full address in the authorisation, the omission of the authoriser's affiliation with the WA Labor Party despite their heavy involvement in the Swan campaign, and the general misleading nature of the \"community group\" portrayal for paid political content. The sender seeks AEC advice on whether these issues constitute a failure to meet electoral authorisation requirements.\n\nThis document is highly relevant to FOI Request LEX3047 as it directly aligns with the request's focus on AEC documents concerning complaints made in April-May 2019 about electoral advertisements lacking authorisation or being misleading. Specifically, it exemplifies a public email complaint highlighting the absence of required authorisation details (full address, full disclosure of authoriser's political involvement) on digital political advertising and concerns about misleading \"community group\" portrayals, which are key themes identified in the FOI request overview."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 705,
+    "candidates_token_count": 239,
+    "total_token_count": 1478,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] FOI Request LEX3047 obtained Australian Electoral Commission (AEC) documents concerning complaints made primarily in April and May 2019 about electoral advertisements lacking authorisation or being misleading. The released materials include public email complaints and the AEC's responses to various entities like \"Our Vote Our Community\" and \"Bass Deserves Better\" Facebook pages, \"RiteOn!\" website, and other media. The complaints predominantly highlighted the absence of required authorisation details on political advertising across digital and print platforms, with some also raising concerns about misleading \"community group\" portrayals or unauthorised paid ads. In response, the AEC consistently clarified 'electoral matter' and authorisation requirements under the Commonwealth Electoral Act 1918, requested subjects to add necessary authorisations, cease distribution of non-compliant materials, and advised on potential penalties up to $25,200 for non-compliance, as well as obligations for \"disclosure entities.\"\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\n\n\n\n--- Page 2 ---\n\n222247F\n\n\n--- Page 3 ---\n\nFrom: \nSent: Tuesday, 7 May 2019 9:36 AM \nTo: \nSubject: Incorrectly authorised advertising \n\n@aec.gov.au> \n\nHi \n\nI’m hoping you can provide some advice on the following Facebook Page: https://www.facebook.com/South-\nPerth-Progressive-389307874990668/ \n\nThe Facebook Page is purporting to be a community group and is running paid political advertising into Swan. \n\nHere’s a link to the unauthorised video: https://www.facebook.com/389307874990668/videos/435215877282051/ \n\n(Note: Some other ads on the Facebook Page are correctly authorised by the Labor Party.) \n\nIn the about section, it claims to be authorised by a ‘\n\nSalter Point’. \n\n is a Member of the WA Labor Party and heavily involved in their campaign in Swan. \n\nI’m unsure how this information changes the authorisation requirements, but in addition to being very misleading \nby purporting to be a community group that now actively involved in political advocacy and not providing an address \nin the authorisation, the fact \nthe authorisation? \n\n is heavily involved in Labor’s campaign might also need to be identified in \n\nWe don’t want to draw public attention to the Page, but would like some assistance to rectify the issue. \n\nAre you able to let me know if the Page fails to meet the Electoral Commission’s authorisation requirements? This \nwill also be helpful when I contact Facebook. \n\n3\n\n2247F47F47F47F47F47F\n\n\n--- Page 4 ---\n\n\n\n\n--- Page 5 ---\n\n\n\n\n--- Page 6 ---\n\n6\n\n47F\n\n"
+}

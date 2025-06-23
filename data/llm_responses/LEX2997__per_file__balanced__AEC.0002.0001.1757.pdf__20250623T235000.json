@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This document is an email exchange from April 2021 between Justin Sowden (Senior Lawyer) and Louise Parrott within the Australian Electoral Commission (AEC), discussing the status of Facebook pages associated with Andrew Laming MP. It provides an update on specific pages under investigation:\n*   \"Redlands Institute\" (https://www.facebook.com/RInstit/) was still available and unauthorised.\n*   \"Redlands Hospital: Let’s fight for fair funding\" (https://www.facebook.com/RedlandHospital/) was no longer available.\n*   \"Thornlands 4164\" (https://www.facebook.com/ThornlandsQLD/) was no longer available.\n*   \"Redland Bay Bulletin\" (https://www.facebook.com/RedlandBulletin) was still available and had been updated with authorisation by Andrew Laming.\n\nThe document is highly relevant to the FOI request as it provides direct evidence of the AEC's ongoing investigation into Andrew Laming's Facebook pages. It details the specific findings regarding the authorisation status and availability of several of the alleged \"disguised\" community or news pages, confirming that some were removed or updated with authorisation, while others remained active and unauthorised, aligning with the \"Findings revealed some pages were removed or updated with authorisation, while others remained active and unauthorised\" aspect of the request overview."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 735,
+    "candidates_token_count": 289,
+    "total_token_count": 1379,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] The FOI request disclosed documents detailing the Australian Electoral Commission's (AEC) investigation into Andrew Laming MP's Facebook pages for compliance with federal electoral authorisation laws. This inquiry was triggered by public complaints and media reports, notably from *The Guardian*, alleging Laming used numerous pages (e.g., \"Redland Bay Bulletin,\" \"Redlands Institute\") disguised as community or news groups to promote political content and attack opponents without mandatory disclosures. The AEC confirmed an active investigation, noting 2018 Electoral Act amendments broadened social media authorisation, and issued formal notices to Laming for detailed information and to third parties (like Facebook) for data, with Facebook confirming its cooperation. Findings revealed some pages were removed or updated with authorisation, while others remained active and unauthorised.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nAEC.0002.0001.1757\n\nFrom:                                 Louise ParrottSent:                                  Wed, 14 Apr 2021 21:52:32 +1000To:                                      Justin SowdenSubject:                             RE: Laming Facebook pages [SEC=OFFICIAL]Thanks Justin – no doubt this will be useful for Friday (along with any particular urls to posts if you have them for capturing the best screenshots possible). Louise From: Justin Sowden <Justin.Sowden@aec.gov.au> Sent: Wednesday, 14 April 2021 1:02 PMTo: Louise Parrott <Louise.Parrott@aec.gov.au>Subject: RE: Laming Facebook pages [SEC=OFFICIAL] Hi Louise Please find the following:         Redlands Institute (https://www.facebook.com/RInstit/) is still available and not authorised         Redlands Hospital: Let’s fight for fair funding (https://www.facebook.com/RedlandHospital/) is no longer available         Thornlands 4164 (https://www.facebook.com/ThornlandsQLD/) is no longer available         Redland Bay Bulletin (https://www.facebook.com/RedlandBulletin) is still available and now authorised by Andrew Laming.  Happy to discuss Justin Sowden | Senior LawyerLegal Services Section | Legal & Procurement BranchAustralian Electoral CommissionT: (02) 6271 4595 X: 21719   From: Justin Sowden Sent: Thursday, 8 April 2021 10:53 AMTo: Louise Parrott <louise.parrott@aec.gov.au>Subject: Laming Facebook pages [SEC=OFFICIAL] Hi Louise Please find attached a sample of posts and images from the four Facebook pages I examined. I found some from the Redlands Institute which are also attached. Justin Sowden | Senior Lawyer\n\n\n--- Page 2 ---\n\nAEC.0002.0001.1758\n\nLegal Services Section | Legal & Procurement BranchAustralian Electoral CommissionT: (02) 6271 4595 X: 21719\n\n"
+}

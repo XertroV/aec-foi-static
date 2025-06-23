@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This document is a \"Schedule of Released Documents\" for Freedom of Information (FOI) Request No. LEX3437. The FOI request sought policies, guidelines, directives, rules, and procedures related to:\n1.  Measures ensuring staff adherence to Australian Public Service (APS) Values, Employment Principles, and Code of Conduct.\n2.  Limitations, restrictions, or prohibitions on staff telephone communication with the public.\n3.  Memoranda of Understanding (MOUs) between the Australian Electoral Commission (AEC) and the Australian Federal Police (AFP).\n\n**Relevance to FOI Request:**\n\nThe released documents directly address the first two categories of the FOI request:\n\n*   **Staff Adherence to APS Values, Employment Principles, and Code of Conduct:** Documents released include \"AEC Procedures for determining breaches of the APS Code of Conduct and Sanctions,\" an \"Acknowledgement and declaration of key obligations,\" and a \"Letter of engagement as an ongoing APS employee.\" Furthermore, several AEC Intranet pages covering \"AEC values and commitments,\" \"Conditions of employment,\" and \"Key obligations as an APS employee\" were provided. Comprehensive \"National Induction Program\" materials (Outline, Curriculum Overview, Roles and Responsibilities, Detailed curriculum) and an \"APS1 Induction and training booklet\" were also released, detailing training on ethical behavior and values.\n*   **Limitations on Staff Telephone Communication with the Public:** The \"Public Engagement Team Handbook\" was provided, which outlines specific guidelines for staff interaction and communication with members of the public, including telephone protocols.\n\nNo documents pertaining to Memoranda of Understanding with the Australian Federal Police were listed in the schedule of released documents."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 640,
+    "candidates_token_count": 343,
+    "total_token_count": 2367,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] FOI Request No. LEX3437 sought Australian Electoral Commission (AEC) policies governing staff adherence to APS Values, Employment Principles, and Code of Conduct, limitations on staff telephone communication with the public, and Memoranda of Understanding (MOUs) with the Australian Federal Police (AFP). The released documents primarily address staff conduct and public engagement, providing details on formal breach procedures, mandatory obligation acknowledgements at staff engagement emphasizing commitment to APS Values, Code of Conduct, and political neutrality, and comprehensive induction programs covering ethical behavior, values, security, privacy, and conflict of interest. Additionally, documents outline specific rules for public telephone communication, including not transferring marketing calls or confirming staff details, taking messages for senior executives, and guidelines for service standards and referral protocols for complex inquiries. No documents pertaining to MOUs with the AFP were provided.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nRequest for: \n\nFOI REQUEST NO. LEX3437 \n\n  Current version or the most recent previous version of policies, guidelines, directives, rules and procedures governing the following: \n\no  The process of selection of measures implemented by the AEC to ensure, as far as practicable, that its staff adhere to the APS Values, \n\nEmployment Principles and Code of Conduct. \n\no  Any limitation, restriction or prohibition authorised by the AEC on telephone communication of its staff with members of the public, \n\nincluding call filtering. \n\n  Memoranda of understanding setting out arrangements for liaison between the AEC and the Australian Federal Police concerning the sharing of \n\ninformation, handling of complaints and other operational matters. \n\nDoc No. \n\nDescription \n\nDate \n\nAEC Procedures for determining breaches of the APS Code of Conduct and Sanctions \n\nDecember 2018 \n\nSCHEDULE OF RELEASED DOCUMENTS \n\nAcknowledgement and declaration of key obligations \n\nLetter of engagement as an ongoing APS employee \n\nAEC Intranet page: Dealing with difficult behavior \n\nAEC Intranet page: AEC values and commitments \n\nAEC Intranet page: Conditions of employment \n\nAEC Intranet page: Key obligations as an APS employee \n\nAPS1 Induction and training booklet \n\nNational Induction Program: Outline \n\nNational Induction Program: Curriculum Overview \n\nNational Induction Program: Roles and Responsibilities \n\nNational Induction Program: Detailed curriculum and associated learning outcomes \n\n- \n\n- \n\n21 June 2022 \n\n5 February 2022 \n\n23 February 2022 \n\n11 October 2022 \n\nFebruary 2022 \n\n- \n\n- \n\n- \n\n- \n\nPublic Engagement Team Handbook \n\nNovember 2022\n\n"
+}

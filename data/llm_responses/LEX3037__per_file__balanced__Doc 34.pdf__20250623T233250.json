@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "### Document Summary\nThis document is an email from Pat Callanan of the Australian Electoral Commission's (AEC) Communications Section, dated May 21, 2022 (election day). It is addressed to \"Social Media\" (implicitly TikTok, given the video link) and carbon-copied to various AEC sections, including the Electoral Integrity Assurance Taskforce (EIAT). The email refers a video posted on TikTok that was filmed inside a polling place without permission, potentially identifies an AEC staff member, and contains disinformation accusing the AEC of rigging the election. The AEC requests swift action to remove the video, stating it breaches \"Integrity and Authenticity Policy\" and \"Privacy, Personal Data, & Personally Identifiable Info Policy\" (likely referring to the platform's policies).\n\n### Relevance to FOI Request LEX3037\nThis document directly exemplifies the AEC's proactive engagement and \"Electoral Communications Escalation Scenarios\" outlined in FOI request LEX3037. It demonstrates a specific instance of the AEC's Electoral Integrity Assurance Taskforce (EIAT) using direct communication channels with a major tech company (TikTok) to:\n*   Identify and monitor electoral misinformation/disinformation (\"accusing the AEC of rigging the election\").\n*   Address non-compliant content (filming without permission, identifying staff).\n*   Request content removal, thereby safeguarding election integrity during the 2022 federal election.\n\nThis email serves as tangible evidence of the collaboration and content referral mechanisms between the AEC and tech platforms described in the FOI request overview."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 480,
+    "candidates_token_count": 324,
+    "total_token_count": 1599,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] An FOI request (LEX3037) revealed correspondence from early 2022 between the Australian Electoral Commission (AEC) and major tech companies, including Meta, Twitter, Google, Microsoft, and TikTok, regarding compliance with electoral law and the 2022 federal election. The released documents, featuring an \"Electoral Communications Escalation Scenarios\" guide and extensive communication, detail the AEC's proactive engagement—primarily through its Electoral Integrity Assurance Taskforce—with these platforms. This collaboration focused on identifying, monitoring, and addressing electoral misinformation, disinformation, and non-compliant content through direct communication channels and content referrals, thereby safeguarding election integrity.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nSocial Media\n\nAuthorisation Section; EIAT; Alex Morris; Isabella McCormick; Maria Collarte; Natalie Amiel\nPolling Place Video [SEC=OFFICIAL]\nSaturday, 21 May 2022 9:12:47 AM\nimage001.gif\nimage002.gif\n\nFrom:\nTo:\nCc:\nSubject:\nDate:\nAttachments:\n\nHi team,\n\nWe’ve been referred the following video which was filmed inside a polling place without permission,\npotentially identifies an AEC staff member and contains disinformation accusing the AEC of rigging the\nelection. We would appreciate swift action on removing this, particularly given the filming was not\npermitted and includes a staff member. The video appears to breach both the Integrity and\nAuthenticity Policy and Privacy, Personal Data, & Personally Identifiable Info Policy.\n\nhttps://www.tiktok\n\nKind regards,\n\nPat Callanan | Graduate\nCommunications Section | Electoral Integrity and Communications Branch\nAustralian Electoral Commission\nT: (02) 5134 4702 X: 21916\n\n1\n\ns 47G(1)s 47FReleased under the FOI ActReleased under the FOI Act\n\n"
+}

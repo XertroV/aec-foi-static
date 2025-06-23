@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```markdown\nThe document is an internal Australian Electoral Commission (AEC) email dated May 4, 2021, from \"ELT Support\" to internal recipients responsible for weekly reporting. The email serves as a reminder for the AEC's Executive Leadership Team (ELT) to update their \"Weekly Issues Report,\" \"Absences Report,\" and \"Over the Horizon\" reports via SharePoint by COB May 6, 2021. It references an attached \"Weekly reports 30.04.2021.pdf\" for reference.\n\n**Relevance to the FOI Request:**\nThis document's direct relevance is limited as it is an administrative email about internal reporting procedures and does not contain substantive details about the Andrew Laming MP investigation. However, it is relevant as it originates from the AEC in May 2021, a period when the investigation into Andrew Laming's Facebook pages was active. The email indicates that the AEC had established internal weekly reporting mechanisms, including an \"Issues Report\" and \"Over the Horizon\" report, through which significant ongoing investigations or developing issues (such as the Laming inquiry) would likely have been tracked and communicated internally at an executive level. While this document does not disclose information about the Laming investigation itself, it provides context regarding the AEC's internal administrative processes during the period of the inquiry. The attachment referenced (`03. Weekly reports 30.04.2021.pdf`) is not included in this document but could potentially contain relevant information if it includes updates on ongoing investigations.\n```"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 516,
+    "candidates_token_count": 329,
+    "total_token_count": 1527,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] The FOI request disclosed documents detailing the Australian Electoral Commission's (AEC) investigation into Andrew Laming MP's Facebook pages for compliance with federal electoral authorisation laws. This inquiry was triggered by public complaints and media reports, notably from *The Guardian*, alleging Laming used numerous pages (e.g., \"Redland Bay Bulletin,\" \"Redlands Institute\") disguised as community or news groups to promote political content and attack opponents without mandatory disclosures. The AEC confirmed an active investigation, noting 2018 Electoral Act amendments broadened social media authorisation, and issued formal notices to Laming for detailed information and to third parties (like Facebook) for data, with Facebook confirming its cooperation. Findings revealed some pages were removed or updated with authorisation, while others remained active and unauthorised.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nAEC.0002.0001.3355\n\nFrom:                                 ELT SupportSent:                                  Tue, 4 May 2021 12:01:45 +1000To:                                      ELT Support;ELT Weekly ReportingSubject:                             FOR ACTION: ELT Weekly Reporting - DUE COB 6 MAY 2021 [SEC=OFFICIAL]Attachments:                   03. Weekly reports 30.04.2021.pdfGood morning,  The SharePoint links for weekly reporting are live and ready for your input.Please update the reports with all key information including risks, issues, movements and any divisional office closures via the links provided below. Weekly Issues Report Absences Report Over the Horizon  All reports due by COB THURSDAY 6 APRIL 2021.  We have left reporting for 10 - 14 May in the absences report. Please update as necessary and change to black. Please also complete the week 10 – 14 May. If you experience any problems with SharePoint please contact ELTSupport@aec.gov.au as soon as possible.  The Weekly Report for week ending 30 April is attached for your reference. Kind regards,ELT Support\n\n"
+}

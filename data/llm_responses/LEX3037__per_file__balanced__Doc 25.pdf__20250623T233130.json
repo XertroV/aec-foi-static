@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This document, dated June 2022, details an interaction between the Australian Electoral Commission (AEC) and Google Australia concerning a YouTube video. The AEC, through Alex Morris, flagged the video for propagating \"misleading claims that the Australian federal election was compromised by fraud.\" Google Australia confirmed receipt, escalated the issue to their Trust and Safety team, and subsequently confirmed the video's removal for violating YouTube Community Guidelines.\n\nThis correspondence directly demonstrates the AEC's proactive engagement with major tech companies, as outlined in FOI request LEX3037. It serves as a concrete example of the AEC's Electoral Integrity Assurance Taskforce utilising direct communication channels and content referrals to identify, monitor, and address electoral misinformation and disinformation to safeguard the integrity of the 2022 federal election."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 745,
+    "candidates_token_count": 162,
+    "total_token_count": 1479,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] An FOI request (LEX3037) revealed correspondence from early 2022 between the Australian Electoral Commission (AEC) and major tech companies, including Meta, Twitter, Google, Microsoft, and TikTok, regarding compliance with electoral law and the 2022 federal election. The released documents, featuring an \"Electoral Communications Escalation Scenarios\" guide and extensive communication, detail the AEC's proactive engagement—primarily through its Electoral Integrity Assurance Taskforce—with these platforms. This collaboration focused on identifying, monitoring, and addressing electoral misinformation, disinformation, and non-compliant content through direct communication channels and content referrals, thereby safeguarding election integrity.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nFrom:\nTo:\nCc:\nSubject:\nDate:\nAttachments:\n\nAlex Morris\n\n Social Media\n\nRe: Electoral disinformation in YouTube video [SEC=OFFICIAL]\nThursday, 9 June 2022 3:41:47 PM\nimage001.gif\nimage002.gif\n\nCAUTION: This email originated from outside of the Australian Federal Government. Do not click links or open\nattachments unless you recognise the sender and know the content is safe.\n\nHi Alex, \n\nThanks for your patience while the Trust and Safety team reviewed this video. It has now been removed for\nviolating our YouTube Community Guidelines. \n\nKind regards, \n\nGovernment Affairs and Public Policy Manager\nGoogle Australia \n\nFind me on \nRead the latest Google and YouTube reports\nSee what's trending in Australia today    \n\nOn Wed, Jun 1, 2022 at 10:40 AM \n\n> wrote:\n\nThanks Alex, confirming receipt. I will escalate this to our Trust and Safety colleagues now. \n\nKind regards, \n\nGovernment Affairs and Public Policy Manager\nGoogle Australia \n\nFind me on \nRead the latest Google and YouTube reports\nSee what's trending in Australia today    \n\nOn Wed, Jun 1, 2022 at 8:42 AM 'Alex Morris' via \n\n wrote:\n\nHi team,\n\nI’ve just lodged a webform (reference: CVL44I3JUPLFJ2RU3CHY3WQNRA) about \n, which has\nbeen flagged with the AEC by social media users. Both the host and the guest repeatedly make misleading\nclaims that the Australian federal election was compromised by fraud throughout the first 20 minutes of the\nvideo. Additionally, the video makes similar claims about the 2020 US Presidential election at timestamp\n19:20.\n\nThanks and kind regards,\n\nAlex Morris | Digital and Social Media Manager\n\nAssistant Director | Media & Digital Engagement\n\nAustralian Electoral Commission\n\ns 47G(1)s 47G(1)s 47Fs 47Fs 47Fs 47Fs 47Fs 47Fs 47Fs 47Fs 47Fs 47Fs 47FReleased under the FOI ActReleased under the FOI Act\n\n\n--- Page 2 ---\n\nReleased under the FOI ActReleased under the FOI Act\n\n"
+}

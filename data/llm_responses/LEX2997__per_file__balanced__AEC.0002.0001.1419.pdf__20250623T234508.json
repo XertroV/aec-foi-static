@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "### Document Summary and Relevance to FOI Request\n\nThe document, an internal email dated 7 April 2021, confirms that the Australian Electoral Commission (AEC) has responded to *The Guardian* regarding its inquiry into Andrew Laming MP's Facebook page authorisations, acknowledging the AEC's active investigation into the matter. The email anticipates a follow-up article from *The Guardian* focusing on the AEC's investigation. It also notes public skepticism on Twitter regarding the AEC's impartiality or capacity to act. Electoral Commissioner Tom Rogers emphasizes the need for the AEC to \"move pretty smartly\" in response, highlighting the urgency and sensitivity of the ongoing investigation.\n\nThis document is highly relevant to the FOI request as it provides direct evidence of the AEC's internal communications concerning its investigation into Andrew Laming, specifically confirming its active status and direct engagement with media reports (*The Guardian*) that initially triggered the inquiry. It corroborates that the AEC was actively investigating Laming's Facebook pages for compliance with authorisation laws and was managing public and media relations related to this high-profile case."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 823,
+    "candidates_token_count": 224,
+    "total_token_count": 1702,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] The FOI request disclosed documents detailing the Australian Electoral Commission's (AEC) investigation into Andrew Laming MP's Facebook pages for compliance with federal electoral authorisation laws. This inquiry was triggered by public complaints and media reports, notably from *The Guardian*, alleging Laming used numerous pages (e.g., \"Redland Bay Bulletin,\" \"Redlands Institute\") disguised as community or news groups to promote political content and attack opponents without mandatory disclosures. The AEC confirmed an active investigation, noting 2018 Electoral Act amendments broadened social media authorisation, and issued formal notices to Laming for detailed information and to third parties (like Facebook) for data, with Facebook confirming its cooperation. Findings revealed some pages were removed or updated with authorisation, while others remained active and unauthorised.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\n\n\n\n--- Page 2 ---\n\n\n\n\n--- Page 3 ---\n\n\n\n\n--- Page 4 ---\n\n\n\n\n--- Page 5 ---\n\n\n\n\n--- Page 6 ---\n\nAEC.0002.0001.1424\n\nFrom: Tom Rogers <Tom.Rogers@aec.gov.au> Sent: Wednesday, 7 April 2021 11:27 AMTo: media <media@aec.gov.au>; Executive Leadership Team <ExecutiveLeadershipTeam@aec.gov.au>Subject: RE: Guardian response re Laming FB authorisation [SEC=OFFICIAL] Thanks, Evan – we’ll need to make sure we move pretty smartly with this. Tom Rogers | Electoral Commissioner Australian Electoral CommissionT: (02) 6271 4400 X: 21000  From: media <media@aec.gov.au> Sent: Wednesday, 7 April 2021 11:25 AMTo: Executive Leadership Team <ExecutiveLeadershipTeam@aec.gov.au>Cc: David Lang <David.Lang@aec.gov.au>; Bernadette O'Meara <Bernadette.OMeara@aec.gov.au>; media <media@aec.gov.au>; Louise Parrott <Louise.Parrott@aec.gov.au>; Justin Sowden <Justin.Sowden@aec.gov.au>; Alex Morris <Alex.Morris@aec.gov.au>; Mark Batistich <Mark.Batistich@aec.gov.au>; Isabella McCormick <Isabella.McCormick@aec.gov.au>Subject: FYI: Guardian response re Laming FB authorisation [SEC=OFFICIAL] Hi all The below response has now been sent to The Guardian. The response simply confirms our investigation of the matter and otherwise provides minor extraneous details re application of the law. Receipt has been acknowledged & we can expect a follow-up article very soon with AEC investigation as a lead.  Twitter activityThere is a reasonable level of Twitter activity on the matter off the back of tweets like the ones below. The general response in relation to the AEC – from members of the public - is a mixture of “don’t expect AEC to do anything”, “the AEC is biased so won’t take action” and “they don’t have any power to take action”.  As is standard on the channel – purple signs have been raised a number of times.  We will monitor Twitter traffic and provide some select responses – based on the below enquiry response.   CheersEvan\n\n\n--- Page 7 ---\n\n\n\n\n--- Page 8 ---\n\n\n\n\n--- Page 9 ---\n\n\n\n\n--- Page 10 ---\n\nAEC.0002.0001.1428\n\n"
+}

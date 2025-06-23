@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "### Document Summary\nThe provided document consists of two blank pages and contains no discernible content.\n\n### Relevance to FOI Request\nAs the document is entirely blank, it holds no relevance to FOI Request No. LEX3141, which sought specific materials such as PowerPoint slides, notes, and other materials relating to the AEC graduate program's orientation sessions. It does not contribute any information regarding the AEC's role, graduate program structure, performance expectations, administrative details, security guidelines, or support systems as outlined in the FOI request overview."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 264,
+    "candidates_token_count": 112,
+    "total_token_count": 572,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] FOI Request No. LEX3141 sought \"PowerPoint slides, notes and any materials relating to the AEC graduate program's orientation sessions given to new staff from the beginning of this year's graduate program to date.\" In response, the AEC released the 2022 Graduate Induction PowerPoint and schedule, a screenshot of compulsory courses, and an email to graduates containing useful links and attachments (including an SDD PowerPoint, mouse settings, and workstation setup guides). These documents collectively provide a comprehensive overview of the Australian Electoral Commission's role, the structure and requirements of its 2022 Graduate Program (including rotations, APSC program, and APS 5 advancement criteria), performance expectations, roles and responsibilities, administrative information, security and conduct guidelines (emphasizing political neutrality), available support systems, and practical immediate steps for new staff.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\n\n\n\n--- Page 2 ---\n\n\n\n"
+}

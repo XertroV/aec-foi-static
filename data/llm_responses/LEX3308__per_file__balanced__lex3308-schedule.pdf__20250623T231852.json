@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This document is a \"SCHEDULE OF RELEASED DOCUMENTS\" pertaining to an FOI request concerning communications between the Australian Electoral Commission (AEC) and the Australian Bureau of Statistics (ABS) regarding advice on \"party membership testing.\" It explicitly outlines the scope of the request, including the \"relevant period\" and definition of \"initial contact.\"\n\nIts relevance to the FOI request is direct: it serves as the official record of the five documents released in response to the request. These documents, as listed in the schedule, include detailed methodology advice from the ABS to the AEC, correspondence between the two agencies, and an internal AEC minute approving a \"methodology policy.\" This schedule therefore directly confirms and evidences the consultative process and the ABS's significant advisory role in the AEC's development of its approach to verifying political party membership, exactly as described in the FOI request overview."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 513,
+    "candidates_token_count": 176,
+    "total_token_count": 1381,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] The FOI request sought all communications between the Australian Electoral Commission (AEC) and the Australian Bureau of Statistics (ABS) within 12 months of initial contact regarding advice on \"party membership testing.\" Five documents were released, detailing a consultative process where the ABS provided detailed methodologies and advice for membership verification. This input directly informed the AEC's internal approval of a \"methodology policy,\" demonstrating the ABS's significant advisory role in the AEC's development of its approach to verifying political party membership.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nRequest for: \n\n•  all communications between the AEC and the ABS during the relevant period that are directly and epistemically related to the AEC's initial contact \n\nwith the ABS regarding membership testing. \n'the relevant period' means: within the 12 months immediately following the AECs initial contact (inclusive of the day on which the initial contact \nwas made). \n'initial contact' means: the AECs first contact with the ABS regarding advice on party membership testing in any respect (regardless of method). \n('epistemically' meaning: through explanation, causal connection, direct contribution to a goal, crucial to understanding the full story, etc) \n\n• \n\n• \n• \n\nDocument No   Document  \n\nDecision on access \n\nSCHEDULE OF RELEASED DOCUMENTS \n\n1 \n\n2 \n\n3 \n\n4 \n\n5 \n\nDetailed letter re methodology from ABS to AEC dated 8 August 1996 \n\nLetter from AEC to ABS dated 28 August 1996 \n\nLetter and sample table from ABS to AEC dated 4 September 1996 \n\nInternal AEC minute approving methodology policy dated 9 September 1996 \n\nLetter from ABS to AEC dated 29 October 1996 \n\nAll documents are available to download on \nthe AEC’s FOI Disclosure Log under request \n‘LEX3172’: \n\nhttps://www.aec.gov.au/information-\naccess/foi/2022/\n\n"
+}

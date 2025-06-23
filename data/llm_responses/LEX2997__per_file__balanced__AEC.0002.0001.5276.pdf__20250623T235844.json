@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The provided document consists solely of 136 blank pages. It contains no discernible content, data, or communication regarding the Australian Electoral Commission's investigation into Andrew Laming MP's Facebook pages or any other matter. Therefore, it holds no direct relevance to the FOI request's overview, as it discloses no information or details pertinent to the AEC's inquiry into electoral authorisation compliance."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 1216,
+    "candidates_token_count": 80,
+    "total_token_count": 1651,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] The FOI request disclosed documents detailing the Australian Electoral Commission's (AEC) investigation into Andrew Laming MP's Facebook pages for compliance with federal electoral authorisation laws. This inquiry was triggered by public complaints and media reports, notably from *The Guardian*, alleging Laming used numerous pages (e.g., \"Redland Bay Bulletin,\" \"Redlands Institute\") disguised as community or news groups to promote political content and attack opponents without mandatory disclosures. The AEC confirmed an active investigation, noting 2018 Electoral Act amendments broadened social media authorisation, and issued formal notices to Laming for detailed information and to third parties (like Facebook) for data, with Facebook confirming its cooperation. Findings revealed some pages were removed or updated with authorisation, while others remained active and unauthorised.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\n\n\n\n--- Page 2 ---\n\n\n\n\n--- Page 3 ---\n\n\n\n\n--- Page 4 ---\n\n\n\n\n--- Page 5 ---\n\n\n\n\n--- Page 6 ---\n\n\n\n\n--- Page 7 ---\n\n\n\n\n--- Page 8 ---\n\n\n\n\n--- Page 9 ---\n\n\n\n\n--- Page 10 ---\n\n\n\n\n--- Page 11 ---\n\n\n\n\n--- Page 12 ---\n\n\n\n\n--- Page 13 ---\n\n\n\n\n--- Page 14 ---\n\n\n\n\n--- Page 15 ---\n\n\n\n\n--- Page 16 ---\n\n\n\n\n--- Page 17 ---\n\n\n\n\n--- Page 18 ---\n\n\n\n\n--- Page 19 ---\n\n\n\n\n--- Page 20 ---\n\n\n\n\n--- Page 21 ---\n\n\n\n\n--- Page 22 ---\n\n\n\n\n--- Page 23 ---\n\n\n\n\n--- Page 24 ---\n\n\n\n\n--- Page 25 ---\n\n\n\n\n--- Page 26 ---\n\n\n\n\n--- Page 27 ---\n\n\n\n\n--- Page 28 ---\n\n\n\n\n--- Page 29 ---\n\n\n\n\n--- Page 30 ---\n\n\n\n\n--- Page 31 ---\n\n\n\n\n--- Page 32 ---\n\n\n\n\n--- Page 33 ---\n\n\n\n\n--- Page 34 ---\n\n\n\n\n--- Page 35 ---\n\n\n\n\n--- Page 36 ---\n\n\n\n\n--- Page 37 ---\n\n\n\n\n--- Page 38 ---\n\n\n\n\n--- Page 39 ---\n\n\n\n\n--- Page 40 ---\n\n\n\n\n--- Page 41 ---\n\n\n\n\n--- Page 42 ---\n\n\n\n\n--- Page 43 ---\n\n\n\n\n--- Page 44 ---\n\n\n\n\n--- Page 45 ---\n\n\n\n\n--- Page 46 ---\n\n\n\n\n--- Page 47 ---\n\n\n\n\n--- Page 48 ---\n\n\n\n\n--- Page 49 ---\n\n\n\n\n--- Page 50 ---\n\n\n\n\n--- Page 51 ---\n\n\n\n\n--- Page 52 ---\n\n\n\n\n--- Page 53 ---\n\n\n\n\n--- Page 54 ---\n\n\n\n\n--- Page 55 ---\n\n\n\n\n--- Page 56 ---\n\n\n\n\n--- Page 57 ---\n\n\n\n\n--- Page 58 ---\n\n\n\n\n--- Page 59 ---\n\n\n\n\n--- Page 60 ---\n\n\n\n\n--- Page 61 ---\n\n\n\n\n--- Page 62 ---\n\n\n\n\n--- Page 63 ---\n\n\n\n\n--- Page 64 ---\n\n\n\n\n--- Page 65 ---\n\n\n\n\n--- Page 66 ---\n\n\n\n\n--- Page 67 ---\n\n\n\n\n--- Page 68 ---\n\n\n\n\n--- Page 69 ---\n\n\n\n\n--- Page 70 ---\n\n\n\n\n--- Page 71 ---\n\n\n\n\n--- Page 72 ---\n\n\n\n\n--- Page 73 ---\n\n\n\n\n--- Page 74 ---\n\n\n\n\n--- Page 75 ---\n\n\n\n\n--- Page 76 ---\n\n\n\n\n--- Page 77 ---\n\n\n\n\n--- Page 78 ---\n\n\n\n\n--- Page 79 ---\n\n\n\n\n--- Page 80 ---\n\n\n\n\n--- Page 81 ---\n\n\n\n\n--- Page 82 ---\n\n\n\n\n--- Page 83 ---\n\n\n\n\n--- Page 84 ---\n\n\n\n\n--- Page 85 ---\n\n\n\n\n--- Page 86 ---\n\n\n\n\n--- Page 87 ---\n\n\n\n\n--- Page 88 ---\n\n\n\n\n--- Page 89 ---\n\n\n\n\n--- Page 90 ---\n\n\n\n\n--- Page 91 ---\n\n\n\n\n--- Page 92 ---\n\n\n\n\n--- Page 93 ---\n\n\n\n\n--- Page 94 ---\n\n\n\n\n--- Page 95 ---\n\n\n\n\n--- Page 96 ---\n\n\n\n\n--- Page 97 ---\n\n\n\n\n--- Page 98 ---\n\n\n\n\n--- Page 99 ---\n\n\n\n\n--- Page 100 ---\n\n\n\n\n--- Page 101 ---\n\n\n\n\n--- Page 102 ---\n\n\n\n\n--- Page 103 ---\n\n\n\n\n--- Page 104 ---\n\n\n\n\n--- Page 105 ---\n\n\n\n\n--- Page 106 ---\n\n\n\n\n--- Page 107 ---\n\n\n\n\n--- Page 108 ---\n\n\n\n\n--- Page 109 ---\n\n\n\n\n--- Page 110 ---\n\n\n\n\n--- Page 111 ---\n\n\n\n\n--- Page 112 ---\n\n\n\n\n--- Page 113 ---\n\n\n\n\n--- Page 114 ---\n\n\n\n\n--- Page 115 ---\n\n\n\n\n--- Page 116 ---\n\n\n\n\n--- Page 117 ---\n\n\n\n\n--- Page 118 ---\n\n\n\n\n--- Page 119 ---\n\n\n\n\n--- Page 120 ---\n\n\n\n\n--- Page 121 ---\n\n\n\n\n--- Page 122 ---\n\n\n\n\n--- Page 123 ---\n\n\n\n\n--- Page 124 ---\n\n\n\n\n--- Page 125 ---\n\n\n\n\n--- Page 126 ---\n\n\n\n\n--- Page 127 ---\n\n\n\n\n--- Page 128 ---\n\n\n\n\n--- Page 129 ---\n\n\n\n\n--- Page 130 ---\n\n\n\n\n--- Page 131 ---\n\n\n\n\n--- Page 132 ---\n\n\n\n\n--- Page 133 ---\n\n\n\n\n--- Page 134 ---\n\n\n\n\n--- Page 135 ---\n\n\n\n\n--- Page 136 ---\n\n\n\n"
+}

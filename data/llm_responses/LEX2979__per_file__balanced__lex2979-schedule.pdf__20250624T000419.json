@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "### Document Summary and Relevance to FOI Request LEX2979\n\nThis document, \"ABS Advice to AEC on sampling methodology,\" directly addresses FOI request LEX2979 by providing the specific methodology sought. It details the statistical approach recommended by the Australian Bureau of Statistics (ABS) to the Australian Electoral Commission (AEC) for auditing the accuracy of Senate ballot paper processing, particularly targeting \"Stage 2 errors.\" The document outlines varying sampling rates across states/territories (e.g., 1 in 3,000 for NSW, 1 in 120 for NT) designed to achieve 99% confidence that the national error rate remains low (e.g., below 6.5 errors per 1,000 ballot papers). It specifies the use of a \"clustered sampling\" technique, selecting bundles of ballots and then individual ballots within those bundles, and includes guidance for calculating the national error rate, also discussing alternative options considered. This document is central to the FOI request as it contains the precise methodological advice from the ABS that LEX2979 aimed to uncover."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 454,
+    "candidates_token_count": 230,
+    "total_token_count": 1019,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] FOI request LEX2979 specifically sought the Australian Bureau of Statistics' (ABS) methodology for sampling Senate ballot papers to audit their processing accuracy. The released document, \"ABS Advice to AEC on sampling methodology,\" details the statistical approach recommended to the Australian Electoral Commission (AEC) to assure high confidence in the accuracy of ballot scanning and data extraction, primarily targeting \"Stage 2 errors.\" It specifies varying sampling rates per state/territory (e.g., 1 in 3,000 in NSW, 1 in 120 in NT), aiming for 99% confidence that the national error rate is low (e.g., less than 6.5 errors per 1,000 ballot papers). The methodology, deemed more efficient than previous approaches, uses a \"clustered sampling\" technique, selecting bundles of ballots and then individual ballots within them, and provides guidance for calculating the national error rate while also discussing alternative options considered.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nRequest for: \n\nFOI REQUEST NO. LEX2979 \n\n \n\n“The document specifying the methodology to be used for the ballot paper sampling process in the audit of Senate ballot papers. Not the process \noutline published here: https://www.aec.gov.au/About_AEC/cea-notices/files/2022/s273AC-senate-assurancemethodology-fe2022.pdf but the \ndocument referred to in the above document as \"advice from the Australian Bureau of Statistics\" and \"ABS' guidance for calculating, analysing and \nreporting the statistical conclusions that can be drawn.\" \n\nDoc No.  Description \n\nABS Advice to AEC on sampling methodology \n\nSCHEDULE OF RETRIEVED DOCUMENTS\n\n"
+}

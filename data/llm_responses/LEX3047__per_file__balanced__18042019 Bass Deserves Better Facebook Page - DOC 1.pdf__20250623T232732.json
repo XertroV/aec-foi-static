@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This document is an email complaint dated April 18, 2019, to the Australian Electoral Commission (AEC) concerning the Facebook page \"Bass Deserves Better.\" The complainant alleges the page, run by a senior union member, is misleading voters by presenting as apolitical while campaigning against Liberals and for Labor, and crucially, lacks the required authorisation details. The complainant requests the AEC to determine if the page requires authorisation and to contact the group to address the non-compliance.\n\n**Relevance to FOI Request:** This document directly aligns with the FOI request LEX3047, which covers AEC documents regarding complaints in April-May 2019 about electoral advertisements lacking authorisation or being misleading. The complaint specifically targets \"Bass Deserves Better\" for its absence of authorisation and misleading \"community group\" portrayal, echoing the core themes of the FOI request."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 727,
+    "candidates_token_count": 181,
+    "total_token_count": 1216,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] FOI Request LEX3047 obtained Australian Electoral Commission (AEC) documents concerning complaints made primarily in April and May 2019 about electoral advertisements lacking authorisation or being misleading. The released materials include public email complaints and the AEC's responses to various entities like \"Our Vote Our Community\" and \"Bass Deserves Better\" Facebook pages, \"RiteOn!\" website, and other media. The complaints predominantly highlighted the absence of required authorisation details on political advertising across digital and print platforms, with some also raising concerns about misleading \"community group\" portrayals or unauthorised paid ads. In response, the AEC consistently clarified 'electoral matter' and authorisation requirements under the Commonwealth Electoral Act 1918, requested subjects to add necessary authorisations, cease distribution of non-compliant materials, and advised on potential penalties up to $25,200 for non-compliance, as well as obligations for \"disclosure entities.\"\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\nFrom:\nTo:\nSubject:\nDate:\nAttachments:\n\n@icloud.com\n\nLegal Services Mailbox\n[COMPLAINT Political advertising] \nThursday, 18 April 2019 9:17:19 AM\n[Attachment 01]\n\nh.jpg\n\n() *WWW* [SEC=UNCLASSIFIED]\n\nComplaint\n\nCategory\n\nPolitical advertising\n\nPrimary Details\n\nGiven name(s):\n\nSurname:\n\nOrganisation:\n\nEmail:\n\nPhone number:\n\nElectoral division:\n\nComplaint Details\n\nThere is a social media page on Facebook named \"Bass Deserves Better\", posting \nand sharing union political messages. the page is run by a known senior union \n' (who is a Industrial Organiser at CPSU Tasmania) , as found \nmember \nby scrolling through hundreds of posts I found that \n was running it. The page is \nmisleading as it being used to campaign against the Liberals and conservatives, on \nthe premise that Labor is the only party to support. \n\nThe issue is, the page is clearly being run by union members as away to reach \nvoters in 'Bass', but has no 'authorised' message anywhere on the page. For the \naverage voter they would see this page as being run by an apolitical group, but that \nis not the case.\n\nShould this page be authorised by either Greene or the Union? As is the case with \nother union campaign pages. \n\nLink to page \" https://www.facebook.com/BassDeservesBetter/ \"\n\nExpected Outcome\n\nShould this page be authorised, or is it exempt, if so how come? reach out to the \n\n47F47F47F47F47F47F47F47F47F\n\n\n--- Page 2 ---\n\ngroup by telling them they are required to be authorised to stop misleading voters \nthat they are apolitical.\n\nAdditional Information\n\nAddress:\n\nLine 2:\n\nLocality:\n\nState:\n\nPostcode:\n\n47F47F\n\n\n--- Page 3 ---\n\n\n\n"
+}

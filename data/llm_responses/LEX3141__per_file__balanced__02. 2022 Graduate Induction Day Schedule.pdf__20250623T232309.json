@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This document is the 2022 Graduate Induction Timetable for Monday, 31 January 2022, outlining the full schedule for the first day of orientation for new AEC graduate staff. It details various introductory sessions, including welcomes from the Electoral Commissioner and Deputy Commissioner, introductions to the Chief People Officer and key AEC divisions (Service Delivery, Enabling and Regulation, Organisational Transformation), an overview of the graduate program, and administrative and support activities such as meet-and-greets with buddies and mentors, a COVID-19/WHS briefing, and meeting supervisors.\n\nThis document is directly relevant to FOI Request No. LEX3141 as it is a core \"material\" pertaining to the \"AEC graduate program's orientation sessions given to new staff from the beginning of this year's graduate program to date,\" specifically detailing the schedule of the initial induction for the 2022 cohort."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 736,
+    "candidates_token_count": 190,
+    "total_token_count": 1580,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] FOI Request No. LEX3141 sought \"PowerPoint slides, notes and any materials relating to the AEC graduate program's orientation sessions given to new staff from the beginning of this year's graduate program to date.\" In response, the AEC released the 2022 Graduate Induction PowerPoint and schedule, a screenshot of compulsory courses, and an email to graduates containing useful links and attachments (including an SDD PowerPoint, mouse settings, and workstation setup guides). These documents collectively provide a comprehensive overview of the Australian Electoral Commission's role, the structure and requirements of its 2022 Graduate Program (including rotations, APSC program, and APS 5 advancement criteria), performance expectations, roles and responsibilities, administrative information, security and conduct guidelines (emphasizing political neutrality), available support systems, and practical immediate steps for new staff.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\n2022 Graduate Induction Timetable \n\nMonday 31 January 2022 \n\nTime \n\nItem \n\nPresenter \n\nRoom/ Location \n\n9:00 - 9:30 \n\nMeet Grads \n\nGraduate Coordinator \n\nFoyer, 12 Mort St \n\n9:30 – 10:30 \n\nGraduate Program Introduction \n\nGraduate Coordinator \n\n10:30 – 11:00 \n\nIntroduction to the Chief People \nOfficer \n\nCPO, People and Property \nBranch \n\n11:00 – 11:15 \n\nCohort photo with the Electoral \nCommissioner and Deputy \nCommissioner \n\nElectoral Commissioner \n\nDeputy Electoral Commissioner \n\nCommunications Officer \n\n11:00 – 11:45 \n\nWelcome from the Electoral \nCommissioner and Deputy \nCommissioner \n\nElectoral Commissioner  \n\nDeputy Electoral Commissioner \n\n12:00 – 12:30 \n\nIntroduction to the Service Delivery \nDivision \n\nFAC, Service Delivery Division  \n\n12:30 – 1:30 \n\nMeet & greet with buddies  \n\n2021 Graduates/Buddies \n\nLunch (Provided) \n\nGraduate Coordinator \n\n1:30 – 2:00 \n\nIntroduction to the Enabling and \nRegulation Division \n\nFAC, Enabling and Regulation \nDivision (Teams) \n\nCommissioner’s \nBoardroom \n\nLevel 3, 10 Mort \nSt \n\n2:00 – 2:30 \n\nIntroduction to the Organisational \nTransformation Division \n\n2:30 – 3:00 \n\nAfternoon Tea with Mentors \n\n3:00 – 3:30 \n\nCOVID-19 & WHS \n\nFAC, Organisational \nTransformation Division \n(Teams) \n\nMentors \n\nGraduate Coordinator \n\nEmployee Relations & \nWellbeing \n\n3:30 – 4:30 \n\nInduction Wrap Up \n\nGraduate Coordinator \n\n4:30 – 5:00 \n\nMeet supervisors \n\nRotation 1 Graduate \nSupervisors\n\n"
+}

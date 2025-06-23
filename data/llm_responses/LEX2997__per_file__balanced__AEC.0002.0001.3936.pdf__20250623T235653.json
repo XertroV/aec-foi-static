@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "### Document Summary\nThe document (AEC.0002.0001.3937) is a single page providing contact information for Jake Farquharson and Bronwen Williamson, both from the Australian Electoral Commission's (AEC) Parliamentary Engagement and Party Registration Section within the Disclosure, Assurance and Engagement Branch.\n\n### Relevance to FOI Request\nThis document's relevance to the FOI request is minimal. While the request details an AEC investigation into an MP's electoral compliance, this document provides no specific information, findings, or details pertaining to that investigation. Its inclusion merely identifies internal AEC contacts within a branch broadly responsible for parliamentary engagement and disclosure, offering no direct insight into the Laming inquiry itself."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 360,
+    "candidates_token_count": 151,
+    "total_token_count": 1061,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. Provide only the markdown formatted summary text. Do not include any conversational filler or preamble.To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] The FOI request disclosed documents detailing the Australian Electoral Commission's (AEC) investigation into Andrew Laming MP's Facebook pages for compliance with federal electoral authorisation laws. This inquiry was triggered by public complaints and media reports, notably from *The Guardian*, alleging Laming used numerous pages (e.g., \"Redland Bay Bulletin,\" \"Redlands Institute\") disguised as community or news groups to promote political content and attack opponents without mandatory disclosures. The AEC confirmed an active investigation, noting 2018 Electoral Act amendments broadened social media authorisation, and issued formal notices to Laming for detailed information and to third parties (like Facebook) for data, with Facebook confirming its cooperation. Findings revealed some pages were removed or updated with authorisation, while others remained active and unauthorised.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\n\n\n\n--- Page 2 ---\n\nAEC.0002.0001.3937\n\nJake Farquharson and Bronwen WilliamsonParliamentary Engagement and Party Registration Section | Disclosure, Assurance and Engagement BranchAustralian Electoral CommissionT: (02) 6271 4582 X: 21410 (Jake, A/g Parliamentary Advisor)T: (02) 6271 4705 X: 25007 (Bronwen, A/g Parliamentary Support)\n\n"
+}
