@@ -21,7 +21,7 @@
             </div>
             <div class="header-right">
                 <div id="persona-selector-container">
-                  <label for="persona-selector">Select Persona:</label>
+                  <label for="persona-selector">Select AI Persona:</label>
                   <select id="persona-selector">
                     {% for persona_id in PERSONAS %}
                       <option value="{{ persona_id }}" {% if persona_id == DEFAULT_PERSONA %}selected{% endif %}>
