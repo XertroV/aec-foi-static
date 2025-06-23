@@ -1,0 +1,9 @@
+docs/foi_assets/LEX4640/Part[[:space:]]1-[[:space:]]Combined[[:space:]]docs[[:space:]]-[[:space:]]Redacted.pdf filter=lfs diff=lfs merge=lfs -text
+docs/downloaded_originals/Part[[:space:]]1-[[:space:]]Combined[[:space:]]docs[[:space:]]-[[:space:]]Redacted.pdf filter=lfs diff=lfs merge=lfs -text
+downloads/_extracted_lex4640/lex4640/Part[[:space:]]1-[[:space:]]Combined[[:space:]]docs[[:space:]]-[[:space:]]Redacted.pdf filter=lfs diff=lfs merge=lfs -text
+docs/downloaded_originals/lex2997.zip filter=lfs diff=lfs merge=lfs -text
+docs/downloaded_originals/lex4640.zip filter=lfs diff=lfs merge=lfs -text
+docs/downloaded_originals/ls7540.zip filter=lfs diff=lfs merge=lfs -text
+downloads/lex2997.zip filter=lfs diff=lfs merge=lfs -text
+downloads/lex4640.zip filter=lfs diff=lfs merge=lfs -text
+downloads/ls7540.zip filter=lfs diff=lfs merge=lfs -text
