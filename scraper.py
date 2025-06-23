@@ -17,8 +17,38 @@ def main():
     parser.add_argument('--year', type=int, help='Process only a specific year (e.g., 2023)')
     parser.add_argument('--personas', type=str, help='Comma-separated list of persona IDs to generate summaries for (others will be skipped, existing summaries for other personas will be untouched)')
     parser.add_argument('--foi-id', type=str, help='Process only a specific FOI request ID (e.g., LEX1234 or LS5678)')
+    parser.add_argument('--list-xlsx', action='store_true', help='List all FOI requests that have an xlsx file (from foi_data.json) and exit')
     args = parser.parse_args()
     config = CONFIG
+
+
+    if args.list_xlsx:
+        foi_data_path = Path(config['data_dir']) / "foi_data.json"
+        if not foi_data_path.exists():
+            print("No foi_data.json found.")
+            return
+        with open(foi_data_path, "r", encoding="utf-8") as f:
+            foi_data = json.load(f)
+        found = False
+        for req in foi_data:
+            # Top-level xlsx files
+            xlsx_files = [f for f in req.get('files', []) if f.get('type') == 'xlsx']
+            # Inner xlsx files in zips
+            for file in req.get('files', []):
+                if file.get('type') == 'zip' and file.get('content_files'):
+                    for inner in file['content_files']:
+                        if inner.get('type') == 'xlsx':
+                            xlsx_files.append(inner)
+            if xlsx_files:
+                found = True
+                print(f"FOI {req['id']} ({req.get('title', '')}):")
+                for f in xlsx_files:
+                    print(f"  - {f.get('server_filename', f.get('filename', ''))}")
+        if not found:
+            print("No FOI requests with xlsx files found.")
+        return
+
+
     LLM_CONFIG['FORCE_SUMMARY_REGENERATION'] = args.force_summaries
     config['FORCE_EXTRACT'] = args.force_extract  # <--- propagate to config
     # Parse personas flag

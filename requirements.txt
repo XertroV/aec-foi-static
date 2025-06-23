@@ -9,3 +9,4 @@ markdown
 pytesseract
 Pillow
 pdf2image
+openpyxl

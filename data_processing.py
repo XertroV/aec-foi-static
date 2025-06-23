@@ -20,6 +20,7 @@ from pdfminer.converter import TextConverter
 from pdfminer.layout import LAParams
 import io
 from itertools import zip_longest
+import openpyxl
 
 # Note: AEC server can easily handle 100 MB/s of requests.
 # We won't sleep between requests since it's already single threaded.
@@ -247,6 +248,24 @@ def save_text_to_file(text, foi_id, filename_suffix, output_base_dir):
         f.write(text)
     return str(Path('/extracted_texts') / generated_filename)
 
+def extract_text_from_xlsx(xlsx_path):
+    """
+    Extracts all cell values from all sheets in an .xlsx file as plain text.
+    Returns a single string with all values, separated by tabs and newlines.
+    """
+    try:
+        wb = openpyxl.load_workbook(xlsx_path, read_only=True, data_only=True)
+        all_text = []
+        for sheet in wb.worksheets:
+            all_text.append(f"[Sheet: {sheet.title}]")
+            for row in sheet.iter_rows(values_only=True):
+                row_text = '\t'.join(str(cell) if cell is not None else '' for cell in row)
+                all_text.append(row_text)
+        return '\n'.join(all_text)
+    except Exception as e:
+        print(f"Error extracting text from xlsx {xlsx_path}: {e}")
+        return ""
+
 def process_file(file_metadata, local_path, config, metadata_cache, force_extract=False):
     """
     Process a file (PDF, ZIP, etc.), extract text or unpack as needed, and return artifact info.
@@ -276,6 +295,11 @@ def process_file(file_metadata, local_path, config, metadata_cache, force_extrac
         extracted_text_path = save_text_to_file(extracted_text, foi_id, f"_{file_path.stem}", output_base_dir)
         shutil.copy2(file_path, output_base_dir / 'downloaded_originals' / file_path.name)
         artifact_info['extracted_text_path'] = extracted_text_path
+    elif file_type == 'xlsx':
+        extracted_text = extract_text_from_xlsx(file_path)
+        extracted_text_path = save_text_to_file(extracted_text, foi_id, f"_{file_path.stem}", output_base_dir)
+        shutil.copy2(file_path, output_base_dir / 'downloaded_originals' / file_path.name)
+        artifact_info['extracted_text_path'] = extracted_text_path
     elif file_type == 'zip':
         extract_dir = file_path.parent / f"_extracted_{file_path.stem}"
         extract_dir.mkdir(parents=True, exist_ok=True)
@@ -301,7 +325,7 @@ def process_file(file_metadata, local_path, config, metadata_cache, force_extrac
     # --- AI summary placeholder logic ---
     ai_summaries = {}
     extracted_text_path = artifact_info.get('extracted_text_path')
-    if file_type == 'pdf' and extracted_text_path:
+    if file_type in ('pdf', 'xlsx') and extracted_text_path:
         output_base_dir = Path(config['output_dir'])
         extracted_text = load_text_content(extracted_text_path, output_base_dir)
         current_text_hash = hashlib.sha256(extracted_text.encode('utf-8')).hexdigest() if extracted_text else None
