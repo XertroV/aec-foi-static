@@ -7,6 +7,7 @@ from llm_summarizer import deep_merge_foi_request, generate_all_summaries
 from pathlib import Path
 import concurrent.futures
 import json
+import time
 
 def main():
     import argparse
@@ -18,9 +19,21 @@ def main():
     parser.add_argument('--personas', type=str, help='Comma-separated list of persona IDs to generate summaries for (others will be skipped, existing summaries for other personas will be untouched)')
     parser.add_argument('--foi-id', type=str, help='Process only a specific FOI request ID (e.g., LEX1234 or LS5678)')
     parser.add_argument('--list-xlsx', action='store_true', help='List all FOI requests that have an xlsx file (from foi_data.json) and exit')
+    parser.add_argument('--fill-missing-file-summaries', action='store_true', help='Generate missing per-file summaries for all files in foi_data.json and update the file incrementally')
     args = parser.parse_args()
     config = CONFIG
-
+    LLM_CONFIG['FORCE_SUMMARY_REGENERATION'] = args.force_summaries
+    config['FORCE_EXTRACT'] = args.force_extract  # <--- propagate to config
+    # Parse personas flag
+    selected_personas = None
+    if args.personas:
+        valid_personas = set(LLM_CONFIG['PROMPT_TEMPLATES'].keys())
+        selected_personas = set([p.strip() for p in args.personas.split(',') if p.strip()])
+        invalid = selected_personas - valid_personas
+        if invalid:
+            print(f"Error: Invalid persona(s) specified: {', '.join(sorted(invalid))}")
+            print(f"Valid personas are: {', '.join(sorted(valid_personas))}")
+            exit(1)
 
     if args.list_xlsx:
         foi_data_path = Path(config['data_dir']) / "foi_data.json"
@@ -48,13 +61,10 @@ def main():
             print("No FOI requests with xlsx files found.")
         return
 
+    if args.fill_missing_file_summaries:
+        fill_missing_file_summaries(config, selected_personas=selected_personas)
+        return
 
-    LLM_CONFIG['FORCE_SUMMARY_REGENERATION'] = args.force_summaries
-    config['FORCE_EXTRACT'] = args.force_extract  # <--- propagate to config
-    # Parse personas flag
-    selected_personas = None
-    if args.personas:
-        selected_personas = set([p.strip() for p in args.personas.split(',') if p.strip()])
     metadata_path = Path(config['data_dir']) / "file_metadata.json"
     metadata = load_metadata(metadata_path)
     # Determine years to process
@@ -170,6 +180,40 @@ def main():
     with open(Path(config['data_dir']) / "foi_data.json", "r", encoding="utf-8") as f:
         all_foi_data = json.load(f)
     generate_static_site(all_foi_data, output_base_dir)
+
+
+
+def fill_missing_file_summaries(config, selected_personas=None):
+    """
+    Go through foi_data.json, find files (including inner files in zips) missing per-file summaries, and generate them using existing extracted text.
+    Updates foi_data.json after each summary is generated.
+    If selected_personas is provided, only fill missing summaries for those personas.
+    """
+    from llm_summarizer import generate_all_summaries
+    foi_data_path = Path(config['data_dir']) / "foi_data.json"
+    if not foi_data_path.exists():
+        print("No foi_data.json found.")
+        return
+    with open(foi_data_path, "r", encoding="utf-8") as f:
+        foi_data = json.load(f)
+    output_base_dir = Path(config['output_dir'])
+    # We want to only generate missing per-file summaries, so we call generate_all_summaries with no_generate_per_file=False
+    # and pass selected_personas as needed
+    for idx, req in enumerate(foi_data):
+        if req.get('id') == 'LEX540':
+            print(f"[fill-missing] Skipping FOI LEX540 (too many similar files)")
+            continue
+        print(f"[fill-missing] Processing FOI {req['id']} ({req.get('title', '')}) [{idx+1}/{len(foi_data)}]")
+        try:
+            generate_all_summaries([req], config, metadata=None, selected_personas=selected_personas, no_generate_per_file=False)
+            # Save after each FOI
+            with open(foi_data_path, "w", encoding="utf-8") as f:
+                json.dump(foi_data, f, ensure_ascii=False, indent=2)
+            print("  ...saved.")
+            time.sleep(1)
+        except Exception as e:
+            print(f"  Error generating summaries for FOI {req['id']}: {e}")
+    print("Done filling missing per-file summaries.")
 
 
 if __name__ == "__main__":

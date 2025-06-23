@@ -30,9 +30,9 @@ LLM_CONFIG = {
             ),
             'per_file': (
                 "Considering this document as part of an FOI request, summarize the document and its relevance to the FOI request in markdown format. "
-                "FYI the overview of the FOI request is: {overall_short_summary}\n\n"
-                "Document Text:\n\n{text}\n\n"
                 "Provide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+                "To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] {overall_short_summary}\n [REQUEST OVERVIEW END] \n\n"
+                "--- MAIN DOCUMENT TEXT START ---\n\n{text}\n\n"
             ),
         },
         'left_leaning': {
@@ -48,9 +48,9 @@ LLM_CONFIG = {
             ),
             'per_file': (
                 "From a left-leaning perspective, summarize this specific document within the context of the FOI request. Emphasize its implications for social equity, environmental concerns, or democratic accountability. "
-                "The overall FOI overview is: {overall_short_summary}\n\n"
-                "Document Text:\n\n{text}\n\n"
                 "Provide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+                "To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] {overall_short_summary}\n [REQUEST OVERVIEW END] \n\n"
+                "--- MAIN DOCUMENT TEXT START ---\n\n{text}\n\n"
             ),
         },
         'right_leaning': {
@@ -66,9 +66,9 @@ LLM_CONFIG = {
             ),
             'per_file': (
                 "From a right-leaning perspective, summarize this specific document within the context of the FOI request. Emphasize its implications for market freedom, government overreach, or national interest. "
-                "The overall FOI overview is: {overall_short_summary}\n\n"
-                "Document Text:\n\n{text}\n\n"
                 "Provide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+                "To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] {overall_short_summary}\n [REQUEST OVERVIEW END] \n\n"
+                "--- MAIN DOCUMENT TEXT START ---\n\n{text}\n\n"
             ),
         },
         'government_skeptic': {
@@ -84,9 +84,9 @@ LLM_CONFIG = {
             ),
             'per_file': (
                 "From a government skeptic's viewpoint, summarize this specific document within the context of the FOI request. Look for evidence of bureaucracy, lack of accountability, or any hidden agendas. "
-                "The overall FOI overview is: {overall_short_summary}\n\n"
-                "Document Text:\n\n{text}\n\n"
                 "Provide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+                "To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] {overall_short_summary}\n [REQUEST OVERVIEW END] \n\n"
+                "--- MAIN DOCUMENT TEXT START ---\n\n{text}\n\n"
             ),
         },
         'government_apologist': {
@@ -102,9 +102,9 @@ LLM_CONFIG = {
             ),
             'per_file': (
                 "From a government apologist's viewpoint, summarize this specific document within the context of the FOI request. Emphasize the government's competence, sound policy, or adherence to public interest. "
-                "The overall FOI overview is: {overall_short_summary}\n\n"
-                "Document Text:\n\n{text}\n\n"
                 "Provide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+                "To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] {overall_short_summary}\n [REQUEST OVERVIEW END] \n\n"
+                "--- MAIN DOCUMENT TEXT START ---\n\n{text}\n\n"
             ),
         },
         'highly_critical': {
@@ -120,9 +120,9 @@ LLM_CONFIG = {
             ),
             'per_file': (
                 "Critically summarize this specific document within the FOI request context. Point out every flaw, missed opportunity, or potential harm. Frame the content in the most negative light possible, questioning motives and outcomes. "
-                "The overall FOI overview is: {overall_short_summary}\n\n"
-                "Document Text:\n\n{text}\n\n"
                 "Provide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+                "To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] {overall_short_summary}\n [REQUEST OVERVIEW END] \n\n"
+                "--- MAIN DOCUMENT TEXT START ---\n\n{text}\n\n"
             ),
         },
     },
