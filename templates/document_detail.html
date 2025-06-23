@@ -79,7 +79,7 @@
         {% for inner in file.content_files %}
           <section class="foi-file-section" id="foi-file-zip-{{ zip_idx }}-{{ loop.index0 }}" style="display:none;" role="tabpanel" aria-labelledby="tab-zip-{{ zip_idx }}-{{ loop.index0 }}">
             <h2>{{ inner.filename }} <span style="font-size:0.8em; color:#888;">({{ inner.type }})</span></h2>
-            <a href="{{ inner.download_path }}" download>Download file</a>
+            <a href="{{ inner.download_path | urlencode }}" download>Download file</a>
             {% if inner.type == 'pdf' %}
               <div class="tabbed-view">
                 <div class="foi-tab-bar">
@@ -89,7 +89,7 @@
                   <button type="button" class="foi-tab" onclick="showTab(this, 'innerpdf-{{ zip_idx }}-{{ loop.index0 }}-ai')"{% if inner.ai_summaries[DEFAULT_PERSONA].text is none or inner.ai_summaries[DEFAULT_PERSONA].text == '' %} style="display:none;"{% endif %}>AI Overview</button>
                 </div>
                 <div class="tab-content" id="innerpdf-{{ zip_idx }}-{{ loop.index0 }}-orig" style="display:block; min-height: 50vh;">
-                  <iframe src="{{ inner.download_path }}" width="100%" height="800px" style="border: none;"></iframe>
+                  <iframe src="{{ inner.download_path | urlencode }}" width="100%" height="800px" style="border: none;"></iframe>
                 </div>
                 <div class="tab-content" id="innerpdf-{{ zip_idx }}-{{ loop.index0 }}-text" style="display:none;">
                   <pre style="white-space: pre-wrap; background: #f8f8f8; padding: 0.5em; border-radius: 4px;">{{ inner.extracted_text | e }}</pre>
@@ -105,14 +105,14 @@
                 </div>
               </div>
             {% elif inner.type in ['jpg', 'jpeg', 'png', 'gif'] %}
-              <img src="{{ inner.download_path }}" alt="{{ inner.filename }}" style="max-width: 100%; height: auto;">
+              <img src="{{ inner.download_path | urlencode }}" alt="{{ inner.filename }}" style="max-width: 100%; height: auto;">
             {% elif inner.type in ['mp4', 'webm', 'ogg'] %}
               <video controls style="max-width: 100%; height: auto;">
-                <source src="{{ inner.download_path }}" type="video/{{ inner.type }}">
+                <source src="{{ inner.download_path | urlencode }}" type="video/{{ inner.type }}">
                 Your browser does not support the video tag.
               </video>
             {% else %}
-              <p>File type: {{ inner.type|upper }}. <a href="{{ inner.download_path }}" target="_blank">Download</a></p>
+              <p>File type: {{ inner.type|upper }}. <a href="{{ inner.download_path | urlencode }}" target="_blank">Download</a></p>
             {% endif %}
           </section>
         {% endfor %}
