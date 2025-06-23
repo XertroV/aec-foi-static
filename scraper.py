@@ -200,8 +200,9 @@ def fill_missing_file_summaries(config, selected_personas=None):
     # We want to only generate missing per-file summaries, so we call generate_all_summaries with no_generate_per_file=False
     # and pass selected_personas as needed
     for idx, req in enumerate(foi_data):
-        if req.get('id') == 'LEX540':
-            print(f"[fill-missing] Skipping FOI LEX540 (too many similar files)")
+        lex_id = req.get('id')
+        if lex_id in ['LEX540', 'LEX2997']:
+            print(f"[fill-missing] Skipping FOI {lex_id} (too many similar files)")
             continue
         print(f"[fill-missing] Processing FOI {req['id']} ({req.get('title', '')}) [{idx+1}/{len(foi_data)}]")
         try:
