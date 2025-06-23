@@ -54,8 +54,8 @@ coverage.xml
 .DS_Store
 
 # Data and build artifacts
-/data/
-/docs/
+# /data/
+# /docs/
 /downloads/
 
 # PDFMiner cache

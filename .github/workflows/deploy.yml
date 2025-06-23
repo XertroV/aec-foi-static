@@ -4,8 +4,8 @@ on:
   push:
     branches:
       - master # Trigger on pushes to the master branch
-  schedule:
-    - cron: '0 9 * * 1-5' # Run every weekday (Monday to Friday) at 19:00 Canberra time (AEST/AEDT, which is UTC+10/UTC+11)
+  # schedule:
+  #   - cron: '0 9 * * 1-5' # Run every weekday (Monday to Friday) at 19:00 Canberra time (AEST/AEDT, which is UTC+10/UTC+11)
 
 jobs:
   build-and-deploy:
@@ -19,25 +19,28 @@ jobs:
         with:
           python-version: '3.10' # IMPORTANT: Set to your development Python version
 
-      - name: Install tesseract-ocr
-        run: sudo apt-get update && sudo apt-get install -y tesseract-ocr poppler-utils
+      # - name: Install tesseract-ocr
+      #   run: sudo apt-get update && sudo apt-get install -y tesseract-ocr poppler-utils
 
-      - name: Cache data, downloads, and docs
-        uses: actions/cache@v4
-        with:
-          path: |
-            data
-            downloads
-            docs
-          key: ${{ runner.os }}-aecfoi-${{ hashFiles('requirements.txt', 'scraper.py', 'templates/**', 'static/**') }}-${{ github.sha }}
-          restore-keys: |
-            ${{ runner.os }}-aecfoi-
+      # - name: Cache data, downloads, and docs
+      #   uses: actions/cache@v4
+      #   with:
+      #     path: |
+      #       data
+      #       downloads
+      #       docs
+      #     key: ${{ runner.os }}-aecfoi-${{ hashFiles('requirements.txt', 'scraper.py', 'templates/**', 'static/**') }}-${{ github.sha }}
+      #     restore-keys: |
+      #       ${{ runner.os }}-aecfoi-
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt
+      # - name: Install dependencies
+      #   run: pip install -r requirements.txt
 
-      - name: Run scraper and generate site
-        run: python scraper.py
+      # - name: Run scraper and generate site
+      #   run: python scraper.py
+
+      - name: Site already generated
+        run: du -d 1 -h ./
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
