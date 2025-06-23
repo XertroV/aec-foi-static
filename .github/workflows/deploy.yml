@@ -47,6 +47,11 @@ jobs:
           echo "Checking for files over 99MB..."
           find docs/ -type f -size +99M -print -delete
 
+      # - name: Remove files over 1900k (so total size is < 1 GB cause it fails to deploy otherwise)
+      #   run: |
+      #     echo "Checking for files over 99MB..."
+      #     find docs/ -type f -size +1900k -print -delete
+
       - name: Site already generated
         run: du -d 2 -h ./
 

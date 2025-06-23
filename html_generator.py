@@ -48,6 +48,15 @@ def ensure_default_persona_ai_summaries(data, default_persona):
                     if default_persona not in item['ai_summaries']:
                         item['ai_summaries'][default_persona] = {'text': ''}
 
+def get_static_prefix_for_path(html_path, output_base_dir):
+    """
+    Given the output HTML file path and the output base dir, return the correct static_prefix (e.g. '', '../', '../../', ...)
+    """
+    rel = os.path.relpath(html_path.parent, output_base_dir)
+    if rel == '.' or rel == '':
+        return ''
+    return '../' * len([p for p in rel.split(os.sep) if p and p != '.'])
+
 def generate_static_site(all_foi_data, output_base_dir):
     output_base_dir = Path(output_base_dir)
     (output_base_dir / "documents").mkdir(parents=True, exist_ok=True)
@@ -102,16 +111,19 @@ def generate_static_site(all_foi_data, output_base_dir):
     for req_data in renderable_foi_data:
         html_filename = f"{req_data['id']}.html"
         output_html_path = output_base_dir / "documents" / html_filename
-        req_data['output_html_path'] = f"/documents/{html_filename}"
+        req_data['output_html_path'] = f"documents/{html_filename}"
+        static_prefix = get_static_prefix_for_path(output_html_path, output_base_dir)
         index_page_documents.append(req_data)
         with open(output_html_path, 'w', encoding='utf-8') as f:
-            f.write(detail_template.render(request=req_data, request_data_json=json.dumps(req_data)))
+            f.write(detail_template.render(request=req_data, request_data_json=json.dumps(req_data), static_prefix=static_prefix))
         generated_files.append(str(output_html_path))
     index_path = output_base_dir / "index.html"
+    static_prefix = get_static_prefix_for_path(index_path, output_base_dir)
     with open(index_path, 'w', encoding='utf-8') as f:
         f.write(index_template.render(
             documents=index_page_documents,
-            documents_data_json=json.dumps(index_page_documents, ensure_ascii=False)
+            documents_data_json=json.dumps(index_page_documents, ensure_ascii=False),
+            static_prefix=static_prefix
         ))
     generated_files.append(str(index_path))
     # Copy static assets

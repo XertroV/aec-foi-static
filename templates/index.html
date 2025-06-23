@@ -11,7 +11,7 @@
   {% for doc in documents %}
   <div class="document-card" data-doc-id="{{ doc.id }}">
     <div class="doc-header">
-      <a class="doc-title" href="{{ doc.output_html_path }}">{{ doc.title }}</a>
+      <a class="doc-title" href="{{ static_prefix }}{{ doc.output_html_path }}">{{ doc.title }}</a>
       <span class="doc-date">({{ doc.date }})</span>
     </div>
     <div class="doc-files">
@@ -37,7 +37,7 @@
       {% else %}
         <span>Main files:</span>
         {% for file in doc.files if file.type in ['pdf', 'docx', 'zip'] %}
-          <a href="{{ doc.output_html_path }}#foi-file-{% if file.type == 'zip' %}zip-{{ loop.index0 }}{% else %}{{ loop.index0 }}{% endif %}">{{ file.server_filename }}</a>{% if not loop.last %}, {% endif %}
+          <a href="{{ static_prefix }}{{ doc.output_html_path }}#foi-file-{% if file.type == 'zip' %}zip-{{ loop.index0 }}{% else %}{{ loop.index0 }}{% endif %}">{{ file.server_filename }}</a>{% if not loop.last %}, {% endif %}
         {% endfor %}
       {% endif %}
     </div>
