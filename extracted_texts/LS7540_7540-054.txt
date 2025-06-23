@@ -1,0 +1,44 @@
+
+
+--- Page 1 ---
+
+Dear { MERGEFIELD First_Name } { MERGEFIELD Surname }, 
+
+My name is Maria from the Australian Electoral Commission (AEC) in Canberra. I’m emailing 
+you today as the AEC have received an application to register Australian Democrats as a 
+federal political party. 
+
+Under section 123 of the Commonwealth Electoral Act 1918 a registered political party must 
+have at least 500 members who are on the Commonwealth Electoral Roll. 
+
+To verify a party’s membership list, the AEC checks a random sample of the membership list 
+provided by the party. 
+
+The Australian Democrats provided your name on its membership list and your name has 
+been selected at random. To verify that you are a member of the party, please reply to this 
+email with the response that applies to you: 
+
+a. My name is ……[your name here]……………….. 
+
+“I am a member of Australian Democrats” 
+
+ OR, if you are not a member of the party 
+
+2. My name is ……[your name here]……………….. 
+
+“No, I am not a member of Australian Democrats” 
+
+You can also contact me directly on 02 6271 4521 to confirm whether you are a member of 
+the party. 
+
+It is important that you respond to this email as a certain number of members must confirm 
+their membership of the party for the application to be successful. 
+Please feel free to contact me if you have any queries. 
+
+Kind Regards 
+
+Party Registration Team 
+Australian Electoral Commission 
+T: (02) 6271 4521 | F: (02) 6293 7655 
+
+LS7540 Released Document No. 54Freedom of Information Release

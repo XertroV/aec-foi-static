@@ -1,0 +1,268 @@
+
+
+--- Page 1 ---
+
+From:
+Sent:
+To:
+Subject:
+
+Thursday, 5 May 2022 3:22 PM
+Commission Secretariat
+Application under s 141(2) regarding Health Australia Party
+
+CAUTION: This email originated from outside of the Australian Federal Government. Do not click links or open 
+attachments unless you recognise the sender and know the content is safe. 
+
+To: Mr Tom Rogers 
+via email: commission.secretariat@aec.gov.au 
+
+Hi, 
+
+This is an application under s 141(2) of the EA to review the decision to deregister Health Australia Party (HAP) [1]. 
+
+I learned of HAP's deregistration on the 14th of April. 
+
+As a voter I am affected by the wrongful deregistration of political parties and I am concerned that the AEC's 
+processes are inadequate. Thus I am concerned that wrongful deregistrations have occurred many times and are 
+continuing to occur -- HAP being just one example of more than a do en. 
+
+Particularly: I do not believe the AEC's membership testing method is accurate enough to support the decision. 
+
+This is because, based on the statistics gathered and published by the AEC in [1], the AEC's method had a false 
+negative rate of 72.34% ± 0.12% if HAP has > 1769 members. That is, *if* HAP has > 1769 members, *then* it is 
+expected that the AEC's method has that false negative rate. 
+
+The number 1769 is important because, based on the data gathered by the AEC, *if* HAP could have submitted 
+1769 members then they would have passed this hypothetical membership test. (Note, there is no mathematical 
+reason that the membership test methodology could not simply allow longer lists; the only restriction is *AEC policy 
+alone*.) 
+
+HAP's Nov 2021 membe ship test had a false negative rate of 72.40% ± 0.12% if HAP has > 1769 members. 
+
+This means that, if HAP has more than 1769 members (which would imply they are an eligible party), that the 
+probability that HAP passed either the first test or failed the first but passed the second was only 0.476 -- i.e., 47.6%. 
+That's worse odds than a coin flip. 
+
+S nce the AEC, *by the Commission's own policy,* does not allow a party to submit more than 1650 members as 
+part of the test methodology, there is no way -- by the best known principles of statistics and the philosophy of 
+science available to us -- that the AEC can be statistically confident in the results of the membership test 
+methodology, and thus the Commission does not have statistical grounds for the decision to deregister. This is 
+especially poignant considering that HAP claims to have ~4,000 members nationally [1]. Considering the AEC's 
+measurements to-date, it is reasonable to expect that HAP could produce an additional 129 members unless 
+evidence can be produced to contradict this. The membership testing method does not gather such evidence -- and 
+parties are forbidden from submitting additional members -- so it is a mystery how the AEC would have such 
+evidence. In fact, if the lists that HAP submitted to the AEC have fewer than 1521 overlapping members, HAP has 
+
+1
+
+LEX3070 Released Document No. 6Released under the Freedom of Information Act 198210
+
+
+--- Page 2 ---
+
+already proven to the AEC that it does have sufficient membership. 
+
+How many members were on both lists submitted by HAP? 
+
+Given the above, I request that the decision to deregister HAP be set aside. 
+
+As evidence of my claims, please see [2] -- particularly Fig 6.6 which is the results of the statistical analysis of HAP's 
+Feb 2022 membership test. (A link to the results of the analysis of HAP's Nov 2021 membership test are linked in Fig 
+6.6's description.) 
+
+Additionally, I note that the AEC has made trivial mistakes in the documentation and execution of the method (see 
+[3]), so I have no faith that those employees or delegates of the Commission that execute the method have any idea 
+whatsoever about how to do it correctly, what the requirements for statistical validity are, or how to check that they 
+are not making a mistake. 
+
+Thus, the Commission should also reconsider their entire testing framework, setting aside all decisions to deregister 
+or refuse registration on the basis of the results of the testing method until such a time when the Commission 
+obtains the relevant skills necessary to develop a method that is not predetermined  n some cases. I can't request 
+that under s 141(2); it's just my opinion. Seems worth mentioning, though. 
+
+Max Kaye 
+
+[1]: 
+https://www.aec.gov.au/Parties and Representatives/Party Registration/Deregistered parties/files/statement-of-
+reasons-health-australia-party.pdf 
+
+[2]: https://xertrov.github.io/aec-membership-test-simulator/#6-suspected-farces 
+
+[3]: https://xertrov.github.io/aec-membership-test-simulator/#circa-2012-to-2016 
+
+2
+
+LEX3070 Released Document No. 6Released under the Freedom of Information Act 19829
+
+
+--- Page 3 ---
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+9. 
+
+10. 
+
+11. 
+
+12. 
+
+13. 
+
+14. 
+
+15. 
+
+16. 
+
+17. 
+
+18. 
+
+19. 
+
+20. 
+
+21. 
+
+22. 
+
+23. 
+
+24. 
+
+25. 
+
+26. 
+
+27. 
+
+28. 
+
+29. 
+
+REDACTION CODES 
+
+Personal Information (name) redacted. 
+
+Personal Information (date of birth) redacted. 
+
+Personal Information (place of birth) redacted 
+
+Personal Information (citizenship) redacted. 
+
+Personal Information (racial or ethnic origin) redacted. 
+
+Personal Information (photograph) redacted 
+
+Personal Information (facsimile of signature) redacted. 
+
+Personal Information (facsimile of manuscript initialling) redacted. 
+
+Personal Information (Individual’s address) redacted. 
+
+Personal Information (Individual’s email address) redacted. 
+
+Personal Information (individual’s telephone number or mobile number) 
+redacted. 
+
+Personal Information (individual’s political opinion) redacted. 
+
+Personal Information (opinion about individual) redacted. 
+
+Personal Information (Individuals current or former occupation). 
+
+Personal Information (employment history) redacted. 
+
+Personal Information (qualifications) redacted. 
+
+Personal Information (membership of a professional or trade association). 
+
+Personal Information (membership of a trade union). 
+
+Personal Information (health) redacted. 
+
+Personal Information (membership of a political association) redacted 
+
+Personal Information (religious beliefs or affiliations) redacted. 
+
+Personal Information (sexual orientation or practices). 
+
+Personal Information (criminal record). 
+
+Personal Information (identifying individual) redacted. 
+
+Personal Information (bank account details) redacted) 
+
+Business information (bank account details) redacted. 
+
+Business information (billing account details) redacted. 
+
+Business information (ureasonably affect a person adversely in respect of his 
+or her lawful business or professional affairs) redacted. 
+
+Business Information (reasonably be expected to prejudice the future supply 
+of information to the Commonwealth or an agency for the purpose of the 
+administration of a law of the Commonwealth or of a Territory or the 
+administration of matters administered by an agency). 
+
+30. 
+
+Business information (trade secret).
+
+
+--- Page 4 ---
+
+31. 
+
+32. 
+
+33. 
+
+34. 
+
+35. 
+
+36. 
+
+37. 
+
+38. 
+
+Business information (information having a commercial value that would be, 
+or could reasonably be expected to be, destroyed or diminished if the 
+information were disclosed). 
+
+Legal Professional Communication redacted. 
+
+Deliberative material redacted. 
+
+Electoral Roll material redacted. 
+
+Tests, examinations or audits material redacted. 
+
+Management or assessment of personnel material redacted. 
+
+Proper and efficient conduct of the operations of AEC material redacted. 
+
+Lawful methods or procedures for preventing, detecting, investigating, or 
+dealing with matters arising out of, breaches or evasions of the law redactged 
+
+39. 
+
+Irrelevant material redacted.

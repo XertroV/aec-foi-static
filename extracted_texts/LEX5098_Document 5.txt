@@ -1,0 +1,393 @@
+
+
+--- Page 1 ---
+
+OFFICIAL:SENSITIVE 
+
+AEC Roll Integrity Assurance System Talking 
+Points 
+
+Updated 11 July 2023 
+
+Page 1 
+
+Section 22Section 22
+
+
+--- Page 2 ---
+
+Page 2 
+
+Section 22
+
+
+--- Page 3 ---
+
+Page 3 
+
+Section 22
+
+
+--- Page 4 ---
+
+OFFICIAL:SENSITIVE 
+
+Electoral events 
+
+Talking points 
+
+Federal elections 
+
+•  Additional data is collected and analysed during an electoral event to ensure the completeness 
+
+and accuracy of the Electoral Roll. This includes information about: 
+
+o  Elector Information Reports completed by polling officials to advise of corrections to the 
+electoral roll, to notify if an elector is unable to vote, or to notify that an elector has died. 
+
+Page 4 
+
+Section 22Section 22Section 22Section 22
+
+
+--- Page 5 ---
+
+OFFICIAL:SENSITIVE 
+
+•  Following an electoral event, updates are made to the Electoral Roll from information provided on 
+
+declaration envelopes and Elector Information Reports. 
+
+Page 5 
+
+Section 22
+
+
+--- Page 6 ---
+
+OFFICIAL:SENSITIVE 
+
+High integrity roll program 
+
+Talking points 
+
+Page 6 
+
+Section 22Section 22
+
+
+--- Page 7 ---
+
+OFFICIAL:SENSITIVE 
+
+Page 7 
+
+Section 22Section 22
+
+
+--- Page 8 ---
+
+OFFICIAL:SENSITIVE 
+
+Deletions (duplicate, death, and eligible overseas electors) 
+
+•  Removing electors from the roll to maintain accuracy and integrity is important to ensure the roll is 
+
+always up to date. Deletions from the roll can occur for several reasons. Specifically, an 
+enrolment can be deleted when: 
+
+o  existing records are merged (if there are duplicate enrolment records) 
+o  an elector has died 
+
+•  Duplicate enrolment records occur when an elector’s name appears on the current electoral roll 
+more than once. This can occur when a State Direct, Federal Direct, or ordinary enrolment 
+application is processed without being matched to a current enrolment. The AEC investigates and 
+corrects duplicate enrolments on a fortnightly basis. 
+
+Page 8 
+
+Section 22Section 22
+
+
+--- Page 9 ---
+
+OFFICIAL:SENSITIVE 
+
+•  The AEC receives death notifications from a variety of sources including the registrar of Births 
+
+Deaths and Marriages, electoral events, state and territory electoral authorities, Public Trustees, 
+and members of the public. 
+
+•  The AEC processes death notifications from Births Deaths and Marriages monthly; and receives 
+notification directly from relatives and interested parties. Notifications are matched to current and 
+deleted enrolment records (e.g. where a person has been removed from the roll by objection). 
+Once matched with a death notification, further investigation is required before re-enrolment can 
+occur. This process is an important integrity measure that reduces impersonation opportunity.  
+
+Page 9 
+
+Section 22Section 22
+
+
+--- Page 10 ---
+
+OFFICIAL:SENSITIVE 
+
+High trust data sources as inputs 
+
+Talking points 
+
+•  The Electoral Act provides for the AEC to obtain and use data from other government agencies to 
+
+assist in reviewing and maintaining the roll. These data sources include: 
+
+o  Births, Deaths and Marriage registries (in each state and territory) 
+
+•  Data from these sources is used to support the following roll management activities: 
+
+o  death deletions 
+
+Page 10 
+
+Section 22Section 22Section 22Section 22Section 22
+
+
+--- Page 11 ---
+
+OFFICIAL:SENSITIVE 
+
+Roll management data sources 
+
+Federal Direct Enrolment and Update (FDEU) 
+
+Page 11 
+
+Section 22
+
+
+--- Page 12 ---
+
+OFFICIAL:SENSITIVE 
+
+Death notification data 
+
+•  The AEC employs a robust process to remove deceased electors from the roll and prevent 
+
+deceased persons from being added to the electoral roll. 
+
+•  The AEC manages the removal of deceased electors from the roll by collecting and analysing 
+information from a variety of sources, including advice from the elector’s family and data from 
+state registrars (Births, Deaths, and Marriages), and other electoral authorities. 
+
+• 
+
+In the 12 months ending 30 June 2023, the AEC removed 145,000 deceased persons from the 
+electoral roll. 
+
+Page 12 
+
+Section 22Section 22
+
+
+--- Page 13 ---
+
+OFFICIAL:SENSITIVE 
+
+Page 13 
+
+Section 22
+
+
+--- Page 14 ---
+
+OFFICIAL:SENSITIVE 
+
+Human checks and system checks 
+
+Talking points 
+
+Human checks 
+
+Monthly Roll Integrity Checks 
+
+•  As part of the Roll Program, the AEC utilises system code to generate internal lists (from the 
+
+current electoral roll data) that identifies elector records with similar and or exactly matching client 
+details. The lists are distributed to trained operators across the country. In this, operators review 
+records on the electoral roll for applications with: 
+
+o  same Given Name/DOB/Address data 
+o  identical Elector Names and Addresses data 
+o  review of Electoral Twins data (‘Electoral Twins’ are different individuals with the same name 
+
+and date of birth) 
+
+o  other potential duplicates identified for transactions processed in the last month 
+•  There are genuine instances in which two separate clients have matching details. The roll 
+integrity checks identify genuine processing errors where a client’s existing record was not 
+matched correctly. 
+
+•  An amendment is a transaction used to correct any error made by the AEC during enrolment 
+
+processing. An ‘error’ can take many forms including a data entry error or incorrectly matching an 
+elector. 
+
+•  A Federal Direct Enrolment Update (FDEU) transaction is corrected if the AEC has information 
+
+that the transaction was wrongfully applied.  
+
+Page 14 
+
+Section 22Section 22
+
+
+--- Page 15 ---
+
+OFFICIAL:SENSITIVE 
+
+Page 15 
+
+Section 22
+
+
+--- Page 16 ---
+
+OFFICIAL:SENSITIVE 
+
+Page 16 
+
+Section 22
+
+
+--- Page 17 ---
+
+OFFICIAL:SENSITIVE 
+
+Page 17 
+
+Section 22
+
+
+--- Page 18 ---
+
+OFFICIAL:SENSITIVE 
+
+Page 18 
+
+Section 22
+
+
+--- Page 19 ---
+
+Page 19 
+
+Section 22
+
+
+--- Page 20 ---
+
+OFFICIAL:SENSITIVE 
+
+Page 20 
+
+Section 22
+
+
+--- Page 21 ---
+
+Page 21 
+
+Section 22
+
+
+--- Page 22 ---
+
+OFFICIAL:SENSITIVE 
+
+Section 22
+
+
+--- Page 23 ---
+
+OFFICIAL:SENSITIVE 
+
+Page 23 
+
+Section 22
+
+
+--- Page 24 ---
+
+OFFICIAL:SENSITIVE 
+
+Page 24 
+
+Section 22
+
+
+--- Page 25 ---
+
+OFFICIAL:SENSITIVE 
+
+Page 25 
+
+Section 22
+
+
+--- Page 26 ---
+
+OFFICIAL:SENSITIVE 
+
+Page 26 
+
+Section 22
+
+
+--- Page 27 ---
+
+OFFICIAL:SENSITIVE 
+
+Questions 
+
+Other remarks 
+
+•  On any given day we estimate that more than 7,000 people on the roll either move house or die, 
+
+thereby necessitating a change in their enrolment. 
+
+o  These are identified through a range of mechanisms (self-initiated, death deletion, FDEU 
+
+etc.) but this cannot be done on the day it occurs due to varying factors. 
+
+o  The AEC processes on average 10,000 transactions each day to add and remove people 
+from the roll or make changes to address and/or name and other details – the roll is highly 
+current and accurate. 
+
+Page 27 
+
+Section 22Section 22
+
+
+--- Page 28 ---
+
+OFFICIAL:SENSITIVE 
+
+Page 28 
+
+Section 22
+
+
+--- Page 29 ---
+
+OFFICIAL:SENSITIVE 
+
+Section 22
+
+
+--- Page 30 ---
+
+OFFICIAL:SENSITIVE 
+
+Page 30 
+
+Section 22

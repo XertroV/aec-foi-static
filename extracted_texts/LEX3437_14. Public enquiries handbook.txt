@@ -1,0 +1,1248 @@
+
+
+--- Page 1 ---
+
+Public Engagement Team 
+Handbook
+
+| November 2022
+
+
+--- Page 2 ---
+
+Table of Contents 
+
+Overview ........................................................................................................................... 3 
+Responsibilities of the Public Enquiries Officer .............................................................. 3 
+Phone ............................................................................................................................ 3 
+Information technology .................................................................................................. 3 
+AEC contact telephone numbers ................................................................................... 4 
+Hours of operation ......................................................................................................... 4 
+State electoral commissions .......................................................................................... 5 
+Recordkeeping .............................................................................................................. 5 
+Public Engagement Contact Tool ................................................................................... 6 
+Reporting ....................................................................................................................... 6 
+Enquiries ....................................................................................................................... 7 
+Complaints .................................................................................................................... 7 
+AEC Switchboard ............................................................................................................. 7 
+Incoming calls ................................................................................................................ 7 
+Interpreter calls .............................................................................................................. 7 
+Transferring switchboard to an internal number ............................................................. 9 
+National Relay Service .................................................................................................. 9 
+Recorded messages for switchboard ............................................................................. 9 
+Recorded message (IVR) for 13 23 26 number ............................................................ 10 
+Email Procedures ........................................................................................................... 10 
+Mailboxes .................................................................................................................... 10 
+Outlook folders for info@ mailbox ................................................................................ 11 
+INFO Personal Message Manager (PMM) ................................................................... 13 
+Email response targets ................................................................................................ 15 
+Triaging of enquiries .................................................................................................... 15 
+Complex enquiries ....................................................................................................... 15 
+Organising the inbox .................................................................................................... 15 
+AEC Forms .................................................................................................................. 16 
+Silent Elector Forms .................................................................................................... 16 
+Faxes........................................................................................................................... 16 
+Sent emails .................................................................................................................. 16 
+Answering Simple Enquiries ......................................................................................... 17 
+Close of rolls for state and local elections .................................................................... 18 
+Electoral roll searches ................................................................................................. 18 
+Confirming enrolment enquiries – from the elector concerned ..................................... 18 
+Third party enquiries .................................................................................................... 19 
+Bomb threat / telephone threats ................................................................................... 19 
+Electoral roll enquiries ................................................................................................. 21 
+Enrolment statistics ...................................................................................................... 21 
+Requests for roll data ................................................................................................... 21 
+More Complex Enquiries ............................................................................................... 21 
+Complaints of possible breaches of the legislation ....................................................... 21 
+Freedom of Information (FOI) Requests ...................................................................... 22 
+Enquiries about MP entitlements for electoral purposes .............................................. 22 
+Enquiry/Complaint from organisation wanting copy of the roll ...................................... 22 
+Enrolment Fraud .......................................................................................................... 23 
+Industrial elections and Protected Action Ballots (PAB) ............................................... 23 
+Appendix A ..................................................................................................................... 24 
+
+Page 1    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 3 ---
+
+Incoming calls .............................................................................................................. 24 
+Transferring a call to an internal number ...................................................................... 24 
+Transferring a call ........................................................................................................ 24 
+Appendix B ..................................................................................................................... 26 
+How to record new messages ...................................................................................... 26 
+Standard Business Hours ............................................................................................ 26 
+Public Holidays ............................................................................................................ 26 
+Emergency .................................................................................................................. 26 
+Forwarding the Public Enquiry phone to another area within the AEC ......................... 26 
+Transferring switchboard to an internal number ........................................................... 26 
+How to change the critical incident message ............................................................... 27 
+Appendix C ..................................................................................................................... 28 
+List of Recorded messages ......................................................................................... 28 
+Switchboard recorded messages ................................................................................. 28 
+Appendix D ..................................................................................................................... 30 
+Outgoing calls .............................................................................................................. 30 
+Translator calls ............................................................................................................ 30 
+Appendix E ..................................................................................................................... 31 
+Changing the recording on Switchboard phone ........................................................... 31 
+Voicemail Setup ........................................................................................................... 31 
+Test ............................................................................................................................. 36 
+Recording a business hours voicemail message: ........................................................ 36 
+APPENDIX F ................................................................................................................... 37 
+Compiling the Complaints Management Report .......................................................... 37 
+Completing the Complaints Management Quarterly Report ......................................... 40 
+Table 1 - Complaints by category ................................................................................ 41 
+Table 2 – Complaints Achievement against Service-Level Standards and Avenue Received
+ .................................................................................................................................... 42 
+Table 3 – Complaints by State/Territory ....................................................................... 42 
+Table 4 – Complaints by Avenue ................................................................................. 43 
+Table 5 – Comparison of Complaints to Enquiries by Category ................................... 43 
+Breakdown of complaints ............................................................................................. 46 
+
+Page 2    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 4 ---
+
+Overview 
+
+Responsibilities of the Public Enquiries Officer 
+
+The Public Enquiries Officers, working as part of the Public Engagement team, are responsible 
+for answering phone calls to the AEC’s National Office (NO) switchboard. The team is also 
+responsible for management of the below shared mailboxes: 
+
+ 
+
+info@aec.gov.au  
+
+  complaints.management@aec.gov.au 
+
+ 
+
+Phone calls 
+
+– used for internal enquiries only 
+
+You will only receive calls between 9am and 5pm weekdays. Outside of these hours, callers will 
+hear a recorded message. On a public holiday, callers will hear a different message. We are 
+responsible for recording this message. See Recorded Messages. 
+
+It is your responsibility to: 
+
+■  Answer incoming calls 
+■  Manage and monitor the email boxes 
+■  Provide prompt and appropriate responses to requests for information, noting the AECs 
+
+service levels 
+
+■  Provide relevant and accurate information to the general public on electoral matters 
+■  Maintain appropriate confidentiality about dealings with the general public, and behave in 
+a way that upholds the integrity and reputation of the AEC and Aust. Public Service (APS) 
+
+Information technology 
+The AEC has various databases which contain personal information and other sensitive and 
+confidential data including: 
+
+Information about current and former AEC employees 
+
+■  Personal information about electors  
+■ 
+■  Financial data 
+■  Election management data 
+
+This information needs to be protected from unauthorised access, amendment and disclosure 
+and to meet statutory obligations under the Commonwealth Electoral Act 1918, the Privacy Act 
+1988, and the Crimes Act 1914. 
+
+Page 3    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 5 ---
+
+It is your responsibility to ensure the integrity of the information in your care is only used for 
+official purposes. Please familiarise yourself with the privacy information and principles which 
+outline your responsibilities about the use, collection and storage of information. 
+
+Your user ID and other login information (such as passwords) allow you access to IT systems.  
+You must not disclose these to anyone, including colleagues, nor leave your computer open 
+when unattended. 
+
+If a breach of security occurs through unauthorised use of your user ID and password, you may 
+be held personally responsible. 
+
+AEC contact telephone numbers  
+The AEC has several telephone numbers as outlined below. The AEC switchboard is the 
+responsibility of the Parliamentary and Party Registration section in NO. 
+
+■  13 23 26 – This is the generic telephone number for the AEC’s divisional offices and is 
+
+used on all public advertising and listings. Most calls to this phone number will be diverted 
+to a divisional office after the caller enters their postcode. Where a caller does not enter a 
+postcode, the call is diverted to their state office. All calls to this number from within 
+Australia are the cost of a local call. Overseas callers cannot dial this number. 
+
+■  +61 2 6160 2600 – This number is advertised on our website specifically for people who 
+are calling from overseas. This directs people to enter the postcode for their enrolled 
+address. Their call is then diverted to the relevant divisional office, based on the postcode 
+they enter. If no postcode is entered, the call is diverted to the National Office switchboard 
+number, below. 
+(02) 6271 4411 – AEC switchboard in National Office. This number is published on our 
+website along with our state office switchboard numbers. 
+Interpreter calls – This is a service where non-English speaking callers can have a three-
+way conversation with the AEC, assisted by an interpreter in their own language. Further 
+information on this service is available below.  
+
+■ 
+
+■ 
+
+■  10 Mort St – Security Guards – 
+
+Hours of operation 
+The switchboard responds to incoming calls received from the general public as follows: 
+
+■  Non-election hours of operation – 9am to 5pm (Monday to Friday) 
+
+During a federal election, the switchboard is diverted to the AECs escalation cell and the INFO 
+and Complaints mailboxes are diverted to the AEC’s Election Contact Centre. 
+
+Page 4    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 6 ---
+
+
+
+
+--- Page 7 ---
+
+ 
+
+the Objective file path is: Enabling and Regulation Division > Disclosure Assurance and 
+Engagement Branch > Parliamentary Engagement and Party Registration Section > 
+Public Engagement; 
+
+ 
+
+the folder is https://objective.prod.aec.gov.au/documents/fA13482  
+
+The structure of information contained in the Public Engagement folders is as follows 
+
+Public Engagement Contact Tool 
+Public Engagement are responsible for management of the Public Engagement Contact Tool  
+(PECT) system. 
+
+PECT is the AECs official system to record and escalate enquiries and complaints. 
+
+All AEC staff are required to enter all public enquiries, feedback and complaints received. The 
+only exception to this rule is enquiries received in the info@aec.gov.au mailbox – these are 
+recorded separately. Due to the volume of email enquiries we receive, the Public Engagement 
+team is required to enter into PECT all phone calls and emailed complaints only. If a complaint 
+needs to be escalated to another business area or division, it must be done through PECT. The 
+exceptions are legal enquiries and complaints – these are to be forwarded via email to the Legal 
+Mailbox, marked ‘Official’.  
+
+Reporting 
+
+Page 6    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 8 ---
+
+
+
+
+--- Page 9 ---
+
+English-speaking callers can have a three-way conversation with the AEC in their own language, 
+assisted by an interpreter.   
+
+Calls go to a nominated number in each state. If you receive a call, you will hear an automated 
+message explaining it is an interpreter call and to press zero (0) to accept the call.   
+
+Always accept interpreter calls. There is also a range of translated information on our website in 
+more than 30 languages. Please let the caller know this information is available and offer to email 
+or mail this information to them, as they may have trouble navigating our website, which is written 
+in English. 
+
+Invoices from Interpreter companies 
+Although we have a contract in place with LanguageLoop, we also accept calls made via Home 
+Affairs’ TIS. A Spending Approval form must be completed at the start of each financial year for 
+Tis if we decide to keep accepting interpreter calls from them. This is signed off by the relevant 
+branch delegate, usually our Director.  
+
+At the start of each month, we receive invoices in the Public Engagement mailbox from both 
+companies. We also receive a monthly report spreadsheet of itemised calls from Vits in the first 
+week of each month.  Please check the itemised list of calls is correct, as per the instructions 
+below, before approving any public spending. Once you have approved them, complete and code 
+the invoices and send a copy of the Vits account to Accounts to be paid. The Tis invoice is paid 
+by credit card. Provide the codes and send them, along with the invoice to 
+pay it via credit card. A copy of both invoices is kept in the white folder on 
+
+ who will 
+
+ desk.  
+
+Tis invoices: Check that the phone number for each call is 13 23 26 because calls for other 
+electoral commissions occasionally slip through onto our account. The only phone number we 
+have approved for Tis to use is 13 23 26. If there are any discrepancies, you must contact Tis 
+and have the charges reversed. For the financial year, you must ensure you keep a tally of the 
+amount spent to ensure it does not exceed the spending approval amount. This is always kept in 
+the white folder on 
+
+desk. 
+
+Vits invoices: Vits invoices are sent to 
+required. 
+the call breakdown (not the invoice) to the following group of people each month: 
+
+receives a call breakdown at the start of each month. 
+
+ to approve, within the finance system. No action is 
+
+ distributes a copy of 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 8    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 10 ---
+
+Transferring switchboard to an internal number 
+
+  Pick up handset on 
+
+phone 
+
+  On the phone touchscreen, press Fwd Reception (FR) 
+
+  Enter the five-digit number (or any number you want the calls to be forwarded to). You will 
+
+hear beeps. 
+
+  Put handset down 
+
+  Check that phone has been forwarded to the selected phone number by phoning 02 6271 
+
+4411 from another phone. 
+
+To transfer calls back to the switchboard. 
+
+  Press ‘Fwd Cancel’ (FC). You will hear beeps. 
+
+  Pick up and put handset down 
+
+  Check that phone has returned to the PE team by phoning 02 6271 4411 from another 
+
+phone. 
+
+National Relay Service 
+The National Relay Service (NRS) is a telephone service for people who are deaf or have a 
+hearing or speech impairment.  It is a government initiative managed through the Australian 
+Communications and Media Authority (ACMA). People are able to call the AEC via the NRS to 
+facilitate the conversation. 
+
+When you receive an NRS-facilitated call, the relay officer will announce the call to you, such as, 
+‘Hello, I have a call for the AEC from the National Relay Service. I have [caller’s name] on the 
+line. Please go ahead’.   
+
+You may find that there is a short delay as the relay officer uses their keyboard to type your 
+response to the caller and the caller types to the NRS in return. You may hear the relay officer on 
+the line, or in some cases, the caller themselves.  
+
+During the call, it may be useful to say ‘Go ahead’ when you have finished speaking. We do not 
+receive invoices for this service. It is a government initiative open to anyone to use. 
+
+Recorded messages for switchboard 
+Callers who ring the National Office switchboard number (02 6271 4411) outside our business 
+hours (9-5pm) will hear a pre-recorded message providing them with information regarding our 
+hours of operation.   
+
+Page 9    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 11 ---
+
+It is our responsibility to record these messages when they require changing. Prior to each ACT 
+public holiday and the Christmas shutdown period, you will need to ensure this is done. See 
+Appendix D for detailed instructions on recording voicemail messages. See Appendix C for a full 
+transcript of each recorded message. 
+
+Recorded message (IVR) for 13 23 26 number 
+This is the recorded message on the 13 number. Outside of a federal election, there are 
+occasions where you may wish to update this and put a diversion in place. To have the message 
+changed, you must either email the AEC’s telephony section in IT with a request, or submit an IT 
+request form with the details. Often you will need to provide a week’s notice. Always check it has 
+gone through by ringing the 13 number. 
+
+Google – to update AEC office locations 
+
+Email Procedures  
+
+Mailboxes 
+The Public Engagement team are responsible for the following mailboxes: 
+
+ 
+
+info 
+
+Page 10    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 12 ---
+
+
+
+
+--- Page 13 ---
+
+
+
+
+--- Page 14 ---
+
+At the start of each year, the previous year’s content must be moved into the folder titled 
+‘Archived Data’. This includes all the sent emails for the previous year. You can do this yourself 
+or ask IT Support for assistance. If you are archiving 2020 data for example, a new folder needs 
+to be created under 2020 titled ‘Sent’. All emails from the INFO sent folder must be moved into 
+this folder. This makes searching for a sent email a lot faster. This also means at the start of each 
+year, the INFO sent folder will be empty. 
+
+INFO Personal Message Manager (PMM) 
+The PMM is a SPAM (junk mail) filter. This works in the background to filter out any incoming 
+emails which the AEC IT system thinks may be junk or malicious.  
+
+Each afternoon at 3pm, you will usually receive an email from pmm@aec.gov.au. It contains a 
+link for you to check any emails which the system has deemed to be possible spam or malicious. 
+You must check the spam for each of the three shared mailboxes each day. Also check your 
+personal mailbox.  
+
+To add the shared mailboxes to your spam filter, refer to the image below. Select the ‘Options’ 
+tab in the blue toolbar at the top of the page, then select ‘new’. 
+
+Enter the shared mailbox address and select OK. 
+
+Page 13    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 15 ---
+
+
+
+
+--- Page 16 ---
+
+
+
+
+--- Page 17 ---
+
+
+
+
+--- Page 18 ---
+
+
+
+
+--- Page 19 ---
+
+
+
+
+--- Page 20 ---
+
+
+
+
+--- Page 21 ---
+
+
+
+
+--- Page 22 ---
+
+If the enquiry is an APS staff member, they should be transferred to: 
+
+Human Resources/Payroll  
+
+There are also Recruitment Officers, WH&S Officers, Rehabilitation Case Managers, etc., which 
+you may need to transfer calls through to. To decide where to transfer the call, open the AEC 
+intranet homepage and using the top right-hand search bar, enter the name or area you are 
+looking for. Alternatively there are branch contact lists which can be accessed at the bottom of 
+every intranet page under the heading ‘Offices & branches’. You can also search AEC corporate 
+directory numbers through your desk phone. 
+
+Electoral roll enquiries 
+If a member of the public wishes to view the current electoral roll, a copy is available for public 
+inspection at any AEC office. Alternatively, the enquirer can check their enrolment on our 
+website. The AEC does not have publicly-available historic rolls. 
+
+Enrolment statistics 
+If you receive a request for enrolment stats, not available on our website, please refer it to 
+
+Requests for roll data 
+All requests for a copy of the electoral roll from candidates, government agencies or health 
+bodies are to be referred to Roll Products in NO at 
+public or commercial organisations, searching for an individual, can be provided with our 
+standard reply. Further information about access is available on our website. 
+
+ Requests from the general 
+
+While electoral roll information is exempt from the FOI Act, all requests made under the FOI Act 
+should be dealt with in the same way as all FOI requests. 
+
+More Complex Enquiries 
+
+Complaints of possible breaches of the legislation 
+All complaints of possible breaches of the Commonwealth Electoral Act 1918, and/or other 
+Commonwealth legislation, such as the Privacy Act 1988, must be forwarded promptly to the 
+
+Page 21    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 23 ---
+
+Chief Legal Officer in our Legal Services area. Please forward these to the Legal Service shared 
+mailbox and only use the protective marking ‘Unclassified’.  
+
+Email: 
+
+Complaints may include, but are not limited to: 
+
+■  Compulsory enrolment and voting 
+■  Privacy breaches 
+■  Electoral advertising (refer enquiries to the publication on our website), 
+■  Enrolment Fraud and multiple voting 
+■  Polling place offences  
+■ 
+
+Influencing votes etc. 
+
+Freedom of Information (FOI) Requests 
+Any requests made under the FOI Act must be sent to Legal Services mailbox. 
+
+Enquiries about MP entitlements for electoral purposes 
+The AEC has no responsibility for MP entitlements. Refer the enquirer to the Dept. of Finance 
+website for information: 
+
+http://www.finance.gov.au/ 
+
+If they do not have internet access, give the enquirer the following contact details: 
+
+Phone: 02 6215 2222 
+
+Enquiry/Complaint from organisation wanting copy of the roll 
+The policy details are outlined in Roll Why – Access to Enrolment Information.  
+
+Current roll: 
+
+All requests for the current roll should be referred to Roll Product and services (RPS).  
+
+Historic roll: 
+
+Requests for old electoral rolls. These are available through any local library but only up until 
+2004. After 2004, access to the roll was restricted and no longer provided to libraries.  
+
+Prior to 2004 the roll was freely available for purchase. Following the implementation of the 
+Electoral and Referendum Amendment (Access to the roll and other measures) Act 2004, the roll 
+was prohibited from sale. 
+
+Pre-2004 enrolment data may also exist on other internet sites (e.g. ancestry.com). 
+
+Page 22    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 24 ---
+
+Copies of the current electoral roll may only be disclosed to prescribed persons or organisations 
+as listed in the Commonwealth Electoral Act 1918. 
+
+Enrolment Fraud 
+In order to manage the workload associated with the investigation of possible enrolment fraud, 
+RMCE and the enrolment network take on a triage role, undertaking the initial investigation of 
+potential cases. 
+
+All potential cases of enrolment fraud should now be forwarded to RMCE 
+first instance. 
+
+ in the 
+
+Industrial elections and Protected Action Ballots (PAB) 
+The AEC conducts other elections in accordance with the Fair Work Act. 
+
+If you receive any enquiries regarding Industrial Elections or PABs, a list of industrial elections we 
+are currently running is available on our website:  
+
+https://www.aec.gov.au/ieb/industrial-elections.htm 
+
+Please refer any enquiries either to the relevant state Returning Officer, as per the table below, or 
+to: 
+
+Industrial Elections: 
+
+Page 23    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 25 ---
+
+Appendix A 
+
+Incoming calls 
+It is important to determine the nature of all calls as a first step. 
+
+  The switchboard number receives a fair number of marketing and sales calls. These are 
+
+not to be transferred to staff.  
+
+  You may not confirm any of the following information to a caller: whether a person works 
+for the AEC, a person’s work number, a person’s email address, or the format of AEC 
+email addresses  - e.g. 
+
+Calls for Senior Executive Staff (Assistant Commissioners and above).  
+
+  Do not transfer calls from members of the public. Take a message. You could say, “I 
+cannot transfer your call to the Electoral Commissioner, but I can take a message and 
+pass it to her/his office for action.” 
+
+ 
+
+If the caller identifies themselves as a member or senator, executive office holder 
+(President, Vice-President, Secretary) of a major political party, or a person from 
+another Government Agency, contact the relevant Executive Assistant in the 
+Executive Area (for a member of ELT) or Branch Project Officer to discuss. 
+
+Transferring a call to an internal number 
+To transfer a call to an internal extension number: 
+
+■  When you answer a call, your telephone screen will display a button marked ‘Transfer’. 
+
+Press the button. 
+
+■  Dial the extension number.  
+■  Wait for the ring tone. 
+■  Speak to the EA and provide them with the caller details. 
+■ 
+■  The call is now transferred. 
+
+If they choose to accept the call, press the button marked ‘Transfer’ again and hang up. 
+
+Transferring a call 
+If the call is for an AEC help desk, there is no need to announce the caller before transferring the 
+call. Calls to individual staff can be pre-announced. 
+
+■  Press the button marked ‘Transfer’ 
+■  Dial the extension number  
+
+Page 24    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 26 ---
+
+■  Wait for the ring tone. Announce the caller if need be, or 
+■  Press the button marked ‘Transfer’ 
+■  Hang up 
+
+Page 25    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 27 ---
+
+Appendix B 
+
+How to record new messages 
+We have three different pre-recorded messages for the Switchboard phone: One for standard 
+business hours, one for public holidays and one for an emergency. You can also forward the 
+switchboard phone to another area within the AEC if needed. 
+
+These messages are recorded by us. 
+
+Standard Business Hours 
+A recorded message is automatically activated each working day. Calls will come through to the 
+Switchboard from 9am each business day until 5pm when callers will receive a message to say 
+we are closed. Provided standard business hours don’t change, you will not need to record a 
+message for this service. 
+
+At election time, calls go directly to the call centre. As the call centre has extended hours, there is 
+no need to record another message. When the call centre is closed, callers will hear our standard 
+business hours message. 
+
+Public Holidays  
+On public holidays a message needs to be recorded to advise callers we are closed. The 
+messages to use are provided below. See Appendix E – Changing the recording on the 
+Switchboard phone. 
+
+Emergency  
+The emergency message is used in the event there is an emergency and it is safe for you to 
+record a new message.  
+
+Forwarding the Public Enquiry phone to another area within the AEC 
+
+To transfer calls to another phone while the Public Engagement team is away 
+
+Transferring switchboard to an internal number 
+
+  Pick up handset on 
+
+phone 
+
+  On the phone touchscreen, press Fwd Reception (FR) 
+
+Page 26    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 28 ---
+
+  Enter the five-digit number (or any number you want the calls to be forwarded to). You will 
+
+hear beeps. 
+
+  Put handset down 
+
+  Check that phone has been forwarded to the selected phone number by phoning 02 6271 
+
+4411 from another phone. 
+
+To transfer calls back to the switchboard. 
+
+  Press ‘Fwd Cancel’ (FC). You will hear beeps. 
+
+  Pick up and put handset down 
+
+  Check that phone has returned to the PE team by phoning 02 6271 4411 from another 
+
+phone. 
+
+How to change the critical incident message 
+
+Page 27    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 29 ---
+
+Appendix C 
+
+List of Recorded messages 
+
+Switchboard recorded messages 
+To ensure consistency and professionalism across the AEC, the following voicemail scripts are to 
+be used: 
+
+Public holiday shutdown recorded message (most common message) 
+
+Thank you for calling the Australian Electoral Commission.  
+
+Our office is currently closed due to the [insert name] public holiday and will re-open at 9am on 
+[insert date]. 
+
+For electoral information during this time please visit our website www.aec.gov.au 
+
+Business message (out of normal hours) 
+
+Thank you for calling the Australian Electoral Commission. 
+
+Our opening hours are between 9am and 5pm, Monday to Friday. We are sorry we can't take 
+your call at the moment. 
+
+Please call back later or you can send us a message via our website at www.aec.gov.au. 
+Our website also has electoral information that may help you with your enquiry. 
+
+Emergency message 
+
+Thank you for calling the Australian Electoral Commission. 
+
+We are sorry we can't take your call at the moment. 
+
+Please call back later or you can send us a message via our website at www.aec.gov.au. 
+Our website also has electoral information that may help you with your enquiry. 
+
+Page 28    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 30 ---
+
+Christmas shutdown recorded message 
+
+Thank you for calling the Australian Electoral Commission. 
+
+Our office is closed from [day] the [date] of December, and will reopen on [day] the [date] of 
+January. 
+
+For electoral information during this time, please visit our website www.aec.gov.au 
+
+Easter shutdown recorded message 
+
+Thank you for calling the Australian Electoral Commission. 
+
+Our office is closed from [day] the [date] of [month], and will reopen on [day] the [date] of [month]. 
+For electoral information during this time, please visit our website www.aec.gov.au 
+
+Page 29    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 31 ---
+
+Appendix D 
+
+Outgoing calls 
+
+Translator calls 
+If you need to contact a person who does not have English as a first language, see Instructions 
+for using Language Loop's telephone interpreting service. 
+
+■  Enter your PIN Number:
+■ 
+■  Follow the prompts to enter the customer’s telephone number and VITS will make the 
+
+Identify yourself, e.g. John Smith, Australian Electoral Commission 
+
+connection. 
+
+■  You will also be prompted to enter an employee number or cost centre code – please 
+
+enter your telephone number or press hash (#) to continue. 
+
+■  Once connected, you can proceed to talk to your customer through the interpreter 
+
+Page 30    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 32 ---
+
+
+
+
+--- Page 33 ---
+
+Page 32    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 34 ---
+
+Page 33    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 35 ---
+
+Page 34    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 36 ---
+
+Page 35    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 37 ---
+
+Test 
+
+Recording a business hours voicemail message:  
+
+Page 36    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 38 ---
+
+APPENDIX F 
+
+Compiling the Complaints Management Report 
+
+Timing 
+A quarterly report is produced about 8 - 10 days into the next month. This allows for most 
+complaints or enquiries for the previous month to be resolved, meaning data entered in the report 
+will be more accurate.  
+
+Distributing the Report 
+The Report is to be distributed through the Senior Parliamentary Officer, DAE Branch to the 
+Organisational Health Committee (OHC) Secretariat, state/territory managers and First Assistant 
+Commissioners  
+
+The Report will then be considered at the monthly OHC meeting on the second Wednesday of 
+that month. 
+
+Data for the Report 
+
+1.  Extract the data from the Public Engagement Contact Tool (PECT) as an Excel 
+
+spreadsheet. 
+
+a.  A quick link to PECT is available from the AEC Intranet homepage – see below. 
+
+Page 37    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 39 ---
+
+b.  Select Supporting Documentation on the left-hand side of the PECT homepage – 
+
+see below. 
+
+c.  The guide will appear as one of the documents listed – see below. Open the guide and 
+
+follow the instructions. Once all the steps in the guide are complete, you are ready for 
+Step 2.  
+
+Page 38    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 40 ---
+
+2.  Save the Excel spreadsheet in the National (N) drive – National – corporate – DAE – OHC 
+
+– Detailed complaints managements information – [year]  
+
+Use this saved Excel spreadsheet to compile the Complaints Management Quarterly Report. 
+Click on ‘Enable Content’. 
+
+3.  Getting the data ready: 
+
+From the green bar, select ‘Data’ – see below. 
+
+Page 39    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 41 ---
+
+b.  Then go to Column AF (Deleted) and select FALSE The TRUE box should be 
+
+blank – see above. 
+
+c.  Save the data in the N Drive National (N) drive – National – corporate – DAE – 
+
+OHC – Detailed complaints managements information – [year] 
+
+The Excel spreadsheet is now ready to compile the Complaints Management Quarterly 
+Report. 
+
+Completing the Complaints Management Quarterly 
+Report 
+
+  The easiest approach is to update the previous report – a Word document.  
+  Previous Complaints Management Quarterly Reports are in DAE – P&SE – Public 
+
+Engagement Team – Complaints Management – Quarterly Reports -  
+
+  Save the previous report using the naming convention of the previous report, updating the 
+
+details for the current quarter, such as dates. The ‘Trending themes and issues’ 
+information will be updated at the end once the data is compiled. 
+
+  The data under ‘Current Quarter’ columns in Tables 1, 3 and 4 can be copied and pasted 
+
+under the ‘Previous Quarter’ columns. 
+
+FILTERING NOTES 
+
+Filters are applied by clicking on the ‘funnel-shaped’ icon at the top of each column. For 
+each Table, select the combinations of the relevant data and leave blank the boxes not 
+required. 
+
+Click on the top of Column C (Number of Enquiries). The Sum figure will be at the very 
+bottom towards the right-hand side of the Excel spreadsheet after each filter is applied. 
+DO NOT use the Count figure. If the Sum figure does not appear, click on any cell in 
+Column C and press Ctrl+Space. 
+
+If a category does not appear when applying particular filters, it means that there is no 
+data for that category. Enter 0 (zero) when there is no data. 
+
+4.  Using the filter below, note the Sum total of complaints as you will need this figure 
+
+throughout the report – see diagram below. 
+
+5.  Column K (Type of Enquiry) – Complaint.(i.e. Feedback, Public enquiry and Suggestion 
+
+should be blank) 
+
+Page 40    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 42 ---
+
+Table 1 - Complaints by category 
+Filters required are:  
+
+  Column H (Date Received) – select relevant month for reporting. The year can be 
+
+expanded by clicking on the + sign – see below 
+
+  Column K (Type of enquiry) – Complaint  
+  Column J (SLA_YN) – Select All 
+  Column L (Enquiry Category) – select one category at a time and enter the Sum amounts 
+
+for each category in the correct column. 
+
+Page 41    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 43 ---
+
+6.  Add Sum of each of the categories in Table 1. The total must be the same as the amount 
+
+as in the Sum at Step 4. 
+
+7.  Add the number of emails from Steps 6, 7 and 8 (PID, Legal & Privacy and Fraud). Enter 
+
+this total on the ‘Legal & Privacy’ row in Table 1. (Leave blank if you don’t have the figures 
+as the Assistant Director will enter these if applicable.) 
+
+Table 2 – Complaints Achievement against Service-Level 
+
+Standards and Avenue Received 
+Filters required: 
+
+  Column H (Date Received) – select relevant month for reporting. The year can be 
+
+expanded by clicking on the + sign  
+  Column K (Type of enquiry) - Complaint  
+  Column G (State/Territory) – Select All 
+  Column L – Select All 
+  Column I (Avenue) - select one avenue at a time and enter the Sum amounts for each 
+
+avenue in the correct column. 
+
+  Column J (SLA_YN) – Select TRUE or FALSE as required. (TRUE = Yes, FALSE = No) 
+
+8.  Add the number of emails from Steps 17, 18 and 19 (PID, Legal & Privacy and Fraud). 
+Enter this total on the ‘Web/Email’ row in Table 2. (Assistant Director will do this, if 
+applicable.) 
+
+9.  Add the ‘Yes’ and ‘No’ columns and verify the total number for each month is the same as 
+
+the number of complaints for the corresponding month in Table 1. (i.e. as in Step 4) 
+
+10. Update the explanatory text under Table 2 (Assistant Director will do this). 
+
+Table 3 – Complaints by State/Territory 
+Filters required: 
+
+  Column H (Date Received) – select relevant month for reporting. The year can be 
+
+expanded by clicking on the + sign  
+  Column K (Type of enquiry) – Complaint  
+  Column I (Avenue) – Select All 
+  Column J (SLA_YN) – Select All 
+  Column G (State/Territory) – select one state at a time and enter the Sum amounts for 
+
+each state/territory in the correct column. 
+
+11. Manually add in the ‘PID’ and ‘Legal & Privacy’ information provided from the People 
+
+Services Branch and Legal Services. (The Assistant Director will do this, if applicable.)  
+
+12. Update the explanatory text under Table 3 (Assistant Director will do this.) 
+
+Page 42    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 44 ---
+
+The number of complaints for each month should be the same as the corresponding number 
+of complaints for the month from Table 1. 
+
+The total number of complaints for the quarter should be the same as the figure in Step 4. 
+
+Table 4 – Complaints by Avenue 
+Filters required: 
+
+  Column H (Date Received) - select relevant month for reporting. The year can be 
+
+expanded by clicking on the + sign  
+  Column K (Type of enquiry) – Complaint 
+  Column G (State/Territory) – Select All 
+  Column J (SLA_YN) – Select All 
+  Column I (Avenue) - select one avenue at a time and enter the Sum amounts for each 
+
+avenue in the correct column. 
+
+13. Manually add in the ‘PID’ and ‘Legal & Privacy’ information provided from the People 
+
+Services and Legal Branches. (Assistant Director will do this, if applicable.) 
+
+The number of complaints for each month should be the same as the corresponding number of 
+complaints for the month from Table 1. 
+
+Table 5 – Comparison of Complaints to Enquiries by Category 
+
+14. From Table 1 copy the number of complaints for each month under the corresponding 
+
+month in Table 5 in the Complaints column. 
+
+Compilation of Enquiries/Feedback data 
+The PECT data and the info@ data needs to be combined in the ‘Enquiries Feedback Template’ 
+spreadsheet – see below. This Template is found in T – DAE – P&SE – Public Engagement 
+Team – Complaints Management – Quarterly Reports.  
+
+15. Save the Template. This Template is just to help with adding up the info@ data and PECT 
+data for use in Table 5 of the Report. The figures can be deleted once the Report has been 
+compiled. 
+
+Page 43    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 45 ---
+
+The PECT column data in the Template is the number of Enquiries from the Excel spreadsheet 
+filtered by: 
+
+  Column H (Date Received) - select relevant month for reporting. The year can be 
+
+expanded by clicking on the + sign  
+
+  Column I (Avenue) – Select All 
+  Column G (State/Territory) – Select All 
+  Column J (SLA_YN) – Select All 
+  Column L (Enquiry Category) – select relevant category 
+  Column K (Type of Enquiry) – select Feedback, Public Enquiry and Suggestion (i.e. NOT 
+
+Complaint) 
+
+The Info@ column data in the Template is the number of info@ enquiries for the corresponding 
+month from Step 16. Do NOT use figures from the Complaints.Management@ mailbox. 
+
+16. Obtain the enquiries information from the Info@ email mailbox from the Public 
+
+Engagement Team. Enter the figures in DAE – P&SE – Public Engagement Team – Admin 
+– Stats – INFO@  
+
+The document looks like this: 
+
+Page 44    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 46 ---
+
+Complaints received through the complaints.management@ mailbox are entered in PECT and 
+are entered separately in the Report. 
+
+17. Obtain Public Interest Disclosure (PID) complaints information, via email, from the 
+
+Director, Employee Relations & Services Section, in People Services Branch. (Assistant 
+Director will do this.) 
+
+18. Obtain Legal and Privacy complaints information via email to the administrative assistant 
+
+in the Legal Services Section. (Assistant Director will do this.) 
+
+19. Obtain Fraud complaints information via email from the Fraud Control Manager, 
+Disclosure Assurance and Engagement Branch. (Assistant Director will do this.) 
+
+20. Enter the number of info@ emails into the Template in the Info@ column. 
+21. Enter the Total column for each category (i.e. row) from the Template into Table 5 in the 
+
+Enquiries/Feedback column for each month. 
+
+22. Add the info@ and PECT columns. Enter Sum in Total column. 
+
+Legal correspondence is not recorded in the monthly totals as all such emails have been referred 
+to Legal Services Section. Legal Services has its own reporting requirements and obligations.  
+
+Page 45    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851
+
+
+--- Page 47 ---
+
+Breakdown of complaints 
+
+23. Apply the following filters to the Excel spreadsheet: 
+  Column H (Date Received) - select relevant month for reporting. The year can be 
+
+expanded by clicking on the + sign  
+
+  Column G  - Select All 
+  Column I – Select All 
+  Column J – Select All 
+  Column K – Complaints 
+  Column L – Select All 
+
+Final total of Emails and PECT should be the same as Sum in Excel spreadsheet when the 
+above filters are applied. 
+
+24. Save a copy of the Excel spreadsheet to Objective with an identifiable file name, such as 
+
+‘January to March 2017 detailed complaints information’.  
+
+Methodology, Management and Trending themes and issues 
+
+25. Update all relevant variables for the Report. 
+
+Page 46    Public Enquiries Handbook |  
+Objective: SD&F > Roll Ops & Client Services > Public Engagement > Public Enquiries > Policy and Procedure, or 
+https://objective.prod.aec.gov.au/documents/fA94851

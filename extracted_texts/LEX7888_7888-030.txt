@@ -1,0 +1,233 @@
+Indigenous Franchise KPIs using Centrelink data 
+
+Background 
+As Australia’s federal electoral roll does not have a personal Indigenous identifier, estimating the enrolment, 
+ rates for Indigenous persons is problematic. Having these key franchise KPIs for the 
+
+Indigenous population is important for Closing the Gap purposes and the AECs focus on how the franchise 
+could be better delivered. 
+
+In 2014 the AEC’s Research Section commenced indirect estimation of these figures, using a regression model 
+of the relationship between the Indigenous population and each of the three franchise KPIs at a small area 
+level, such as polling place catchment or the ABS’ SA2 geography. While the models did not fit the data 
+particularly well, the resulting Indigenous enrolment, 
+real data, rather than anecdote. Yet the resulting enrolment and turnout rates in particular were alarmingly 
+low, and hopefully represented a worst case picture. 
+
+ rates were statistically based on 
+
+Centrelink Data 
+Around the same time, the Research Section informally proposed that person-level Centrelink extracts that the 
+AEC received occasionally for other Roll validation work, could perhaps be extended to include Centrelink’s 
+Indigenous indicator. This came to fruition in 20171. 
+
+As part of the Annual Roll Integrity Review (ARIR), the person-level matching between the Roll and Centrelink 
+now included Centrelink’s Indigenous indicator. However as Centrelink customers represent only around half 
+of the Roll, the matching (even if perfect) would be far from assigning all enrolments an Indigenous flag. 
+Nevertheless, for the first time the AEC has a very large number of enrolled persons, over 6 million, with an 
+explicit Indigenous status. 
+
+Enrolment Rate
+
+1.
+The enrolment rate, even for all persons regardless of indigeneity, is difficult to calculate reliably due to 
+conceptual, collection and methodological differences between the Roll (numerator) and the ABS-based 
+enrolment-eligible population (denominator, “EEP”). In the case of the Indigenous population these problems 
+are magnified by having no Indigenous identifier on the Roll and less reliable estimates of Indigenous EEP.  
+
+However, matching the Roll to Centrelink data allows a more direct method of estimating the Indigenous 
+enrolment rate. It is still subject to quite courageous assumptions, but as fewer are required it likely 
+represents an improved approach. In summary: 
+
+
+
+
+
+
+
+
+
+For all Centrelink customers with an identified Indigenous or non-Indigenous status, calculate the
+proportion on the Roll. This is the raw enrolment rate of Centrelink clients.
+Calculate the ratio of the actual AEC enrolment rate versus the Centrelink-based rate, for the same
+point in time. This is the overall factor to adjust any Centrelink-based rates to align with AEC
+enrolment rates.
+Apply the adjustment factor to raw Centrelink-based enrolment rates by Indigenous status to give
+Indigenous and non-Indigenous enrolment rates.
+This process can be done at the State level, though results will have lower reliability.
+
+NOTE: While this method avoids indirectly modelling Indigenous enrolment rates via geographic 
+association, it does assume that any bias in Centrelink clients being enrolled is equal for 
+Indigenous and non-Indigenous, and that there are no substantive Indigenous-status biases 
+inherent in the Roll-to-Centrelink person matching. 
+
+1 Acknowledge with appreciation the work of the former Electoral Integrity Unit and the IT Branch. 
+
+LS7888 Released Document No. 301919Released under the Freedom of Information Act 1982Conclusion and Results 
+The Centrelink client file with Indigenous indicator newly available to the AEC has presented an excellent 
+opportunity, via matching to the Roll and mark-off data, to improve estimation of Indigenous franchise KPIs.  
+
+While the results are subject to a number of non-trivial assumptions, the more direct estimation methods lead 
+to a higher likelihood of robust results. The figures should nevertheless still be regarded as indicative only. 
+
+LS7888 Released Document No. 301919Released under the Freedom of Information Act 1982 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Released under the Freedom of Information Act 1982REDACTION CODES 
+
+Personal Information (name) redacted. 
+
+Personal Information (date of birth) redacted. 
+
+Personal Information (photograph) redacted 
+
+Personal Information (facsimile of signature) redacted. 
+
+Personal Information (facsimile of manuscript initialling) redacted. 
+
+Personal Information (Individual’s address) redacted. 
+
+Personal Information (individual’s telephone number) redacted. 
+
+Personal Information (individual’s opinion) redacted. 
+
+Personal Information (opinion about individual) redacted. 
+
+Personal Information (employment history) redacted. 
+
+Personal Information (qualifications) redacted. 
+
+Personal Information (health) redacted. 
+
+Personal Information (identifying individual) redacted. 
+
+Business information (Bank Account details) redacted. 
+
+Business information (Billing Account details) redacted. 
+
+Business information (internal operations) redacted. 
+
+Legal Professional Communication redacted. 
+
+Deliberative material redacted. 
+
+Irrelevant material redacted. 
+
+Electoral Roll material redacted. 
+
+Tests, examinations or audits material redacted. 
+
+Management or assessment of personnel material redacted. 
+
+Proper and efficient conduct of the operations of AEC material redacted. 
+
+Lawful methods or procedures for preventing, detecting, investigating, or 
+dealing with matters arising out of, breaches or evasions of the law. 
+
+Trade Secrets. 
+
+Commercial valuable information. 
+
+Financial interests of the Commonwealth. 
+
+Property interests of the Commonwealth. 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+

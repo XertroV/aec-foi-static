@@ -1,0 +1,1133 @@
+
+
+--- Page 1 ---
+
+ABS advice to AEC on sampling methodology 
+
+Executive Summary 
+
+The Australian Electoral Commission (AEC) has requested advice from the ABS to determine the 
+number of ballots for assurance as part of the elections for the Australian Senate. The number of 
+ballots that are manually checked for errors should be sufficient to demonstrate with a high level 
+of confidence that the possible national error rate is low. 
+
+The ABS recommends that Senate ballots should be assured at the following rate: 
+
+•  1 in 3,000 ballots in New South Wales and Victoria; 
+•  1 in 2,500 ballots in Queensland; 
+•  1 in 1,250 ballots in Western Australia; 
+•  1 in 1,000 ballots in South Australia; 
+•  1 in 350 ballots in Tasmania; 
+•  1 in 300 ballots in Australian Capital Territory; 
+•  1 in 120 ballots in Northern Territory. 
+
+Based on these rates, it is estimated that 9,895 ballots will be assured nationally for the 2021/22 
+Senate election. A state breakdown is provided in Table 1: 
+
+This assurance approach will provide a high level of confidence in confirming that the national 
+error rate and error rates in each of the states and territories is low. 
+
+In comparison with the internal AEC assurance approach implemented in 2019, the proposed 
+allocation delivers a higher confidence in the national error rate, while requiring fewer ballots to 
+be assured. The proposed approach also allows ballot assurance to be undertaken while 
+processing. This is helpful to speed up the assurance. 
+
+Background 
+
+The Senate assurance process implements two stages of ballot testing. The first stage of testing 
+checks that the scanned image matches the physical ballot paper. The second stage checks that 
+the scanned image of the ballot paper matches the extracted data file, i.e. that the preferences 
+from the scanned image match the datafile that is used to run the preference allocation process. 
+
+An assurance of the 2019 Senate election found no errors during the first stage at ballot testing. 
+The national estimate of the proportion of errors during the second stage of ballot testing is 
+0.45%. The calculation of the national error rate is discussed here. 
+
+1
+
+
+--- Page 2 ---
+
+The emphasis of this report is to determine an appropriate allocation to assurance for stage 2 
+errors. Given that no stage 1 errors were detected as part of the 2019 assurance from a sample 
+of 1,368, it is evident that the true stage 1 error rate is very low. For the purposes of stage 1 
+testing, it should be sufficient to assurance 1 in 10 of the ballots selected for stage 2 testing. The 
+practical implementation is discussed here. 
+
+Recommended Allocation 
+
+This section details the recommended allocation and diagnostics associated with it 
+Alternate allocations were considered and informed the final recommended allocation. See 
+Appendix. 
+
+The allocation utilised the following assumptions. 
+
+•  While the 2019 assurance indicated that the prevalence of stage 2 errors differed by 
+state, the difference between the state and national proportion of errors was not 
+statistically significant, with the exception of the ACT, which had no errors detected.1 
+Therefore, the calculated national stage 2 error rate of 0.45% was assumed in each 
+state.  
+
+•  An estimate of 16.095 million Senate forms nationally for the 2021/22 election. The 
+
+distribution of form by state as provided by the AEC – see Table A1. 
+
+The main criterion implemented for designing the target number of ballots to assurance by state 
+was to have 99% confidence that the observed error rate in the sample for each state will be less 
+than 1%, assuming that an error rate of 0.45% (as estimated in 2019) applies for the full 
+population of senate votes. 
+
+The minimum sample size to achieve this is to select 828 ballots in each state and territory – see 
+Appendix for details. 
+
+The recommended allocation places sample beyond this minimum value into each state. This is 
+a conservative approach to ensure we have enough sample to meet the accuracy targets, and it 
+produces round numbers for the sampling skips to be used, simplifying the implementation of this 
+proposal.  It also helps to ensure robustness. The sample allocation will remain statistically valid 
+if the actual number of Senate ballots in a particular state or the error rate differs slightly from 
+what has been assumed.  
+
+Table 1: Number of ballots to assure for stage 2 error by state 
+
+ State 
+
+Estimated 
+Forms 2021/22 
+
+Estimated 
+Ballots assured 
+(stage 2) 
+
+Assurance 
+Rate (1 in X 
+ballots) 
+
+95% confidence 
+limit for maximum 
+error rate 
+
+99% confidence 
+limit for maximum 
+error rate 
+
+NSW 
+
+5,200,000 
+
+VIC 
+
+QLD 
+
+SA 
+
+WA 
+
+4,130,000 
+
+3,180,000 
+
+1,200,000 
+
+1,590,000 
+
+1,733 
+
+1,377 
+
+1,272 
+
+1,200 
+
+1,272 
+
+3,000 
+
+3,000 
+
+2,500 
+
+1,000 
+
+1,250 
+
+2 
+
+0.72% 
+
+0.75% 
+
+0.77% 
+
+0.77% 
+
+0.77% 
+
+0.83% 
+
+0.88% 
+
+0.89% 
+
+0.91% 
+
+0.89% 
+
+1 The 2019 assurance found zero errors in ACT, during stage 2 testing.  Consequently, there is over 95% 
+confidence that the true ACT stage 2 error rate is less than the national stage 2 error rate. The national second 
+stage error rate is applied to ACT in the interests of simplicity and to ensure that ACT is not under-allocated.
+
+
+--- Page 3 ---
+
+TAS 
+
+NT 
+
+ACT 
+
+AUS 
+
+387,000 
+
+115,000 
+
+293,000 
+
+1,106 
+
+958 
+
+977 
+
+350 
+
+120 
+
+300 
+
+16,095,000 
+
+9,895 
+
+0.79% 
+
+0.81% 
+
+0.81% 
+
+0.59% 
+
+0.92% 
+
+0.96% 
+
+0.95% 
+
+0.65% 
+
+Testing conclusions 
+
+Based on the observed error rates from the 2019 assurance and the sample sizes in each state 
+the following statistical statements could be made. 
+
+• 
+
+If there is a 0.45% error rate found in the assurance sample, then the AEC can be 95% 
+confident that nationally, there are less than 6 errors per 1,000 ballot papers in the 
+Senate scanning process.  It is also true that if the true error rate in the population is 
+0.45%, then the AEC can be 95% confident that the error rate estimated from the 
+assurance sample will be less than 6 errors per 1,000 ballot papers. 
+
+•  Similarly, there is 99% confidence that nationally there are less than 6.5 errors per 1,000 
+
+• 
+
+ballot papers. 
+In any given state, there is 99% confidence that there are less than 10 errors per 1,000 
+ballot papers. 
+
+These statistical statements are illustrative only. They are based on the assumption of a true 
+error rate of 0.45% in the population to give confidence on the size of the estimated error rate 
+from the sample; or similarly on the assumption of an error rate of 0.45% in the assurance 
+sample to give confidence in what the error rate is for the full population.  Final confidence 
+intervals will depend on the actual error rates found during the 2021/22 assurance. 
+
+Comparison with 2019 assurance approach 
+
+It is instructive to compare the proposed assurance approach with the assurance approach 
+previously implemented in 2019. 
+
+First, it is noted that the total expected number of ballots to assurance (9,895) is slightly lower 
+than in 2019 (10,400).  
+
+Secondly, rather than assuring a constant number of ballots in each state, the proposed 
+allocation is assurances of more ballots in the more populous states and less ballots in the less 
+populous states.  
+
+Increasing the number of ballots assured in the more populous states allows the proposed 
+allocation to deliver a higher confidence in the national error rate, while assuring a smaller 
+number of ballots. 
+
+Third, it is specified to assure at a constant rate in each state, rather than a fixed total number of 
+ballots. This is efficient to allow ballots to be assured while processing is ongoing, rather than 
+having to wait for all ballots to be processed before commencing assurance. 
+
+3
+
+
+--- Page 4 ---
+
+Practical implementation of assuring 
+
+The AEC arranges senate ballots into bundles of 50. From a logistical perspective, it would be 
+more efficient to first select a number of bundles and then select more than one ballot from each 
+bundle. 
+
+Furthermore, selecting bundles at a constant rate allows assurance to be undertaken while 
+processing is ongoing – as it will not be necessary to have every bundle processed for assurance 
+to commence. 
+
+This is known as clustered sampling of the ballots.  Clustered samples can lead to lower 
+accuracy if errors can also be clustered together, i.e. if errors are not evenly spread across all 
+bundles.  We have suggested an approach that we believe balances the risk to accuracy from 
+using a clustered sample with the benefits that it provides, i.e. reducing the number of bundles 
+that need to be selected for the assurance sample.  The allocations provided in Table 1 have 
+already allowed for some ‘slack’ by selecting more ballots than strictly necessary to obtain a 
+precise national estimate of the stage 2 error. 
+
+We propose the assurance selects a certain proportion of ‘bundles’ (e.g. 1 in every 300 bundles 
+in NSW) and then to select 1/10 of all ballots in the bundle for stage 2 testing (so that overall 1 in 
+every 3,000 ballots is selected in NSW). 
+
+Once ballots have been selected for stage 2 testing, select 1 in every 10 of the stage 2 sample 
+for stage 1 testing.  
+
+If the sampling rate from Table 1 is adopted, then the process is described below in Table 2. 
+
+Table 2: Number of forms to assure by state 
+
+ State 
+
+Estimated 
+Forms 
+2021/22 
+
+Estimated 
+Bundles 
+2021/22 
+
+NSW 
+
+5,200,000 
+
+104,000 
+
+4,130,000 
+
+82,600 
+
+3,180,000 
+
+63,600 
+
+1,200,000 
+
+24,000 
+
+1,590,000 
+
+31,800 
+
+387,000 
+
+115,000 
+
+293,000 
+
+7,740 
+
+2,300 
+
+5,860 
+
+VIC 
+
+QLD 
+
+SA 
+
+WA 
+
+TAS 
+
+NT 
+
+ACT 
+
+AUS 
+
+Assurance 
+Rate  
+(1 in X 
+bundles) 
+
+Estimated 
+Bundles 
+selected 
+
+Estimated 
+Ballots 
+assured  
+(stage 2) 
+
+Assurance 
+Rate  
+(1 in X 
+ballots) 
+
+Estimated 
+Ballots 
+assured 
+(stage 1) 
+
+300 
+
+300 
+
+250 
+
+100 
+
+125 
+
+35 
+
+12 
+
+30 
+
+347 
+
+275 
+
+254 
+
+240 
+
+254 
+
+221 
+
+192 
+
+195 
+
+1,733 
+
+1,377 
+
+1,272 
+
+1,200 
+
+1,272 
+
+1,106 
+
+958 
+
+977 
+
+9,895 
+
+3,000 
+
+3,000 
+
+2,500 
+
+1,000 
+
+1,250 
+
+350 
+
+120 
+
+300 
+
+173 
+
+138 
+
+127 
+
+120 
+
+127 
+
+111 
+
+96 
+
+98 
+
+989 
+
+16,095,000 
+
+321,900 
+
+1,979 
+
+4
+
+
+--- Page 5 ---
+
+Calculating the national error rate 
+
+If an assurance approach uses a different sampling rate in different states, then in order to 
+calculate the national error rate, it is  important to weight the number of errors found in each state 
+by the state’s proportion of the national population. 
+
+Table 3: 2019 assurance calculation of national error rate 
+
+Total Senate 
+ballots 2019  
+(formal + informal) 
+
+Proportion of 
+national total 
+
+Stage 2 
+errors 
+2019 
+
+Stage 2 
+sample 
+2019 
+
+Error 
+rate 
+
+Estimated 
+total errors 
+
+4,905,472 
+
+3,896,236 
+
+2,999,372 
+
+1,134,556 
+
+1,497,532 
+
+365,272 
+
+108,994 
+
+276,651 
+
+15,184,085  
+
+32.3% 
+
+25.7% 
+
+19.8% 
+
+7.5% 
+
+9.9% 
+
+2.4% 
+
+0.7% 
+
+1.8% 
+
+7 
+
+6 
+
+6 
+
+5 
+
+4 
+
+6 
+
+2 
+
+0 
+
+1,300 
+
+0.54% 
+
+1,300 
+
+0.46% 
+
+1,300 
+
+0.46% 
+
+1,300 
+
+0.38% 
+
+1,300 
+
+0.31% 
+
+1,300 
+
+0.46% 
+
+1,300 
+
+0.15% 
+
+1,300 
+
+0.00% 
+
+26,414 
+
+17,983 
+
+13,843 
+
+4,364 
+
+4,608 
+
+1,686 
+
+168 
+
+0 
+
+0.45% 
+
+69,065 
+
+ State 
+
+NSW 
+
+VIC 
+
+QLD 
+
+SA 
+
+WA 
+
+TAS 
+
+NT 
+
+ACT 
+
+AUS 
+
+The error rate in each state is estimated by dividing the number of errors in each state by the 
+assurance sample size.  For example, in NSW the assurance for 7 errors from a sample of 
+1,300, giving an error rate of 0.54%.  An error rate of 0.54% would mean that there is a total of 
+26,414 errors from the full population of 4,905,472 votes in NSW. 
+
+After calculating the estimated number of total errors in each state they can be added to produce 
+an estimate of total number of errors in Australia.  This total is 69,065 based on the 2019 
+assurance results. 
+
+Dividing the estimate of 69,065 errors by the total national votes of 15,184,085 gives the 
+estimated national error rate of 0.45%. 
+
+An alternate approach to calculate this national error rate is to multiply the error rate in each state 
+by the proportion of votes in that state.  This gives:  
+(0.323 x 0.0054) + (0.257 x 0.0046) + (0.198 x 0.0046) + (0.075 x 0.0038) +  
+(0.099 x 0.0031) + (0.024 x 0.0046) + (0.007 x 0.0015) + (0.018 x 0)  
+= 0.0045.   
+
+5
+
+
+--- Page 6 ---
+
+Appendix 
+
+Table A1: Estimated senate forms by state for 2021/2022 Senate Election – source AEC 
+
+State 
+
+Estimated 
+Senate Forms 
+
+NSW 
+
+VIC 
+
+QLD 
+
+SA 
+
+WA 
+
+TAS 
+
+NT 
+
+ACT 
+
+5,200,000 
+
+4,130,000 
+
+3,180,000 
+
+1,200,000 
+
+1,590,000 
+
+387,000 
+
+115,000 
+
+293,000 
+
+Table A2: number of stage 2 errors by state – 2019 Senate assurance – source AEC 
+
+ State 
+
+NSW 
+
+VIC 
+
+QLD 
+
+SA 
+
+WA 
+
+TAS 
+
+NT 
+
+ACT 
+
+Stage 2 errors 
+2019 assurance 
+
+2019 Error rate 
+
+7 
+
+6 
+
+6 
+
+5 
+
+4 
+
+6 
+
+2 
+
+0 
+
+0.54% 
+
+0.46% 
+
+0.46% 
+
+0.38% 
+
+0.31% 
+
+0.46% 
+
+0.15% 
+
+Alternate allocations 
+
+This section outlines various allocation options that were considered, that informed the final 
+recommended approach. These options are presented for technical background and can be 
+skipped. 
+
+The allocation described in Table 1 represents the ABS’ main recommendation.  
+
+6
+
+
+--- Page 7 ---
+
+Option A1: Allocation using a constant national sample rate 
+
+The first option considered is to apply a constant assurance rate across each state nationally. 
+This would differ from the assurance process from 2019, which assured a constant number of 
+ballots (1,300) in each state as part of stage 2 testing.  
+
+The advantages of applying a constant sample rate nationwide, is that it would allow the same 
+assurance procedure to be applied in each state. Furthermore, the estimate of the national error 
+rate would be easier to interpret as no weighting would be required. 
+
+The disadvantage of applying a constant sample rate is that the smallest states would have 
+relatively few ballots assured. This would result in a less confidence in the estimate of the state 
+error rate. 
+
+Sample allocations 
+
+Table A3 shows the national level of accuracy associated with different sample sizes, while 
+applying a constant sample rate nationally. 
+
+Table A3: National sample size vs 95% margin of error of estimate 
+
+Scenario 
+
+National 
+sample size 
+
+1 in 
+Rate 
+
+One-sided 95% 
+confidence level 
+
+One-sided 99% 
+confidence level 
+
+A 
+
+B 
+
+C 
+
+10,400 
+
+1,548 
+
+5,810 
+
+2,770 
+
+6,438 
+
+2,500 
+
+0.56% 
+
+0.60% 
+
+0.59% 
+
+0.61% 
+
+0.66% 
+
+0.65% 
+
+Scenario A represents the national sample size that was used for stage 2 testing as part of the 
+2019 assurance. Scenario B represents the minimum national sample size to be 95% confident 
+that the national error rate is less than 0.6%. 
+
+From a practical perspective, it would make sense to use a larger sample size than this. 
+Scenario C represents this, using a ‘round’ sample rate of 1 in 2,500 dwellings for each state.  
+
+Table A4: Number of forms to assurance by state by scenario 
+
+Estimated 
+Forms 
+2021/22 
+
+5,200,000 
+
+4,130,000 
+
+3,180,000 
+
+1,200,000 
+
+1,590,000 
+
+387,000 
+
+115,000 
+
+293,000 
+
+ State 
+
+NSW 
+
+VIC 
+
+QLD 
+
+SA 
+
+WA 
+
+TAS 
+
+NT 
+
+ACT 
+
+Scenario A 
+
+Scenario B 
+
+Scenario C 
+
+3,360 
+
+2,669 
+
+2,055 
+
+775 
+
+1,027 
+
+250 
+
+74 
+
+189 
+
+1,877 
+
+1,491 
+
+1,148 
+
+433 
+
+574 
+
+140 
+
+42 
+
+106 
+
+2,080 
+
+1,652 
+
+1,272 
+
+480 
+
+636 
+
+155 
+
+46 
+
+117 
+
+ TOTAL 
+
+16,095,000 
+
+10,400 
+
+5,810 
+
+6,438 
+
+7
+
+
+--- Page 8 ---
+
+It is evident that if precisely estimating the national error rate is the key objective, than the 
+sample rate required can be significantly lower than what was applied in 2019 (Scenario A). 
+It is also clear that this approach results in a relatively small number of ballots being sampled in 
+Tasmania, Northern Territory and Australian Capital Territory. 
+
+Option A2: Allocation with maximum state margin of error (MOE) constraint 
+
+A notable disadvantage of applying a fixed sampling rate across all states is that the number of 
+ballots assured in the smaller states is low. This will result in wide confidence intervals for the 
+state level estimates of proportion of errors in smaller states/territories. 
+
+The following two allocations examine the number of ballots required to be assured in each state 
+in order to be 95% or 99% confident that the true state level error rate would be less than 1%  
+
+Table A5 : state assurance size required to be 95/99% confident that the true error rate < 1% 
+
+State one-sided confidence 
+interval 
+
+State sample 
+
+National 95% confidence 
+interval bound 
+
+National 99% confidence 
+interval bound 
+
+95% 
+
+413 
+
+99% 
+
+828 
+
+0.71% 
+
+0.64% 
+
+0.82% 
+
+0.71% 
+
+Therefore, the state allocation to be 99% confident that the observed error rate is less than 1% in 
+each state (assuming a 0.45% error rate in the population) is as in Table A6. 
+
+Table A6 : State sample size and rate to be 99% confident that the assurance error rate is less than 1% 
+
+ State 
+
+Estimated 
+Forms 
+2021/22 
+
+ State 
+sample 
+
+State 
+sample rate 
+(1 in X) 
+
+NSW 
+
+5,200,000 
+
+VIC 
+
+QLD 
+
+SA 
+
+WA 
+
+TAS 
+
+NT 
+
+ACT 
+
+4,130,000 
+
+3,180,000 
+
+1,200,000 
+
+1,590,000 
+
+387,000 
+
+115,000 
+
+293,000 
+
+828 
+
+828 
+
+828 
+
+828 
+
+828 
+
+828 
+
+828 
+
+828 
+
+6,280 
+
+4,988 
+
+3,841 
+
+1,449 
+
+1,920 
+
+467 
+
+139 
+
+354 
+
+Table A6 was used as the basis behind the recommended option in Table 1. Additional sample 
+was put into each state, in order to round off the sampling rates, and to allow a small buffer for 
+
+8
+
+
+--- Page 9 ---
+
+error (e.g. if total votes in a state is smaller than expected; or if the true population error rate is 
+higher than 0.45%). 
+
+9
+
+
+--- Page 10 ---
+
+Glossary2 
+
+Confidence Interval 
+
+A confidence interval is an interval which has a known and controlled probability (generally 95% 
+or 99%) to contain the true value. In the context of senate assurance, one-sided confidence limits 
+are calculated for the stage 2 error rates, to determine the maximum error rate that could 
+potentially occur, for the given level of confidence. 
+
+Margin of Error (MoE) 
+
+Margin of Error describes the distance from the population value that the assurance estimate is 
+likely to be within, for a specified given level of confidence. For instance, at the 95% confidence 
+level, the MoE indicates that there are about 19 chances in 20 that the estimate will differ from 
+the population value (the figure obtained if all senate ballots had been assured) by less than the 
+specified MoE. Equivalently it is one chance in 20 that the difference is greater than the specified 
+MoE, i.e. outside the MoE. . 
+
+Significance testing 
+
+To determine whether a difference between two survey estimates is a real difference in the 
+populations to which the estimates relate, or merely the product sampling variability, the 
+statistical significance of the difference can be tested. The test is performed by calculating the 
+standard error of the difference between two estimates and then dividing the actual difference by 
+the standard error of the difference. If the result is greater than 1.96, there are 19 chances in 20 
+that there is a real difference in the populations to which the estimates relate.  
+
+Standard error 
+
+The square root of the variance of the sampling distribution of a statistic (square root of variance 
+of state or national error rate in the context of senate assurance) 
+
+Variance 
+
+The variance is the mean square deviation of the variable around the average value. It reflects 
+the dispersion of the empirical values around its mean. 
+
+2 Glossary definitions have been taken from ABS publications and The OECD Glossary of Statistical Terms 
+ and modified to fit the context of senate assurance 
+
+10

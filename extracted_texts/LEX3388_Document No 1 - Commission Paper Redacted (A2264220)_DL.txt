@@ -1,0 +1,816 @@
+
+
+--- Page 1 ---
+
+
+
+
+--- Page 2 ---
+
+Table of Contents 
+1. Decisions under review .................................................................................................................. 3 
+
+2.
+
+3.
+
+4.
+
+Key issues ........................................................................................................................................ 3 
+
+Issues of standing and timing ......................................................................................................... 4 
+
+Relevant provisions ........................................................................................................................ 5 
+
+4. Methodology .................................................................................................................................. 7 
+
+5. Arguments raised in Applications for Review ............................................................................... 8 
+
+6.
+
+7.
+
+8.
+
+9.
+
+Issues for Consideration ................................................................................................................. 9 
+
+Recommendations ........................................................................................................................ 13 
+
+Table of Attachments ................................................................................................................... 14 
+
+Table of Supplementary Attachments ......................................................................................... 15 
+
+Page 2 of 15
+
+
+--- Page 3 ---
+
+
+
+
+--- Page 4 ---
+
+
+
+
+--- Page 5 ---
+
+
+
+
+--- Page 6 ---
+
+4.3.  Section 137(1) provides that the Commission (or delegate in this case) must give the 
+party a notice that it is considering deregistering the party, if the delegate is satisfied on 
+reasonable grounds that: 
+
+(b) a political party… not being a Parliamentary party, does not have at least 
+1,500 members 
+
+4.4.  Where,  as  occurred  here,  the  party  provides  a  statement  in  response  to  the  notice, 
+s 137(5) provides that the delegate ‘shall consider that statement and determine whether 
+the  political  party  should  be  deregistered  for  the  reason  set  out  in  that  notice’.  The 
+delegate’s decision to deregister the party under s 137(6) is a reviewable decision. 
+
+4.5.  The question for the Commission is whether, in the Commission’s view the Party should 
+be deregistered for the reason set out in the s 137(1) notice. The key issue is whether 
+the Commission is satisfied on reasonable grounds that the Party does not have at least 
+1500 members.   
+
+Delegation of relevant powers 
+
+4.6.  Under  s  16,  the  Commission  may,  by  resolution,  delegate  to  an  appointed 
+Commissioner, an electoral officer or a member of the staff of the Commission all or any 
+of its powers under the Electoral Act (other than its powers under Part IV).  
+
+4.7.  Relevant powers of the Commission in s 137 have been exercised by a delegate of the 
+Commission. In similar circumstances, Liberal Democratic Party and Australian Electoral 
+Commission  [2021]  AATA  4884  (21 December 2021)  Justice  Thawley  stated  in  his 
+reasons for decision that he was satisfied that Ms Reid was acting as the delegate of 
+the  Commission  under  s 16(1)  and  that  the  terms  of  the  delegation,  dated  29  March 
+2019, cover the decision that Ms Reid made. 
+
+Internal review of a delegate’s deregistration decision  
+
+4.8.  A  decision  to  deregister  a  political  party  under  s  137(6)  is  a  reviewable  decision  as 
+
+defined in s 141(1). 
+
+4.9.  An application for review under s 141(2) must: 
+
+• 
+
+• 
+
+• 
+
+• 
+
+be  made  within  the  period  of  28  days  after  the  day  on  which  the  decision  first 
+comes to the notice of the person, or within such further period as the Commission 
+(either before or after the expiration of that period) allows; 
+
+be made in writing to the Electoral Commission;  
+
+specify an address of the applicant; and  
+
+include reasons for making the application (s 141(3)).  
+
+4.10. The  time  period  and  meaning  of  the  ‘person  affected’  as  stipulated  by  s  141(2)  was 
+addressed earlier in this paper. The requirements of s 141(2) are otherwise addressed 
+by the application. 
+
+4.11. Under s 141(4), upon receipt of an application for review, the Commission must review 
+
+the delegate’s decision and either: 
+
+• 
+
+• 
+
+affirm the decision; 
+
+vary the decision; or  
+
+Page 6 of 15
+
+
+--- Page 7 ---
+
+• 
+
+set aside the decision and make a decision in substitution. 
+
+4.12. It is open to the Commission to consider the facts and circumstances present at the date 
+of its review decision (see Shi v Migration Agents Registration Authority (2008) 235 CLR 
+286). 
+
+4. Methodology 
+4.1. This  section  sets  out  the  current  position  taken  by  the  Commission  to  testing  party 
+
+membership and the steps taken by the delegate. 
+
+Party membership testing methodology 
+
+4.2. In short, and as set out in Appendix 2 of the AEC’s public guidance ‘Guide for registering 
+a party’, the AEC requires parties to submit a membership list of between 1500 to 1650 
+names (regardless of whether the party actually has a list with more names). After filtering 
+out the names of individuals who are not on the electoral roll and those who are already 
+supporting the registration of another political party, the AEC contacts a random sample 
+of  individuals  named  on  the  list to  confirm  whether  they  are members  of  the  party (for 
+details  of  this  methodology  and  process  see  Attachment J).  The  sample  size  and 
+maximum number of denials permitted is based on a formula developed by the ABS and 
+endorsed by the Commission.  
+
+4.3. The current methodology for testing party membership was finalised and endorsed by the 
+Commission in October 2021, having been updated after amendments to the Electoral 
+Act  by  the  Electoral  Legislation  Amendment  (Party  Registration  Integrity)  Act  2021 
+increased the  membership  requirements  for  non-Parliamentary  party  from  at  least  500 
+members to at least 1500 members (Attachment K).   
+
+4.4. The  goals  of  the  methodology  are  set  out  in  the  attached  paper  endorsed  by  the 
+Commission  on  20 March  2016  and  include  ensuring  that  ‘timeliness  for  undertaking 
+membership testing remain reasonable’ (Attachment L). 
+
+4.5. As  set  out  in  the  membership  testing  table  provided  by  the  ABS  (extract  at 
+Attachment M), when used appropriately, the testing methodology is calibrated so that 
+the probability of rejecting a valid list is less than 6% and the probability of accepting an 
+invalid list is less than 2%. 
+
+First Membership list of 7 December 2021 
+
+4.6. On 8 October 2021, a delegate of the Commission wrote to the Party to request that they 
+submit  a  membership  list  of  between  1500-1650  names  (Attachment N).  The  first 
+membership  list  provided  by  the  Party  on  7  December  2022  contained  1649  names 
+(Attachment O).  This  list  failed  to  satisfy  the  delegate  that  they  had  at  least  1500 
+members, on the grounds that it failed to pass the testing parameters. Following matching 
+and removal of duplicates the results of that testing were: 
+
+Page 7 of 15
+
+
+--- Page 8 ---
+
+4.7. On the basis of that test the delegate was satisfied that the Party did not have at least 
+1500 members. The delegate issued the party with a notice under s 137(1) on 13 January 
+2022, stating that they were considering deregistering the Party and provided them with 
+another opportunity to provide a statement under s 137(2) as to why they should not be 
+deregistered (Attachment P). 
+
+Second membership list of 13 February 2022 
+
+4.8. On  13  February  2022,  the  Party  provided  a  statement  and  a  second  membership  list 
+which contained 4,680 names (Attachment Q). This list contained more names than the 
+maximum 1650 as set out in the AEC’s policy (see Attachment J for the publicly available 
+policy). The party submitted that the list of names was evidence that the Party had at least 
+the required number of 1500 members. The Party also levelled various challenges against 
+the testing methodology. 
+
+4.9. The delegate instructed the AEC to select the top 1650 names for testing (Attachment R). 
+Once  these  initial  exclusions  were  applied,  this  sub-list  contained  1,586  names 
+(Attachment S).  
+
+4.10.  The results of testing of the sub-list are as summarised follows (Attachment S): 
+
+4.11.  The delegate considered the Party’s submissions and determined at [30] of her  reasons 
+that  ‘the  membership  testing  results  outlined  above  provide  a  more  robust  method  for 
+ascertaining whether a party has satisfied the requirements of the Electoral Act than a 
+statement provided by the party’ (at Attachment B). 
+
+4.12.  The delegate remained satisfied that the Party did not have at least 1500 members and 
+determined that the Party was not an ‘eligible political party’ and should be deregistered.  
+
+Further contact with Party by Commission Secretariat.  
+
+4.13.  The Party has been provided with the opportunity to make further statements or provide 
+additional evidence to establish that they meet the requirements for registration.  
+
+4.14.  The Party has not provided to the Commission an updated party membership testing list 
+
+or any other such evidence for processing. The Commission Secretariat wrote to 
+requesting  any  further  evidence  including  a  membership  list  compliant  with  the  policy 
+ did not respond to this request. The Commission Secretariat 
+(Attachment T). 
+wrote to the former registered officer of the Party on 29 June 2022 inviting him to make 
+any  submissions  in  relation  to  the review  (Attachment U).  No  submissions  have  been 
+received.  
+
+5. Arguments raised in Applications for Review 
+
+Application by 
+
+5.3. 
+
+In support of the applications for review, the application of 
+makes the following relevant arguments: 
+
+ (Attachment C) 
+
+Page 8 of 15 
+
+s 47F (Personal Privacys 47F (Personal Privacy)s 47F (Personal Privacy)s 47F (Personal Privacy)
+
+
+--- Page 9 ---
+
+• 
+
+• 
+
+• 
+
+• 
+
+The AEC’s failure rate or probability of rejecting a valid list is quite high, in some 
+cases as high as 99%. The delegate’s decision in this instance to take the top 
+1650 names from the list of around 4000, instead of randomising the list of names, 
+is unfair. 
+
+The filtering of members with no replacement for those that are not matched to 
+the Roll (or otherwise excluded) increases the rates of false negatives.  
+
+The  AEC  does  not  provide  parties  with  a  list  of  which  members  were  filed  or 
+removed,  nor  does  it  provide  data  on  which  individuals  confirmed/denied 
+membership. 
+
+The AEC’s methodology assumes that the list of members provided are the only 
+members of the party and ignores any ‘excess capacity’ of the party. 
+
+Application of 
+
+5.4.  The application for review of 
+
+ (Attachment D) can be summarised as follows: 
+
+• 
+
+• 
+
+• 
+
+Requests  for  further  information  relating  to  which  party  members  confirmed  or 
+denied  the  membership  testing  (including  his  own  answer)  and  details  of  the 
+timeframe for response given to members. 
+
+A request for a review of the ‘statistical’ method used in relation to the ‘top’ 1650 
+names being taken, and whether this resulted in any errors. 
+
+A request for the AEC to provide the mathematical proof of the sampling method 
+used,  and  to  review  the  method  and  determine  the  rate  at  which  this  method 
+would return a false negative. 
+
+5.5. 
+
+requests for further information are not relevant to the current decision 
+
+under review.  
+
+5.6.  The issue of the ‘top’ 1650 names being taken as opposed to a random sample have 
+been addressed elsewhere in this paper. Similarly, the rate at which a false negative 
+is produced has also been addressed (see section 6 below). 
+
+6. Issues for Consideration  
+
+Reasonable grounds  
+
+6.3.  The Commission must be satisfied on ‘reasonable grounds’ that a Party does not have 
+
+1500 members prior to making a decision (s 137(1)(a)).  
+
+6.4.  The  Party  submitted  two  membership  lists  for  testing,  one  on  7  December  2021 
+comprising 1649 names and a second list on 13 February 2022 with 4680 names.  
+
+6.5.  The AEC conducted the party membership testing for the first list in accordance with the 
+methodology  provided  by  the  ABS  and  as  endorsed  by  the  Commission  (see 
+Attachment V for the results of testing for the first membership list and Attachment S 
+for the results of testing for the second membership list).  
+
+6.6.  There  was  a  departure  from  the  methodology  with  respect  to  the  second  list.  The 
+methodology assumes that a list will be between 1500 to 1650 members. The Guide to 
+Registering a Party sets out the methodology and process, even though, in this case the 
+application of testing procedures is to a party already registered. Page 16 of the Guide 
+to Registering a Party (Attachment J) provides that  
+
+The  AEC  requires  a  party  to  choose  a  maximum  of  1,650  members  for  the 
+membership  list  included  with  their  application.  The  AEC  will  return  a 
+
+Page 9 of 15 
+
+s 47F (Personal Privacy)s 47F (Personal Privacy)s 47F (Personal Privacy)
+
+
+--- Page 10 ---
+
+membership list in excess of 1,650 members and ask the party to lodge 
+the membership list with between 1,500 and 1,650 members. 
+
+(emphasis added) 
+
+6.7.  The delegate’s approach was to select the top 1650 names on that list for testing. As a 
+result of non-randomisation and the small sample size, Mr Anders Holmberg, ABS Chief 
+Methodologist has advised that it is only possible to use the results of that test to say 
+something  about  the  selected  1650  names  in  the  sub-list  (Attachment W).  The  test 
+done indicates a list with low proportion of eligible members among those 1,650 names. 
+It is not possible to draw any statistical conclusions about the entire list of 4,680 names 
+from the results of testing the sub-list. This is because, without randomisation there is 
+no chance of the other records being selected.  
+
+6.8.  Mr Holmberg explained this with the example of attempting to sample from a deck of 
+cards for aces. Having failed to first shuffle the deck, chunking the bottom half away, 
+and  then  sampling  from  what  is  left  will  not  provide  useful  information  about  all  the 
+original cards. Those thrown away were never in the running.  
+
+6.9.  Furthermore,  to  achieve  the  desired  probability  adopted  by  the  Commission  in  the 
+methodology of a false rejection rate of 6% or less and a false acceptance rate of 2% of 
+less,  would  require  an  approximate  sample  size  of  564  and  a  maximum  number  of 
+denials allowed of 399.  
+
+6.10. Accordingly,  in  deciding  whether  it  is  satisfied  that  the  Party  does  not  have  1500 
+members  the  Commission  should  accord  limited  weight to the result  of that test.  The 
+Commission should also consider whether the list of 4680 names and the submissions 
+of the applicants lead the Commission to conclude that it is cannot be satisfied that the 
+party does not have 1500 members.  
+
+6.11. It is recommended that the Commission can be satisfied on ‘reasonable grounds’ that 
+
+the party does not have 1500 members for the following reasons: 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+The first membership test failed. 
+
+No list submitted by the party has passed a membership test.  
+
+The party has not supplied any subsequent list of between 1500-1,650 members 
+or  further  evidence  as  requested  despite  prompting  by  the  Commission 
+Secretariat (see Attachments T and U). 
+
+A list of untested members, by itself, is of only limited persuasive value. 
+
+For the reasons set out below the other arguments made by the applicants are 
+not persuasive. 
+
+Failure rate & selection of top 1650 names rather than randomisation 
+
+6.12. 
+
+ argues that there are particular problems with the second membership test. He 
+argues that the failure rate or probability of rejecting a valid list is quite high, in some 
+cases as high as 99%, and that it was an error for the delegate to draw only the ‘top’ 
+1650 names consisting of names starting from A to G.  
+
+6.13. He argues that: 
+
+‘Which of these tests should we believe to be true?.... That Flux has fewer than 
+1,500 members; or That Flux has fewer than 1,500 members whose first name 
+starts with one of A through G.’ (see Attachment C at page 4)  
+
+6.14. As  set  out  above,  Mr  Anders  Holmberg,  ABS  Chief  Methodologist,  advises  that  the 
+Commission should not seek to draw a conclusion from the testing of the sub-list that 
+the second list does not contain 1500 members.  
+
+Page 10 of 15 
+
+s 47F (Personal Privacy
+
+
+--- Page 11 ---
+
+6.15. For the Commission to test the second list of 4680 members in a way that ensures the 
+probability of rejecting a valid list and accepting an invalid list are less than 6%, would 
+require  randomly sampling  564  members  based  on  the  ABS  calculations.  This  would 
+require  a  significant  increase  in  resources  given  that  current  maximum  sample  size 
+would  be  from  a  list  of  1650  members  and  would  require  sampling  60  people 
+(Appendix 2 of the Guide to Registering a Party).  
+
+6.16. Ultimately, it is not necessary to engage in detail with the statistical arguments made by 
+ which start with the assumption that the Party has at least 1500 members and 
+then seek to prove that a particular list could have been rejected. The Commission need 
+only place limited weight on the results of the testing of the sub-list.  
+
+Filtering of names 
+
+6.17. 
+
+ makes submissions that the filtering of names increases the error rate. He 
+submits  that  ‘as  more  members  are  filtered  without  replacement,  the  false  negative 
+rate increases dramatically’ (see Attachment C at page 8). 
+
+6.18. This submission can be rejected. The ABS methodology requires that once a party has 
+submitted a list of names to be tested for membership, the AEC filters out names that 
+cannot be counted towards the number of members of the party.  
+
+6.19. The following individuals are excluded prior to testing begins: 
+
+• 
+
+• 
+
+• 
+
+dual members of parties (i.e. a person cannot be relied upon for the membership 
+of two parties), and 
+
+individuals who cannot be matched to the electoral roll and individuals who are 
+deceased 
+
+duplicates (i.e. individuals who appear more than once on the list). 
+
+6.20. Once there is a list with at least 1500 names who have been matched to the Roll, the 
+sampling/testing process begins. The membership testing sample size and maximum 
+number of denials permitted is calculated after the list of names have been filtered, and 
+not before. The sample size is calculated relative to this figure of post-filtered names. It 
+is therefore not possible that the false negative rate increases as the number of names 
+filtered out increases. 
+
+No feedback provided  
+
+6.21. 
+
+ and 
+
+ take issue with the fact that the AEC does not provide parties 
+with a list of which individuals denied membership of the party, nor does it inform parties 
+which individuals confirmed/denied membership. 
+
+6.22.  The  AEC  does  not  provide  parties  with  any  detailed  feedback from  the  testing,  aside 
+from the number of denials/confirmations that were received. The purpose of the testing 
+is  to  establish  to  the  AEC’s  satisfaction  whether  a  party  has  the  requisite  number  of 
+members. Providing feedback to parties does not aid this purpose and the AEC is not 
+required  to  provide  feedback  by  the  legislation.  Aside  from  practical  considerations, 
+there would need to be careful consideration given to releasing this information under 
+the Privacy Act 1986 (Cth). 
+
+6.23.  In  any  event,  this  submission  would  not  appear  to  affect  whether  the  Commission  is 
+
+satisfied that the party has at least 1500 members.  
+
+Page 11 of 15 
+
+s 47F (Personal Privacys 47F (Personal Privacys 47F (Personal Privacy
+
+
+--- Page 12 ---
+
+6.24. 
+
+  requests  information  about  whether  his  confirmation  of  membership  was 
+correctly recorded. Whilst it is likely to have little effect on the Commission’s decision, 
+data provided by Services Australia shows his confirmation being received and recorded 
+(Attachment X at line 54). He also requests information about how long members are 
+given to respond to a request. As set out above, consistent with the testing methodology, 
+if  an  individual  failed to respond  within  a  period of time,  Services  Australia  would  not 
+have treated the response as a denial but would have attempted contact with another 
+person so as to complete the sample.   
+
+‘Excess capacity’  
+
+6.25. 
+
+ argues that the assumption built into the membership testing process is that 
+the number of names submitted are the only members of the party. This is referred to 
+ as the ‘excess capacity’ argument. If parties were allowed to submit larger 
+by 
+lists, then there is an increased likelihood of ‘at least’ 1500 members being found and 
+the party passing its party membership testing.  
+
+6.26. As set out above, to achieve the same level of confidence that the party’s list of 4680 
+members does not contain 1500 members would require the Commission to sample 564 
+members. As acknowledged in the Commission Paper endorsing the methodology (see 
+Attachment L), the Commission’s adoption of the ABS methodology is a compromise 
+between a defensible process and a reasonable use of Commonwealth resources.  
+
+6.27. One  factor  that  the  Commission  should  consider  is  whether  the  list  of  4680  itself 
+persuades the Commission that the party has 1500 members. Given the relative ease 
+with which a list of individuals could be produced by the party, we think the fact that the 
+party has such a list needs to be balanced against the results of testing of the first list. 
+
+Page 12 of 15 
+
+s 47F (Personal Privacy)s 47F (Personal Privacys 47F (Personal Privacy
+
+
+--- Page 13 ---
+
+7. Recommendations  
+
+Recommendation 
+
+It is recommended that the Commission AFFIRM the Delegate’s decision of 24 March 2022 
+and sign the attached decision letters. 
+
+REVIEW DECISION: AFFIRMED / VARIED / SET ASIDE  
+
+Dated this ______ day of September 2022 
+
+The Hon Justice Susan Kenny AM 
+
+Chairperson 
+
+       September 2022 
+
+Mr Tom Rogers 
+
+Electoral Commissioner 
+
+       September 2022 
+
+Dr David Gruen AO 
+
+Australian Statistician (non-judicial member) 
+
+September 2022 
+
+Page 13 of 15
+
+
+--- Page 14 ---
+
+8. Table of Attachments  
+
+Attachment 
+
+Description 
+
+Attachment A 
+
+Notice of delegate’s decision to deregister VOTEFLUX.ORG | Upgrade 
+Democracy! and statement of reasons dated 24 March 2022  
+
+Attachment B  Minute to delegate to recommending deregistration under s 137(6) of the 
+Electoral Act of the Party VOTEFLUX.ORG | Upgrade Democracy! dated 
+24 March 2022  
+
+Page number/s 
+
+1-6 
+
+7-11 
+
+Attachment C 
+
+ application for review under s 141(2) of decision to deregister 
+
+12-46 
+
+VOTEFLUX.ORG | Upgrade Democracy! dated 14 April 2022 
+
+Attachment D 
+
+application  for  review  under  s  141(2)  of  decision  to 
+deregister VOTEFLUX.ORG | Upgrade Democracy! dated 26 April 2022 
+
+47-48 
+
+Attachment E 
+
+ application for review under s 141(2) of decision to 
+
+49 
+
+deregister VOTEFLUX.ORG | Upgrade Democracy dated 6 May 2022  
+
+Attachment F 
+
+Email from AEC Party Registration Section confirming that 
+
+50-51 
+
+  name  not  on  the  list  of  party  members  submitted  by 
+
+VOTEFLUX.ORG | Upgrade Democracy! dated 27 June 2022  
+
+Attachment G 
+
+Email from Commission Secretariat to 
+further information for the application for review dated 4 July 2022  
+
+ requesting 
+
+Attachment H 
+
+Attachment I 
+
+Attachment J 
+
+Guide for registering a party by the AEC dated 10 September 2021 
+
+Attachment K 
+
+Commission meeting minutes endorsing current party registration testing 
+membership methodology dated 6 October 2021 
+
+Attachment L 
+
+Commission  methodology  minutes  and  consideration  of  methodology 
+dated 20 March 2016  
+
+Attachment M 
+
+Extract  of  ABS  sample  size  calculator  set  to  risk  rejection  at  6%  for 
+rejecting a valid list  
+
+Attachment N 
+
+Letter from delegate to VoteFlux.Org | Upgrade Democracy requesting a 
+list of 1500-1650 members dated 8 October 2021 
+
+Attachment O 
+
+VOTEFLUX.ORG | Upgrade Democracy! submitted membership list of 
+1649  members  to  the  delegate  of  the  Commission  dated  7  December 
+2022 
+
+52-53 
+
+54-60 
+
+61-64 
+
+65-89 
+
+90-91 
+
+92-98 
+
+99 
+
+100-102 
+
+103-116 
+
+Attachment P 
+
+Letter  from  delegate  to  VOTEFLUX.ORG  |  Upgrade  Democracy! 
+enclosing s138A notice of intention to deregister 13 January 2022  
+
+117-119 
+
+Page 14 of 15 
+
+s 42 (LPP) s 42 (LPP) s 47F (Personal Privacy)s 47F (Personal Privacy)s 47F (Personal Privacy)s 47F (Personal Privacy)s 47F (Personal Privacy)
+
+
+--- Page 15 ---
+
+Attachment 
+
+Description 
+
+Page number/s 
+
+Attachment Q 
+
+Statement from VOTEFLUX.ORG | Upgrade Democracy! enclosing list 
+of 4,680 members dated 13 February 2022 
+
+Attachment R 
+
+Email  from  delegate  of  the  Commission  instructing  to  take  top  1,650 
+names from list provided by the party, dated 2 March 2022  
+
+Attachment S 
+
+list  submitted  by 
+Results  of  membership 
+VOTEFLUX.ORG  | Upgrade Democracy! On 13 February 2022, dated 
+18 March 2022 
+
+testing  of  second 
+
+Attachment T 
+
+Email  from  Secretariat  to 
+material and another membership list dated 24 June 2022  
+
+  –  invitation  to  provide  further 
+
+Attachment U 
+
+Email  from  Secretariat  to  Mr  Nathan  Spataro  –  invitation  to  provide 
+submissions and further comments dated 29 June 2022 
+
+Attachment V   Results  of  membership 
+
+testing 
+VOTEFLUX.ORG | Upgrade Democracy! dated 5 January 2022 
+
+from 
+
+first 
+
+list  submitted  by 
+
+120-154 
+
+155-160 
+
+161 
+
+162-163 
+
+164-165 
+
+166 
+
+Attachment W 
+
+Advice  from  ABS  Chief  Methodologist  on  sampling  and  methodology 
+used dated 29 July 2022 
+
+167-169 
+
+Attachment X 
+
+Testing  sample  list  from  Services  Australia  confirming  that 
+ response was recorded as a confirmation  
+
+170 
+
+9. Table of Supplementary Attachments  
+
+Attachment 
+
+Description 
+
+Page number/s 
+
+Attachment 1 
+
+Attachment 2 
+
+Letter  to  Mr  Tom  Rogers,  Australian  Electoral  Commissioner  from  Dr 
+Gruen  AO,  Australian  Statistician  regarding  non-parliamentary  political 
+party membership testing methodology dated 2 September 2022 
+
+Attachment 3 
+
+ABS Party membership testing methodology table 
+
+Attachment 4 
+
+Initial  estimate  and  quote  from  Party  Registration  team  at  the  AEC  of 
+potentially  increasing  the  sample  size  of  testing  dated  19  September 
+2022 
+
+1-2 
+
+3-5 
+
+6-37 
+
+38 – 40  
+
+Page 15 of 15 
+
+s 42 (LPP) s 47F (Personal Privs 47F (Personal Privacy)s 47

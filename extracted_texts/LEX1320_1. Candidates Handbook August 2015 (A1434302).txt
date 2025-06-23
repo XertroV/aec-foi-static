@@ -1,0 +1,4359 @@
+
+
+--- Page 1 ---
+
+Australian Electoral Commission  
+Candidates Handbook
+
+Federal elections
+
+By-elections
+
+August 2015
+
+0
+0
+6
+0
+_
+5
+1
+
+
+--- Page 2 ---
+
+Published by the Australian Electoral Commission  
+www.aec.gov.au
+
+ISBN 978-1-921427-36-7
+
+© Commonwealth of Australia 2015
+
+The licence for this work is under the Creative Commons Attribution 3.0 Australia Licence. 
+To view a copy of this licence, visit http://creativecommons.org/licenses/by/3.0/au.
+
+The Australian Electoral Commission asserts the right of recognition as author of the 
+original material. The report should be attributed as Australian Electoral Commission 
+Candidates Handbook.
+
+Enquiries regarding the licence and any use of this document are welcome at:
+
+Assistant Commissioner, Education and Communications 
+Australian Electoral Commission 
+PO Box 6172 
+Kingston ACT 2604 
+Email: info@aec.gov.au
+
+
+--- Page 3 ---
+
+Contents
+
+About this handbook  
+
+The Candidates Handbook  
+Timing of the election 
+Checklist 
+
+1. The writ 
+
+Issue of the writ 
+House of Representatives  
+Senate 
+Dates fixed in the writ 
+Close of rolls  
+Close of nominations  
+Declaration of nominations  
+Election day  
+Return of writ and declaration of the poll 
+Meeting of parliament 
+Indicative Election Timetable 
+
+2. Nominations 
+
+Candidate briefing sessions 
+Who can nominate as a candidate? 
+Disqualification under the Constitution 
+When can I nominate?  
+Nomination forms  
+Nomination by a party  
+House of Representatives nominations 
+Senate nominations 
+Nomination deposit 
+Return of deposit  
+Where to nominate  
+Appointment of agent forms  
+
+4
+
+4
+7
+8
+
+9
+
+9
+9
+10
+10
+10
+10
+11
+11
+11
+12
+13
+
+14
+
+14
+15
+15
+18
+18
+22
+25
+26
+27
+28
+28
+29
+
+Candidates Handbook  Federal elections  |  By-elections  Page 1
+
+
+--- Page 4 ---
+
+Rejection of nomination  
+Withdrawal of nomination  
+Uncontested elections  
+Death of a candidate  
+Return of deposit on the death of a candidate  
+Declaration of nominations  
+Provision of information on the certified lists of voters  
+
+3. Ballot papers 
+
+Ballot paper format 
+How to make your vote count fact sheet 
+Political party names on ballot papers  
+Endorsed House of Representatives candidates  
+Endorsed Senate candidates 
+Independent candidates  
+Senate group voting tickets 
+Incumbent independent senator voting tickets 
+Order of names on ballot papers  
+
+4. Voting 
+
+How-to-vote cards  
+Electoral advertising  
+
+5. Election funding and financial disclosure 
+
+Agents  
+Election funding  
+Financial disclosure returns  
+Where and when to lodge returns  
+
+6. Scrutineers 
+
+What is the role of scrutineers? 
+Appointment of scrutineers by candidates  
+Scrutineers Handbook 
+
+30
+30
+30
+31
+31
+32
+32
+
+33
+
+33
+35
+37
+37
+37
+38
+38
+40
+40
+
+42
+
+42
+43
+
+45
+
+45
+47
+47
+50
+
+52
+
+52
+53
+55
+
+Candidates Handbook  Federal elections  |  By-elections  Page 2
+
+
+--- Page 5 ---
+
+7. Counting the votes 
+
+On election night 
+After election night 
+
+8. Recounts and disputed returns 
+
+Recounts 
+House of Representatives recount 
+Senate recount 
+Court of Disputed Returns  
+Voiding an election for illegal practices  
+
+Appendix 1: Electoral offences 
+
+Offences during the election period 
+Bribery  
+Offences on election day  
+Election advertising offences 
+Photographers and media  
+
+56
+
+56
+58
+
+60
+
+60
+61
+62
+63
+65
+
+66
+
+67
+69
+70
+73
+74
+
+Appendix 2: Additional information available to candidates   75
+
+Candidate information sessions 
+Official material available to candidates 
+
+Glossary 
+
+75
+76
+
+77
+
+Candidates Handbook  Federal elections  |  By-elections  Page 3
+
+
+--- Page 6 ---
+
+About this handbook 
+
+Are you thinking of standing or assisting someone to stand for election to the 
+Commonwealth Parliament in either a federal election or a by-election? If so, you will 
+need a clear understanding of the legislative requirements you must meet, and of 
+your role and responsibilities under the law.
+
+Remember, you and your supporters can play a significant role in helping to ensure, 
+as far as possible, that every vote cast in an election counts.
+
+The Candidates Handbook 
+
+This handbook is published by the Australian Electoral Commission (AEC), the 
+Commonwealth agency which maintains the electoral roll and conducts federal 
+elections, by-elections and referendums. The handbook covers the stages for the 
+electoral process relevant to candidates. 
+
+Each chapter in the handbook lists the relevant parts of the Commonwealth 
+Electoral Act 1918 (the Act), detailing how the electoral law applies to candidates 
+and those assisting them.
+
+The AEC suggests that you consult the Commonwealth of Australia Constitution 
+Act (the Constitution), the Act and other legislation, including the Referendum 
+(Machinery Provisions) Act 1984 referred to for the exact provisions.
+
+Candidates must satisfy themselves about their own legal position and, if necessary, 
+refer to the exact provisions of the Constitution and the Act, and consult their own 
+lawyers.
+
+You can access this handbook, the Constitution and the Act via the AEC website.
+
+Offences relating to the election, whether they occur before or during the election, 
+are listed in Appendix 1. Some electoral offences apply at all times, while others 
+apply to specific periods.
+
+The AEC can assist you by providing information of a general nature about the 
+nomination process and campaign activity. However, we cannot provide you with 
+formal or informal legal advice.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 4
+
+
+--- Page 7 ---
+
+Abbreviations and acronyms have been kept to a minimum. However, five are used 
+throughout this handbook:
+
+ ■ AEC – Australian Electoral Commission
+
+ ■ AEO – Australian Electoral Officer
+
+ ■ ARO – Assistant Returning Officer
+
+ ■ DRO – Divisional Returning Officer
+
+ ■ the Act – Commonwealth Electoral Act 1918.
+
+The words ‘voter’ and ‘elector’ are used interchangeably.
+
+At the end of this handbook you will find a glossary which explains terms that may be 
+unfamiliar to you.
+
+How this handbook can help you 
+
+The handbook explains the steps you will need to take to qualify as a candidate and 
+to comply with the law before, during and after an election.
+
+At the end of this introductory section you will find a checklist (see page 8) that 
+takes you through important details you will need to know and the activities you will 
+need to undertake as a candidate, and indicates where in the handbook you can 
+find more information.
+
+Again, the handbook is intended to assist candidates standing for election by 
+explaining relevant processes and procedures. It is not, however, a substitute for 
+the law.
+
+Public inspection 
+
+You need to be aware that many of the documents you submit in relation to 
+your candidacy will be made available for public inspection. These include your 
+nomination form and your financial disclosure return. Exceptions may apply in 
+certain circumstances.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 5
+
+
+--- Page 8 ---
+
+AEC website 
+
+Because information can change during the life of a publication, the AEC website is 
+the best source of up-to-date information.
+
+All forms and publications referred to in this handbook are available from the 
+website or by contacting the AEC on 13 23 26.
+
+AEC National, State, Territory and Division Office contact details
+
+You will find office contact details on the AEC website.
+
+Feedback welcome
+
+The AEC welcomes your views on the usefulness of the Candidates Handbook and 
+any specific information provided in these pages. We invite you to provide feedback 
+via the AEC website.
+
+The AEC also publishes Electoral Backgrounders on specific aspects 
+of electoral law. Copies of these AEC publications can be accessed by 
+phoning 13 23 26 or by visiting the AEC website.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 6
+
+
+--- Page 9 ---
+
+Timing of the election
+
+Federal elections 
+
+The constitutional and legislative frameworks that govern Australian federal 
+elections determine both the election timetable and electoral processes.
+
+Both Houses of Parliament have separate provisions reflecting their different 
+constitutional roles. A House of Representatives term expires three years from 
+its first official meeting, but can be dissolved earlier. Once the term expires or is 
+dissolved, the Governor-General will issue the writs for an election.
+
+The Senate is a continuing body with senators for each state elected for a six-year 
+term. A rotation system ensures that half the Senate is retired or up for election 
+every three years. Two senators represent the Australian Capital Territory and two 
+senators represent the Northern Territory. These senators are elected concurrently 
+with the members of the House of Representatives. The duration of their term of 
+office also coincides with the members of the House of Representatives.
+
+Usually the House of Representatives and the half Senate elections are held 
+at the same time. However, the Governor-General may dissolve both Houses 
+simultaneously upon certain conditions having been met under section 57 of the 
+Constitution, resulting in a general election for the House of Representatives and all 
+of the Senate. This is known as a double dissolution.
+
+The key dates in the election timetable are available on the AEC website.
+
+By-elections 
+
+Whenever a vacancy occurs in the House of Representatives because of the death, 
+resignation, absence without leave, expulsion, disqualification or ineligibility of a 
+member, a writ may be issued for the election of a new member. A writ may also be 
+issued when the Court of Disputed Returns declares an election void.
+
+The guiding principle in fixing the date of a by-election has always been to hold the 
+election as early as possible so that the electors are not left without representation 
+any longer than is necessary.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 7
+
+
+--- Page 10 ---
+
+Checklist
+
+I am aware of key dates in the election period following the 
+issue of the writs
+
+I have familiarised myself with the law relating to  
+electoral offences
+
+Section
+
+Page
+
+The writ
+
+13
+
+Appendix 1
+
+66
+
+I have confirmed that I am qualified to nominate
+
+Nominations
+
+15
+
+I have obtained the endorsement of a registered political 
+party; or I have obtained the signatures of eligible electors 
+(for candidates who are not endorsed by a registered 
+political party only); or I am an incumbent independent and 
+have obtained the signatures of eligible electors
+
+Nominations
+
+21
+
+I have appointed an agent (optional)
+
+Nominations
+
+29, 45
+
+I have provided all my personal information required on the 
+nomination form
+
+Nominations
+
+23
+
+I have requested on the nomination form that the word 
+‘Independent’ be printed on the ballot paper next to my 
+name (this is optional for ungrouped Senate candidates 
+who are not endorsed by a registered political party)
+
+Nominations
+
+25
+
+I have lodged my nomination form by the required deadline
+
+Nominations
+
+18
+
+I have notified my intention to lodge a group voting ticket or 
+an individual voting ticket (for Senate candidates only and 
+if applicable)
+
+Ballot 
+papers
+
+38
+
+I have lodged my nomination deposit by the required 
+deadline
+
+Nominations
+
+27
+
+I am aware of my responsibilities with regard to electoral 
+advertising, particularly in relation to How to Vote Cards
+
+Voting
+
+I have, or my agent has, lodged my financial disclosure 
+return by the due date (within 15 weeks after election day)
+
+Election 
+funding & 
+financial 
+disclosure
+
+42
+
+45
+
+I have appointed scrutineers (optional) by completing and 
+signing the form
+
+Scrutineers
+
+53
+
+I am aware of the circumstances and procedures that may 
+lead to a recount of votes in an election
+
+60
+
+Recounts 
+& disputed 
+returns
+
+Candidates Handbook  Federal elections  |  By-elections  Page 8
+
+
+--- Page 11 ---
+
+1. The writ
+
+ ■ Part VIII, ‘Enrolment’
+
+ ■ Part XIII, ‘Writs for elections’
+
+ ■ Part XIX, ‘The return of the writs’
+
+The issue of a writ triggers the election process and provides the opportunity for you 
+to nominate as a candidate. The writ is the legal document necessary for the official 
+timetable and process for the election to begin.
+
+Issue of the writ
+The Constitution, s.12 and s.32
+The Act, s.151 and s.152
+
+The issuing of the writs triggers the election process. The writs are deemed to be 
+issued at 6pm on the day they are issued.
+
+The writs must be issued within 10 days from the expiry of the House of 
+Representatives or from the proclamation of a dissolution of the House of 
+Representatives. If the Senate is dissolved, the writs must be issued within 10 days 
+of dissolution.
+
+House of Representatives 
+The Constitution, s.32 and s.33
+The Act, s.154
+
+The Governor-General issues the writs for a general election of members of the 
+House of Representatives. They are addressed to the Electoral Commissioner, who 
+advises each Divisional Returning Officer (DRO) of the dates specified in the writs 
+and directs them to make election arrangements.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 9
+
+
+--- Page 12 ---
+
+Eight writs are issued for each general election of the House of Representatives: one 
+in each state and one each for the Australian Capital Territory and Northern Territory.
+
+Senate
+The Constitution, s.12
+The Act, s.151 and s.153
+
+The writ for the election of senators for a state is issued by the governor of the state 
+and is addressed to the Australian Electoral Officer (AEO) for that particular state. 
+The writ for the election of senators for a territory is issued by the Governor-General 
+and is addressed to the AEO for that particular territory.
+
+Dates fixed in the writ
+The Act, s.152 and s.154
+
+The writ specifies the key dates of an election in accordance with the legislated 
+election timetable. These dates specify the timing for the close of the rolls, the close 
+of nominations, the election day and the return of the writ.
+
+The AEC advertises these dates within major newspapers circulating in each state 
+and territory and on the AEC website. An indicative election timetable is shown on 
+page 13.
+
+Close of rolls 
+The Act, s.102 and s.155
+
+The rolls close at 8pm on the seventh day after the date of the issue of the writ.
+
+Close of nominations 
+The Act, s.156
+
+The date for the close of nominations is set out in the writ. It must be at least 
+10 days, but not more than 27 days, after the date of issue of the writ. You can 
+nominate as a candidate during AEC business hours any time after the writ is issued 
+up to 12 noon on the day nominations close. The Act strictly prescribes where you 
+must submit your nomination form and deposit. Nominations cannot be accepted 
+under any circumstances if those requirements are not met. 
+
+Candidates Handbook  Federal elections  |  By-elections  Page 10
+
+
+--- Page 13 ---
+
+Declaration of nominations 
+The Act, s.175 and s.176 
+
+Nominations are publicly declared 24 hours after they close. Your nomination form 
+will be made available for public inspection at this time.
+
+Election day 
+The Act, s.157 and s.158 
+
+Election day is set out in the writ. It must be between 23 and 31 days after the close 
+of nominations. Election day must be a Saturday.
+
+Return of writ and declaration of the poll
+The Act, s.152, s.159, s.283 and s.284 
+
+Each writ for an election must be returned on or before the date fixed for its return, 
+which must be within 100 days of its issue.
+
+In a House of Representatives election or by-election, the DRO of each division will, 
+as soon as practicable after it has been determined that a candidate has been 
+elected, publicly declare the name of the elected candidate. After all votes have 
+been counted the DRO prepares a statement setting out the result of the election. 
+This statement is sent to the Electoral Commissioner.
+
+After receiving a statement of results from every DRO, the Electoral Commissioner 
+endorses the name of each candidate elected for each electoral division in the 
+state or territory on a certificate and attaches it to the relevant writ. The Electoral 
+Commissioner then returns the writs to the Governor-General or to the Speaker in 
+the case of a by-election.
+
+In a Senate election the AEO, as soon as convenient after the election result has 
+been determined, publicly declares the result of the election and the names of the 
+candidates elected. The AEO then returns the writ to the governor of the state or, in 
+the case of the territories, to the Governor-General.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 11
+
+
+--- Page 14 ---
+
+Meeting of parliament
+The Constitution, s.5
+
+The new parliament meets within 30 days of the day appointed for the return of the 
+writs.
+
+The table on page 13 provides an indication of the election period timetable from 
+the time of the expiry or dissolution of the House of Representatives. The actual 
+timetable will be published on the AEC website after the writs are issued for an 
+election.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 12
+
+
+--- Page 15 ---
+
+Indicative Election Timetable
+
+Expiry or dissolution of 
+parliament
+
+The House of Representatives expires three years after its 
+first meeting but can be dissolved earlier 
+(the Constitution, s.28)
+
+Election announcement
+
+No fixed time
+
+Issue of writs
+
+Close of rolls
+
+Writs are issued within 10 days of the dissolution 
+or expiry of parliament (the Constitution, s32)
+
+Rolls close at 8pm, seven days after the issue of the writ 
+(the Act, ss.102, 155)
+
+Close of nominations
+
+Nominations close at 12 noon, between 10 and 27 days 
+after the issue of writs (the Act, ss.102, 156)
+
+Declaration of 
+nominations
+
+Nominations are publicly declared 24 hours after 
+nominations close (the Act, s.176)
+
+Lodgement of Senate 
+group voting tickets
+
+Group voting tickets must be lodged 48 hours after close of
+nominations (the Act, s.211)
+
+Election day
+
+Election day is fixed between 23 and 31 days after the date 
+of nominations (the Act, s.157)
+
+Declaration of the poll
+
+As soon as practicable
+
+Return of writs
+
+Writs must be returned within 100 days of their issue 
+(the Act, s.159)
+
+Meeting of parliament
+
+The new parliament meets within 30 days of the day 
+appointed as the return of the writs (the Constitution, s.5)
+
+Candidates Handbook  Federal elections  |  By-elections  Page 13
+
+
+--- Page 16 ---
+
+2. Nominations
+
+ ■ Part XIII, ‘Writs for elections’
+
+ ■ Part XIV, ‘The nominations’
+
+The Constitution
+
+s.43 and s.44
+
+Candidates can nominate anytime from the issue of the writ until close of 
+nominations. This section explains the nomination process, including:
+
+ ■ information about who is qualified to nominate, 
+
+ ■ important issues relating to the timing of nominations, and 
+
+ ■ different rules for single and bulk nominations.
+
+For your nomination to be accepted you must pay a nomination deposit in the 
+approved format and properly complete and sign the nomination form.
+
+You are encouraged to lodge your nomination as early as possible within the 
+specified timeframe. 
+
+Further information on nominations can be found on the AEC Website.
+
+Candidate briefing sessions
+
+Candidate briefing sessions are held by state and divisional offices before and after 
+the close of nominations to provide candidates with information about the polling 
+process and to outline their rights and responsibilities as a candidate in an election. 
+Candidates may attend themselves or send a representative. At these sessions, 
+information packs containing a variety of materials will be available.
+
+For information on dates and time of briefing sessions:
+
+ ■ candidates for the House of Representatives should contact the division for 
+
+which they are nominating.
+
+ ■ candidates for the Senate should contact the relevant AEC state office in the 
+
+state or territory where they are nominating as a candidate.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 14
+
+
+--- Page 17 ---
+
+Who can nominate as a candidate?
+The Act, s.163 and s.164, the Constitution s.43
+
+The qualifications for nominating as a candidate for the House of Representatives 
+or the Senate are the same. To nominate for election to either the House of 
+Representatives or the Senate, you must be:
+
+ ■ at least 18 years old,
+
+ ■ an Australian citizen, and
+
+ ■ either enrolled or eligible to be enrolled on the Commonwealth electoral roll.
+
+A member of the House of Representatives or Senate cannot be chosen or sit as a 
+member of the other House of Parliament.
+
+You cannot nominate for the House of Representatives or Senate if you:
+
+ ■ are currently a member of a state parliament or a territory legislative assembly 
+
+and have not resigned before the hour of nomination (i.e. 12 noon on the 
+day nominations close). As state and territory laws govern the manner of 
+resignation, intending candidates should make sure their resignations are 
+effective before the hour of nomination.
+
+ ■ are disqualified by section 44 of the Constitution.
+
+Disqualification under the Constitution
+
+Section 44 of the Constitution disqualifies certain people from being elected to the 
+Commonwealth Parliament. Section 44 of the Constitution is reproduced below.
+
+44. Any person who –
+
+(i) 
+
+(ii) 
+
+is under any acknowledgment of allegiance, obedience, or adherence to a 
+foreign power, or is a subject or a citizen or entitled to the rights or privileges 
+of a subject or a citizen of a foreign power; or
+
+is attainted of treason, or has been convicted and is under sentence, or 
+subject to be sentenced, for any offence punishable under the law of the 
+Commonwealth or of a State by imprisonment for one year or longer; or
+
+(iii)  is an undischarged bankrupt or insolvent; or
+
+Candidates Handbook  Federal elections  |  By-elections  Page 15
+
+
+--- Page 18 ---
+
+(iv)  holds any office of profit under the Crown, or any pension payable during the 
+pleasure of the Crown out of any of the revenues of the Commonwealth; or
+
+(v)  has any direct or indirect pecuniary interest in any agreement with the Public 
+Service of the Commonwealth otherwise than as a member and in common 
+with the other members of an incorporated company consisting of more than 
+twenty-five persons;  
+shall be incapable of being chosen or of sitting as a senator or a member of 
+the House of Representatives.
+
+But subsection (iv) does not apply to the office of any of the Queen’s Ministers of 
+State for the Commonwealth, or of any of the Queen’s Ministers for a State, or to the 
+receipt of pay, half-pay, or a pension, by any person as an officer or member of the 
+Queen’s navy or army, or to the receipt of pay as an officer or member of the naval 
+or military forces of the Commonwealth by any person whose services are not wholly 
+employed by the Commonwealth.
+
+The Act, s.36
+
+No candidate may be appointed as an electoral officer of any description, either 
+as a permanent officer or as a polling official. If an electoral officer becomes a 
+candidate, they must vacate the office.
+
+For more information see the Electoral Backgrounder on Constitutional 
+Disqualifications and Intending Candidates, which is available on the AEC 
+website or from AEC national and state offices.
+
+‘Office of profit’ disqualification
+
+In its November 1992 decision in the case of Sykes v. Cleary, the High Court voided 
+the election of Mr Phil Cleary as member of the House of Representatives for the 
+Division of Wills. Mr Cleary was disqualified from being chosen as a member under 
+section 44(iv) of the Constitution on the grounds that, as a Victorian state school 
+teacher on leave without pay, he held an ‘office of profit’ under the Crown. This case 
+has been approved in subsequent High Court applications.
+
+If you are a Commonwealth, state or territory public servant and wish to nominate 
+for election to the Commonwealth Parliament, you should resign before nomination 
+in order to comply with the Constitution. Conditions of re-entry to the various public 
+services by unsuccessful candidates are matters for the relevant public service 
+authority.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 16
+
+
+--- Page 19 ---
+
+Commonwealth public servants who resign to contest an election and who are 
+unsuccessful may apply for re-appointment or re-engagement under section 32 
+of the Public Service Act 1999. A former officer or former temporary employee is 
+required to be re-appointed or re-engaged subject to certain conditions.
+
+Most states and territories have comparable statutory or administrative provisions. 
+The position of local government employees is not clear and it might be that such 
+persons are vulnerable to the office of profit disqualification. Section 327(3) of the 
+Act provides some protection for local government employees who become, are, or 
+have been candidates. If you are a local government employee you should check 
+with the relevant authorities before resigning or nominating.
+
+The Constitutional disqualification on the ground of ‘office of profit’ applies to 
+permanent members of the Australian Defence Force (ADF). If you are a member 
+of the ADF you should consult the relevant Defence authority on conditions of 
+resignation and re-entry.
+
+‘Foreign allegiance’ disqualification
+
+In the Sykes v. Cleary decision the High Court also commented on the ‘foreign 
+allegiance’ disqualification in section 44(i) of the Constitution. The majority view of 
+the Court was that naturalised Australian citizens who also have foreign citizenship 
+and are standing as candidates should take ‘reasonable steps to renounce foreign 
+nationality’. The steps to take for renunciation may depend upon foreign law. If 
+you have foreign citizenship you should check with the relevant embassy or high 
+commission about the procedures for renouncing it.
+
+In the case of Sue v. Hill in June 1999 the High Court decided that Ms Heather 
+Hill was not duly elected as a senator for Queensland at the 1998 federal election 
+because she was disqualified under section 44(i) of the Constitution. Ms Hill was a 
+British subject and an Australian citizen at the time of her nomination. The United 
+Kingdom is regarded as a ‘foreign power’ for the purposes of section 44(i).
+
+You are required to sign a declaration on the nomination form that you are 
+qualified under the Constitution and the laws of the Commonwealth to be 
+elected to the Commonwealth Parliament.
+
+If you have any doubts as to your qualifications under the Constitution, 
+the AEC recommends you seek your own legal advice. The AEC does not 
+provide legal advice to prospective candidates.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 17
+
+
+--- Page 20 ---
+
+When can I nominate? 
+
+You cannot nominate as a candidate until the writ for the election has been issued. 
+The writ is deemed to have been issued at 6pm on the day on which it is issued.  
+The intention to hold an election is often announced some days before the writ is 
+issued. If you are unsure, check with an AEC office or visit the AEC website.
+
+The date fixed for the close of nominations will be between 10 days and 27 days 
+after the issue of the writ and this date is specified in the writ. The AEC advertises 
+the dates from the writ within major newspapers circulating in the relevant state or 
+territory. Also, after the election is announced, an election timetable as outlined in 
+the writ is published on the AEC website.
+
+You can nominate as a candidate during AEC business hours any time after the writ 
+is issued up to 12 noon on the day nominations close. Single nominations for the 
+House of Representatives must be lodged with the relevant DRO by 12 noon on 
+the day nominations close. Bulk nominations of candidates endorsed by a political 
+party for the House of Representatives must be lodged with the relevant AEO not 
+less than 48 hours before the close of nominations. All Senate nominations must 
+be lodged with the relevant AEO before the close of nominations.
+
+Nominations lodged with another officer or at another place cannot be 
+accepted.
+
+You are advised to lodge your nomination before the day nominations 
+close. Late nominations cannot be accepted under any circumstances.
+
+Nomination forms 
+
+There are several different options when nominating for the House of 
+Representatives or the Senate, each option using a different nomination form. 
+You need to complete the nomination form for the relevant option, as well as 
+an individual candidate details form (Form 59 or Form 60) for each candidate 
+nominated.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 18
+
+
+--- Page 21 ---
+
+Note: for elections held on the same day, you can only nominate for one House 
+of Representatives division, or for the Senate in only one state or territory. If you 
+nominate more than once all your nominations will be invalid.
+
+Blank nomination forms for the House of Representatives and the Senate are 
+available from AEC offices or by phoning the AEC on 13 23 26. Once the writ for the 
+election has been issued, the forms will also be available on the AEC website.
+
+It is against the law to include false or misleading information in a nomination form. 
+Giving false or misleading information is a serious offence. In addition, you must not 
+omit any information if omitting that information would be misleading. The maximum 
+penalty for this offence is imprisonment for 12 months.
+
+All nomination forms are made public at declaration time (12 noon on the day after 
+nominations close) and remain public documents at the office of the relevant AEO or 
+DRO. All nomination forms are destroyed only after the next election. This information 
+is also published on the AEC website. In certain cases, address and contact 
+information may be removed from a candidate’s form before it is publicly released. 
+It should be remembered that the media and the public use this publicly available 
+contact information to reach candidates for information about their candidature.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 19
+
+
+--- Page 22 ---
+
+House of Representatives nomination forms
+
+All House of Representative candidates must submit two separate nomination forms 
+to the AEC, being:  
+
+1.  a Form 60 ‘Nomination of a Member of the House of Representatives’; and
+
+2.  as applicable, only one of the following three forms:
+
+a.  Form 60(a) – Bulk nomination – endorsed candidate
+
+b.  Form 60(b) – Single nomination – endorsed candidate
+
+c.  Form 60(c) – Single nomination of unendorsed candidate or incumbent 
+
+independent
+
+A description of each nomination form is set out below.
+
+Form 60 
+
+Nomination of a 
+member of the House  
+of Representatives
+
+Includes all candidate details for nomination of a member of 
+House of Representatives.
+
+This form must be accompanied by Nomination of a member 
+of the House of Representatives forms 60a-60c.
+
+Plus
+
+Form 60a
+
+Bulk nomination – 
+endorsed candidate
+
+Where a registered political party nominates all its House of 
+Representatives candidates in a particular state or territory at  
+one time.
+
+OR
+
+Form 60b
+
+Single nomination – 
+endorsed candidate
+
+Where an individual candidate is endorsed by a registered 
+political party and nominated by the registered officer of the 
+political party.
+
+OR
+
+Where an individual candidate stands as an independent or is 
+an incumbent independent candidate.
+
+Form 60c
+
+Single nomination 
+of unendorsed 
+candidate or incumbent 
+independent
+
+Candidates Handbook  Federal elections  |  By-elections  Page 20
+
+
+--- Page 23 ---
+
+Senate nomination forms 
+
+All Senate candidates must submit two separate nomination forms to the AEC, being:  
+
+1.  a Form 59 - Nomination of a Senator; and
+
+2.  as applicable, one of the following five forms:
+
+a.  Form 59a – Multiple party group nomination by registered officer
+
+b.  Form 59b – Group Nomination by registered officer
+
+c.  Form 59c – Unendorsed group nomination
+
+d.  Form 59d – Single nomination by registered officer
+
+e.  Form 59e – Single nomination
+
+In addition to the above, unendorsed candidates who wish to form a group must 
+complete Form 59 and Form 59e for each candidate nominated as well as Form 59c 
+for the group nomination.
+
+A description of each nomination form is set out below.
+
+Form 59
+Nomination of a senator
+
+Includes all candidate details for nomination of a senator. 
+
+PLUS
+
+Form 59a
+Multiple party group 
+nomination by registered officer
+
+Where two or more candidates nominate as a group 
+endorsed by multiple registered parties and are nominated 
+by the parties’ registered officers.
+
+OR
+
+Form 59b
+Group nomination by registered 
+officer
+
+Where two or more candidates nominate as a group and 
+are nominated by the registered officer of a political party.
+
+Form 59c
+Unendorsed group nomination
+
+Where two or more candidates nominate as a group.
+
+OR
+
+OR
+
+Form 59d
+Single nomination by registered 
+officer
+
+Where an individual candidate nominates as a single 
+candidate and is nominated by the registered officer of a 
+political party.
+
+Form 59e
+Single nomination
+
+Where an individual candidate nominates as a single 
+candidate or is an incumbent independent senator.
+
+OR
+
+Candidates Handbook  Federal elections  |  By-elections  Page 21
+
+
+--- Page 24 ---
+
+Nomination by a party 
+The Act, s.4C, s.166 and s.169
+
+If you are endorsed by a registered political party, the relevant nomination form 
+should include verification of your endorsement by the registered officer of the party. 
+The registered officer and the deputy registered officer of a registered political party 
+have equal powers in relation to the nomination process.
+
+If a registered officer nominates you, they may request on the relevant nomination 
+form that the party’s registered name or abbreviation be printed on the ballot paper 
+next to your name. If you are part of a Senate group, the registered officer may 
+request to have the party name or abbreviation printed next to the above the line 
+box.
+
+Alternatively, the registered officer may provide these details in writing to the 
+appropriate AEO or DRO before the close of nominations. 
+
+A registered party may not nominate more than one candidate for the same  
+House of Representatives division.
+
+Nomination by eligible electors 
+
+If you are not endorsed by a party you must be nominated by eligible electors; that 
+is, people who are entitled to vote at the election for which you are standing.
+
+House of Representatives nominations 
+
+The electors who nominate a House of Representatives candidate must be 
+enrolled for the division for which the candidate is standing. The names, 
+addresses and signatures of the electors are recorded on Form 60c: Single 
+nomination of unendorsed candidate by eligible electors. 
+
+Note: It is advised to obtain the names of more than the required number 
+of electors in case after the checking process, some are found not to be 
+enrolled in that division. 
+
+Candidates Handbook  Federal elections  |  By-elections  Page 22
+
+
+--- Page 25 ---
+
+Senate nominations
+
+The electors who nominate a Senate candidate must be enrolled for 
+the state or territory for which the candidate is standing. The names, 
+addresses and signatures of the electors are recorded on Form 59e:  
+Single nomination by eligible electors.
+
+Note: It is advised to obtain the names of more than the required number 
+of electors in case after the checking process, some are found not to be 
+enrolled in that state or territory.
+
+The Public Access Terminal at any AEC divisional office can be used to check names 
+for enrolment details prior to submitting your nomination.
+
+You should not leave lodging your nomination to the last minute as any defects in 
+your nomination cannot be corrected after the nominations deadline.
+
+Personal information 
+
+When nominating for either the House of Representatives or the Senate, you must 
+set out the following personal information on the relevant nomination form:
+
+ ■ Form 60: Nomination of a Member of the House of Representatives, or 
+
+ ■ Form 59: Nomination of a Senator. 
+
+Your name
+
+Your name must be specified on the form and must include either:
+
+ ■ your surname or family name and one or more of the given names under which 
+
+you are enrolled, or
+
+ ■ if you are not enrolled, a surname or family name and one or more of the given 
+
+names under which you are entitled to be enrolled.
+
+A given name may be specified by either:
+
+ ■ an initial standing for that name, or
+
+ ■ a commonly accepted variation of that name (including an abbreviation or 
+
+truncation of that name or an alternative form of that name).
+
+The nomination must also include a statement of the form in which your given name 
+is to be printed on the ballot paper.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 23
+
+
+--- Page 26 ---
+
+For example a person enrolled as Catherine Citizen must complete the 
+nomination form in that name. However, she may request that ‘Cate’ 
+Citizen be used on the ballot paper as that is a commonly accepted 
+variation of her name.
+
+Your place of residence 
+
+If you are a ‘silent elector’, you are not required to set out your residential address 
+on the nomination form, but you must supply the DRO or AEO (as appropriate) with 
+an address. This address may be a postal address and it is not made public.
+
+Your occupation details 
+
+The Act requires these details to be provided.
+
+Your contact details 
+
+You must provide contact details on the nomination form, but you can ask that 
+some or all of these details not be publicly released. Nomination forms will become 
+public documents after the close of nominations. This information is also published 
+on the AEC website. Contact details not for public release will be removed from 
+any nomination form made available to the public. It should be remembered that 
+the media and the public use this publicly available contact information to reach 
+candidates for information about their candidature.
+
+Declaration 
+
+You must sign a declaration on the nomination form that you:
+
+ ■ are an Australian citizen,
+
+ ■ are at least 18 years of age,
+
+ ■ are an elector or qualified to be an elector,
+
+ ■ are qualified under the Constitution and other laws of the Commonwealth,
+
+ ■ are not and do not intend to be a candidate in any other election on the same 
+
+day, and
+
+ ■ consent to act if elected.
+
+Electoral officers are not generally empowered to question, challenge or provide 
+advice on the declaration made by an intending candidate on the nomination form.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 24
+
+
+--- Page 27 ---
+
+House of Representatives nominations
+
+A person can nominate for election to the House of Representatives as a candidate 
+endorsed by a registered political party or as an unendorsed candidate.
+
+The registered officer of a registered political party may make a bulk nomination of 
+all the party’s endorsed House of Representatives candidates for a particular state 
+or territory at one time.
+
+A candidate may have the word ‘Independent’ printed beside their name when 
+nominating as an independent candidate. 
+
+If you are an incumbent member of the House of Representatives and you 
+were elected as an unendorsed candidate at your previous election, and 
+you are not endorsed by a registered political party, then Form 60c: Single 
+nomination of unendorsed candidate need only be signed by one person 
+(other than the candidate) entitled to vote at the election.
+
+Bulk nominations
+
+Each of the candidates included in a bulk nomination must complete a separate 
+copy of Form 60: Nomination of a Member of the House of Representatives. 
+
+Bulk nominations must be received by the AEO for the relevant state or 
+territory not less than 48 hours before the close of nominations.
+
+If a party chooses to lodge a bulk nomination, it must include all the House of 
+Representatives candidates that the party is endorsing for the particular state  
+or territory.
+
+If a party lodges a bulk nomination and a single nomination for a candidate 
+endorsed by the same party is also lodged, the bulk nomination of all that party’s 
+candidates will be invalidated. This applies whether the candidate was included in 
+the bulk nomination or not.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 25
+
+
+--- Page 28 ---
+
+If a candidate who was included in a bulk nomination withdraws or dies after 
+the cut-off date for bulk nominations and before the close of nominations, the 
+nomination of the other candidates in the bulk nomination is not affected. The 
+registered officer may substitute a new candidate at any time before the close of 
+nominations.
+
+Senate nominations
+
+A candidate nominating for election to the Senate may be endorsed by a registered 
+political party or may nominate as an unendorsed candidate.
+
+Unendorsed candidates may nominate individually or as part of a group with other 
+unendorsed candidates.
+
+Nominating as a Senate candidate
+
+When nominating endorsed candidates the registered officer:
+
+ ■ must nominate endorsed party candidates, or verify a candidate’s party 
+
+endorsement,
+
+ ■ must specify the ballot paper order of the candidates’ names in the group,
+
+ ■ may request that the party name or abbreviation appear beside a candidate’s 
+
+name on the ballot paper, and
+
+ ■ may request that the registered party name or abbreviation be printed on the 
+ballot paper beside the group voting square. Alternatively if the candidates 
+are endorsed by more than one party, the registered officer may request that 
+a composite name of the party names or abbreviations be printed beside the 
+group voting square.
+
+When nominating as an unendorsed group using Form 59c, the candidates may 
+specify the ballot paper order of the candidates’ names in the group.
+
+Each candidate in a group nomination must complete an individual copy of  
+Form 59: Nomination of a Senator and Form 59e: Single nomination.
+
+Grouped candidates not endorsed by a political party cannot have the word 
+‘Independent’ printed next to their names or against their box above the line.
+
+A candidate may have the word ‘Independent’ printed beside their name  
+on the ballot paper when nominating as an ungrouped (single) and unendorsed 
+candidate.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 26
+
+
+--- Page 29 ---
+
+The Act, s.211A
+
+Incumbent independent senators who wish to remain ungrouped and intend 
+to lodge individual voting tickets, must include with their nomination a written 
+declaration to that effect.
+
+If you are an incumbent senator and you were elected as an unendorsed 
+candidate at your previous election, and you are not endorsed by a 
+registered political party, then Form 59e: Single nomination need only be 
+signed by one person (other than the candidate) entitled to vote at the 
+election.
+
+Group voting ticket (GVT)
+
+Refer to Senate group voting tickets on page 38 of this handbook.
+
+Nomination deposit
+
+Each nomination for the House of Representatives and the Senate must be 
+accompanied by a deposit paid by legal tender (cash) or a cheque drawn by a bank 
+or other financial institution on itself. Cheques for nomination deposits should be 
+made out to the Australian Electoral Commission. Money orders, electronic funds 
+transfers, credit cards, personal cheques and other business cheques cannot be 
+accepted.
+
+A deposit is required for each House of Representatives candidate and  
+for each Senate candidate.
+
+For bulk nominations both the nomination form and the deposit must be received 
+not less than 48 hours before the close of nominations.
+
+For other nominations both the nomination form and deposit must be received 
+before 12 noon on the day nominations close.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 27
+
+
+--- Page 30 ---
+
+Return of deposit 
+
+The deposit for a House of Representatives candidate will be returned to the person 
+who paid it or someone authorised by that person in writing if:
+
+ ■ the candidate is elected, or
+
+ ■ the unsuccessful candidate’s total number of first preference votes is at least 
+four per cent of the total number of formal first preference votes cast for all 
+candidates in that division.
+
+The deposit for a Senate candidate will be returned to the person who paid it or 
+someone authorised by that person in writing if:
+
+ ■ the candidate is elected, or
+
+ ■ in the case of an ungrouped candidate, the unsuccessful candidate’s total 
+
+number of first preference votes is at least four per cent of the total number of 
+formal first preference votes cast for all candidates in that state or territory, or
+
+ ■ where the unsuccessful candidate’s name is included in a group, the sum of 
+
+the first preference votes received by all the candidates in the group is at least 
+four per cent of the total number of formal first preference votes in that state or 
+territory.
+
+All unsuccessful candidates not meeting these criteria forfeit their deposit.
+
+Where to nominate 
+
+Single nominations for a division for the House of Representatives must be made at 
+the office of the DRO for that division.
+
+Bulk nominations of all the candidates endorsed by a registered party for the House 
+of Representatives in a particular state or territory must be lodged with the AEO for 
+that state or territory.
+
+Nominations for the Senate for a state or territory must be made at the office of the 
+AEO for that state or territory.
+
+It is your responsibility as a candidate to ensure that your nomination is completed 
+and received by the AEO or DRO (as appropriate), together with the full nomination 
+deposit, by the close of nominations.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 28
+
+
+--- Page 31 ---
+
+Lodgement with Australia Post is not the equivalent of receipt by the AEO or DRO. 
+In addition, for the nomination to be valid it must include both the completed 
+nomination form and the nomination deposit.
+
+It is in your interest to lodge your nomination form as early as possible. 
+Nominating on the last day may cause problems, particularly if there are 
+deficiencies in your nomination that require time to resolve.
+
+Faxed nominations 
+
+You can lodge your nomination form by fax, but it is your responsibility to ensure 
+this fax is received by the relevant AEO or DRO (as appropriate) before the close of 
+nominations. For the nomination to be valid both the completed nomination form 
+and the nomination deposit must be received by the deadline.
+
+The possibility of transmission or print delays on receiving fax machines must be 
+considered under such circumstances.
+
+By faxing the form, you acknowledge the time of receipt is when the form enters the 
+AEC’s fax machine memory. The AEC is not responsible for any deadlines missed or 
+losses incurred.
+
+Note: emailed nomination forms will not be accepted.
+
+For a nomination to be valid both the nomination form and the nomination 
+deposit must be in the hands of the AEO or DRO, as appropriate, by  
+12 noon on the day of the close of nominations.
+
+Appointment of agent forms 
+
+If you intend to appoint an agent to act on your behalf with regards to election 
+financial disclosure matters, you must lodge an Appointment of Candidate Agent 
+form at the AEC’s National Office in Canberra before the close of nominations.  
+The form and further information on appointing an agent, is available from either 
+AEC offices or the AEC website.
+
+Appointment forms and further information on appointing an agent are available 
+in the Funding and Disclosure Guide for Candidates and Senate Groups on the 
+AEC website. 
+
+Candidates Handbook  Federal elections  |  By-elections  Page 29
+
+
+--- Page 32 ---
+
+Rejection of nomination 
+The Act, s.172 
+
+Electoral officers can reject a nomination if the provisions in the Act relating to  
+any of the following have not been complied with:
+
+ ■ the mode of nomination
+
+ ■ the person to whom the nomination is made
+
+ ■ the requisites for nomination
+
+ ■ the form of consent to act.
+
+A nomination will not be rejected simply because of a formal defect or error in the 
+nomination if the officer to whom the nomination is addressed is satisfied there has 
+been substantial compliance with the requirements of the Act.
+
+Withdrawal of nomination 
+The Act, s.177 
+
+You may withdraw your consent to be nominated at any time up until the hour of 
+nomination by lodging a withdrawal notice. A withdrawal notice can be obtained from 
+any AEC office or by phoning the AEC on 13 23 26.
+
+House of Representatives candidates must lodge their withdrawal notice with the 
+DRO for the division for which they had nominated, even if their nomination was part 
+of a bulk nomination. The registered officer may substitute a new candidate in a bulk 
+nomination at any time before the close of nominations.
+
+Senate candidates must lodge their withdrawal notice with the AEO for the state or 
+territory for which they had nominated.
+
+Once the withdrawal notice is in the hands of the relevant AEC officer the nomination 
+is cancelled and arrangements are initiated to refund the deposit.
+
+Uncontested elections 
+
+In a House of Representatives election, if only one candidate is nominated, the DRO 
+will declare that candidate duly elected at the declaration of nominations.
+
+In a Senate election, if the number of candidates nominated is not greater than 
+the number of candidates to be elected, the AEO will declare the candidates duly 
+elected at the declaration of nominations.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 30
+
+
+--- Page 33 ---
+
+Death of a candidate 
+The Act, s.156(2)
+
+For either the House of Representatives or the Senate, if a nominated candidate 
+dies before the close of nominations, the nomination period is extended by one day. 
+If the candidate was part of a bulk nomination, the registered officer may substitute 
+a new candidate before the close of nominations.
+
+The Act, s.180 and s.181
+
+In a House of Representatives election, if a candidate dies between the declaration 
+of nominations and election day, the election in that division does not proceed.  
+A new writ is issued for another election, but this supplementary election is held 
+using the electoral roll prepared for the original election.
+
+In a Senate election, if a candidate dies between the close of nominations and 
+election day and the number of remaining candidates is not greater than the 
+number of candidates to be elected, those candidates will be declared elected.  
+If the number of candidates remaining is greater than the number of candidates to 
+be elected, the election will proceed.
+
+The Act, s.273(27)
+
+A vote recorded on a Senate ballot paper for a deceased candidate will be counted 
+to the candidate for whom the voter has recorded the next preference and the 
+numbers indicating subsequent preferences are regarded as being altered 
+accordingly.
+
+Return of deposit on the death of a candidate 
+The Act, s.178 
+
+If a nominated candidate for either the House of Representatives or Senate dies 
+before election day, the deposit lodged is returned to the person who paid it or a 
+person authorised in writing by them. If the candidate paid the deposit it will be 
+returned to their personal representative.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 31
+
+
+--- Page 34 ---
+
+Declaration of nominations 
+The Act, s.176 
+
+Nominations are declared and the draws for positions on the ballot papers are held 
+24 hours after the close of nominations.
+
+Candidates’ nomination forms will be publicly disclosed before the conduct of 
+the draw. The media may inspect nominations and publish personal details of 
+candidates. 
+
+For a detailed list of dates and times for declaration of nominations and draw for 
+ballot positions, contact your divisional office for the House of Representatives,  
+state office for the Senate or visit the AEC website.
+
+Provision of information on the certified lists of voters 
+The Act, s.90B 
+
+A candidate in a House of Representatives election is entitled to receive a copy of 
+the certified list of voters for the division for which the candidate is seeking election. 
+This copy is to be given by the AEC as soon as practicable after the close of the rolls 
+and without charge.
+
+Contact the AEC’s divisional office for the relevant House of Representatives division 
+to arrange for the collection of a copy of the certified list of voters.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 32
+
+
+--- Page 35 ---
+
+3. Ballot papers
+
+ ■ Part XVI, ‘The polling’
+
+The final form of the ballot paper for the election in which you are a candidate will 
+be of particular interest to you. While the laws relating to ballot papers are set 
+out in detail in the Act, there is scope for candidates to request certain options in 
+relation to the way their affiliation with a registered political party, or status as an 
+independent, appears on the ballot paper.
+
+This section explains the law as it relates to ballot papers and the procedures that 
+determine how candidates, or groups of candidates, are listed on the ballot paper.  
+It also sets out the time frame in which requests can be lodged, such as a request 
+for a preference order of candidates on a Senate ballot paper.
+
+Ballot paper format
+
+Ballot papers show the name of a candidate as specified on the nomination form 
+and, if applicable, the name or abbreviation of the registered political party that 
+endorsed the candidate.
+
+If two or more candidates have similar names and this is considered likely to cause 
+confusion, the AEC may add an additional description to distinguish them.
+
+House of Representatives ballot papers are green. They have boxes with the 
+names of every candidate and their party name or abbreviation or ‘Independent’ 
+where applicable printed to the right of the boxes.
+
+Voters must number every box by putting the number ‘1’ in the box next to the 
+candidate who is their first choice, the number ‘2’ in the box next to their second 
+choice, and so on until every box is consecutively numbered.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 33
+
+
+--- Page 36 ---
+
+The How to make your vote count fact sheet demonstrates how electors should 
+complete both the House of Representatives and Senate ballot papers to ensure 
+their vote counts. In a House of Representatives only election, voters who 
+reside in states of Australia will receive a green ballot paper only. Voters in the 
+Australian Capital Territory and the Northern Territory will receive both a House of 
+Representatives ballot paper and a Senate ballot paper, which is white.
+
+Candidates should carefully consider the information contained in this fact sheet 
+when developing how-to-vote cards (see page 35).
+
+Senate ballot papers are white. They have two parts: an upper section and a lower 
+section, separated by a thick black line. A row of boxes above the line relate to 
+parties, incumbent independents and groups. If an elector marks a ‘1’ in a single 
+box above the line, then the elector’s preferences will be allocated in accordance 
+with the group voting ticket of the relevant party, independent or group.
+
+The lower section contains boxes with the names of every candidate and their 
+parties (if applicable) or the word ‘Independent’ (for some ungrouped candidates) 
+printed to the right of the boxes. If an elector chooses to vote below the line, that is, 
+in the lower section, they must number every box by putting the number ‘1’ in the 
+box next to the candidate who is their first choice, the number ‘2’ in the box next to 
+their second choice, and so on until every box is numbered.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 34
+
+
+--- Page 37 ---
+
+How to make your vote count fact sheet
+
+How to make your vote count
+
+House of Representatives
+
+On election day, you will receive two ballot papers: 
+a green one for the House of Representatives and a 
+white one for the Senate.
+
+Green ballot paper
+
+On the green ballot paper, you need to put a ‘1’ 
+in the box beside the candidate who is your first 
+choice, ‘2’ in the box beside your second choice  
+and so on, until you have numbered every box.
+
+You must number every box for your vote to count.
+
+Don’t worry if you make a mistake. You can ask  
+for another ballot paper and start again.
+
+O
+F
+
+Y
+L
+
+FICIALUSEON
+
+BALLOT PAPER
+HOUSE OF REPRESENTATIVES
+STATE
+ELECTORAL DIVISION OF
+DIVISION NAME
+
+Number the boxes 
+from 1 to 8 in the 
+order of your choice.
+
+2
+
+3
+
+7
+
+4
+
+1
+
+5
+
+6
+
+8
+
+SURNAME, Given names
+INDEPENDENT
+
+SURNAME, Given names
+PARTY
+
+SURNAME, Given names
+PARTY
+
+SURNAME, Given names
+PARTY
+
+SURNAME, Given names
+PARTY
+
+SURNAME, Given names
+PARTY
+
+SURNAME, Given names
+PARTY
+
+SURNAME, Given names
+PARTY
+
+Remember...number every box 
+to make your vote count.
+
+MPLE
+SA
+
+Please turn over
+
+Authorised by the Electoral Commissioner, 50 Marcus Clarke Street, Canberra ACT.
+
+1
+
+Candidates Handbook  Federal elections  |  By-elections  Page 35
+
+
+--- Page 38 ---
+
+How to make your vote count
+
+Senate
+
+White ballot paper 
+
+On the white ballot paper you have a choice of two ways to vote:
+
+YOU MAY VOTE IN  
+ONE OF TWO WAYS
+
+Either:
+
+Above the line
+By placing the single figure 1 in  
+one and only one of these squares  
+to indicate the voting ticket you wish 
+to adopt as your vote
+
+Or:
+
+Below the line 
+By placing the numbers 1 to 17  
+in the order of your preference
+
+YOU MAY VOTE IN  
+ONE OF TWO WAYS
+
+Either:
+
+Above the line
+By placing the single figure 1 in  
+one and only one of these squares  
+to indicate the voting ticket you wish 
+to adopt as your vote
+
+Or:
+
+Below the line 
+By placing the numbers 1 to 17  
+in the order of your preference
+
+Either
+
+Above the line
+You can just put a ‘1’ in the box above 
+the line for the party or group of your 
+choice. By doing this you’re allowing 
+the order of your preference to be 
+determined by the party or group 
+you’re voting for. For more information 
+visit www.aec.gov.au
+
+Or
+
+Below the line
+You can choose to fill in every box 
+below the line in order of your 
+preference. You must put a ‘1’ in the 
+box beside the candidate who is your 
+first choice, ‘2’ in the box beside your 
+second choice and so on, until you 
+have numbered every box.
+
+You must number every box for your 
+vote to count.
+
+Don’t worry if you make a mistake. 
+You can ask for another ballot paper 
+and start again.
+
+Senate Ballot Paper
+State
+Election of 6 Senators
+
+O
+F
+
+Y
+
+FICIAL USE ONL
+
+A
+
+B
+
+or
+
+or
+
+PARTY
+
+PARTY
+
+A
+PARTY
+
+B
+PARTY
+
+C
+
+1
+
+PARTY
+
+C
+PARTY
+
+D
+
+or
+
+or
+
+PARTY
+
+D
+PARTY
+
+E
+
+E
+
+SURNAME
+Given names
+PARTY
+
+SURNAME
+Given names
+PARTY
+
+SURNAME
+Given names
+PARTY
+
+SURNAME
+Given names
+PARTY
+
+SURNAME
+Given names
+PARTY
+
+SURNAME
+Given names
+PARTY
+
+SURNAME
+Given names
+PARTY
+
+SURNAME
+Given names
+PARTY
+
+SURNAME
+Given names
+PARTY
+
+SURNAME
+Given names
+PARTY
+
+SURNAME
+Given names
+PARTY
+
+SURNAME
+Given names
+PARTY
+
+SURNAME
+Given names
+PARTY
+
+Ungrouped
+
+SURNAME
+Given names
+
+SURNAME
+Given names
+
+SURNAME
+Given names
+INDEPENDENT
+
+SURNAME
+Given names
+INDEPENDENT
+
+SAMPLE
+
+Senate Ballot Paper
+State
+Election of 6 Senators
+
+O
+F
+
+Y
+
+FICIAL USE ONL
+
+A
+
+B
+
+C
+
+D
+
+or
+
+or
+
+or
+
+or
+
+PARTY
+
+PARTY
+
+PARTY
+
+PARTY
+
+A
+PARTY
+
+B
+PARTY
+
+C
+PARTY
+
+D
+PARTY
+
+E
+
+E
+
+Ungrouped
+
+10
+
+SURNAME
+Given names
+PARTY
+
+14
+
+SURNAME
+Given names
+PARTY
+
+SURNAME
+Given names
+PARTY
+
+4
+
+3
+
+7
+
+SURNAME
+Given names
+PARTY
+
+SURNAME
+Given names
+PARTY
+
+12
+
+13
+
+SURNAME
+Given names
+PARTY
+
+SURNAME
+Given names
+PARTY
+
+15
+
+SURNAME
+Given names
+PARTY
+
+2
+
+6
+
+SURNAME
+Given names
+PARTY
+
+SURNAME
+Given names
+PARTY
+
+9
+
+5
+
+SURNAME
+Given names
+PARTY
+
+SURNAME
+Given names
+PARTY
+
+17
+
+SURNAME
+Given names
+PARTY
+
+SURNAME
+Given names
+
+SURNAME
+Given names
+
+16
+
+1
+
+11
+
+8
+
+SURNAME
+Given names
+INDEPENDENT
+
+SURNAME
+Given names
+INDEPENDENT
+
+SAMPLE
+
+Authorised by the Electoral Commissioner, 50 Marcus Clarke Street, Canberra ACT.
+
+2
+
+Candidates Handbook  Federal elections  |  By-elections  Page 36
+
+
+--- Page 39 ---
+
+Political party names on ballot papers 
+
+Only a political party registered with the AEC can have its registered party name or 
+registered party abbreviation printed on the ballot papers next to the names of its 
+candidates. Parties, however constituted, that are not registered with the AEC are 
+not entitled to have a party name printed next to their candidates’ names on the 
+ballot paper.
+
+The request to have a registered party name or abbreviation printed on a ballot 
+paper may be made on the nomination form.
+
+Alternatively, the registered officer of that party may make the request in writing to 
+the relevant AEO or DRO before the close of nominations.
+
+Endorsed House of Representatives candidates 
+
+An endorsed candidate of a registered political party may have either the registered 
+name or the registered abbreviation of that political party printed next to their name 
+on the ballot paper.
+
+Only one candidate can be endorsed by a registered political party for any 
+House of Representatives division. If a party attempts to endorse more 
+than one candidate all nominations for that division will fail.
+
+Endorsed Senate candidates
+
+A group of endorsed Senate candidates of a registered political party who propose to 
+register a group voting ticket may have either the registered name or the registered 
+abbreviation of that party printed next to their group voting square on the upper 
+section of the ballot paper, and next to each of their names on the lower section of 
+the ballot paper.
+
+A composite group of candidates endorsed by more than one registered political 
+party that proposes to register a group voting ticket may have a composite party 
+name printed next to their group voting square on the upper section of the Senate 
+ballot paper. Each single endorsed candidate will, however, have their own 
+registered party name or registered abbreviation printed next to their name on the 
+lower section of the ballot paper.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 37
+
+
+--- Page 40 ---
+
+Independent candidates 
+
+If you are not endorsed by a registered political party you may request on the 
+nomination form that the word ‘Independent’ be printed on the ballot paper next to 
+your name.
+
+If you do not make this request you will have nothing printed next to your name.
+
+Grouped Senate candidates may not use the word ‘Independent’ next to 
+their name or next to the group voting square.
+
+Senate group voting tickets
+
+Boxes to vote above the line are provided to the following groups or 
+candidates who submit a preference statement or group voting ticket to the 
+AEC within 48 hours after the close of nominations:
+
+ ■ endorsed candidates who requested that their names be grouped at 
+
+the time of nomination
+
+ ■ incumbent independent senators that have advised the AEC of an 
+
+intention to lodge a voting ticket
+
+ ■ unendorsed candidates that requested that their names be grouped 
+
+at the time of nomination.
+
+Notice of intention to lodge must be given to the relevant AEO before close of 
+nominations. Within 48 hours after the close of nominations, a Senate group may 
+lodge a written statement setting out a preference order of all candidates in the 
+election with the AEO for the state or territory. This is referred to as a group voting 
+ticket.
+
+The preference ordering must be a fully formal vote meaning that all candidates 
+must be numbered. In addition, the candidates in the group lodging the statement 
+must be ordered ahead of any other candidate.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 38
+
+
+--- Page 41 ---
+
+The preference statement or group voting ticket must be signed by:
+
+ ■ the registered officer of the party, where all the members of the group have 
+
+been endorsed by the same registered political party, or
+
+ ■ the registered officers of all relevant parties, where the members of the group 
+
+have been endorsed by different registered political parties, or
+
+ ■ the candidate whose name first appears in the group on the ballot paper, in a 
+
+case not covered by either of the above, or
+
+ ■ a person authorised by all the members of the group to sign on behalf of the 
+
+group.
+
+The preference ordering may be specified in the form of a how-to-vote card. 
+
+A group may lodge up to three group voting tickets, provided that the preference 
+order shown places the candidates in the group lodging the statement ahead of any 
+other candidate, and gives the same order of preference for the members of the 
+group on each ticket.
+
+When a group lodges one or more group voting tickets, a square will be printed 
+above the line on the Senate ballot paper. Voters wishing to vote according to 
+the group voting ticket simply fill in that square with the number ‘1’ and their 
+preferences will be allocated according to the group voting ticket during the scrutiny 
+process.
+
+Where two tickets are lodged, half of the votes are allocated to each of the 
+preference orders.
+
+Where three tickets are lodged, one-third of the votes are allocated to each of the 
+preference orders.
+
+Booklets setting out copies of all group voting tickets that have been lodged in a 
+state or territory are available at every polling place on election day. Early voting 
+centres and interstate voting centres will also have copies of group voting tickets for 
+all states and territories and they will be published on the AEC website.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 39
+
+
+--- Page 42 ---
+
+Incumbent independent senator voting tickets
+
+An incumbent independent senator may lodge a written statement setting out up 
+to three preference orders of all candidates in the election. The statement must be 
+signed by the candidate and lodged with the relevant AEO, and must show a first 
+preference for the incumbent senator. The preference ordering may be specified in 
+the form of a how-to-vote card.
+
+Incumbent independent senators must signal their intention to lodge an 
+individual voting ticket before the close of nominations.
+
+Order of names on ballot papers 
+
+A system called ‘double randomisation’ – two random draws – is used for 
+determining the order of groups and ungrouped candidates on Senate ballot papers 
+and the order of candidates on House of Representatives ballot papers.  
+All candidates and members of the public are welcome to attend these draws.
+
+House of Representatives ballot papers 
+
+The DRO declares the House of Representatives nominations received for their 
+division at 12 noon, 24 hours after the close of nominations. Following the 
+declaration the DRO conducts two draws for ballot paper positions.
+
+The first draw assigns a number to each candidate and the second draw determines 
+the order in which candidates appear on the ballot paper.
+
+Senate ballot papers
+
+The AEO declares the nominations received for the Senate in their state or territory 
+at 12 noon, 24 hours after the nominations close. After the declaration, the AEO 
+conducts the draws for positions on the ballot paper.
+
+In Senate elections, the names of candidates included in groups are placed on  
+the ballot paper to the left and ahead of the names of candidates not included  
+in groups.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 40
+
+
+--- Page 43 ---
+
+For the purposes of the Senate draw and ballot paper printing, individual incumbent 
+senators who have given written notice of an intention to lodge a voting ticket are 
+treated as a group.
+
+The AEO determines the order of groups and ungrouped candidates on the ballot 
+paper by conducting a public draw for positions. This draw is conducted in two parts, 
+with each part consisting of two draws:
+
+ ■ in the first part, the first draw allocates a number to each group and the second 
+
+draw determines the order in which the groups appear on the  
+ballot paper.
+
+ ■ in the second part, the first draw allocates a number to each ungrouped 
+
+candidate and the second draw determines the order in which ungrouped 
+candidates appear on the ballot paper.
+
+Ungrouped candidates do not lodge a group voting ticket and so do not have a box 
+above the line on the Senate ballot paper.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 41
+
+
+--- Page 44 ---
+
+4. Voting
+
+ ■ Part XV, ‘Postal voting’
+
+ ■ Part XVI, ‘The polling’
+
+ ■ Part XVA, ‘Pre-poll voting’
+
+ ■ Part XXI, ‘Electoral offences’
+
+ ■ Schedule 2, ‘Grounds of application for postal or pre-poll vote’
+
+For more information on voting procedures, visit the AEC website or phone 
+the AEC on 13 23 26. 
+
+How-to-vote cards 
+
+Party workers may assist electors by handing them how-to-vote (HTV) cards and, 
+if necessary, explaining the cards to them. Party workers are reminded it is an 
+offence to print, publish or distribute misleading or deceptive statements relating 
+to the actual marking of a ballot paper. When producing HTV material, parties and 
+candidates need to be mindful of the colour and size of their material so as to avoid 
+any confusion between the HTV material and ballot papers issued to electors by the 
+AEC. HTV cards must carry:
+
+ ■ the name and full street address of the authorising representative.
+
+ ■ the political party of the candidate. If the candidate is not endorsed by a 
+
+registered political party, the name of the candidate and the word ‘candidate’ 
+needs to be included.
+
+A person must not publish a HTV card during an election period unless the name 
+of the registered political party or candidate on whose behalf the card has been 
+published is clearly printed at either the bottom or top of each printed face of  
+the card.
+
+A HTV card is defined in subsection 4(1) of the Act. In short, it is any printed  
+medium that lists the name of two or more candidates and directs or encourages 
+electors to mark their preference for the candidates in a particular order. It does 
+not include a card that only relates to first preference votes or only relates to last 
+preference votes.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 42
+
+
+--- Page 45 ---
+
+There is a general prohibition on canvassing within six metres of an 
+entrance to a polling place, which means that HTV cards or other non-AEC 
+notices cannot be distributed or displayed within that distance. HTV cards 
+must not be exhibited or left in a polling place.
+
+Appendix 1 lists the offences under the Act.
+
+HTV cards produced for electors by political parties and candidates need to have 
+clear instructions and be well designed so they assist electors to cast a formal vote. 
+Otherwise, HTV information may confuse some voters and cause them to cast an 
+informal vote without meaning to do so.
+
+HTV cards for electors serviced by mobile polling teams may be supplied by party 
+workers to the team leader of a mobile polling team. It is not the responsibility of the 
+team leader to arrange for this or to remind party workers to do so. Mobile polling 
+teams will provide the electoral material to electors on request.
+
+Electoral advertising 
+
+The Electoral Backgrounder on Electoral Advertising provides a basic introduction 
+to electoral advertising and is available from the AEC website. Its contents are a 
+guide only. Individual matters are assessed on a case-by-case basis and ultimately 
+it is for the courts to decide upon the interpretation of the law in any particular 
+case. Accordingly, if you are in doubt about the interpretation of the law in particular 
+circumstances, you should seek your own independent legal advice.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 43
+
+
+--- Page 46 ---
+
+The Electoral Backgrounder on Electoral Advertising discusses:
+
+ ■ intent of the law
+
+ ■ authorisation of electoral advertising
+
+ ■ headings to electoral advertisements
+
+ ■ electoral advertising on the Internet
+
+ ■ misleading and deceptive electoral advertisements
+
+ ■ second preference how-to-vote cards
+
+ ■ truth in political advertising
+
+ ■ defamation of candidates
+
+ ■ electronic media blackout
+
+ ■ political advertising bans
+
+ ■ non-compliance, such as electoral advertising offences
+
+ ■ complaints.
+
+Candidates are encouraged to pay particular attention to the authorisation 
+of electoral advertising.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 44
+
+
+--- Page 47 ---
+
+5. Election funding and financial disclosure
+ ■ Part XX, ‘Election funding and financial disclosure’
+
+Some candidates will be eligible to receive payment of election funding following 
+a federal election but all candidates are required to lodge a compulsory financial 
+disclosure return. Candidates can appoint an agent to receive their election funding 
+(if eligible) and complete the financial disclosure return on their behalf.
+
+This section gives a brief overview of the role of candidate agents and Senate group 
+agents, financial disclosure obligations and payment of election funding.
+
+Further detailed information on election funding and candidate financial disclosure 
+can be obtained from the AEC website.
+
+Agents 
+
+Appointing an agent
+
+Agent appointment forms are available by phoning 13 23 26 or from the  
+AEC website. 
+
+A party agent is not automatically appointed as a candidate or Senate group agent 
+unless individually appointed by each endorsed candidate of that party.
+
+It is your responsibility to ensure that your agent appointment form is received by the 
+AEC’s National Office in Canberra before the close of nominations. Completed forms 
+can be faxed to 02 6293 7655, scanned and emailed to fad@aec.gov.au, or sent by 
+post. Postal address details are available on the forms.
+
+Agent appointment forms should only be sent to the AEC’s National Office, 
+not sent to any other office.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 45
+
+
+--- Page 48 ---
+
+An agent cannot be appointed if their appointment form is received by the AEC’s 
+National Office after the close of nominations. In this case, individual candidates will 
+be responsible for completing their own financial disclosure return.
+
+The appointment is valid for a single election only.
+
+Candidate agents
+
+Each candidate may appoint an agent whether or not they are endorsed by a party. 
+Candidates who do not appoint an agent are deemed to be their own agent.
+
+Senate group agent
+
+Senate groups, the members of which have been endorsed by a single party, 
+are not required to appoint an agent for the group or lodge a disclosure return. All 
+receipts and expenditure of a Senate group should be included in the annual return 
+of that party, however, individual members of such a group may appoint an agent.
+
+An agent is not the agent of the individual members of the group unless separately 
+appointed as such.
+
+If no agent is appointed for a Senate group, or the agent appointment form is 
+received by the AEC’s National Office in Canberra after the close of nominations, the 
+first candidate listed in the Senate group is deemed to be the agent.
+
+Senate groups endorsed by more than one party may appoint an agent for the 
+group. If no appointment is made the person whose name appears first on the ballot 
+paper is deemed to be the agent.
+
+Unendorsed Senate groups can appoint an agent for the group. If no appointment 
+is made the person whose name appears first on the ballot paper is deemed to be 
+the agent for the group.
+
+Eligibility of an agent 
+
+To be eligible for appointment as an agent, the nominated person must:
+
+ ■ be at least 18 years of age,
+
+ ■ not have been convicted of an offence under the funding and disclosure 
+
+provisions of the Act,
+
+ ■ have signed a consent to the appointment, and
+
+ ■ have signed a declaration of eligibility for appointment.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 46
+
+
+--- Page 49 ---
+
+A person may be appointed as the agent for multiple candidates, including a Senate 
+group, but a separate form must be completed for each appointment.
+
+Election funding 
+
+Candidates who receive four per cent or more of the formal first preference votes 
+in an election are entitled to receive election funding. For Senate groups, the group 
+as a whole must receive at least four per cent of the formal first preference votes in 
+their state or territory in order to be eligible for election funding.
+
+The amount to be paid is calculated by multiplying the number of formal first 
+preference votes received by the funding rate. The funding rate applicable to this 
+section is available on the AEC website.
+
+At least 95 per cent of election funding is paid in the fourth week after election day 
+on the basis of votes counted as at the 20th day after election day. The balance is 
+paid when the count is finalised and verified, and when the full entitlement is known.
+
+In the case of independent candidates or Senate groups, payment is made to the 
+agent of the candidate or group. If no agent is appointed, payment is made to the 
+candidate or the member of the Senate group placed first in the group.
+
+In the case of endorsed candidates and Senate groups, funding is paid to the party 
+agent of the endorsing party or parties.
+
+Detailed information about the payment arrangements for parties endorsing 
+candidates or Senate groups can be obtained from the AEC website.
+
+Financial disclosure returns 
+
+Following an election, candidate and Senate group agents must lodge financial 
+disclosure returns with the AEC. Further information, including a comprehensive 
+funding and disclosure guides, is available on the AEC website.
+
+If a candidate or Senate group does not appoint an agent or the appointment form is 
+received by the AEC’s National Office in Canberra after the close of nominations:
+
+ ■ the candidate is deemed to be their own agent.
+
+ ■ the first person listed in the Senate group is deemed to be the group agent.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 47
+
+
+--- Page 50 ---
+
+Failure to lodge a disclosure return is an offence which may be referred to the 
+Commonwealth Director of Public Prosecutions.
+
+Election donations 
+
+Election donations may be in cash (money, direct deposit or cheque), or ‘in-kind’ 
+such as professional services or office equipment provided free of charge or at less 
+than normal commercial value. Donations may be received directly by the candidate 
+or by someone acting on behalf, or with the authority, of the candidate or Senate 
+group.
+
+In-kind donations must be disclosed at the normal commercial or sale value of the 
+item or service.
+
+People or organisations making donations to a candidate in excess of the applicable 
+disclosure threshold are also required to lodge a financial disclosure return with 
+the AEC.
+
+If a person or organisation makes a donation to the campaign committee of an 
+endorsed candidate, this is treated as though the donation is made to the relevant 
+political party and is therefore required to be reported in the party’s annual 
+disclosure returns rather than the candidate’s election return.
+
+Electoral expenditure 
+
+All electoral or campaign expenditure incurred in each of the following categories 
+must be reported:
+
+ ■ broadcasting advertisements (including production costs)
+
+ ■ publishing advertisements (including production costs)
+
+ ■ displaying advertisements at a theatre or other place of entertainment 
+
+(including production costs)
+
+ ■ costs of campaign material that was used or distributed where the name and 
+address of the author, or the authorising person, is required (such as how-to-
+vote cards, pamphlets or posters)
+
+ ■ direct mailing
+
+ ■ opinion polling and other research relating to the election.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 48
+
+
+--- Page 51 ---
+
+Certain other campaign expenditure (for example, hire of premises or equipment, 
+freight, telephone and travel costs) does not have to be reported.
+
+Candidates 
+
+All candidates, including the individual members of a Senate group, have a financial 
+disclosure obligation after the election.
+
+All candidates must lodge a financial disclosure return even when no donations were 
+received or expenditure incurred. In this case ‘nil’ returns must be lodged.
+
+The financial disclosure returns of candidates must include the following:
+
+ ■ the number of donors and total amount of all donations received
+
+ ■ the names and details of people and organisations who made donations in 
+excess of the disclosure threshold (this information is available on the AEC 
+website)
+
+ ■ all amounts spent on certain types of electoral expenditure.
+
+The only exception is for electoral expenditure incurred by candidates who stand 
+as part of a Senate group. These candidates do not separately disclose electoral 
+expenditure as the expenditure of all members of the group is consolidated and 
+reported as part of the group financial disclosure, or by the party if all members of 
+the group are endorsed by the same party.
+
+Senate groups
+
+All Senate groups must lodge a disclosure return with the exception of Senate groups 
+whose members are all endorsed by the same party. These groups report through 
+their political party. Disclosure returns must be lodged even when no donations were 
+received or expenditure incurred. In this case ‘nil’ returns must be lodged.
+
+The financial disclosure returns of Senate groups must include:
+
+ ■ the number of donors and total amount of all donations received
+
+ ■ names and details of people and organisations who made donations in excess 
+
+of the applicable disclosure threshold
+
+ ■ all amounts spent on certain types of electoral expenditure.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 49
+
+
+--- Page 52 ---
+
+Where and when to lodge returns 
+
+Returns can be prepared and lodged online via the eReturns portal. The eReturns 
+portal can be accessed from  https://ereturns.aec.gov.au or via the AEC website. 
+The easiest way to lodge a return accurately and on time is to use the eReturns 
+portal, it is quick, secure, environmentally friendly and allows importing of files 
+which eliminates transcription errors. To assist with completing a return online, a 
+step-by-step guide is available on the AEC’s website.
+
+If a candidate or agent is unable to lodge a return online via the eReturns portal 
+the relevant forms may be downloaded from the AEC website. Alternatively, 
+contact the Funding and Disclosure team by email at fad@aec.gov.au or phone on 
+02 6271 4552 and forms can be emailed, faxed or posted to the agent or candidate.
+
+Financial disclosure returns, including ‘nil’ returns, must be lodged with the AEC’s 
+National Office in Canberra within 15 weeks after election day. The AEC has no 
+discretion to extend this deadline.
+
+Disclosure period 
+
+The period covered by a return varies for election donations and electoral 
+expenditure, for new and previous candidates, and for candidates and Senate 
+groups. Details are on the financial disclosure return form.
+
+Administration 
+
+Candidate record keeping 
+
+Candidates and Senate groups must give consideration to financial recording 
+systems and procedures that are appropriate to their needs and circumstances and 
+will enable the Candidate or Senate Group Return to be completed accurately.
+
+All transactions should be individually recorded, supported by source documents 
+and, where possible, reconciled to bank statements. 
+
+Examples of source documents are:
+
+ ■ receipts
+
+ ■ tax invoices
+
+ ■ loan documents
+
+Candidates Handbook  Federal elections  |  By-elections  Page 50
+
+
+--- Page 53 ---
+
+■ wages records
+
+ ■ bank deposit books and cheque butts
+
+ ■ bank account statements
+
+ ■ credit card statements.
+
+Source documents should contain sufficient information required to complete the 
+return, such as the:
+
+ ■ date of the transaction
+
+ ■ name of person and/or organisation from whom a gift/donation was received
+
+ ■ name of person and/or organisation to whom a payment was made and what 
+
+the payment was for
+
+ ■ name and address of an organisation that has provided a loan to the candidate
+
+ ■ total payment made or amount received
+
+ ■ amount of goods and services tax (GST)
+
+ ■ merchant fees.
+
+Retention of records 
+
+All relevant records, whether formal or informal, that support disclosures made in 
+returns must be kept for a minimum of three years. Receipt books, bank records, 
+receipt registers, source documents and working papers must be kept for this period.
+
+Offences 
+
+Section 315 of the Act contains penalty provisions for offences against the funding 
+and disclosure provisions. These include
+
+ ■ failure to lodge a disclosure return
+
+ ■ late lodgement
+
+ ■ incomplete and inaccurate returns 
+
+ ■ failure to retain supporting records for three years. 
+
+Public inspection 
+
+Election financial disclosure returns are available for public inspection 24 weeks 
+after election day on the AEC website. 
+
+The Candidates Handbook, Scrutineers Handbook, Funding and Disclosure 
+Guide for Candidates and Senate groups, and other electoral information is 
+also available on the AEC website.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 51
+
+
+--- Page 54 ---
+
+6. Scrutineers
+
+ ■ Part XVI, ‘The polling’
+
+ ■ Part XVIII, ‘The scrutiny’
+
+As a candidate you have a range of clearly defined rights and responsibilities, but 
+you are not permitted to participate in the administrative conduct of an election.
+
+Because of this exclusion you have the right to appoint scrutineers to represent you 
+at polling places and during the various stages of counting of ballot papers (the 
+scrutiny).
+
+The Scrutineers Handbook sets out how the law provides for the appointment of 
+scrutineers, as well as the rights and responsibilities of scrutineers.
+
+What is the role of scrutineers?
+
+On behalf of candidates, scrutineers have the right to be present in order to check 
+any possible irregularities when the ballot boxes are sealed, when they are opened, 
+and when the votes are sorted and counted.
+
+Scrutineers may observe:
+
+ ■ the polling in a polling place
+
+ ■ the scrutiny in a counting centre
+
+ ■ the preliminary scrutiny of declaration envelopes
+
+ ■ the further scrutiny of declaration votes
+
+ ■ the fresh scrutiny of all votes.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 52
+
+
+--- Page 55 ---
+
+Appointment of scrutineers by candidates 
+
+At early voting and during polling 
+The Act s.200DA and s.217
+
+You may appoint scrutineers to represent you at every polling place.
+
+However, no more than one scrutineer per candidate is allowed in an early voting 
+centre at the one time and no more than one scrutineer per candidate is allowed for 
+each issuing point at a polling place on election day.
+
+You appoint scrutineers by completing a scrutineer appointment form for each 
+scrutineer. This can be obtained from any AEC divisional office or from the  
+AEC website. 
+
+You must give the name and residential address of the scrutineer and sign the form. 
+A facsimile of your signature is acceptable.
+
+You may fax the form to the DRO or the Officer in Charge of a polling place, if such 
+facilities are available.
+
+At the preliminary scrutiny of declaration votes
+
+The DRO conducts the preliminary scrutiny of declaration vote envelopes. This 
+process determines which declaration votes are admissible and can proceed 
+to further scrutiny. The number of scrutineers permitted per candidate for the 
+preliminary scrutiny is limited to the number of officers engaged in the scrutiny.
+
+The preliminary scrutiny of early declaration vote envelopes can begin on the 
+Monday before election day. This helps the DRO begin the further scrutiny of these 
+types of declaration votes promptly after election day.
+
+Early declaration vote envelopes are checked to ensure they have been signed by 
+the voter and that the voter is correctly enrolled.
+
+Any envelopes requiring further investigation will be put aside until after the close of 
+polling.
+
+The DRO will contact you before the preliminary scrutiny to advise you of its times, 
+dates and locations.
+
+The Scrutineers Handbook is available on the AEC website, from all AEC offices or by 
+phoning 13 23 26.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 53
+
+
+--- Page 56 ---
+
+No declaration vote envelope can be opened or ballot papers scrutinised 
+before the close of the poll.
+
+At the scrutiny
+The Act, s.264
+You may also appoint scrutineers to represent you at the checking and counting 
+of the ballot papers after the close of polling. The number of scrutineers who may 
+represent you at each counting centre is limited to the number of officers engaged in 
+the counting of ballot papers.
+
+The appointment of a scrutineer must be made in writing and given or sent to 
+the officer conducting the scrutiny at the counting centre. You must sign the 
+appointment form (a facsimile of your signature is acceptable), which must give 
+the name and address of the scrutineer. Once again, a fax is acceptable if these 
+facilities are available.
+
+You may use the same form to appoint scrutineers for both the polling and  
+the scrutiny.
+
+You may scrutineer on behalf of another candidate at a scrutiny as long as the 
+ballot papers being scrutinised are not related to the election in which you are a 
+candidate. For example, a House of Representatives candidate in Division A may be 
+a scrutineer in Division B. You should check with the DRO or AEO (as appropriate) 
+before making or accepting such an appointment to scrutineer.
+
+At the further scrutiny of declaration votes
+
+The DRO conducts the further scrutiny. At the further scrutiny, declaration vote 
+envelopes which have passed the preliminary scrutiny are opened, and the ballot 
+papers extracted and counted.
+
+The DRO will contact you before the further scrutiny to advise you of its times, dates 
+and locations.
+
+Scrutineers have the same rights and responsibilities at a further scrutiny as they 
+have at the scrutiny of ballot papers in a counting centre.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 54
+
+
+--- Page 57 ---
+
+Scrutineers Handbook
+
+More detailed information concerning the rights, duties, powers and functions of 
+scrutineers during polling and scrutiny is contained in the Scrutineers Handbook.
+
+The Scrutineers Handbook also explains the different methods of voting, matters 
+relating to the formality and informality of House of Representatives and Senate 
+ballot papers, and the conduct of House of Representatives and Senate scrutinies.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 55
+
+
+--- Page 58 ---
+
+7. Counting the votes
+ ■ Part XVIII, ‘The scrutiny’
+
+An understanding of the AEC’s counting procedures will help you, as a candidate, 
+know what to expect as the results of the election unfold. This chapter details how 
+the scrutiny or count is approached for the House of Representatives and Senate.
+
+On election night
+
+The counting of ordinary votes begins in each polling place immediately after the 
+poll closes at 6pm on election day. Ordinary votes are votes cast by electors either 
+at a polling place within their division on election day, or as pre-poll ordinary votes at 
+an early voting centre or divisional office in their division prior to election day. 
+
+House of Representatives count on election night 
+
+Ballot papers are initially sorted by the polling officials into first preference votes for 
+each candidate and informal ballot papers. The results are then tabulated and the 
+first preference vote figures for each candidate are telephoned to the  
+relevant DRO.
+
+Divisional staff then enter these figures for each polling place in their division into 
+the national computerised Election Management System which, in turn, updates the 
+Virtual Tally Room (VTR). The VTR can be accessed on the AEC website (see page 
+57).
+
+Indicative two-candidate-preferred (TCP) 
+
+On the completion of the count of first preferences for the House of Representatives 
+at each polling place, the Officer in Charge must, as directed by the relevant AEO 
+(in accordance with s274(2A) of the Act), conduct an indicative distribution of 
+preferences on a two-candidate-preferred (TCP) basis.
+
+The TCP count shows where preferences have been distributed to the probable 
+final two candidates in an election. It must be remembered that this count is only 
+
+Candidates Handbook  Federal elections  |  By-elections  Page 56
+
+
+--- Page 59 ---
+
+an indicative result of the election in a division. It is possible that early, absent and 
+mobile votes, counted after election day, could alter the outcome.
+
+The ballot papers for the two nominated candidates are set aside and the ballot 
+papers for the remaining candidates are distributed to one of the two nominated 
+candidates according to who is more preferred or gets the ‘best preference’.
+
+For example, if the two nominated candidates are Labor and Liberal then a ballot 
+paper which has ‘1’ Democrats, ‘2’ Independent, ‘3’ Labor and then ‘4’ Liberal will 
+be added to the first preference figures for the Labor candidate. Conversely, a ballot 
+paper that showed ‘1’ Independent ‘2’ Liberal (etc) would be added to the first 
+preference figures for the Liberal candidate.
+
+Like the count of first preference votes, this result is telephoned through to the DRO, 
+who enters it into the Election Inquiry System. This will update the VTR, which is 
+available on the AEC website.
+
+Senate count on election night
+
+The counting of Senate ballot papers also begins on election night. The first 
+preference votes on the Senate ballot papers – above the line and below the line are 
+counted. A single figure for each group and each ungrouped candidate is reported.
+
+Senate results cannot be calculated until the state or territory-wide total of votes 
+used to determine the quota – the proportion of votes required by a candidate to 
+be elected is known. It is only possible, therefore, to get a general impression of the 
+Senate results on election night.
+
+The Senate count on election night begins at the same time as the TCP count for the 
+House of Representatives. Results from the Senate count are telephoned through 
+to the DRO, and group totals and ungrouped results are entered into the Election 
+Inquiry System in the same way as House of Representatives votes.
+
+Virtual Tally Room 
+
+The AEC hosts a website election results system known as the Virtual Tally Room 
+(VTR), which provides election information and results in a user-friendly format.
+
+The VTR allows people visiting the site on election night and the weeks following to 
+access progressive House of Representatives results and figures from the Senate 
+count for all states and territories, together with a comprehensive range of summary 
+
+Candidates Handbook  Federal elections  |  By-elections  Page 57
+
+
+--- Page 60 ---
+
+and analysis screens. The VTR produces approximately 1 200 individual pages of 
+results on election night and more than 20 000 pages in the post-election period. 
+These results are updated regularly on election night and in the post-election period.
+
+After election night
+
+Fresh scrutiny or recheck 
+
+The initial scrutiny conducted at the polling place on election night is routinely 
+followed by a ‘fresh scrutiny’ or re-check of votes cast conducted by the DRO in the 
+days following election day. The exact time will be advised by the DRO.
+
+At this stage, some ballot papers earlier treated as informal may be admitted to the 
+scrutiny by the DRO, and some ballot papers originally treated as formal may be 
+reclassified as informal.
+
+A full distribution of preferences is conducted in every House of Representatives 
+division, even where a candidate already has an absolute majority of first preference 
+votes. The result of this full distribution of preferences is used to calculate the 
+two-candidate-preferred statistics.
+
+Scrutineers who have been appointed by a candidate for the division may be present 
+during the fresh scrutiny. The number of scrutineers present during the count is 
+limited to one per candidate for each AEC staff member involved in the scrutiny. 
+
+After election night the AEC conducts the Central Senate Scrutiny (CSS) process in 
+each state and territory. The Senate scrutiny and the distribution of preferences are 
+conducted using a computer application. This involves double data entry of all ballot 
+papers that are marked below the line and have been dispatched to the CSS. Ballot 
+papers marked above the line only are entered as a single total for each group. The 
+computerised system calculates the quota, distributes preferences and determines 
+the result of the Senate election.
+
+This system provides full accountability and an audit trail, including reports for 
+inspection by scrutineers. 
+
+The relevant AEO notifies all Senate candidates by letter of the location and hours of 
+operation of the CSS centre in that state or territory.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 58
+
+
+--- Page 61 ---
+
+Declaration votes
+
+Declaration votes do not get counted on election night; instead, they are counted 
+in the divisional office in the period following election night. The counting of these 
+votes takes longer than the counting of ordinary votes.
+
+In the days following election day, a ‘declaration vote exchange’ is carried out 
+between the divisions within each state and territory, where declaration votes are 
+physically passed on to the relevant division. Declaration votes received on behalf 
+of divisions in another state or territory or overseas are sent to that state or territory 
+and are then distributed to the relevant divisions. Once the declaration votes are 
+received and processed in the home division, the counting of these votes can begin.
+
+Postal Votes
+
+For federal elections and by-elections, the legislation requires the AEC to wait for 
+up to 13 days after election day for any postal votes to be received. These votes are 
+included in the count if:
+
+ ■ the vote has been cast before 6pm on election day
+
+ ■ the vote is received by the DRO within 13 days of election day.
+
+For this reason, the counting of postal votes is an ongoing process for up to 13 days 
+after election day.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 59
+
+
+--- Page 62 ---
+
+8. Recounts and disputed returns
+
+ ■ Part XVIII, ‘The scrutiny’
+
+ ■ Part XXII, ‘Court of Disputed Returns’
+
+You, as a candidate, can benefit from a good understanding of the circumstances 
+and procedures leading to a recount of votes in an election, as well as the 
+circumstances under which the High Court would sit as a Court of Disputed Returns.
+
+As a candidate you can request a recount of ballot papers in an election, however, 
+the electoral official is not automatically obliged to accept your request. The official 
+also has the power to direct a recount at their discretion without waiting for  
+a request.
+
+Recounts
+The Act, ss.278 and 279
+
+A recount may be undertaken, approved or directed at any time before the result of 
+an election is declared. It should not be confused with the routine re-check (fresh 
+scrutiny) of the House of Representatives votes counted on election night.
+
+In the absence of specifically alleged errors it is unlikely that a recount would 
+be required at either a House of Representatives election or Senate election. 
+However, in the case of a House of Representatives division, if the margin of votes 
+at the completion of the distribution of preferences is less than 100, a recount is 
+conducted as a matter of course.
+
+Given the checks and balances in scrutiny systems, significant sorting errors are 
+highly unlikely to go undetected.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 60
+
+
+--- Page 63 ---
+
+House of Representatives recount
+
+If requesting a recount, House of Representatives candidates must write to the 
+relevant DRO giving their reasons for the request.
+
+DROs may initiate a recount, or be directed by the Electoral Commissioner at any 
+time before the declaration of a result of a House of Representatives election to 
+recount all or some of the ballot papers.
+
+The DRO must notify each candidate of the time and place of any recount.
+
+The DRO conducting a recount has the same powers as if the recount was 
+the original scrutiny. A DRO may reverse any decision in the scrutiny to 
+admit or reject a ballot paper.
+
+During a recount the DRO may, and at the request of a scrutineer must, reserve any 
+ballot paper for the decision of the AEO. The AEO must decide whether any ballot 
+paper reserved for their decision is to be admitted or rejected. If a ballot paper is 
+considered as being admitted by the AEO, the DRO will determine to whom the first 
+preference has been allocated.
+
+If an election result is challenged, the High Court of Australia, sitting as the  
+Court of Disputed Returns, may consider any ballot paper reserved for the  
+decision of the AEO, but may only order a further recount if it is satisfied that a 
+recount is justified.
+
+Evaluating a request for a House of Representatives recount 
+
+The general guidelines observed in evaluating requests for a recount are  
+as follows.
+
+ ■ A recount may take place where there are valid and specific grounds for 
+
+supposing that it could change the result of the election in the division or where 
+there are specific grounds for determining the need for a recount of specific 
+ballot papers (such as in response to specific allegations  
+or incidents).
+
+ ■ A request for a recount which does not plead any valid and specific grounds 
+
+must be refused. A request for a recount needs to identify specific ballot papers 
+and associated significant counting process errors or irregularities that could 
+change the result of an election within a division.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 61
+
+
+--- Page 64 ---
+
+■ Wherever possible, the grounds pleaded by the candidate requesting the 
+
+recount will be used to narrow down to as small a category as possible the 
+ballot papers that need to be re-examined.
+
+ ■ Where the margin of votes at the completion of the distribution of preferences 
+
+for a House of Representative division is less than 100, a recount will be 
+undertaken as a matter of course.
+
+ ■ Only one recount of any set of ballot papers will occur.
+
+ ■ Requests for recounts will only be considered, and actioned, in the period after 
+the completion of all scrutinies and before the declaration of the poll in the 
+division.
+
+Senate recount
+
+If requesting a recount, Senate candidates must write to the AEO for the state or 
+territory giving their reasons for the request.
+
+If the AEO for the state or territory refuses a request from a candidate to direct a 
+recount of any Senate ballot papers, the candidate may appeal in writing to the 
+Electoral Commissioner. The Electoral Commissioner is empowered to either direct 
+or refuse a recount.
+
+Evaluating a request for a Senate Recount
+
+The guidelines for evaluating a request for a Senate Recount are detailed in the 
+AEC’s Recount Policy for Senate Elections.
+
+For more information on formality, see Ballot paper formality guidelines on 
+the AEC website.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 62
+
+
+--- Page 65 ---
+
+Court of Disputed Returns 
+The Act, Part XXII 
+
+Anyone contemplating a challenge to an election result should consult their own 
+legal advisers. The validity of the election of any member of parliament may only be 
+disputed by a petition to the Court of Disputed Returns within 40 days of the return 
+of the writ. The Common Informers (Parliamentary Disqualifications) Act 1975 
+provides penalties for ineligible members of parliament who sit as members or 
+senators. Such an action has to be argued in the High Court under section 5 of  
+that Act.
+
+The Act, s.360(1) 
+
+The Court of Disputed Returns sits as an open court. Its powers include  
+the following:
+
+i. 
+
+ii. 
+
+iii. 
+
+to adjourn
+
+to compel the attendance of witnesses and the production of documents
+
+to grant to any party to a petition leave to inspect in the presence of a 
+prescribed officer the rolls and other documents (except ballot papers) used 
+at or in connection with any election and to take, in the presence of the 
+prescribed officer, extracts from those rolls and documents
+
+iv. 
+
+to examine witnesses on oath
+
+v. 
+
+to declare that any person who was returned as elected was not  
+duly elected
+
+vi. 
+
+to declare any candidate duly elected who was not returned as elected
+
+vii.  to declare any election absolutely void
+
+viii.  to dismiss or uphold the petition in whole or part
+
+ix. 
+
+to award costs
+
+x. 
+
+to punish any contempt of its authority by fine or imprisonment.
+
+A petitioner cannot challenge, in the Court of Disputed Returns, the validity of a 
+general election as a whole. The petitioner may only challenge the election in the 
+division of the House of Representatives or, for the Senate, the State or Territory, for 
+which he or she was enrolled on the date on which the election was held.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 63
+
+
+--- Page 66 ---
+
+What must a petition contain? 
+
+Petitions must set out the facts relied on to invalidate the election and, if they allege 
+illegal practices, must show how these could have affected the election result.
+
+The Act, s.355 
+
+A petition must: 
+
+a)  set out the facts relied on to invalidate the election,
+
+aa)  set out those facts with sufficient particularity to identify the specific matter 
+or matters on which the petitioner relies as justifying the grant of relief the 
+Court may at any time after the filing of the petition relieve the petitioner from 
+complying with this,
+
+b)  contain a prayer asking for the relief the petitioner claims to be entitled to,
+
+c)  be signed by a candidate at the election in dispute or by a person who was 
+
+qualified to vote at the election,
+
+d)  be attested by two witnesses whose occupations and addresses are stated,
+
+e)  be filed in the Registry of the High Court within 40 days after:
+
+i. 
+
+ii. 
+
+the return of the writ,
+
+ if the election day for the election in dispute is also the election day 
+for another election or other elections–the return of the writs for the 
+election in dispute and that other election or those other elections is 
+returned last, or
+
+iii. 
+
+if the choice of a person to hold the place of a Senator under section 15 
+of the Constitution is in dispute – the notification of that choice.
+
+The Act, s.356 
+
+When filing a petition, the petitioner must deposit security for costs.
+
+Note: there may be other filing fees and charges under High Court rules.
+
+The AEC is not able to assist petitioners in preparing petitions. This 
+is because there would be a conflict of interest, as the AEC is often a 
+respondent to any petition before the Court of Disputed Returns.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 64
+
+
+--- Page 67 ---
+
+Voiding an election for illegal practices 
+The Act, s.362 
+
+An election may be declared void if the court finds illegal practices, within the 
+meaning of that term under the Act, took place.
+
+Section 362 of the Act, which details when an election is declared void due to illegal 
+practices, is reproduced below.
+
+1. 
+
+If the Court of Disputed Returns finds that a successful candidate has 
+committed or has attempted to commit bribery or undue influence, the 
+election of the candidate shall be declared void.
+
+2.  No finding by the Court of Disputed Returns shall bar or prejudice any 
+
+prosecution for any illegal practice.
+
+3.  The Court of Disputed Returns shall not declare that any person returned as 
+
+elected was not duly elected, or declare any election void:
+
+a.  on the ground of any illegal practice committed by any person other than 
+the candidate and without the knowledge or authority of the candidate, or
+
+b.  on the ground of any illegal practice other than bribery or corruption or 
+
+attempted bribery or corruption,
+
+unless the Court is satisfied that the result of the election was 
+likely to be affected, and that it is just that the candidate should 
+be declared not to be duly elected or that the election should be 
+declared void.
+
+4.  The Court of Disputed Returns must not declare that any person returned 
+
+as elected was not duly elected, or declare any election void, on the ground 
+that someone has contravened the Broadcasting Services Act 1992 or the 
+Radiocommunications Act 1992.
+
+The Act, s.386 
+
+Any candidate found guilty of bribery or undue influence or interference with political 
+liberty may not be elected to or sit as a member of either House of Parliament for 
+two years from the date of conviction or finding by the Court.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 65
+
+
+--- Page 68 ---
+
+Appendix 1: Electoral offences
+ ■ Part XXI, ‘Electoral offences’
+
+ ■ Part XXIII, ‘Miscellaneous’
+
+Australia’s democratic institutions and procedures have strong protection under the 
+law, not only under the Act but also other legislation. This appendix lists the most 
+important of these offences and the penalties they incur. As a candidate,  
+you are urged to make yourself familiar with the details of the various  
+electoral offences.
+
+The Act, s.383
+
+Candidates and the AEC are able to seek injunctions from the Federal Court to 
+restrain breaches or anticipated breaches of any Commonwealth law relating  
+to elections.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 66
+
+
+--- Page 69 ---
+
+Offences during the election period
+
+Offence
+
+Penalty
+
+Comment
+
+Criminal Code Act 1995
+
+Part 7.4
+
+12 months 
+imprisonment
+
+Knowingly making a 
+false or misleading 
+statement in any claim 
+for enrolment, or in any 
+declaration, application 
+or return
+
+Criminal Code Act 1995
+
+Part 7.7
+
+Forging and uttering a 
+nomination paper or a 
+ballot paper
+
+10 years 
+imprisonment 
+(maximum)
+
+Commonwealth Electoral Act 1918
+
+s.325A
+
+Influencing the vote of 
+a patient in, or resident 
+at, a hospital or nursing 
+home
+
+$1 000 or 
+six months 
+imprisonment, or 
+both
+
+s.326(1) and (2)
+
+Bribery (see page 
+69)
+
+s.327(1)
+
+Hindering or interfering 
+with the free exercise 
+or performance by any 
+other person of any 
+political right or duty 
+relevant to an election
+
+$5 000 or 
+two years 
+imprisonment, or 
+both
+
+$1 000 or 
+six months 
+imprisonment, or 
+both
+
+False or misleading 
+statements made in 
+relation to Part XX 
+of the Act (election 
+funding and financial 
+disclosure) will continue 
+to be prosecuted under 
+the specific offences 
+contained in that Part of 
+the Act 
+
+Certain offence 
+provisions (such as 
+s.29 of the Crimes 
+Act 1914 relating to 
+the destruction of 
+Commonwealth property) 
+are also relevant to the 
+electoral process
+
+Applies to the proprietor 
+(or an employee of the 
+proprietor or member of 
+the body corporate) of a 
+hospital or nursing home
+
+Election campaign 
+declarations of public 
+policy or promises of 
+public action are not 
+regarded as bribery
+
+Offences during the 
+election period
+
+Candidates Handbook  Federal elections  |  By-elections  Page 67
+
+
+--- Page 70 ---
+
+s.327(2)
+
+Offence
+
+Penalty
+
+Comment
+
+$5 000 or 
+imprisonment for 
+two years, or both, 
+for an individual; 
+$20 000 for a 
+body corporate
+
+Discriminating against 
+another person for 
+making a donation 
+to a political party, a 
+candidate or a group 
+in an election or by-
+election by:
+
+ ■ denying them access 
+to membership of any 
+trade union, club or 
+other body
+
+ ■ not allowing them to 
+work or continue to 
+work
+
+ ■ subjecting them 
+to any form of 
+intimidation or 
+coercion
+
+ ■ subjecting them to 
+any other detriment
+
+Candidates Handbook  Federal elections  |  By-elections  Page 68
+
+
+--- Page 71 ---
+
+Bribery 
+
+Subsections 326(1) and (2) of the Act are reproduced below: 
+
+1.  A person shall not ask for, receive or obtain, or offer or agree to ask for, or 
+
+receive or obtain, any property or benefit of any kind, whether for the same or 
+any other person, on an understanding that:
+
+a.  any vote of the first-mentioned person;
+
+b.  any candidature of the first-mentioned person;
+
+c.  any support of, or opposition to, a candidate, group of candidates or a 
+
+political party by the first-mentioned person;
+
+d. 
+
+e. 
+
+the doing of any act or thing by the first-mentioned person the purpose of 
+which is, or the effect of which is likely to be, to influence the preferences 
+set out in the vote of an elector; or
+
+the order in which the names of candidates nominated for election to the 
+Senate whose names are included in a group in accordance with section 
+168 appear on a ballot paper;
+
+will, in any manner, be influenced or affected.
+
+PENALTY: $5 000 or imprisonment for two years, or both.
+
+2.  A person shall not, with the intention of influencing or affecting:
+
+a.  any vote of another person;
+
+b.  any candidature of another person; or
+
+c.  any support of, or opposition to, a candidate, group of candidates or 
+
+apolitical party by another person;
+
+d. 
+
+e. 
+
+the doing of any act or thing by another person the purpose of which is, or 
+the effect of which is likely to be, to influence the preferences set out in 
+the vote of an elector; or
+
+the order in which the names of candidates nominated for election to the 
+Senate whose names are included in a group in accordance with section 
+168 appear on a ballot paper; 
+
+give, or confer, or promise or offer to give or confer, any property or benefit of 
+any kind to that other person or to a third person. 
+
+PENALTY: $5 000 or imprisonment for two years, or both.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 69
+
+
+--- Page 72 ---
+
+Offences on election day 
+
+You and your supporters should also be aware that what a person does, or fails to 
+do, on election day may be against the law.
+
+Offence
+
+Penalty
+
+Comment
+
+Commonwealth Electoral Act 1918
+
+The Act expressly 
+authorises certain 
+exceptions, such as 
+assistance to voters 
+who are incapacitated 
+or have low literacy 
+skills 
+
+s.245
+
+s.335
+
+s.338
+
+s.339(1)(a)
+
+s.339(1)(b)
+
+s.339(1)(d)
+
+s.339(1)(e)
+
+Failure to vote without 
+valid and sufficient 
+reason
+
+Exhibiting or leaving a 
+how-to-vote card in any 
+polling booth
+
+$50
+
+$500
+
+Marking a vote or 
+making any other mark 
+on a ballot paper issued 
+to another elector
+
+$1 000 or 
+six months 
+imprisonment, 
+or both
+
+Impersonating any 
+person with the 
+intention of securing a 
+ballot paper to which 
+the impersonator is not 
+entitled 
+
+Impersonating any 
+person with the 
+intention of voting in 
+that other person’s 
+name 
+
+Fraudulently putting any 
+ballot paper or other 
+paper into the ballot box 
+
+Fraudulently taking any 
+ballot paper out of any 
+polling booth or counting 
+centre 
+
+Six months 
+imprisonment
+
+Six months 
+imprisonment
+
+Six months 
+imprisonment
+
+Six months 
+imprisonment
+
+s.339(1)(g)
+
+Supplying ballot papers 
+without authority
+
+Six months 
+imprisonment
+
+Candidates Handbook  Federal elections  |  By-elections  Page 70
+
+
+--- Page 73 ---
+
+Offence
+
+Penalty
+
+Comment
+
+Commonwealth Electoral Act 1918
+
+s.339(1)(h)
+
+s.339(1A) 
+
+Doing an act that 
+results in the unlawful 
+destruction of, taking 
+of, opening of, or 
+interference with, ballot 
+boxes or ballot papers
+
+Voting more than once 
+in the same election 
+
+s.339(1C) 
+
+Intentionally voting more 
+than once in the same 
+election
+
+s.339(2)
+
+Engaging in any act 
+that results in the 
+defacement, mutilation, 
+destruction or removal 
+of any notice, list or 
+other document affixed 
+by, or by the authority of, 
+any DRO
+
+Six months 
+imprisonment
+
+10 penalty units. 
+Section 4AA of the 
+Crimes Act 1914 
+determines the 
+dollar ($) value of 
+a penalty unit.
+
+60 penalty units 
+or 12 months 
+imprisonment, or 
+both. Section 4AA 
+of the Crimes Act 
+1914 determines 
+the dollar ($) value 
+of a penalty unit.
+
+$500
+
+Candidates Handbook  Federal elections  |  By-elections  Page 71
+
+
+--- Page 74 ---
+
+Offence
+
+Penalty
+
+Comment
+
+Commonwealth Electoral Act 1918
+
+s.226(5), 340(1) 
+and (2)
+
+$500
+
+Canvassing for, or 
+soliciting votes, or 
+displaying or exhibiting 
+any non-official sign 
+within six metres of the 
+entrance of a polling 
+place or mobile polling 
+team
+
+s.341
+
+s.348
+
+$1 000
+
+$500
+
+Wearing or displaying 
+in a polling place any 
+badge or emblem of a 
+candidate or political 
+party
+
+Engaging in misconduct; 
+disobeying a lawful 
+direction of the person 
+in charge; or entering or 
+remaining in specified 
+places without the 
+permission of the 
+person in charge
+
+Applies to party 
+workers, scrutineers 
+and candidates’ 
+representatives. When 
+a building used as a 
+polling place is situated 
+in enclosed grounds 
+and the DRO has 
+authorised the officer-
+in-charge to display at 
+each entrance a notice 
+signed by the DRO 
+stating that the grounds 
+are part of the polling 
+place, those grounds 
+are considered to be 
+part of the polling place 
+for the purposes of 
+these offences
+
+Applies to electoral 
+officials and scrutineers
+
+Applies to any early 
+voting office, any polling 
+place on election 
+day or any counting 
+centre. An offender 
+may be removed by 
+the police or anyone 
+else authorised by the 
+person in charge
+
+Please note that the penalties imposed under the Commonwealth Electoral Act 
+1918 may be subject to section 4AB of the Crimes Act 1914 and as such the 
+pecuniary penalty listed below may increase from time to time as the penalty unit 
+under section 4AA of the Crimes Act 1914 is also increased. Where penalties are 
+expressed as not exceeding the specified limit, section 4D of the Crimes Act 1914 
+will apply.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 72
+
+
+--- Page 75 ---
+
+Election advertising offences
+The Act, s.328, s.328A, s.329 and s.331
+
+The Commonwealth Parliament has determined that the Act should not regulate the 
+content of political messages contained in electoral advertising. The intent of the 
+Act is:
+
+ ■ to ensure electors are informed about the source of political advertising, and
+
+ ■ to ensure that political advertising does not mislead or deceive electors about 
+
+the way in which a vote must be cast.
+
+The AEC therefore has no role or responsibility in deciding whether political 
+messages published or broadcast in relation to a federal election are true or 
+untrue. The AEC does have a role however, in doing its best to ensure that 
+electoral advertisements are properly authorised, so that electors can know who is 
+responsible for the statements contained in them.
+
+Complaints must be made in writing, addressed to the Deputy Electoral 
+Commissioner, and be accompanied by evidence of the material in question. This 
+could be an original copy of a how-to-vote card, an electoral advertisement or other 
+documents relevant to the allegation. Depending on the nature of the document in 
+question, a scanned copy or an emailed photograph may be acceptable.
+
+This provides the context for preliminary assessment of the matter and also enables 
+relevant evidence to be tendered in court if proceedings are undertaken at a later 
+date. The complainant should also provide as much additional information as 
+possible to enable assessment of the alleged breach. The AEC will immediately 
+acknowledge receipt of the complaint.
+
+If an original copy cannot be obtained, a copy of the entire document may be 
+forwarded to the AEC. Similarly, for a complaint about electoral advertisements on 
+the Internet, the complaint should, if possible, be accompanied by a print copy of 
+the webpage, showing the advertisement, from which the AEC can make a formal 
+assessment of its compliance with the law.
+
+In the absence of a printed copy of the advertisement as it appeared on the Internet 
+being provided with the complaint, the AEC will require enough information about 
+the Internet site in order to locate the advertisement and make an assessment 
+regarding compliance with the Act.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 73
+
+
+--- Page 76 ---
+
+For more detailed information on the regulation of electoral 
+advertisements, you should refer to the Electoral Backgrounder on 
+Electoral Advertising, which is available on the AEC website or from AEC 
+national and state offices.
+
+Photographers and media 
+
+Photographers and members of the media or their equipment must not hinder, 
+inconvenience or delay any polling staff or voters. No photographs may be taken of a 
+person recording a vote that would in any way identify how the person has voted.
+
+Anyone arranging for photographers or media to visit polling places should contact 
+the DRO in sufficient time to enable arrangements to be made with the officer-in-
+charge at the relevant polling place.
+
+Members of the media or photographers must have the permission of the DRO 
+before visiting a polling place, and they must have the permission of the relevant 
+DRO and the institution concerned before visiting any place where mobile polling is 
+being conducted.
+
+Further information, including guidelines on media coverage in polling 
+places, is available on the AEC website or from AEC national and state 
+offices.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 74
+
+
+--- Page 77 ---
+
+Appendix 2: Additional information 
+available to candidates 
+
+The AEC produces a range of publications for candidates in addition to the 
+Candidates Handbook. These include:
+
+ ■ Scrutineers Handbook: information for scrutineers in the election
+
+ ■ Electoral Pocketbook: a quick reference guide to the last federal election
+
+ ■ Nomination Guide for Candidates: a quick reference guide for prospective 
+
+candidates
+
+ ■ Ballot paper formality guidelines: information on the formality and informality of 
+
+ballot papers
+
+ ■ Electoral Backgrounders: backgrounders discuss particular issues in the 
+
+electoral process
+
+ ■ Funding and Disclosure Guides: separate guides for candidates, political parties 
+
+and donors.
+
+Other information materials will be available during the election campaign. A copy 
+of the Scrutineers Handbook is given to each candidate when they nominate at a 
+divisional office.
+
+General information on a range of topics is available from all AEC offices, by phoning 
+13 23 26 or by visiting the AEC website.
+
+Candidate information sessions
+
+To assist political parties and individuals who are interested in nominating as 
+candidates for the federal election, information sessions are conducted in each 
+state and territory. These sessions provide an overview of the electoral process, 
+including information on the nomination process and the rights and responsibilities 
+of candidates.
+
+To find out more about the candidate information sessions, contact the AEC on  
+13 23 26 or see the AEC website.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 75
+
+
+--- Page 78 ---
+
+Official material available to candidates
+
+House of Representatives candidates are entitled to receive a copy of the certified 
+list of voters for the division for which they are seeking election, as soon as they are 
+produced after the close of the rolls for the election.
+
+Senate candidates are not entitled to copies of the certified list. Note: the certified 
+list of voters is an official AEC publication and must be handled and disposed of in 
+accordance with the Act. You must dispose of the document as per the undertaking 
+you made on its receipt.
+
+The Candidates Handbook, Scrutineers Handbook and other electoral 
+information are also available on the AEC website.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 76
+
+
+--- Page 79 ---
+
+Glossary
+
+Australian Electoral 
+Commission (AEC)
+
+Australian Electoral 
+Officer (AEO)
+
+By-election
+
+Candidate
+
+Candidate Return and 
+Senate Group Return 
+
+Certified list of voters
+
+The independent statutory authority established in 1984 
+to maintain and update the Commonwealth electoral roll, 
+raise public awareness and conduct federal elections and 
+referendums.
+
+The AEC’s chief manager in each state and the Northern Territory. 
+An AEO for the Australian Capital Territory is only appointed for 
+each election period. The AEO is the returning officer for the 
+Senate in their state or territory.
+
+A by-election is held whenever a vacancy occurs in the House 
+of Representatives. A supplementary election must be held if a 
+candidate for a House of Representatives election dies in the 
+period between close of nominations and election day.
+
+A person standing for election to the Senate or House of 
+Representatives.
+
+Documents detailing information on the receipts and expenditure 
+of participants in the political process. There are specific return 
+forms for candidates, their donors and political parties. Financial 
+disclosure returns are made public 24 weeks after election day.
+
+The official electoral roll used to mark off electors’ names. 
+Polling officials place a mark against an elector’s name when the 
+elector is issued with a ballot paper at a polling place, or where 
+appropriate during early voting, to indicate that the elector has 
+voted.
+
+Close of rolls period
+
+The roll closes on the seventh day after the issue of the writ.
+
+Commonwealth Electoral 
+Act 1918
+
+The legislation governing the Commonwealth electoral process. 
+Referred to as ‘the Act’ in this handbook.
+
+Constitution
+
+Counting centre
+
+Court of Disputed Returns
+
+Declaration vote
+
+The Australian Constitution.
+
+Any site at which a scrutiny or counting of votes is to be, or is 
+being, conducted.
+
+A candidate, an elector or the AEC may dispute the validity of  
+an election by a petition to the High Court sitting as the Court  
+of Disputed Returns. The court has wide powers to resolve  
+the matter.
+
+A declaration vote is recorded by a voter whose entitlement 
+to vote cannot be confirmed at the place of voting. The voter 
+makes a signed declaration on an envelope and then puts their 
+completed ballot paper inside. These votes are counted after 
+election day if the voter’s entitlement to vote is verified using the 
+information provided on the declaration envelope.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 77
+
+
+--- Page 80 ---
+
+Divisions (electorates)
+
+Divisional Returning 
+Officer (DRO)
+
+Early vote
+
+For representation in the House of Representatives, Australia is 
+divided into electoral divisions. The number of these divisions is 
+determined by population. To ensure equal representation, the 
+boundaries of these divisions have to be redrawn or redistributed 
+periodically. (For representation in the Senate, each state and 
+territory is one electorate. All states are multi-member electorates 
+and have the same number of Senators. Territory representation 
+is determined by the federal parliament).
+
+The AEC officer responsible for conducting the election in each 
+division. The DROs are the returning officers for the House of 
+Representatives in their divisions and are also responsible for 
+electoral administration within that division, in particular, the 
+maintenance of the electoral roll, providing information sessions 
+to schools and community groups and preparations for the next 
+election.
+
+A postal vote or a vote cast at an early voting centre, an AEC 
+divisional office or via a mobile polling team in the lead-up to 
+election day. They are cast by electors who will not be able to get 
+to a polling place on election day.
+
+Electoral Act
+
+The Commonwealth Electoral Act 1918.
+
+Election Inquiry System
+
+Electoral and Referendum 
+Regulations 1940
+
+Electoral Commissioner
+
+Electronic roll
+
+Formal
+
+A sub-system within the broader AEC election management 
+system which centrally calculates election results, displays those 
+results and is the interface to the Virtual Tally Room.
+
+Regulations that support the operation of the Act.
+
+The officer who performs the functions of the chief executive 
+officer of the AEC.
+
+An electronic list of eligible people who are registered to vote in 
+Australian elections.
+
+A ballot paper is generally considered formal if it is filled out 
+correctly in accordance with the Act and the instructions on the 
+ballot paper. It is therefore included in the scrutiny.
+
+How-to-vote (HTV) cards
+
+Cards provided to voters by candidates showing how a party or 
+candidate would like voters to fill in their ballot papers.
+
+Informal
+
+Issuing point
+
+Mobile polling team
+
+A ballot paper is generally considered informal if it is not filled out 
+correctly in accordance with the Act and the instructions on the 
+ballot paper. It cannot therefore be included in the scrutiny.
+
+The part of the polling place where ballot papers are issued  
+to electors.
+
+A team of polling officials who bring the polling to the elector. They 
+visit electors in locations including nursing homes, prisons and 
+remote locations to enable them to vote.
+
+Candidates Handbook  Federal elections  |  By-elections  Page 78
+
+
+--- Page 81 ---
+
+Nomination form
+
+Officer in charge
+
+Ordinary vote
+
+Polling place hospital
+
+Preferential voting (full)
+
+Provisional votes
+
+Quota
+
+Registered officer
+
+The approved form which must be used by a candidate 
+nominating for election. There are also five forms for the Senate, 
+and three forms for the House of Representatives, one of which is 
+the bulk nomination form.
+
+The officer who is in charge at a polling place. They are called 
+‘presiding officers’ during polling (8am to 6pm). From 6pm, during 
+the scrutiny, they are called the Assistant Returning Officer.
+
+An ordinary vote is recorded by an elector whose entitlement to 
+vote is verified at the place of polling and whose name is marked 
+off on a certified list of electors. Ordinary votes may be cast on, 
+or in certain circumstances, before election day. These votes are 
+counted on election day after the close of voting.
+
+A hospital at which a polling place is established to take the votes 
+of electors. Polling officials may provide static and mobile polling 
+services.
+
+A system of voting in which the voter completes the ballot paper 
+by putting the number ‘1’ in the box next to the candidate who is 
+their first choice, the number ‘2’ in the box next to their second 
+choice, and so on until every box is numbered.
+
+Are votes cast at a polling place where the elector’s name cannot 
+be found on the roll, or where the elector’s name has been 
+marked off the roll as having voted, or where the elector has 
+silent enrolment, or where, after questioning, the elector has 
+failed to satisfy the officer in charge that they are a particular 
+person on the certified list.
+
+To be elected to the Senate, a candidate needs to gain a quota or 
+proportion of votes. The quota is determined by dividing the total 
+number of formal ballot papers in the state or territory by one 
+more than the number of Senators to be elected and adding ‘one’ 
+to the result.
+
+A person nominated by a registered political party to be the 
+registered officer for the purposes of the Act. For nomination 
+purposes, the deputy registered officer of a registered political 
+party has the same powers as the registered officer.
+
+Registered political party
+
+A party registered with the AEC under Part XI of the Act.
+
+Regulations
+
+Scrutineers
+
+Electoral and Referendum Regulations 1940.
+
+People appointed by candidates to be their representatives at 
+polling places, or at any place at which the scrutiny of votes is 
+being conducted. Scrutineers have the right to be present when 
+the ballot boxes are sealed and opened and when the votes 
+are sorted and counted so that they may check any possible 
+irregularities, but they may not touch any ballot paper.
+
+Scrutiny
+
+The counting of votes, which leads to the election result. 
+
+Candidates Handbook  Federal elections  |  By-elections  Page 79
+
+
+--- Page 82 ---
+
+Silent elector
+
+Two-candidate-preferred
+
+An elector who has applied to have their address not appear  
+on the roll for reasons of personal safety or safety of their  
+family members. 
+
+These figures show where preferences have been distributed 
+to the likely final two candidates in a House of Representatives 
+election.
+
+Virtual Tally Room (VTR)
+
+A website election results system, which provides election 
+information and results in a user-friendly format. 
+
+Writ
+
+In an election context, a writ is a document which commands an 
+electoral officer to hold an election and contains dates for the 
+close of rolls, the close of nominations, the day of the election 
+and the return of the writ. The issue of the writ triggers the 
+election process. 
+
+Candidates Handbook  Federal elections  |  By-elections  Page 80

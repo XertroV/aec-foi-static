@@ -1,0 +1,5311 @@
+
+
+--- Page 1 ---
+
+
+
+
+--- Page 2 ---
+
+Policy
+
+AEC Learning
+
+Procedures         
+
+See Also...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adoptions or No Claim Provided
+
+Australian Citizen by Birth
+
+Born on Norfolk Island or Papua New Guinea
+
+Citizen by Grant
+
+Citizenship Enquiries
+
+Commonwealth Countries for Establishing British Subject
+
+Status
+
+Eligible British Subject
+
+Ineligible Applicants
+
+Acknowledgement of Country
+
+The AEC acknowledges the Traditional Owners of country throughout Australia and recognises their continuing connection to land, waters, culture
+
+and community.
+
+We pay our respects to Elders past, present and emerging.
+
+            
+
+
+--- Page 3 ---
+
+
+
+
+--- Page 4 ---
+
+Acknowledgement of Country
+
+The AEC acknowledges the Traditional Owners of country throughout Australia and recognises their continuing connection to land, waters, culture
+
+and community.
+
+We pay our respects to Elders past, present and emerging.
+
+            
+
+
+--- Page 5 ---
+
+
+
+
+--- Page 6 ---
+
+
+
+
+--- Page 7 ---
+
+
+
+
+--- Page 8 ---
+
+
+
+
+--- Page 9 ---
+
+If a match cannot be found, the user should contact the
+
+applicant by telephone to seek additional information. If
+
+additional information is provided, search the Citizenship
+
+database in GENESIS again. If no contact can be made,
+
+additional information is not provided or if a match cannot be
+
+made, the Citizenship Questionnaire (Defect Letter) should be
+
+sent.
+
+If the Citizenship Questionnaire is returned, conduct further
+
+citizenship searches in GENESIS. If a match still cannot be
+
+made, or the questionnaire is not returned, request a
+
+citizenship check in accordance with the process outlined in
+
+the Citizenship Enquiries Roll-How page. The appropriate
+
+decision should be made upon the outcome of the citizenship
+
+check.
+
+Note: If a current Australian Passport has been included on
+
+the enrolment application for Evidence of Identity purposes,
+
+the passport can be used as Evidence of Citizenship. If a
+
+passport has not been provided, staff are not permitted to
+
+search the Australian Passport Database for this information.
+
+Using a passport as evidence of citizenship requires a manual
+
+decision to be made.
+
+Policy
+
+Procedures     
+
+Learning
+
+Acknowledgement of Country
+
+The AEC acknowledges the Traditional Owners of country throughout Australia and recognises their continuing connection to land, waters, culture
+and community.
+
+We pay our respects to Elders past, present and emerging.
+
+            
+
+
+--- Page 10 ---
+
+
+
+
+--- Page 11 ---
+
+Note: There is one citizenship database search that can only
+
+be conducted in RMANS. The search is conducted by
+
+accessing the Immigration Enquiry screen in RMANS
+
+(Main>Enrolment Processing>Electors>Elector
+
+Enquiries>Immigration Enquiry), and placing the number 0
+
+only in the surname field. The results of this search are
+
+records that have been incorrectly entered, and there is little
+
+information to confirm that the record belongs to the
+
+applicant. If the incorrectly entered record is confirmed as the
+
+applicant’s, use the Citizenship Number in the RMANS screen
+
+to conduct a Citizenship Search from the Edit Application
+
+screen in GENESIS, and then select the Match button.
+
+Previous enrolment checks
+
+Although GENESIS conducts previous enrolment history
+
+checks during verification, there are times where an exact
+
+match cannot be found. In these cases, GENESIS will advise
+
+that potential matches have been found and need to be
+
+confirmed manually.
+
+If the match is not obvious use the Matched Client link (in the
+
+Applicant tab) to view the elector's history. In the View Client
+
+screen, the Citizenship tab will contain relevant information.
+
+If additional citizenship information cannot be found on the
+
+enrolment record, check the records to see if there has been a
+
+change to the elector's name or a change in spelling. If a
+
+change is found, use this information for further enquiries.
+
+Previous enrolment images
+
+If an applicant has an enrolment history, the images of
+
+previous applications can provide information that was not
+
+entered into the roll management system.
+
+Check the images to see if the applicant previously gave a
+
+former name, additional name or citizenship certificate
+
+number. This information can then be used to conduct further
+
+checks in GENESIS.
+
+Telephone contact
+
+If, after editing available information and checking both the
+
+elector’s previous enrolment records and images, the
+
+applicant’s citizenship cannot be confirmed, contact should
+
+be made via telephone.
+
+When speaking to the applicant, the following questions can
+
+lead to a positive match on the citizenship database:
+
+Confirm country of birth
+
+Name(s) when citizenship was granted
+
+Year citizenship was granted
+
+Age when citizenship was granted
+
+Parents / spouse / sibling names and dates of birth and
+
+Australian passport number.
+
+Searches, as described in the 'Queries using the information'
+
+section, can be conducted whilst on the telephone to the
+
+applicant or notes can be made and searches conducted at a
+
+later time. It is important that a Note be added to the
+
+application in GENESIS regarding the information that lead to
+
+the match (e.g. ’Citizenship match made on previous name as
+
+advised by applicant’).
+
+
+--- Page 12 ---
+
+If a match is still unable to be made, or contact cannot be
+
+made, the Citizenship Questionnaire (Defect Letter) should be
+
+sent to the applicant.
+
+Citizenship questionnaire
+
+To protect the integrity of the enrolment process, all requests
+
+for information must be in writing.  The exception to this are
+
+requests that are part of basic investigations, including
+
+telephone enquiries, RMANS elector enquiries, Citizenship
+
+database searches, or searches for enrolment applications in
+
+the Imaging system.
+
+If further investigations are needed, send the Citizenship
+
+Questionnaire (Defect Letter) from GENESIS, together with a
+
+reply paid envelope to the elector.
+
+If there is no reply after 28 days, GENESIS will create an alert
+
+to send the Citizenship Questionnaire (Follow-up) letter from
+
+the system, which is to be returned within 14 days.
+
+If a reply is received, use the information on the Citizenship
+
+Questionnaire to make the eligibility decision.
+
+If a reply is not received, or the information contained in the
+
+Citizenship Questionnaire does not lead to eligibility being
+
+determined (and the operator has confirmed the enrolment
+
+application cannot be downgraded) a citizenship check
+
+(Citizenship Check) enquiry request must be raised with the
+
+AEC Service Centre as outlined below.
+
+Note: The AEC and its staff are not expected to be citizenship
+
+experts or authorities. Before any application is rejected on
+
+citizenship grounds, a citizenship check should be completed.
+
+Citizenship Check enquiries
+
+Citizenship enquiries that cannot be resolved internally must
+
+be sent by the AEC Service Centre to the Department
+
+of Home Affairs for investigation.
+
+Staff should ensure that all avenues of investigation have
+
+been exhausted before requesting a citizenship check to the
+
+AEC Service Centre. The purpose of this is two-fold:
+
+a) Citizenship checks can often take a considerable amount of
+
+time for the AEC Service Centre and Home Affairs to
+
+investigate; and
+
+b) It also ensures that all relevant information can be included
+
+in the Citizenship Check Request Form if it is required.
+
+How to request a citizenship check
+
+For citizenship checks, 'Log a Request' with the AEC Service
+
+Centre and then select 'Citizenship Check' from the drop
+
+down menu to bring up the Citizenship Check Request Form.
+
+The following details must be provided to the AEC Service
+
+Centre when requesting a citizenship check:
+
+Elector's full name
+
+Date of birth
+
+Gender
+
+Country of birth
+
+Fields that are mandatory in the form but information has not
+
+been sourced should have 'Not Provided' entered in that field.
+
+
+--- Page 13 ---
+
+Note: Citizenship numbers will be 11 digits long e.g.
+
+01785500966. Numbers with alpha characters at the
+
+beginning are stock numbers and are not citizenship numbers
+
+e.g. ACC1445385. If required, contact the elector for the
+
+citizenship number.
+
+Once the citizenship check request has been submitted, the
+
+application should be placed on ‘Hold’ in GENESIS and a Note
+
+should be added to the application.
+
+The AEC Service Desk will advise of the outcome of the
+
+investigation.
+
+Once the citizenship check results are received from the AEC
+
+Service Desk, the operator should use the information
+
+to determine the applicant’s citizenship eligibility.
+
+If staff are satisfied that the person is eligible as a citizen or is
+
+entitled as an eligible British Subject, process the application.
+
+If staff are unable to determine that the applicant is an
+
+Australian citizen or an eligible British Subject follow the
+
+procedures in Ineligible Applicants.
+
+Close of Rolls: Citizenship
+
+Enquiries
+
+If replies to citizenship queries arrive after the close of rolls,
+
+see Replies Received to Pending Enrolment Queries.
+
+If a reply to a citizenship query is not received by close of
+
+rolls, the applicant’s name must not be added to the roll until
+
+their citizenship is verified.
+
+See also: No Reply to Pending Enrolment Queries
+
+Citizenship database irregularities
+
+GENESIS will verify the data entered and advise the user if
+
+investigation is required. 
+
+Note that sometimes an elector's record in the Citizenship
+
+database reveals that their citizenship status has changed
+
+since they were verified in RMANS as having acquired
+
+citizenship. Their status may change from "Acquired" or
+
+"Approved" to "Undo Acq *Data Error*", "Undo Apr *Data
+
+Error*", or "Undo Rvk *Data Error*". The change is the result of
+
+the Department of Home Affairs amending a person's
+
+citizenship record to correct an error in the person's details,
+
+for example - an incorrect acquisition date. This does not
+
+affect a person's Australian citizenship, and applications for
+
+enrolment from people whose records show "Undo Acq *Data
+
+Error*", "Undo Apr *Data Error*", or "Undo Rvk *Data Error*"
+
+in the status field can be accepted on citizenship grounds.
+
+If the status of "cessatn" shows in the database it means that
+
+there is a cease date for the citizenship (e.g. it has been void
+
+or removed).  This is grounds to start objection action (should
+
+the elector be current on the roll) however further
+
+investigation must be conducted prior to commencing
+
+objection.
+
+Citizenship manual decisions
+
+If GENESIS is unable to make an automatic citizenship
+
+decision, manual decisions must be made. Manual decisions
+
+are often made after a Citizenship Questionnaire (Defect
+
+
+--- Page 14 ---
+
+Letter) or a Citizenship Check Enquiry is returned confirming
+
+citizenship using a different type of evidence (Australian
+
+Passport, parent’s citizenship certificate, etc.).
+
+Care must be taken to complete the Decision fields correctly,
+
+as based on the information selected a notation is created. To
+
+ensure the correct information is selected, refer to Citizenship
+
+Manual Decision Options Table (in GENESIS Online Help using
+
+the following pathway: Applications Processing>Process
+
+Application>Reviewing Defects>Citizenship Manual Decision
+
+Options).
+
+Citizenship notations
+
+Elector notations are added to elector records to indicate how
+
+citizenship status was verified if a match was unable to be
+
+made against the citizenship database. These notations are
+
+added to the enrolment record as a result of a manual
+
+citizenship decision.  The following table explains what the
+
+notations mean.
+
+Notation
+
+Indicates
+
+AX
+
+AC
+
+Verified by matching with
+citizenship data.  This
+notation is used to indicate
+that the elector provided
+information indicating they
+were a citizen before a
+citizenship verification
+facility was established.
+ When citizenship data
+became available, an
+automated process was used
+to match electors who had
+provided an indication of
+citizenship and, where a
+match was found, an AX
+notation was added and the
+citizenship ID followed by a
+V recorded in the Citizenship
+ID field.
+
+AEC verified. This notation is
+used to indicate that the
+elector was not found in the
+citizenship database but
+provided documentary
+evidence of citizenship, for
+example, a copy of their
+citizenship certificate or
+current Australian passport.
+ Details of the document
+sighted are recorded in the
+notation.
+
+If the elector is subsequently
+matched with the citizenship
+database, the AC notation is
+retained, and the citizenship
+ID is added with the letter V
+in the Citizenship ID field
+(this happens automatically
+when the elector is
+matched).
+
+Note: This notation is also
+used when the elector is
+found in the citizenship
+database with a status of
+'Acquired', but no citizenship
+ID is recorded in the
+database.
+
+
+--- Page 15 ---
+
+AV
+
+BS
+
+NN
+
+Immigration Department
+verified.  This notation is
+used to indicate that the
+elector was not found in the
+citizenship database but
+confirmation that the person
+is a citizen has been
+provided by the Immigration
+Department. If the
+Immigration Department
+provide a citizenship ID this
+is recorded in the notation.
+
+British subject.  Indicates
+that the elector is a British
+Subject and enrolment
+eligibility has been
+established.
+
+Non-Naturalised. This
+notation is added to the
+deleted record where the
+elector was objected from
+the roll on the ground that
+they were not a citizen or
+eligible British subject.  The
+NN notation alerts the
+operator to verify citizenship
+if the person subsequently
+attempts to re-enrol.
+
+Policy
+
+Learning
+
+Procedures 
+
+Acknowledgement of Country
+
+The AEC acknowledges the Traditional Owners of country throughout Australia and recognises their continuing connection to land, waters, culture
+
+and community.
+
+We pay our respects to Elders past, present and emerging.
+
+            
+
+
+--- Page 16 ---
+
+
+
+
+--- Page 17 ---
+
+Malaysia
+
+Zambia (Republic of) -
+(Northern Rhodesia until
+1964)
+
+Countries included in
+
+Citizenship Regulation 5A
+
+Antigua and Barbuda
+
+Saint Lucia
+
+Belize
+
+St Vincent
+
+(British Honduras until 1961)
+
+Dominica (The
+Commonwealth of)
+
+Seychelles (Republic of)
+
+Grenada
+
+Kiribati
+
+Solomon Islands
+
+Tuvalu
+
+(Gilbert Islands until 1979)
+
+(Ellice Islands until 1978)
+
+Maldives (Republic of)
+
+Vanuatu (Republic of)
+
+(New Hebrides until 1980)
+
+Zimbabwe
+
+(Rhodesia until 1910,
+Southern Rhodesia 1910-
+1964, Rhodesia 1965-
+1978, Zimbabwe-Rhodesia
+1979-1980)
+
+Papua New Guinea
+(Independent State of)
+
+St Kits and Nevis
+
+Note: Not all Commonwealth countries are listed in the table
+
+above. Determining an elector’s British subject status can be
+
+complex and some countries are only relevant for applicants
+
+born between certain dates when specific legislation was in
+
+effect. Before any application is rejected on citizenship
+
+grounds, a CitCheck Enquiry must be completed.
+
+Exceptions
+
+Ireland is not a British Commonwealth country, but for the
+
+purpose of determining enrolment eligibility it is treated as
+
+one.
+
+People born in South Africa and Pakistan were considered
+
+eligible British Subjects only up until 1 December 1975
+
+(though South Africa is currently a member of the
+
+Commonwealth). People born in South Africa and Pakistan
+
+were therefore not eligible British Subjects in 1985 and
+
+are not eligible British Subjects for the purposes of enrolment.
+
+Acquisition of Australian Citizenship by British Subjects
+
+When the Nationality and Citizenship Act came into force on
+
+26th January 1949, those British subjects who were not born
+
+in Australia automatically became Australian citizens if they
+
+had been ordinarily resident in Australia or New Guinea for
+
+five years prior to that date, i.e. from 26th January 1944 to
+
+25th January 1949.  However, those persons who were
+
+admitted to Australia for temporary residence only were
+
+excluded by the Act and did not become Australian citizens.
+
+
+--- Page 18 ---
+
+British subjects who arrived in Australia after 26th January
+
+1944 did not become Australian citizens but they may acquire
+
+this status by applying for registration as Australians.
+
+Policy        
+
+Procedures
+
+AEC Learning
+
+Acknowledgement of Country
+
+The AEC acknowledges the Traditional Owners of country throughout Australia and recognises their continuing connection to land, waters, culture
+and community.
+
+We pay our respects to Elders past, present and emerging.
+
+            
+
+
+--- Page 19 ---
+
+
+
+
+--- Page 20 ---
+
+The AEC holds a scanned microfiche / microfilm copy of the
+
+electoral roll on the 25 January 1984, meaning any British
+
+Subject listed on that roll is eligible to remain enrolled or re-
+
+enrol. The scanned microfiche is on the archive
+
+microfilm drive, split by state / territory and further split into
+
+individual PDF images, named after the first elector listed in
+
+each file. The microfilm drive is accessed via Microfilm\1984
+
+National (EBS) Reinstatement List
+
+Where some Eligible British Subjects were incorrectly removed
+
+from the electoral roll prior to 1984, they may have been
+
+added to the national EBS 'List of Reinstatements' on the
+
+archive microfilm drive. See Reinstatement of Eligible British
+
+Subjects.
+
+If the applicant is on the National Reinstatement List, the user
+
+can make the Eligible British Subject decision in GENESIS and
+
+approve the application.
+
+The applicant's country of birth is
+
+NOT included in the table of Commonwealth
+
+Countries for Establishing British Subject
+
+Status
+
+Determining an elector’s eligible British subject status can be
+
+complex and therefore not all Commonwealth countries are
+
+included in the table, as further consideration may need to be
+
+given to an individual’s personal circumstances.
+
+If the applicant was born in a country not listed in the table
+
+and a record cannot be found to confirm the applicant is an
+
+Eligible British Subject, the user should perform a Citizenship
+
+by Grant check. If this also provides negative results, the
+
+applicant should be sent the Citizenship Questionnaire
+
+(Defect) letter.
+
+If the applicant does not return the questionnaire, or based
+
+on the additional information provided in the questionnaire
+
+you are still unable to determine their Australian citizenship or
+
+British subject status, staff should request a citizenship check
+
+via the AEC Service Desk. Staff should then make the
+
+appropriate decision based on the results of the citizenship
+
+check.
+
+The AEC and its staff are not experts or authorities on
+
+citizenship. Some British subjects automatically became
+
+Australian citizens under the Nationality and Citizenship Act
+
+1948. However, they were not issued citizenship certificates
+
+and therefore may not be recorded as Australian citizens with
+
+the Department of Home Affairs. These applicants may wish
+
+to follow up their entitlement with the Department.
+
+Before any application is rejected on citizenship grounds,
+
+a citizenship check must be completed.
+
+Policy        
+
+Procedures 
+
+Learning
+
+
+--- Page 21 ---
+
+Acknowledgement of Country
+
+The AEC acknowledges the Traditional Owners of country throughout Australia and recognises their continuing connection to land, waters, culture
+
+and community.
+
+We pay our respects to Elders past, present and emerging.
+
+            
+
+
+--- Page 22 ---
+
+
+
+
+--- Page 23 ---
+
+
+
+
+--- Page 24 ---
+
+Legislation in Victoria and WA allow people who are 17 years
+
+old to enrol. In both Victoria and WA, 16 year olds who are
+
+enrolled on the Commonwealth roll are added to the state roll
+
+when they turn 17.
+
+Enrolment is not compulsory for 16 or 17 year olds for all the
+
+states and territories.
+
+Refer to 16 and 17 Year Olds for further information.
+
+Residential Requirements
+
+Residential requirements differ for Queensland, where
+
+residence is not required at an address for a month, but that
+
+the individual has resided in the state electoral district for at
+
+least the last month.
+
+British Subject Arrangements
+
+British subject arrangements are slightly different for some
+
+states and territories. These are outlined in the table below:
+
+When enrolling for
+
+Commonwealth,
+Tasmania, ACT & NT
+
+New South Wales
+
+Victoria
+
+British subjects who are not
+Australian citizens may re-
+enrol for
+
+Federal and Tasmanian state,
+ACT or NT elections if they
+were on a Commonwealth of
+Australia electoral roll on 25
+January 1984.
+
+NSW State elections if they
+were on a NSW State
+electoral roll or a
+Commonwealth of Australia
+electoral roll on 25 January
+1984.
+
+Victorian State elections if
+they were on either a
+Victorian State or
+Commonwealth of Australia
+electoral roll at any time
+between 26 October 1983
+and 25 January 1984
+inclusive.
+
+
+--- Page 25 ---
+
+Queensland
+
+Western Australia
+
+ South Australia
+
+Queensland State elections if
+they have lived in the
+electoral district for at least
+the last month; and
+
+Are qualified to enrol
+for Commonwealth
+elections, or
+
+Were entitled to be
+enrolled on the
+Queensland state
+electoral roll on 31
+December 1991.
+
+Western Australian State
+elections if they were on
+either a Western Australian
+State or Commonwealth of
+Australia electoral roll at any
+time between 26 October
+1983 and 25 January 1984
+inclusive.
+
+South Australian State
+elections if they were on the
+SA State roll or
+Commonwealth of Australia
+roll within the period 26
+October 1983 and 25 January
+1984 inclusive.
+
+Enrolment Disqualiﬁcations
+
+A person is not entitled to:
+
+Have their name placed on the electoral roll
+
+Be kept on the roll or
+
+Vote in any federal election
+
+if they:
+
+Hold a temporary visa under the Migration Act 1958
+[s.93(7)(a) CEA]
+
+Are an unlawful non-citizen under the Migration Act
+1958 [s.93(7)(b) CEA]
+
+Are of unsound mind such that they cannot understand
+the nature and significance of enrolment and
+voting [s.93(8)(a) CEA] or
+
+Were convicted of treason or treachery and were not
+pardoned [s.93(8)(c) CEA].
+
+Note: Special category electors who are not entitled, in
+
+respect of residence at an address, to be enrolled for a
+
+subdivision, are not entitled to be enrolled until they are 18
+
+years old. [s.100(1)(b) CEA] These include itinerants, prisoners,
+
+Eligible Overseas Electors (EOEs), the spouse, de facto partner
+
+or child of an EOE.
+
+
+--- Page 26 ---
+
+Note: Prisoners serving a sentence of imprisonment greater
+
+than 3 years are entitled to be enrolled but they are not
+
+entitled to vote at any House of Representatives or Senate
+
+election. [s.93(8AA) CEA]  A sentence of imprisonment is
+
+detention on a full-time basis. [s.4(1A) CEA]  
+
+Policy        
+
+Learning
+
+Procedures           
+
+Acknowledgement of Country
+
+The AEC acknowledges the Traditional Owners of country throughout Australia and recognises their continuing connection to land, waters, culture
+
+and community.
+
+We pay our respects to Elders past, present and emerging.
+
+            
+
+
+--- Page 27 ---
+
+
+
+
+--- Page 28 ---
+
+Differences between the two
+
+provisions
+
+The table below highlights the differences between the two
+
+provisions. Further information on each provision is outlined
+
+on this page.
+
+Provision
+
+Section 99A (Non-
+
+Section 99B
+
+Election Period)
+
+(Close of Roll)
+
+A person
+
+applied for
+
+been advised that
+
+who, if they
+
+Australian
+
+citizenship will be
+
+were an
+
+citizenship.
+
+Australian
+
+citizen, would
+
+be eligible
+
+for enrolment
+
+may make an
+
+application if
+
+they have:
+
+granted to them
+
+at a citizenship
+
+ceremony, to be
+
+held between the
+
+announcement of
+
+a federal election
+
+or the issue of the
+
+writ and polling
+
+day.
+
+An
+
+with the application
+
+between the
+
+application
+
+for citizenship at
+
+earlier of the
+
+may be
+
+lodged:
+
+any time.
+
+announcement or
+
+the issue of writ
+
+(whichever is
+
+earlier), and 8pm
+
+on close of rolls
+
+day.
+
+The applicant
+
+an ordinary elector
+
+a declaration
+
+can vote as:
+
+only after they
+
+voter but, for their
+
+have become a
+
+vote to be
+
+citizen, and their
+
+counted they
+
+application has
+
+must provide
+
+been processed as
+
+evidence that they
+
+an ordinary
+
+enrolment
+
+have become a
+
+citizen by the first
+
+application.  They
+
+Friday following
+
+can then vote as an
+
+polling day.
+
+ordinary elector if
+
+this occurs on or
+
+before close of rolls
+
+for a particular
+
+event.
+
+
+--- Page 29 ---
+
+To meet the
+
+become a citizen
+
+lodge their
+
+deadline for
+
+before the issue of
+
+application for
+
+the election,
+
+the writ.
+
+provisional
+
+the applicant
+
+must:
+
+The
+
+application
+
+must be
+
+supported
+
+by: 
+
+enrolment by the
+
+close of rolls.
+
+evidence of identity.
+
+evidence of the
+
+Immigration
+
+Department's
+
+notification but
+
+does not require
+
+evidence of
+
+identity when
+
+lodged.  
+
+When processed,
+
+the sighted
+
+evidence of
+
+citizenship
+
+provides evidence
+
+of identity.         
+
+The
+
+is refused
+
+does not provide
+
+application
+
+citizenship.
+
+evidence of
+
+will lapse if
+
+the applicant:
+
+citizenship by the
+
+first Friday
+
+following polling
+
+day.
+
+Section 99A (Non-Election Period) -
+
+Provisional Claim for Enrolment by
+
+Applicant for Citizenship
+
+A provisional claim for enrolment under section 99A (Non-
+
+Election Period) may be made at any time and must be
+
+submitted along with a person's application for citizenship
+
+[s.99A(4)(c)(i) CEA]. However, the person cannot vote in a
+
+federal election until they have become a citizen.
+
+It is not compulsory to submit a provisional claim for
+
+enrolment. As there is no specific enrolment form for this
+
+provision, an ordinary enrolment application may be
+
+submitted with the application for citizenship, see Receiving
+
+Provisional Claims for Enrolment [s 99A] in the ESG.
+
+
+--- Page 30 ---
+
+Applications under Section 99A (Non-Election
+Period)
+
+Valid Applications
+
+
+
+There is no approved form for making a provisional claim 
+
+for enrolment. Applicants for citizenship who wish to make 
+
+a provisional claim for enrolment under Section 99A of the 
+
+CEA should use an ordinary application for enrolment. This 
+
+form must be amended to show that the application is a 
+
+provisional claim and in place of citizenship details the 
+
+form must be amended to show the date the applicant 
+
+lodged their application for Australian citizenship.
+
+The application must be:
+
+• Signed by the applicant in the signature box 
+
+provided [s.99A(4)(b) CEA] The exception to this is 
+people who cannot sign their name because 
+of physical incapacity.
+
+Note: Legal Power of Attorney is not an acceptable 
+
+substitute for the applicant’s signature or mark.
+
+• Accompanied by a copy of the claimant's 
+
+application for Australian citizenship. [s.99A(4)(c) 
+CEA]The copy of the application must contain an 
+Immigration Department receipt or date stamp.
+
+• Be supported by evidence of identity. [s.99A(4)(d) 
+
+CEA]
+
+If a provisional claim for enrolment is valid, do not process 
+
+in RMANS, hold it as a pending enrolment until Australian 
+
+citizenship has been granted to the applicant. Send the 
+
+applicant a (PC.1) 'Acknowledgement Of Receipt' letter 
+
+from the SLS.
+
+Lodging Applications
+
+
+
+Provisional claims for enrolment must be lodged together 
+
+with the claimant's application for a certificate of 
+
+Australian citizenship. [s.99A(4)(c)(i) CEA] 
+
+Provisional claims can be submitted or forwarded 
+
+electronically. [s.382(4) CEA]
+
+Checking Citzenship
+
+
+
+A decision to grant or refuse a person's application for 
+
+Australian citizenship takes approximately four to six 
+
+weeks. However, there may be varying periods of time 
+
+before a decision is made and before a person can attend 
+
+a citizenship ceremony and receive their Australian
+
+
+--- Page 31 ---
+
+citizenship certificate. Check the Citizenship database to 
+
+establish if the applicant has attained Australian 
+
+citizenship.
+
+If a match is found on the Citizenship database and the 
+
+person has been granted Australian citizenship, the 
+
+provisional claim for enrolment is treated as an ordinary 
+
+enrolment application and is processed in accordance with 
+
+Roll-How. Applicants are issued a centrally produced 
+
+acknowledgement.
+
+Notifying Changes of Address and/or Name
+
+
+
+Persons who have lodged a provisional claim for 
+
+enrolment must lodge a new amended application for 
+
+enrolment to advise of a change of address and/or 
+
+name. [s.99A(2) CEA] 
+
+The new enrolment application may be lodged with any 
+
+Australian Electoral Officer or DRO. [s.99A(4)(d)(ii) CEA].
+
+When to Reject Applications
+
+
+
+Reject provisional claims for enrolment if the applicant:
+
+• Is currently enrolled,
+
+• Is not yet 16 years old [s.100 CEA], or
+
+• Does not reply to a (PC.2) Additional Info letter 
+
+within 28 days, or
+
+• Does not provide an Immigration Department 
+
+receipted and date stamped copy of the application 
+for citizenship, or
+
+• Is refused Australian citizenship.
+
+Advising the Applicant of Rejected Application 
+
+Advise the applicant of the rejection by sending:
+
+• A (PC.3) Rejection letter from the SLS.
+
+• Include a fresh application for electoral enrolment if 
+the rejection was because the applicant is not yet 
+16 years old.
+
+State and Territory Legislation - Provisional
+Claims for Enrolment by Applicant for
+Citizenship
+
+
+
+You must be aware of whether State/Territory provisions 
+
+for special enrolment apply for provisional claims for 
+
+enrolment by applicants for citizenship. If there are special 
+
+requirements from State/Territory electoral authorities, the 
+
+relevant State Office issues instructions.
+
+
+--- Page 32 ---
+
+Section 99B (Close of Roll) -
+
+Provisional Enrolment by Applicant
+
+for Citizenship at Close of Roll
+
+A person who has received notification of their citizenship
+
+ceremony and the ceremony falls between the public
+
+announcement of a federal election or issue of the writ (earlier
+
+of the two), and polling day may apply for
+
+provisional enrolment under section 99B. The Provisional
+
+Electoral Enrolment form for Potential New Citizens form will
+
+be made available on the AEC website at this time and must
+
+be received by the close of rolls.  
+
+This type of provisional enrolment ensures that the person
+
+will be entitled to vote, if their citizenship ceremony is held
+
+after the rolls have closed but on or before polling day,
+
+providing they supply evidence of citizenship by deadline.
+
+Applications under Section 99B (Close of Roll)
+
+Who is Provisional Enrolment available to under
+Section 99B
+
+
+
+Provisional enrolment is available to a person who:
+
+• Will become an Australian citizen between the 
+
+announcement of an election, or the issue of the 
+writ for an election (whichever is earlier) 
+and before polling day for that election [s.99B(1)(b) 
+CEA]
+
+• Is not enrolled [s.99B(1)(c) CEA]
+
+• Is not qualified for enrolment but would be 
+
+qualified if they were an Australian citizen. [s.99B(1)
+(d) CEA]
+
+Provisional enrolment by applicants for citizenship is not 
+
+compulsory.
+
+Valid Applications
+
+
+
+Applications for provisional enrolment by potential new 
+
+citizens must be made on the approved Provisional 
+
+Electoral Enrolment for Potential New Citizens form 
+
+[s.99B(2)(a) CEA].  
+
+The application must be:
+
+
+--- Page 33 ---
+
+• Signed by the applicant. [s.99B(2)(b) CEA] The 
+
+exception to this is people who cannot sign their 
+name because of physical incapacity. [s.99B(3) 
+CEA]  
+
+Note: Legal Power of Attorney is not an acceptable 
+
+substitute for the applicant’s signature or mark.
+
+• Certified that the original notification (that the 
+
+person will become an Australian citizen) has been 
+sighted by an AEC officer who is satisfied that the 
+notification relates to the person making the 
+application. [s.99B(1)(b) & 99B(4)(a) CEA] or
+
+• Certified that the original or a copy of the 
+
+notification has been sighted by an authorised 
+elector (who can be an AEC officer) who is satisfied 
+that the notification relates to the person making 
+the application. [s.99B(1)(b) & 99B(4)(b) CEA].
+
+• Made between either the public announcement of 
+the date of an election or the date of the issue of 
+the writ for an election (whichever is earlier) and 
+8pm on the day of close of rolls. [s.99B(2)(c) & 
+s.155 CEA].
+
+Note: An application dated before either the public 
+
+announcement of the date of an election or the date of the 
+
+issue of the writ for an election (whichever is earlier) 
+
+should be followed up with the elector.
+
+Note: The Electoral Enrolment form for Potential New 
+
+Citizens has been approved for ordinary enrolment. If the 
+
+client's citizenship ceremony is before the close of roll for 
+
+the electoral event, the form can be used for ordinary 
+
+enrolment (the client will need to be contacted and 
+
+provide their citizenship certificate evidence number for 
+
+citizenship eligibility and evidence of identity).
+
+Deadline for Providing Evidence of Citizenship 
+
+The deadline for providing evidence of Australian 
+
+citizenship is close of business on the first Friday after 
+
+polling day for the election for which the provisional 
+
+enrolment application was lodged and, once provided 
+
+applicants are enrolled as ordinary electors and are 
+
+entitled to the usual elector entitlements. [s. 99B(6) CEA]
+
+Lodging Applications
+
+
+
+Provisional claims for enrolment can be lodged with any 
+
+AEC office.
+
+For receiving and handling provisional enrolment 
+
+applications, refer to Provisional Enrolment Applications
+
+Voting Entitlements for Provisional Applicants
+
+
+
+
+--- Page 34 ---
+
+Applicants for provisional enrolment under Section 99B are 
+
+entitled to make a declaration vote for the election for 
+
+which they have submitted a valid provisional enrolment 
+
+application at any time during the voting period including 
+
+polling day. However, the vote is excluded from further 
+
+scrutiny if the person does not provide evidence of 
+
+citizenship by the first Friday after the polling day for the 
+
+election.
+
+Citizenship Ceremony on Polling Day
+
+
+
+Individuals enrolling under Section 99B that have been 
+
+informed that their citizen ceremony will be conducted on 
+
+the same day as polling day and have submitted a valid 
+
+provisional enrolment application between the 
+
+announcement of polling day and the close of rolls are 
+
+able to vote on polling day before or after their citizenship 
+
+ceremony.
+
+When to Reject Applications
+
+
+
+Reject applications for provisional enrolment if the 
+
+applicant:
+
+• Is currently enrolled [s.99B(1)(c) CEA]
+
+• Is not yet 16 years old [s.100 CEA]
+
+• Does not provide the AEC with evidence of their 
+
+Australian citizenship, by the required 
+deadline. Evidence of citizenship may be the 
+original, or a copy of their Australian citizenship 
+certificate
+
+• Lodges an application for provisional enrolment 
+
+outside of the prescribed lodgement period for 
+provisional enrolment and is not a citizen.
+
+• Does not reply to a (PC.2) Additional 
+
+Information letter from the SLS by the day of the 
+close of rolls, and the application:
+
+• Was not in the approved form [s.99B(2)(a) 
+
+CEA]
+
+• Was not signed by the applicant or is signed 
+by another person on behalf of the applicant 
+(for example, using Power of Attorney 
+[s.99B(2)(b) CEA]
+
+• Did not contain the certification relating to 
+the applicant's Immigration Department's 
+notification of grant of Australian citizenship 
+[s.99B(2)(d) CEA], or
+
+• Was not completed using the instructions on 
+
+the form.
+
+Advising the Applicant of Rejected Application 
+
+
+--- Page 35 ---
+
+Advise the applicant of the rejection of their provisional 
+
+enrolment by sending them a (PC.3) Rejection letter from 
+
+the SLS.
+
+State and Territory Legislation Provisional
+Enrolment
+
+
+
+You must be aware of whether state and territory 
+
+provisions for provisional enrolment for applicants for 
+
+citizenship apply. If there are special requirements from 
+
+state or territory electoral authorities, the relevant State 
+
+Office issues instructions.
+
+Policy
+
+Procedures
+
+AEC Learning
+
+Acknowledgement of Country
+
+The AEC acknowledges the Traditional Owners of country throughout Australia and recognises their continuing connection to land, waters, culture
+
+and community.
+
+We pay our respects to Elders past, present and emerging.
+
+            
+
+
+--- Page 36 ---
+
+
+
+
+--- Page 37 ---
+
+            
+
+
+--- Page 38 ---
+
+
+
+
+--- Page 39 ---
+
+In these cases, the client record will have a status of
+
+‘Approved’ and will have been allocated a Citizenship ID.  If
+
+that Citizenship ID has been noted on the claimant’s
+
+enrolment form then the client’s status should be treated as
+
+‘Acquired’ for enrolment purposes.  Home Affairs have
+
+confirmed that the Citizenship ID is only provided to new
+
+citizens when they receive their citizenship certificates at
+
+citizenship ceremonies.
+
+Incomplete citizenship records
+
+Some records in the database are 'incomplete'. While this can
+
+be caused by a number of factors, it does not impede our
+
+ability to use the citizenship record to validate a person's
+
+citizenship status. If an incomplete record has a status of
+
+acquired or is approved with a Citizenship ID supplied on the
+
+enrolment form, then it is valid for enrolment purposes.
+
+GENESIS will require a comment when matching to an
+
+Incomplete Citizenship Record.
+
+Accessing the Database
+
+GENESIS
+
+RMANS
+
+RMANS (Application Processing)
+
+
+
+
+
+
+
+Home Affairs Number Type
+
+The Immigration file contains all records relating to an
+
+individual’s path through the process of gaining Australian
+
+citizenship.  Different Home Affairs numbers are given to
+
+applicants at various times throughout the citizenship
+
+assessment process.  These numbers are not necessarily
+
+unique to an individual. 
+
+Home Affairs use four different number types in processing
+
+claims for Australian citizenship. Any combination of these
+
+numbers may be quoted by an elector claiming enrolment as
+
+an Australian citizen by grant.
+
+Evidence
+Number
+
+Old Citizen ID
+
+This is an 11‑digit number given to each
+document supplied by Home Affairs in
+relation to a claim for citizenship (to be
+referred to as Citizenship ID). It is unique
+to the particular document but may not
+be unique to a person. For instance, if a
+single citizenship certificate was granted
+for a whole family then the evidence
+number for everyone in the family is the
+same. 
+
+This number was allocated to grants of
+citizenship made up to 1998. This is a 10
+—character number in the format —
+AannnnnnC where AA = office that
+processed the application, nnnnnn = 6
+digit numeric, C = Check Character.
+
+Stock Number
+
+This is a unique number printed on the
+back of the citizenship certificate and is
+up to 10 characters.
+
+
+--- Page 40 ---
+
+Immigration
+Client ID
+
+This is a unique 11‑digit administrative
+number given to all applicants for
+Australian citizenship. It remains the
+same throughout the citizenship
+assessment process.  However, it is an
+internal Home Affairs reference number
+that may not necessarily be known to the
+claimant.
+
+Note: For citizenship verification purposes, the evidence
+
+number will be used as the Citizenship ID. This is the number
+
+that is printed on the front of the citizenship certificate and
+
+the Home Affairs enrolment forms. Where one of the other
+
+numbers is supplied, this may be used for a citizenship
+
+enquiry, however, the evidence number is the number to be
+
+recorded as the Citizenship ID against the enrolment record in
+
+RMANS.
+
+Status
+
+The status of an applicant’s claim i.e. where the applicant is in
+
+the citizenship process, can be one of the following:
+
+Acquired
+
+Not
+Acquired
+
+The applicant has been granted
+citizenship.
+
+The applicant is not a citizen.
+
+Undo Aqu
+
+The applicant is not a citizen.
+
+Approved
+
+Revoked
+
+The applicant has been processed and
+cleared to receive Australian citizenship
+but may not yet have attended a
+ceremony and been granted a certificate
+(see 'General Business Rules' regarding
+delays).
+
+The applicant’s grant of citizenship has
+been cancelled and is no longer entitled to
+electoral enrolment OR the number has
+been cancelled but citizenship still
+granted. Further checks are required.
+
+Undo
+
+This does not affect a person's Australian
+
+Revoked
+
+citizenship. This is a result of citizenship
+
+records being updated within the
+
+immigration system. This status is
+
+acceptable for enrolment purposes.  
+
+Lost
+
+The applicant is not a citizen.
+
+Sighted
+
+The applicant is a citizen.
+
+Undo
+Approval
+
+The applicant may still be a citizen but
+data might be treated as lost.
+
+When an applicant's citizenship has a status other than
+
+Approved or Acquired, GENESIS will display the following
+
+defect.
+
+
+--- Page 41 ---
+
+
+
+
+--- Page 42 ---
+
+Policy
+
+Procedures
+
+Learning
+
+Acknowledgement of Country
+
+The AEC acknowledges the Traditional Owners of country throughout Australia and recognises their continuing connection to land, waters, culture
+
+and community.
+
+We pay our respects to Elders past, present and emerging.
+
+            
+
+
+--- Page 43 ---
+
+
+
+
+--- Page 44 ---
+
+            
+
+
+--- Page 45 ---
+
+
+
+
+--- Page 46 ---
+
+Processing an enrolment for an existing elector
+
+and the matched enrolment indicates that the
+
+elector is NOT a citizen by birth – ie the matched
+
+enrolment has a Cit Id or a BS / AV / AC
+
+notation.  The ‘Aus by Birth’ field will be
+
+defaulted to ‘N’.
+
+Processing an amendment or written advice.  The
+
+COB may not be known so the ‘Aus by Birth?’
+
+field will be set to a dash to indicate that the User
+
+does not have to enter a Y or N.
+
+The following business rules apply to the entry of COB
+details:
+
+1. The ‘Aus by Birth’ field must be:
+
+Y or N if processing an enrolment application.
+Y, N or a dash if processing an amendment or written
+advice.
+
+2. If processing an amendment or written advice, the
+COB will only be validated if the defaulted value is
+amended ie. the COB is changed.
+
+3. If ‘Aus by Birth?’ is Y, then the ‘Cntry Birth’ field may
+be blank ‘---‘ or a valid country code.  If blank or ‘--
+-‘ then ‘AUS’ will be substituted.
+
+4. If ‘Aus by Birth’ is N, then COB must be entered and
+
+must be one of the following:
+
+A valid country code
+‘---‘ if a COB was not supplied on the enrolment form
+‘UNK’ if a COB is on the enrolment form but there is
+not matching code in the Country of Birth table.
+
+5. The ‘Aus by Birth’ field cannot be Y if the enrolment
+details indicate that the elector is NOT a citizen by
+birth ie there is a Cit Id or a BS, AV or AC notation.
+
+6. If the ‘Aus by Birth’ field is N the enrolment must
+
+indicate that the elector is NOT a citizen by birth ie.
+There must be a Cit Id or a BS, AV or AC notation.
+
+Policy
+
+Procedures   
+
+AEC
+Learning
+
+Acknowledgement of Country
+
+The AEC acknowledges the Traditional Owners of country throughout Australia and recognises their continuing connection to land, waters, culture
+and community.
+
+We pay our respects to Elders past, present and emerging.
+
+            
+
+
+--- Page 47 ---
+
+
+
+
+--- Page 48 ---
+
+s47F
+
+
+--- Page 49 ---
+
+Citizenship data on application & citizenship
+
+data on existing client record match
+
+When citizenship data provided on an application
+matches the citizenship data on an existing client
+record (current or deleted) no defect message will
+display and the user can continue processing the
+application.  
+
+The citizenship data from the client record will display
+against the new client record.  
+
+No matched client record found
+
+If the system is unable to match to a client:
+
+User will receive a “defect” advising the client needs to
+be matched before continuing
+
+User should investigate and manually match the client
+or confirm a new client
+
+GENESIS will attempt to match citizenship details from
+the existing client record or from the citizenship
+database if the user confirmed the application as a new
+client.
+
+s47F
+
+
+--- Page 50 ---
+
+
+
+
+--- Page 51 ---
+
+
+
+
+--- Page 52 ---
+
+
+
+
+--- Page 53 ---
+
+ Step 1  Step 2  Step 3  Step 4  Step 5  Step 6  Step 7  Step 8
+
+Tick 'Citizen by Birth Claimed' and enter the Town of Birth 
+
+from the application.
+
+Acknowledgement of Country
+
+The AEC acknowledges the Traditional Owners of country throughout Australia and recognises their continuing connection to land, waters, culture
+
+and community.
+
+We pay our respects to Elders past, present and emerging.
+
+            
+
+
+--- Page 54 ---
+
+
+
+
+--- Page 55 ---
+
+Enter the Home Affairs details in the screen (data should be
+
+included in all three lines of the comments section) as
+
+suggested below or include any other related information and
+
+then press F5 to confirm the addition of the AV Notation.
+
+The elector record will now display an AV notation.
+
+Policy
+
+Procedures 
+
+Learning
+
+Acknowledgement of Country
+
+The AEC acknowledges the Traditional Owners of country throughout Australia and recognises their continuing connection to land, waters, culture
+and community.
+
+We pay our respects to Elders past, present and emerging.
+
+            
+
+s47Fs47F
+
+
+--- Page 56 ---
+
+
+
+
+--- Page 57 ---
+
+Effective date of status
+
+A statistical summary by area and totals by State/Territory is
+
+also provided.
+
+List Conﬁrmed Electors Not
+
+Veriﬁed
+
+A SO function. This facility produces a report listing those
+
+electors with a citizenship ID who have not been verified
+
+against the Home Affairs database (i.e. their citizenship status
+
+is C-confirmed and not V-verified).
+
+The report is by State/Territory and division, and can be run
+
+for a detailed report or summary. The report shows the
+
+following details: 
+
+Elector ID
+
+Elector name
+
+Date of birth
+
+Enrolment date
+
+Elector Citizenship ID if it exists       
+
+AC notation reason if it exists. 
+
+A statistical summary by area and totals by State/Territory is
+
+also provided.
+
+Integrity Check – Match by Citizen
+
+No
+
+A SO function. This facility produces a report that can be used
+
+to check the data integrity between the RMANS elector files
+
+and the Home Affairs database. One report lists the confirmed
+
+electors with a citizenship ID who have acquired citizenship
+
+according to Home Affairs. The other report lists the verified
+
+electors who have not acquired citizenship according to the
+
+Home Affairs database. Inconsistent electors can have their
+
+RMANS records updated by setting the 'Update Database'
+
+field to 'Yes'.
+
+Policy       
+
+Procedures 
+
+Learning
+
+Acknowledgement of Country
+
+The AEC acknowledges the Traditional Owners of country throughout Australia and recognises their continuing connection to land, waters, culture
+and community.
+
+We pay our respects to Elders past, present and emerging.
+
+            
+
+
+--- Page 58 ---
+
+
+
+
+--- Page 59 ---
+
+Press F6 to add an elector notation then press F2 to
+
+add a notation Add the BS notation and any further
+
+required information
+
+Press F5 to confirm and the notations will be updated.
+
+Press F4 to go to Cit Id field and then press End Key to
+
+delete the field
+
+
+--- Page 60 ---
+
+The ‘V’ (or ‘C’) will still appear, press F1 to continue
+
+The Cit Id field is now blank, press F1 to confirm
+
+transaction entry (and the ‘V’ or ‘C’ will be removed)
+
+Policy
+
+Procedures 
+
+AEC
+Learning
+
+Acknowledgement of Country
+
+The AEC acknowledges the Traditional Owners of country throughout Australia and recognises their continuing connection to land, waters, culture
+
+and community.
+
+We pay our respects to Elders past, present and emerging.
+
+            
+
+
+--- Page 61 ---
+
+
+
+
+--- Page 62 ---
+
+
+
+
+--- Page 63 ---
+
+Acknowledgement of Country
+
+The AEC acknowledges the Traditional Owners of country throughout Australia and recognises their continuing connection to land, waters, culture
+
+and community.
+
+We pay our respects to Elders past, present and emerging.
+
+            
+
+
+--- Page 64 ---
+
+
+
+
+--- Page 65 ---
+
+
+
+
+--- Page 66 ---
+
+The sections highlighted in red on this form are mandatory. If
+
+any of these sections are empty or incomplete, the form is
+
+incomplete. and cannot be processed.
+
+Receipting provisional enrolment forms
+
+After receiving a provisional enrolment form take the
+
+following steps:
+
+1. Upload the form using the GENESIS Input Work Item
+
+Dropbox. (Provisional Enrolment forms can also be sent
+
+via mail and scanned by Grace. Forms received this way
+
+will be system categorised as a provisional new citizen
+
+Input Work Item).
+
+2. Categorise the Input Work Item as “Provisional new
+
+citizen”.
+
+3. Check the form for completeness (see above example).
+
+If incomplete send the PC.2 Additional Information
+
+letter from the Standard Letter System (SLS).
+
+4. Check for a current enrolment for the applicant. If an
+
+enrolment record exists, send PC.3 Rejection SLS letter.
+
+5. If form is complete and applicant is not enrolled send
+
+PC.1 Acknowledgement of Receipt letter and the Voting
+
+Instructions for Provisional New Citizen email. The
+
+highlighted fields, including the applicant's federal
+
+division will need to be entered manually.
+
+The Input Work Item will remain on the division’s homepage
+
+as an “Election” Input Work Item until the elector attends their
+
+citizenship ceremony, provides the AEC with evidence of their
+
+citizenship and the enrolment is processed. 
+
+SLS correspondence can be despatched by mail or email, and
+
+a copy must be retained in Objective. When defect or reject
+
+correspondence is despatched, the elector should also be
+
+contacted by phone or email (if provided) to inform them of
+
+the issue with their application due to the short deadline
+
+involved. Before sending any SLS correspondence, ensure that
+
+you have updated your event using the 'Change Event' button
+
+on the SLS menu.
+
+
+--- Page 67 ---
+
+Provsional Enrolment forms are categorised as "Provisional New
+
+Citizen"
+
+Provisional Enrolment forms are listed under the "Election" section
+
+Provisional Enrolment forms will be in the same list as PVAs and
+
+other election materials
+
+Voting instructions for provisional new
+
+citizens
+
+This email template must be used when sending the PC.1
+
+acknowledgment of receipt letter. Before sending any SLS
+
+correspondence, ensure that you have updated your event
+
+using the 'Change Event' button on the SLS menu.
+
+Email Template - Voting Instructions for
+Potential New Citizens
+
+
+
+After Close of Rolls
+
+the AEC can no longer accept applications for Provisional
+
+enrolment. Once clients attend their citizenship ceremony
+
+they must provide the AEC with evidence of their new
+
+citizenship. This evidence can come in the form of:
+
+An email or letter containing a copy of their citizenship
+
+certificate.
+
+An Ordinary Enrolment application (providing their
+
+Citizenship Evidence number).
+
+An email or letter with an attachment proving they
+
+attended their citizenship ceremony.
+
+A verbal or unofficial written claim is not acceptable evidence
+
+of citizenship for Provisional enrolment. While it is preferable
+
+that the evidence include the client's citizenship evidence
+
+number, it is not a requirement to accept it as valid
+
+evidence or as EOI.
+
+
+--- Page 68 ---
+
+Electors have until the first Friday after polling day to return
+
+evidence of their citizenship to the AEC. Daily checks of the
+
+following areas must be conducted to check for evidence
+
+being submitted:
+
+"Find Client" in GENESIS (to check for enrolment
+activity)
+
+"Find Application" in GENESIS (to check for active
+applications)
+
+"Find Input Work item" in GENESIS (to check evidence
+that has been dropboxed)
+
+Electors receive a QR card at their citizenship ceremony that takes
+
+them to the Online Enrolment System, meaning it is likely that many
+
+of the enrolment forms received from new citizens will be done online.
+
+For this reason, it is critical that the GENESIS client and application
+
+search functions be used regularly to check for enrolment forms that
+
+can be used as evidence of citizenship.
+
+Other Areas
+
+Divisional and state office inboxes
+
+Divisional mailboxes
+
+After polling day, checks of the Declaration Vote
+Processing system in RMANS can be conducted to
+check for electors who have provided citizenship details
+on their declaration vote.
+
+Where evidence is received, but it is not sufficient, the client
+
+must be contacted (by phone or email, if available) and
+
+advised of the evidence requirements.
+
+Evidence not provided or not sufficient
+
+If the elector does not return evidence by close of business on
+
+the first Friday after Polling Day or the supplied evidence is
+
+insufficient, their application for Provisional enrolment cannot
+
+be processed and the PC.3 Rejection letter from the Standard
+
+Letter System must be issued.
+
+Receipting evidence of citizenship
+
+As evidence of citizenship can take multiple forms there are
+
+multiple steps that must be different depending on the
+
+evidence received. 
+
+Evidence Type
+
+Action
+
+Ordinary Enrolment
+
+When an elector applying for
+
+form (Online or
+
+provisional enrolment submits an
+
+Paper)
+
+ordinary enrolment form, the
+
+following steps must be taken:
+
+Process the ordinary
+enrolment application.
+
+Merge the ordinary
+enrolment application's IWI
+with the provisional
+enrolment IWI (see
+instructions below)
+
+If the application is online,
+save the image of the OES
+form from the application
+and proceed with the
+instructions below.
+
+
+--- Page 69 ---
+
+All other document
+types
+
+Upload the document using the
+
+GENESIS Input Work Item Dropbox
+
+and categorise it as “Provisional
+
+new citizen” – Stay on this Input
+
+Work Item
+
+Edit the IWI and under the
+details tab and press the
+“Merge” button.
+
+Enter the IWI reference
+number for the applicant’s
+Provisional enrolment IWI
+and enter a note indicating
+that the evidence has been
+sighted and that the
+enrolment is ready for
+processing.
+
+The Input Work Item will
+now have both the
+enrolment form and
+evidence attached to it.
+
+Edit the IWI and under the
+details tab, press the “Add
+new transaction number”
+button to add a NIN to the
+IWI.
+
+Evidence of citizenship sent by mail
+
+will likely appear as an
+
+uncategorised IWI in GENESIS. In
+
+this case, the document will not
+
+need to be uploaded through the
+
+dropbox, but is otherwise dealt
+
+with as detailed in the steps above.
+
+This Input work item will remain on the division’s homepage
+
+until the first Tuesday before polling day at which point
+
+processing for Provisional enrolment applications can begin.
+
+Processing provisional enrolment
+
+applications 
+
+Once evidence of an elector’s citizenship is received and
+
+linked to their provisional enrolment form, processing of
+
+Provisional enrolment applications can begin on the last
+
+Tuesday before polling day, Applications will be under the
+
+“Election - Input Work Items requiring attention” on divisional
+
+homepages.
+
+ Step 1  Step 2  Step 3  Step 4  Step 5  Step 6  EOI override  Step 7  Step 8  Step 9  Step 10 
+
+ Under “Input Work Items to be processed: Election” select a 
+
+“Provisional new citizen” IWI. Press the “In progress” button 
+
+and select subcategory “ready for processing” to lock the 
+
+IWI.
+
+Input Work Items to be processed: Election
+
+Press the "In progress" button
+
+
+--- Page 70 ---
+
+Sub Status: Ready for processing
+
+The applicant will be sent an acknowledgement confirming
+
+their enrolment automatically, however, an attempt should
+
+also be made to contact them to inform them that their
+
+application has been processed, and to provide voting
+
+information. Provisional electors complete a provisional
+
+declaration envelope on polling day regardless of if their
+
+enrolment has been completed yet and have until the first
+
+Friday after polling day to return their evidence. All
+
+Provisional enrolment applications must be processed by
+
+Close of Business on this day.
+
+Divisions must keep in close contact with their preliminary
+
+scrutiny team to advise of any provisional enrolments
+
+completed. If a declaration envelope enters preliminary
+
+scrutiny and the provisional enrolment is not complete, it will
+
+be rejected, and the supervisor will need to locate that
+
+envelope to make a separate decision after the division has
+
+advised them of a completed enrolment.
+
+Receipting provisional enrolment
+
+process flow
+
+
+--- Page 71 ---
+
+Timeline for processing
+
+Provisional enrolment and
+
+preliminary scrutiny
+
+Provisionally enrolled electors are required to complete a
+
+declaration envelope on polling day, which then goes
+
+to preliminary scrutiny to be either admitted to the count or
+
+rejected. For a provisionally enrolled elector's envelope to be
+
+admitted, they must be on the Notebook Roll at the time of
+
+processing or their vote will be rejected. For this reason,
+
+timely processing of Provisional enrolment applications is
+
+essential.
+
+The divisional office must also regularly advise the preliminary
+
+scrutiny supervisor of newly processed provisional enrolment
+
+applications so the supervisor can check the rejected
+
+envelopes and determine if any of the new provisional
+
+electors have had their envelope rejected. If an elector
+
+becomes provisionally enrolled after their declaration
+
+envelope is rejected, the envelope must be re-processed. 
+
+Frequently Asked Questions 
+
+ 
+
+Who can witness a provisional enrolment form? 
+
+Can the provisional enrolment form be used for
+ordinary enrolment?
+
+
+
+What counts as 'evidence' to support a
+provisional enrolment?
+
+When do I need to inform preliminary scrutiny
+of processed enrolments?
+
+What if an elector's citizenship ceremony is on
+the day of Close of Rolls?
+
+What if an elector has a citizenship ceremony
+between Issue of Writ and Close of Rolls? Can't
+they simply do an ordinary enrolment?
+
+
+
+
+
+
+
+
+
+Processing Video: How to Receipt
+
+a Provisional Enrolment form
+
+
+--- Page 72 ---
+
+
+
+
+--- Page 73 ---
+
+
+
+
+--- Page 74 ---
+
+2. A person who has lodged a provisional claim for
+
+enrolment and has changed their details since applying
+
+for provisional enrolment, must submit a new amended
+
+application directly with the AEC, ss. 99A (2) and (4) (c)
+
+(ii).
+
+Provisional claims can be submitted or forwarded
+
+electronically [s.382(4) CEA].
+
+Claims for provisional enrolment under S.99A must be
+
+uploaded through the Input Work Item Dropbox and
+
+categorised as "Potential New Citizen". The form must then be
+
+checked to ensure all required information has been supplied.
+
+Checking the form
+
+Except for citizenship details, provisional claims for
+
+enrolment must provide the details required on the
+
+ordinary enrolment application including evidence of
+
+identity and be accompanied by a copy of the
+
+claimant's application for Australian citizenship. 
+
+Use the GENESIS 'Find Client' function to verify that the
+
+applicant is not currently enrolled. If a current record is
+
+found for the applicant the provisional claim for
+
+enrolment must be rejected.
+
+The form must be amended to show that the
+
+application is a provisional claim and in place of
+
+citizenship details, the form must show the date the
+
+applicant lodged their application for Australian
+
+citizenship.
+
+If essential information is omitted and it can be
+resolved by telephone or email, staff should contact the
+applicant (where these details have been provided), to
+try to resolve the omission. See: Enrolment information
+
+When essential information is missing and the applicant
+cannot be contacted or the information cannot be
+obtained via direct contact, send the PC.2 Additional
+Information letter and mark the Input Work Item
+complete with a note indicating the application has
+been defected.
+
+If all essential information is present, note this on the Input
+
+Work Item and put it on hold, awaiting processing once the
+
+applicant becomes a citizen.
+
+Rejecting Provisional Claims for Enrolment
+
+[s.99A]
+
+Reject provisional claims for enrolment if the applicant:
+
+Is currently enrolled
+
+Is not yet 16 years old [s.100 CEA]; or
+
+Does not reply to a (PC.2) Additional Info letter within
+
+28 days; or
+
+Does not provide a Department of Home
+
+Affairs receipted and date stamped copy of the
+
+application for citizenship; or
+
+Is refused Australian citizenship.
+
+To advise the applicant of the rejection, send the PC.3
+
+Rejection letter through the SLS. If the application is being
+
+rejected due to the applicant not yet being 16 years old,
+
+include a blank enrolment application for future use. 
+
+Review of Decisions Provisional Claims for Enrolment
+
+[s.99A]
+
+
+--- Page 75 ---
+
+Applicants can request the AEO review the decision
+
+made by a delegate to reject a provisional claim for
+
+enrolment.  The request for review must be lodged
+
+within 28 days of notification of the decision [s.120
+
+CEA].
+
+Requests for review are processed as described
+
+in Review of Decisions.
+
+Policy   
+
+Procedures
+
+ Learning
+
+Acknowledgement of Country
+
+The AEC acknowledges the Traditional Owners of country throughout Australia and recognises their continuing connection to land, waters, culture
+and community.
+
+We pay our respects to Elders past, present and emerging.
+
+            
+
+
+--- Page 76 ---
+
+
+
+
+--- Page 77 ---
+
+Overview
+
+An application for a new enrolment, re-enrolment or change
+
+of name must use one of the five forms of evidence of
+
+identity (EOI):
+
+An Australian driver's licence,
+
+An Australian passport,
+
+An Australian citizenship certificate,
+
+An Australian Medicare card, or
+
+An attestation as to the individual's identity (Person
+Confirming Identity)
+
+For online applications, to increase accessibility, EOI can also
+
+be used in place of the signature on a paper form. This is
+
+referred to as a ‘signature equivalent’. Further information
+
+about this is provided in the Which EOI is required and
+
+when? table below.
+
+This page provides information regarding GENESIS
+
+processing. RMANS processing guidance is available on the
+
+Evidence of Identity - RMANS processing guidance page. 
+
+General Information 
+
+EOI subsystem
+
+The EOI subsystem is an internal system which holds driver’s
+
+licence and passport records.
+
+Searches using document or holder details are performed
+
+through GENESIS ‘Find Evidence of Identity’ or the Application
+
+EOI tab ‘EOI Search’. Both search types use the EOI
+
+subsystem. 
+
+The EOI subsystem must only be searched when a client has
+
+provided a driver's licence or passport number in their current
+
+application.
+
+If the search is successful, the EOI subsystem will display a list
+
+of results.
+
+Each result displays an ‘AEC Status’ that indicates the action
+
+required: 
+
+Accept: the document may be matched and accepted
+as EOI
+
+Investigate: review the EOI document further. Follow-up
+action or a manual override may be required.
+
+
+--- Page 78 ---
+
+Document Veriﬁcation System (DVS)
+
+The Document Verification System (DVS) is an external system
+
+used to verify Medicare card details. Due to strict security
+
+requirements, searches cannot be performed in the DVS.
+
+Instead, a check is performed with a yes / no result returned.
+
+Checks performed through GENESIS ‘Validate Medicare card’
+
+or the Application EOI tab, ‘Validate Medicare Card’ use the
+
+DVS.  
+
+All information fields: Card Number, IRN, Name Line and
+
+Expiry Date, must be completed.
+
+The Medicare card will only validate if the information
+
+provided is an EXACT match to the Medicare card record held
+
+in the DVS. Eg. if there is a typo or missing info (hyphen in a
+
+name) from any field, it will not validate. 
+
+Note: If the Medicare card is not found using the Medicare card
+
+name, the system will use a version of the Applicant Name to
+
+perform the DVS check. If the card still doesn’t pass DVS
+
+validation, manual follow-up is required.
+
+Expired EOI
+
+Expired driver's licences, passports and Medicare cards are
+
+acceptable.
+
+Expired driver's licences and passports found in the EOI
+
+database may be matched during application processing.
+
+
+--- Page 79 ---
+
+Expired Medicare cards will not be found during checks and
+
+therefore will not pass validation. Refer to the Medicare card
+
+section for processing guidance.
+
+Revoked citizenship records can also be used for EOI
+
+purposes. However, a citizenship check through the Service
+
+Centre is required to determine whether a revoked record can
+
+be used for citizenship eligibility.
+
+Application and EOI document variances
+
+When GENESIS is unable to match a provided EOI document,
+
+a defect will appear. Defects guide enrolment processing and
+
+require further investigation. However, not all defects need to
+
+be resolved in order to approve the application. One example
+
+is Medicare Card defect: “Applicants name on Medicare card
+
+does not match enrolled and/or application names, accept
+
+only if same client”. This defect can be accepted (with a note
+
+added). 
+
+Minor name and number variances are also acceptable. The
+
+table below outlines some common examples of variances:
+
+EOI
+document 
+
+Variance
+
+Drivers
+Licence
+
+Applicants surname is
+Smith, however, Drivers
+Licence record displays
+Brown. 
+
+Drivers
+Licence
+
+Citizenship
+certificate
+
+Applicant provides
+number
+31234568456873,
+however, drivers licence
+record shows number as
+57CL19. 31234568456873
+is Card Number.
+
+Applicant provides
+citizenship certificate
+number 1645229715,
+however, citizenship
+record shows number as
+01645229715.
+
+Action
+
+Investigate
+and accept if it
+is determined
+the EOI
+belongs to the
+applicant. The
+system will
+apply a 'Name
+Variation'
+reason.
+
+Unacceptable
+variance. Card
+Numbers are
+not accepted.
+
+Acceptable for
+EOI. Perform a
+manual EOI
+search, once
+matched - the
+system will
+apply a
+'Number
+Variation'
+reason.
+
+
+--- Page 80 ---
+
+Medicare
+card
+
+Applicants name is
+Samantha Josephine
+Clare Tester Brown. Name
+line on Medicare card is
+Samantha J C T Brown. 
+
+Passport
+
+Applicant provides
+passport
+number P1234568,
+however, passport record
+shows number as
+PB123658.
+
+Investigate
+and accept if it
+is determined
+the EOI
+belongs to the
+applicant.
+Accept EOI
+defect and
+add a
+comment.
+
+Accept if it is
+determined
+the EOI
+belongs to the
+applicant. The
+system will
+apply a
+'Number
+Variation'
+reason.
+
+When matching non-Medicare card EOI, GENESIS only looks
+
+at Name(s), DoB, and document number. The gender and
+
+address on an EOI document are not used as part of the
+
+matching process but should be taken into account as
+
+supporting evidence when manually matching.
+
+AEC staff making Person Conﬁrming Identity
+
+(attestation) declarations
+
+AEC staff are not required to attest to a person’s identity,
+
+however, are permitted to attest to a person’s identity if
+
+they have been provided with sufficient information to be
+
+satisfied as to the applicant’s identity.
+
+Signing the declaration as a person confirming identity is a
+
+legal declaration on an approved commonwealth form and
+
+will be included in the elector’s permanent record on the
+
+electoral roll.
+
+Retention of evidence of identity images
+
+Images of evidence of identity i.e. drivers' licence, passport or
+
+Medicare card should not be retained. Images sent via email
+
+should not be uploaded to GENESIS and the email must be
+
+deleted from Outlook once the enrolment application has
+
+been actioned.
+
+For images that are already in GENESIS e.g. scanned by our
+
+scanning provider, the Input Work Item page containing the
+
+image must be hidden using the ‘Edit Pages’ feature.
+
+
+--- Page 81 ---
+
+GENESIS system approvals
+
+GENESIS system approvals include change of address
+
+applications which have a driver's licence, passport, Medicare
+
+card or citizenship evidence number.
+
+Where these applications have no defects (EOI or other), they
+
+will be approved by the system and will not appear on
+
+homepages for user review or approval.
+
+Drivers Licence and Passport
+
+When processing an enrolment application in GENESIS, and
+
+the applicant’s provided drivers licence details are an exact
+
+match to the record held in the EOI subsystem, the system will
+
+match the licence. ‘Suppressed’ records will not be matched
+
+by the system.
+
+When there is not an exact match, a defect message will
+
+appear in the Application Review panel.
+
+The EOI must be reviewed and/or investigated through the
+
+Application EOI tab, ‘EOI Search’. When ‘EOI Search’ is
+
+selected, search criteria may be altered in the ‘Find Evidence
+
+of Identity’ fields. The system may return potential matches
+
+for further investigation. If there are no matches, select
+
+'Change Criteria' to broaden the search.
+
+When it is determined the EOI can be accepted, GENESIS will
+
+allow a manual match, using the ‘Match’ button. The system
+
+will apply a Manual Decision of ‘Number Variation’ or ‘Name
+
+Variation’ based on the difference in the search criteria and
+
+the EOI record.
+
+A note must be added to the application to explain the
+
+variation and match.
+
+When a driver's licence or passport cannot be verified using
+
+the EOI subsystem and all other attempts to be able to
+
+approve the application are unsuccessful, an EOI check may
+
+be submitted through the AEC Service Centre. The application
+
+is to be placed on Hold: Internal – Awaiting Response. A
+
+defect letter will be issued to the applicant if the EOI is still
+
+unable to be verified.
+
+A note on drivers licence
+
+Where an Applicant has provided their Card Number, this
+
+cannot be used to match their drivers licence. They must
+
+provide their drivers licence number.
+
+
+--- Page 82 ---
+
+
+
+
+--- Page 83 ---
+
+Note: staff must not search the citizenship or EOI databases to
+
+obtain EOI information if it has not been provided by the
+
+client. 
+
+To use citizenship as EOI, an elector must include their correct
+
+Citizenship Evidence number/Old Citizen ID on their
+
+enrolment application. Unlike confirming citizenship eligibility,
+
+information cannot be taken from previous enrolment records
+
+for EOI purposes; the elector must supply the correct evidence
+
+number. There are four numbers associated with citizenship
+
+that can all be used to confirm citizenship eligibility. 
+
+Used for
+
+Eligibility  
+
+Used for
+
+EOI 
+
+Citizenship Evidence
+
+Y 
+
+number 
+
+Immigration ID 
+
+Old Citizen ID 
+
+Stock Number 
+
+Y 
+
+Y 
+
+Y 
+
+Y 
+
+N 
+
+Y 
+
+N 
+
+While all these numbers can be used to confirm citizenship
+
+eligibility, only the Citizenship Evidence number and Old
+
+Citizen ID can be used for EOI purposes as well. These
+
+numbers are found on a citizenship certificate. 
+
+While processing an enrolment application where an
+
+Immigration ID or Stock Number has been provided, the
+
+number can be used to establish eligibility, however, for EOI
+
+purposes the following steps should be taken: 
+
+1. Attempt to approve by downgrading the application to
+
+Change of Address or Written Advice. 
+
+2. Contact the applicant to obtain the Citizenship
+
+Evidence number/Old Citizen ID or another form of
+
+EOI.  
+
+When investigating any defects, the same business rules used
+
+for other forms of EOI apply: 
+
+The user cannot search for alternative numbers if the
+
+supplied number is invalid. 
+
+Slight name and number variations may be accepted
+
+with a manual decision; however, this is to be noted.
+
+
+--- Page 84 ---
+
+
+
+
+--- Page 85 ---
+
+When a Citizenship Evidence number/Old Citizen ID is
+
+provided as both evidence of eligibility and EOI, and the
+
+details match exactly, a system match will occur. When a
+
+system match does not occur, manual investigation is
+
+required. This is indicated by an alert in the Application
+
+Review panel. 
+
+In the first instance, all searches of the Immigration database
+
+must be made in the Application Citizenship tab. For guidance
+
+on resolving citizenship defects, see Citizenship in Roll How.
+
+System and manual decisions on the citizenship record made
+
+in the Citizenship tab will carry over to the EOI tab, but
+
+decisions made in the EOI tab will not carry over to the
+
+Citizenship tab.  
+
+If the applicant has supplied a valid Citizenship Evidence
+
+number/Old Citizen ID, it must be accepted as EOI; whether
+
+the elector is eligible for citizenship is a separate decision.  
+
+If a Citizenship check is required for an elector's supplied
+
+citizenship number, it should be submitted through the AEC
+
+Service Centre using the Citizenship Check request type, not
+
+the EOI request type. 
+
+When the "Certificate same as citizenship tab" box is unticked the
+standard citizenship details fields appear.
+
+A citizenship defect indicating a system match cannot be achieved.
+
+A citizenship record that has been manually accepted due to a
+
+number variation; this manual decision will carry over to EOI.
+
+listed. The certificate number entered in the citizenship tab has been
+
+s47Fs47F
+
+
+--- Page 86 ---
+
+automatically carried over and is listed as the document number
+
+here.
+
+Electors born in Australia with proof of
+citizenship 
+
+People born in Australia can request proof of citizenship
+
+under S37 of the Australian Citizenship Act 2007. This proof
+
+can then be used as EOI.  
+
+As the enrolment form fields do not allow for this situation,
+
+the applicant must be contacted and asked to provide an
+
+image of their proof of citizenship certificate.  
+
+To accept the certificate as EOI, users must be satisfied of the
+
+elector’s identity based on the image provided. Having a
+
+proof of citizenship certificate does not generate a citizenship
+
+record, so these numbers cannot be validated through
+
+GENESIS.  
+
+If the certificate is accepted as EOI, the details must be
+
+entered in the Application, EOI tab, Citizenship panel.
+
+Manually override citizenship as EOI, noting the image details
+
+in the notes.  
+
+The image of the certificate does not need to be retained for
+
+the elector’s record. 
+
+Medicare card
+
+When using Medicare card as EOI an applicant must provide
+
+the following details:
+
+Medicare card number,
+
+Individual Reference Number (IRN),
+
+Full name as it appears on the Medicare card, and
+
+Expiry date.
+
+When Medicare card details are provided as part of an
+
+enrolment application, the AEC’s enrolment systems use the
+
+Document Verification System (DVS) to check whether it is
+
+valid
+
+The Medicare card will only pass validation if the information
+
+provided is an EXACT match to the Medicare card record held
+
+in the DVS. E.g. if there is a typo or information missing
+
+(hyphen or apostrophe in a name) from any field, it will not be
+
+validated.
+
+When an enrolment application is verified, the system sends a
+
+Medicare card check to the DVS. If an exact match using the
+
+Medicare card Name is not found, the system will
+
+automatically send another call using the Applicants/PCI
+
+name.
+
+
+--- Page 87 ---
+
+Resolving Medicare card defects
+
+During GENESIS enrolment processing, when there is an exact
+
+match, a system match will occur and no further EOI action is
+
+required. 
+
+When there is not an exact match, the Medicare card will not
+
+pass validation and further EOI action / investigation is
+
+required. A defect message will appear in the Application
+
+Review panel.
+
+If the applicant is contacted to provide new Medicare card
+
+details, this information should be entered in the Application
+
+EOI tab, ‘Applicant Medicare Card’ panel. The check is then
+
+performed using the ‘Validate Medicare Card’ button.
+
+The table below identifies some of the alerts found when
+
+validating a Medicare card, some of the possible explanations
+
+for these alerts, and guidance on actions that may assist with
+
+investigating and validating card details.
+
+Validation /
+
+Possible reason
+
+Action required
+
+Review alert
+
+“The Medicare
+
+The Medicare card
+
+Medicare card is
+
+Card
+
+details are an
+
+accepted as EOI.
+
+information
+
+exact match to the
+
+provided has
+
+Medicare card
+
+passed the
+
+record.
+
+DVS
+
+Validation”
+
+
+--- Page 88 ---
+
+“The Medicare
+
+Medicare card
+
+Card
+
+details are not an
+
+information
+
+exact match to the
+
+provided has
+
+Medicare card
+
+not passed the
+
+record.
+
+DVS
+
+validation”
+
+There may be a
+
+typo in any of the
+
+1224:
+
+Card Number,
+
+“Medicare
+
+IRN, Name Line or
+
+card
+
+Expiry Date.
+
+<number> not
+
+found. Please
+
+investigate.”
+
+1. For an online
+application:
+correct any min
+errors made by
+the applicant.
+
+2. For a ‘paper’
+
+application: rev
+data entry and
+update.
+
+3. Attempt to
+approve by
+downgrading t
+application to
+Change of
+Address or
+Written Advice.
+
+4. Contact the
+
+applicant to ve
+the provided
+details. New
+information mu
+be entered into
+the EOI tab,
+‘Applicant
+Medicare Card’
+fields. If the new
+details validate
+the EOI will be
+accepted. Add 
+note to the
+application.
+
+5. Contact the
+applicant to
+obtain another
+acceptable type
+EOI. New
+information mu
+be entered into
+the appropriate
+fields in the EO
+tab. Add a note
+the application
+
+6. Contact the
+applicant to
+obtain an imag
+of the Medicare
+card.
+
+A Manual
+
+Decision: Overr
+
+may be applied
+
+the Medicare ca
+
+is accepted as
+
+EOI.  Add a not
+
+the application.
+
+
+--- Page 89 ---
+
+Are for an expired
+Medicare card.
+
+Are not for a
+
+green Medicare
+
+card. Blue and
+
+yellow Medicare
+
+cards are issued to
+
+non-citizens.
+
+1. Attempt to
+approve by
+downgrading t
+application to
+Change of
+Address or
+Written Advice.
+
+2. Contact the
+
+applicant to ve
+the provided
+details. New
+information mu
+be entered into
+the EOI tab,
+‘Applicant
+Medicare Card’
+fields. If the new
+details validate
+the EOI will be
+accepted. Add 
+note to the
+application.
+
+3. Contact the
+applicant to
+obtain another
+acceptable type
+EOI. New
+information mu
+be entered into
+the appropriate
+fields in the EO
+tab. Add a note
+the application
+
+4. Contact the
+applicant to
+obtain an imag
+of the Medicare
+card.
+
+A Manual Decision:
+
+Override may be app
+
+if the Medicare card i
+
+accepted as EOI.  Add
+
+note to the applicatio
+
+1. Contact the
+
+applicant, if it is
+established, the
+are not a citizen
+the application
+cannot be
+approved.
+
+2. Defect the
+
+application.
+
+
+--- Page 90 ---
+
+1413/1414:
+
+An exact Medicare
+
+Where you are satisfie
+
+“Medicare
+
+card match was
+
+the found Medicare c
+
+card details
+
+found using the
+
+is belongs to the
+
+including
+
+Applicant/PCI
+
+Applicant / PCI, apply
+
+Name "<Given
+
+name, Card
+
+Manual Decision in th
+
+number, IRN and
+
+EOI tab.
+
+1. Select 'Name
+
+Variation' as the
+Manual Decisio
+type dropdown
+
+2. Enter a note
+
+stating: "Exact
+match using
+applicant name
+or "Exact match
+using PCI name
+
+After verifying, the
+
+defect message will n
+
+longer appear.
+
+expiry.
+
+When an exact
+match is not found
+using the Medicare
+name line, the
+Applicant/PCI
+name is
+automatically used
+with the other
+provided Medicare
+card details. This is
+particularly useful
+when the
+Applicant/PCI
+name includes
+middle name/s but
+the provided
+Medicare name
+doesn’t. Medicare
+card names often
+use a middle
+initial.   
+
+Name>
+
+<Family
+
+Name>" was
+
+not found.
+
+However, "
+
+<Given
+
+Name>
+
+<Initial>
+
+<Family
+
+Name>" was
+
+found.
+
+Investigate if a
+
+Name
+
+Override
+
+decision
+
+should be
+
+made.”
+
+Defect will
+
+lead with
+
+‘Applicant’ or
+
+‘Person
+
+Confirming
+
+Identity’
+
+depending on
+
+the Medicare
+
+Card check
+
+performed.
+
+
+--- Page 91 ---
+
+1346:
+
+There is a variance
+
+Note: this is an
+
+“Applicant
+
+in the Medicare
+
+acceptable defect.
+
+name on
+
+card name line/s,
+
+Medicare card
+
+applicant name or
+
+matched clients
+
+name.
+
+does not
+
+match
+
+enrolled
+
+and/or
+
+application
+
+names, accept
+
+only if same
+
+client”
+
+Note: this is an
+
+acceptable
+
+defect.
+
+1. If it is confirme
+the Medicare c
+details provided
+are for the
+applicant/matc
+client, accept th
+defect and a sh
+comment.
+
+2. If Medicare car
+details are not 
+applicant/matc
+client: 
+
+1. Attempt to
+approve by
+downgrading t
+application to
+Change of
+Address or
+Written Advice.
+
+2. Contact the
+
+applicant to ve
+the provided
+details. New
+information mu
+be entered into
+the EOI tab,
+‘Applicant
+Medicare Card’
+fields. If the new
+details validate
+the EOI will be
+accepted. Add 
+note to the
+application.
+
+3. Contact the
+applicant to
+obtain another
+acceptable type
+EOI. New
+information mu
+be entered into
+the appropriate
+fields in the EO
+tab. Add a note
+the application
+
+
+--- Page 92 ---
+
+“Medicare
+
+The DVS cannot
+
+card
+
+verify the
+
+<number> is
+
+Medicare card
+
+not valid for
+
+details. This may
+
+enrolment
+
+purposes.”
+
+Defect will
+lead with
+‘Applicant’ or
+‘Person
+Confirming
+Identity’
+depending on
+the Medicare
+Card check
+performed
+
+be due to security
+
+restrictions.
+
+Reasons include:
+
+A
+replacement
+card has
+been issued.
+
+The card
+has been
+reported as
+lost or
+stolen.
+
+The card
+has been
+flagged as
+fraudulent.
+
+The
+customer
+has recently
+updated
+their details
+with
+Services
+Australia
+
+1. Attempt to
+approve by
+downgrading t
+application.
+
+2. Contact the
+
+applicant to ve
+the provided
+details. New
+information mu
+be entered into
+the EOI tab,
+‘Applicant
+Medicare Card’
+fields. If the new
+details validate
+the EOI will be
+accepted. Add 
+note to the
+application.
+
+3. Contact the
+applicant to
+obtain another
+acceptable type
+EOI. New
+information mu
+be entered into
+the appropriate
+fields in the EO
+tab. Add a note
+the application
+
+4. Contact the
+applicant to
+obtain an imag
+of the Medicare
+card.
+
+A Manual Decision:
+
+Override may be app
+
+if the Medicare card i
+
+accepted as EOI.  Add
+
+note to the applicatio
+
+
+--- Page 93 ---
+
+1342: “System
+
+The connection to
+
+error occurred
+
+the DVS has been
+
+while trying to
+
+interrupted or is
+
+match
+
+down.
+
+Medicare card.
+
+Please re-
+
+verify.”
+
+“Medicare
+
+card
+
+<number> not
+
+found. Please
+
+investigate.”
+
+1. Re-verify the
+
+application. Thi
+may have been
+temporary
+connection issu
+
+2. Attempt to
+approve by
+downgrading t
+application to
+Change of
+Address or
+Written Advice.
+
+3. Contact the
+applicant to
+obtain another
+acceptable type
+EOI. New
+information mu
+be entered into
+the appropriate
+fields in the EO
+tab. Add a note
+the application
+a.  Contact 
+applican
+obtain an
+image of
+the
+Medicare
+card. A
+Manual
+Decision
+Override
+may be
+applied i
+the
+Medicare
+card is
+accepted
+EOI.  Add
+note to t
+applicatio
+
+
+--- Page 94 ---
+
+“Medicare
+
+Card
+
+<number> has
+
+temporarily
+
+been locked in
+
+document
+
+verification
+
+service. Please
+
+re-verify in
+
+20mins.”
+
+Defect will
+
+lead with
+
+‘Applicant’ or
+
+‘Person
+
+Confirming
+
+Identity’
+
+depending on
+
+the Medicare
+
+Card check
+
+performed.
+
+1412: "Change
+of Address for
+Victoria
+cannot use
+Passport,
+Medicare or
+Citizenship.
+Refer Roll-
+How for
+further
+information."
+
+Due to too many
+verification
+attempts on the
+same Medicare
+Card number, the
+DVS is preventing
+further attempts
+for 20 minutes.
+
+1. Place applicatio
+
+on Hold.
+
+2. After 20 minute
+processing of t
+application may
+recommence.
+
+Note: Prior to
+recommencing
+processing, review aud
+information to ensure
+20minutes has passed
+since the application w
+last verified.
+
+Refer to the Roll-How
+Victoria: Change of
+Address processing
+page.
+
+In Victoria, only
+
+driver's licence is
+
+currently accepted
+
+as a signature
+
+equivalent.
+
+Application
+
+cannot be
+
+approved as a
+
+Change of
+
+Address.
+
+Medicare card name not provided
+
+If the Medicare card name is not provided (eg. missing
+
+from a ‘paper’ form), the system will use a version of the
+
+Applicant Name to perform the DVS check. If the card still
+
+doesn’t pass DVS validation, manual follow-up is
+
+required. 
+
+Medicare card defects and alerts
+
+
+--- Page 95 ---
+
+Acceptable defect. Investigate, then accept and add a comment.
+
+The connection to DVS may be down. Re-verify, further investigation
+
+may be necessary.
+
+Medicare card not found. Investigate further.
+
+Victoria state legislation currently only accepts drivers licence as a
+
+siganture equivalent.
+
+An exact Medicare card match was found using the Applicant name,
+
+Card number, IRN and expiry. Apply a manual EOI decision.
+
+The DVS cannot verify the Medicare card details. This may be due to
+
+security restrictions or a recent update to the clients personal details.
+
+Medicare card details have passed validation - acceptable as EOI.
+
+s47Fs47Fs47Fs47Fs47Fs47F
+
+
+--- Page 96 ---
+
+Medicare card details have not passed validation - unacceptable
+
+EOI.
+
+User alert when Medicare card is expired.
+
+Too many verfication attempts have locked further calls for 20mins.
+
+An exact Medicare card match was found using the PCI name, Card
+
+number, IRN and expiry. Apply a manual EOI decision.
+
+This error message appears when the Applicants EOI is incorrectly
+
+entered in the Person Confirming Identity (PCI) panels/fields. To fix
+this, remove the Applicants EOI from the PCI panels/fields and enter
+
+in the Applicant EOI fields. You can then re-verify.
+
+Person Conﬁrming Identity (PCI)
+
+A person who is currently on the Commonwealth Electoral
+
+Roll may confirm the identity of the applicant by providing
+
+their details and signing the application on a paper form or
+
+providing a signature equivalent for an online (OES)
+
+application. 
+
+The Person Confirming Identity (PCI) must provide their:
+
+Name
+
+Date of birth
+
+Address
+
+Signature or equivalent, and
+
+s47Fs47Fs47Fs47Fs47F
+
+
+--- Page 97 ---
+
+The elector's family name (OES dual PCI form only)
+
+While processing an enrolment application, the PCI must be
+
+matched to their enrolment record and their signature or
+
+equivalent must be accepted.
+
+How PCI details are provided
+
+The table below describes the different ways the Applicant
+
+and PCI can provide their details and sign their declaration.
+
+Original
+
+How is the
+
+How is the
+
+GENESIS
+
+form type
+
+form
+
+form
+
+form type
+
+completed?
+
+received?
+
+Ordinary
+enrolment
+
+Ordinary
+enrolment
+
+Applicant
+sends form.
+Form is then
+loaded into
+GENESIS as
+an Input
+Work Item.
+
+Applicant
+sends form.
+Form is then
+loaded into
+GENESIS as
+an Input
+Work Item.
+
+'Paper'
+ordinary
+enrolment
+form
+
+Applicant and
+PCI complete
+and physically
+sign the same
+form.
+
+OES print
+and sign
+ordinary
+enrolment
+form
+
+In the OES,
+
+Applicant
+
+completes
+
+form but
+
+chooses to
+
+‘print form
+
+and return
+
+later.’
+
+After printing,
+
+Applicant and
+
+PCI physically
+
+sign the same
+
+form.
+
+
+--- Page 98 ---
+
+
+
+
+--- Page 99 ---
+
+While processing an enrolment application, the ‘Person
+
+Confirming Identity Signed’ checkbox must be selected when
+
+the PCI signature is provided.
+
+Signature
+
+The Person Confirming Identity Signed tick box, (located
+in the Evidence of Identity panel) must be selected
+when the PCI has signed their declaration.
+
+If the PCI has not signed their declaration the tick box
+must be left unselected.
+
+Name and date of birth
+
+The PCI name and date of birth are entered in the
+Person Confirming Identity panel.
+
+Address
+
+The PCI’s address is entered in the Person Confirming
+Identity Address panel.
+
+Online Ordinary Enrolment submitted through
+the OES
+
+Traditionally, when an applicant chooses the EOI option to
+
+have a person confirm their identity, this person must provide
+
+a signature. 
+
+To allow applications with PCI to be submitted electronically,
+
+the OES asks the PCI to provide a driver's licence, passport,
+
+Medicare Card or citizenship number instead of a signature.
+
+This is referred to as a 'signature equivalent'. The PCI
+
+signature equivalent and details can be provided:
+
+Immediately, entered in the same OES form as the
+Applicant, or
+
+Via the OES dual PCI form accessed via a link sent to
+them by the Applicant.
+
+s47F
+
+
+--- Page 100 ---
+
+Detailed information about the OES and how a PCI provides
+
+their personal details, declaration and signature equivalent is
+
+available in the Online Enrolment Service (OES) page.
+
+These OES applications appear in GENESIS as an Online
+
+Ordinary Enrolment. These must be reviewed and processed
+
+by users.
+
+In the OES, when the applicant selects PCI as their EOI, they are asked
+if their PCI is present or if they want to send a link to their PCI to
+
+enter their details separately.
+
+Multiple PCI details listed
+
+In the Person Confirming Identity panel, there may be times
+
+where additional PCI details are listed. This indicates the
+
+Applicant sent the OES dual PCI form link to multiple people
+
+and more than one person has completed it.
+
+No action or review of these additional PCI details are
+
+required - unless the original PCI cannot be accepted.
+
+Detailed information about how to handle these applications
+
+is provided in the resolving PCI defects Person Confirming
+
+Identity - multiple PCI section below.
+
+EOI tab, PCI panel: multiple PCI details will display in a list where
+
+more than one PCI has completed the OES dual PCI form. Only one
+
+PCI needs to match.
+
+Homepage: New Online PCI arrived
+
+Online Ordinary Enrolment applications will appear on the
+
+homepage against 'New Online PCI arrived' when an Online
+
+Ordinary Enrolment:
+
+is currently being processed, or
+
+it has already been defected
+
+and a new OES dual PCI form is received.
+
+These applications must be investigated and processed as
+
+normal.
+
+
+--- Page 101 ---
+
+
+
+
+--- Page 102 ---
+
+When a system client match has not occurred, client
+
+investigation must be undertaken in the EOI tab, Person
+
+Confirming Identity panel, by selecting the Match Person
+
+Confirming Identity button.
+
+The PCI name, date of birth and address are used to assist
+
+with matching the PCI to their enrolment record, however,
+
+these details do not need to be an exact match. This is to
+
+allow for persons who have not updated their enrolled
+
+address or name or for any minor differences.
+
+Once the correct client is found, their record must be matched
+
+by selecting the Match PCI button on the View Client screen.
+
+Where the PCI is not valid (cannot be matched / not currently
+
+enrolled) the Applicant can be contacted to obtain a valid EOI
+
+document ie drivers licence/passport/Medicare
+
+Card/Citizenship number). 
+
+When a system PCI match has not occurred, defects will appear in the
+
+Review panel.
+
+A manual search of the electoral roll to find the PCI is done in the EOI
+
+tab, Person Confirming Identity panel.
+
+The PCI has been found and matched.
+
+Person Conﬁrming Identity - multiple PCI
+
+
+--- Page 103 ---
+
+
+
+
+--- Page 104 ---
+
+The address provided by the PCI does not need to match the
+
+address on their enrolment record.
+
+Defects which appear in the Application Review panel are
+
+provided to assist with PCI client matching. PCI address
+
+defects are acceptable and do not prevent the application
+
+from being approved.
+
+Review panel PCI address defect when the address provided was not
+
+matched. This is an acceptable defect.
+
+Review panel PCI address defect when the PCI has never been
+
+enrolled at the provided address. This is an acceptable defect.
+
+Review panel PCI address defect when the PCI has not provided an
+
+address. This is an acceptable defect.
+
+Person Conﬁrming Identity - signature defects (Ordinary
+
+Enrolment)
+
+For Ordinary Enrolment applications, when the PCI has
+
+not signed the application, defects will appear in the
+
+Application Review panel. 
+
+When reviewing the Application source document, if the PCI
+
+did sign the declaration, the 'Signed' check box (in the Person
+
+Confirming Identity Signature panel) must be selected.
+
+Two review panel defects will appear when the PCI has not signed
+
+their declaration.
+
+Edit Application: within the EOI tab, the Person Confirming Identity
+Signature panel contains the 'Signed' check box.
+
+
+--- Page 105 ---
+
+View Application: In the Person Confirming Identity panel, there will
+be a Yes against 'PCI Signed' when the checkbox is selected.
+
+Person Conﬁrming Identity - signature equivalent
+
+defects (Online Ordinary Enrolment)
+
+For Online Ordinary Enrolment applications with PCI details,
+
+the provided signature equivalent: driver’s licence, passport,
+
+Medicare or citizenship number will appear across the
+
+relevant Person Confirming Identity Signature Equivalent
+
+panels.
+
+When the system is unable to match the provided signature
+
+equivalent, an investigation must be performed through the
+
+Application EOI tab in the relevant Person Confirming Identity
+
+signature equivalent panel. Detailed information about the
+
+defects which may appear and how to resolve these are
+
+provided in the relevant EOI section above.
+
+When the PCI signature equivalent cannot be verified:
+
+the application must be defected and correspondence
+issued
+
+contact must not be made with either the
+applicant/elector or the PCI to obtain further
+information about the PCI EOI
+
+An EOI check can be submitted through the AEC
+Service Centre if the PCI’s EOI cannot be verified.
+
+Two review panel defects will appear when the PCI signature
+
+equivalent has not matched.
+
+EOI tab: The PCI signature equivalent will appear in the relevant PCI
+
+signature equivalent panel. Manual investigation must occur within
+
+the relevant panel using the search/validate button.
+
+
+--- Page 106 ---
+
+Which EOI is required and when? 
+
+GENESIS application
+
+What is the applicant
+
+type
+
+doing?
+
+Ordinary Enrolment
+
+When the applicant is:
+
+Completed using
+
+an approved enrolment
+
+form eg. "Enrol to vote or
+
+update your details",
+
+Federal event Declaration
+
+Vote and Pre-Poll Vote
+
+Envelopes. 
+
+Enrolling for the first time,
+
+Wants to get back on the
+
+roll (not currently enrolled)
+
+or is
+
+Changing their name,
+
+EOI must be provided. All
+
+approved types of EOI can
+
+be used:
+
+Australian Drivers
+Licence number
+
+Australian Passport
+number
+
+Citizenship number
+
+Medicare card details
+
+Person Confirming
+Identity (PCI)
+
+The applicant must also sign
+
+the application.
+
+
+--- Page 107 ---
+
+Manual Change of
+
+When the applicant is:
+
+Address
+
+When an Ordinary
+
+Enrolment is downgraded
+
+(using the Change Form
+
+button) to a Change of
+
+Address
+
+currently enrolled and
+
+changing their residential
+
+or postal address only and
+
+the Applicant signature is
+
+missing, the application
+
+can be approved when EOI
+
+and date of birth are
+
+provided. All following EOI
+
+can be used*:
+
+Australian Drivers
+Licence number
+
+Australian Passport
+number
+
+Citizenship number
+
+Medicare card details 
+
+* Victorian Manual Change
+
+of Address: only
+
+drivers' licences are
+
+accepted.
+
+Online Ordinary
+
+ When the applicant is:
+
+Enrolment
+
+Completed using the
+
+Online Enrolment Service
+
+(OES) 
+
+Enrolling for the first time,
+
+Wants to get back on the
+
+roll (not currently enrolled)
+
+or is
+
+Changing their name,
+
+EOI must be provided. All
+
+approved types of EOI can
+
+be used:
+
+Australian Drivers
+Licence number
+
+Australian Passport
+number
+
+Citizenship number
+
+Medicare card details
+
+Person Confirming
+Identity (PCI)
+
+The applicant must also sign
+
+the application.
+
+
+--- Page 108 ---
+
+Online Change of
+
+When the applicant is:
+
+currently enrolled and
+
+changing their residential
+
+or postal address only the
+
+application can be
+
+approved when EOI is
+
+provided. All following EOI
+
+can be used*:
+
+Australian Drivers
+Licence number
+
+Australian Passport
+number
+
+Citizenship number
+
+Medicare card details 
+
+* Victorian Online Change of
+
+Address: only
+
+drivers' licences are
+
+accepted.
+
+When the applicant is:
+
+currently enrolled and
+
+their old and new address
+
+are in the same federal
+
+division.
+
+EOI is not required.
+
+Address
+
+Completed using the
+
+Online Enrolment Service
+
+(OES) 
+
+Written Advice
+
+When an Ordinary
+Enrolment is
+downgraded (using
+the Change Form
+button) to Written
+Advice
+
+Mail review
+response
+
+Postal Vote
+Certificate
+
+Written
+correspondence eg.
+Non-Voter
+Response, general
+correspondence etc.
+
+Videos
+
+These videos compliment the above instructions and
+
+demonstrate how to resolve some Evidence of Identity
+
+anomalies when processing enrolment applications in
+
+GENESIS.
+
+Resolving Evidence of Identity defects
+
+This video demonstrates how to conduct some
+
+investigations to assist with Evidence of Identity anomaly
+
+processing.
+
+
+--- Page 109 ---
+
+
+
+
+--- Page 110 ---
+
+
+
+
+--- Page 111 ---
+
+
+
+
+--- Page 112 ---
+
+
+
+
+--- Page 113 ---
+
+
+
+
+--- Page 114 ---
+
+
+
+
+--- Page 115 ---
+
+
+
+
+--- Page 116 ---
+
+
+
+
+
+
+
+Adop ve Mother Full Name
+
+Adop ve Father's Full Name
+
+Given Name(s) (List all) on Entry to Australia
+
+Adop ve Mother's Date of Birth
+
+DD/MM/YYYY
+
+Adop ve Father's Date of Birth
+
+DD/MM/YYYY
+
+Elector claims / Addi onal informa on
+
+Does elector claim to be an Australian ci zen by applica on
+
+No
+
+Date the elector acquired Australian ci zenship (if known)
+
+DD/MM/YYYY
+
+State or Territory they resided in when they applied for Australian Ci zenship
+
+Does elector claim not to be an Australian Ci zen
+
+No
+
+Reason they believe they are not an Australian ci zen
+
+Addi onal Informa on
+
+ Op ons
+
+Ci zenship ques onnaire a ached
+
+No response received to ci zenship ques onnaire
+
+
+
+ Add a achments
+
+
+
+Required informa on
+
+Family Name Gender Given Names(s) Date of birth
+
+Country of birth Op ons
+
+Save as Dra 
+
+Submit
+
+The AEC acknowledges the Tradi onal Owners of country throughout Australia and recognises their con nuing connec on to land, waters, culture and community  We pay our respects to Elders past, present and emerging
+
+© AUSTRALIAN ELECTORAL COMMISSION 2023

@@ -1,0 +1,26 @@
+
+
+--- Page 1 ---
+
+Party
+
+Confirmed
+Denied
+Neutral
+Non-contactable 
+Total
+
+29
+17
+4
+16
+66
+
+
+--- Page 2 ---
+
+
+
+
+--- Page 3 ---
+

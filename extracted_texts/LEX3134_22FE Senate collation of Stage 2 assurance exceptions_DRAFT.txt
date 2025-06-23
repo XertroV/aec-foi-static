@@ -1,0 +1,562 @@
+
+
+--- Page 1 ---
+
+External statistical assurance 
+of the Senate ballot papers 
+
+Collation of Stage 2 statistical 
+assurance exceptions 
+
+Australian Electoral Commission 
+July 2022
+
+
+--- Page 2 ---
+
+Australian Electoral Commission | July 2022 
+
+Contents 
+
+1. STATISTICAL ASSURANCE EXCEPTIONS ................................................................................................ 1 
+
+2. VOTER DISENFRANCHISED .................................................................................................................. 2 
+
+3. ATL PREFERENCE SEQUENCE BROKEN TOO EARLY WITHIN THE FIRST SIX PREFERENCES ........................ 6 
+
+4. ATL PREFERENCE SEQUENCE BROKEN TOO EARLY AFTER THE FIRST SIX PREFERENCES .......................... 9 
+
+5. BTL PREFERENCE SEQUENCE BROKEN TOO EARLY WITHIN THE FIRST TWELVE PREFERENCES .............. 10 
+
+6. BTL PREFERENCE SEQUENCE BROKEN TOO EARLY AFTER THE FIRST TWELVE PREFERENCES ................ 12 
+
+7. VOTER PREFERENCE SEQUENCE BROKEN TOO LATE ........................................................................... 13 
+
+8. VOTE RECORDED AS FORMAL WHEN IT SHOULD HAVE BEEN INFORMAL ............................................ 14 
+
+9. INCORRECT PREFERENCE TYPE ACCEPTED ......................................................................................... 16 
+
+Statement of Responsibility 
+
+© Axiom Associates (Aust) Pty Ltd 2022. All Rights Reserved. 
+
+Axiom Associates (Aust) Pty Ltd documents and reports may be relied upon by the Australian Electoral Commission (AEC) for purposes only pursuant 
+to  the  terms  of  our  engagement  outlined  in  the  Services  Agreement  Contract  Number:  SRC001297  dated  December  2021  and  any  subsequent 
+amendments. We disclaim all responsibility to any other party for any loss or liability that the other party may suffer or incur arising from or relating 
+to or in any way connected with the contents of our documents or reports, the provision of our documents or reports to the other party or the reliance 
+upon our documents or reports by the other party. 
+
+Liability limited by a scheme approved under Professional Standards Legislation.  
+
+Document Control 
+
+Date Provided 
+
+Detail 
+
+5 July 2022 
+
+Provided to the Australian Electoral Commission 
+
+Version 
+Number 
+1.0 
+1.1 
+1.2 
+1.3 
+
+  External statistical assurance of the Senate ballot papers 
+
+i
+
+
+--- Page 3 ---
+
+Australian Electoral Commission | July 2022 
+
+1. STATISTICAL ASSURANCE EXCEPTIONS  
+
+1.1 
+The purpose of this document is to provide a collation of Stage Two statistical assurance exceptions as 
+part  of  the  2022  external  statistical  assurance  of  Senate  ballot  papers.  This  document  should  be  read  in 
+conjunction with the External statistical assurance of the Senate ballot papers: Detailed report and statement 
+of outcomes, dated July 2022.  
+
+STAGE 2 EXCEPTIONS  
+
+1.2 
+The Stage Two assurance testing compared the physical ballot paper to the electronic data used in 
+counting, contained in the Australian Electoral Commission’s (AEC) Ballot Paper Reconciliation System (BPRS). 
+The second stage testing assessed whether: 
+
+▪ 
+
+▪ 
+
+the electronic preference data file was an accurate reflection of the preferences recorded on the physical 
+ballot paper; and  
+
+the interpretation of voter intent aligned with AEC business rules as stated in the Ballot Paper Formality 
+Policy and Ballot Paper Formality Guidelines. 
+
+1.3 
+For Stage Two assurance testing a total of 33 exceptions were identified. These exceptions related to 
+the accuracy of the electronic preference data file (used in counting) and the interpretation of voter intent. 
+Determination  of  voter  intent  should  be  in  line  with  the  AEC  business  rules  as  stated  in  the  Ballot  Paper 
+Formality Policy and Ballot Paper Formality Guidelines.  
+
+1.4 
+The 33 exceptions have been determined and classified in accordance with the approved assurance 
+methodology. The classification of exceptions is outlined in Table 1. An additional classification of exceptions 
+has  been  included  in  the  table  below  to  reflect  the  assurance  findings.  The  categorisation  of  statistical 
+exceptions now includes where an incorrect preference type (including related preferences) was admitted to 
+the count. 
+
+Table 1: Categorisation of exceptions related to the interpretation of voter intent  
+
+1.5 
+Of the exceptions used in the statistical analysis, 27% related to where a voter was disenfranchised 
+from the election. Another 24% related to where the ATL voter preference sequence was broken too early 
+within the first six preferences. 15% of exceptions related to the counting of an informal vote (i.e., where vote 
+was informal and should have been excluded from the count).  
+
+  External statistical assurance of the Senate ballot papers 
+
+1 
+
+Categorisation of exceptions used in statistical analysisNSWVICQLDWASATASACTNTTotal% of totalVoterdisenfranchisedwhereavoteisrecordedasinformalwhenthevoterexpressed a valid preference(s)2211129             27%Abovethelinevoterpreferencesequencewasbrokentooearlywithinthefirst six preferences221128             24%Abovethelinevoterpreferencesequencewasbrokentooearlyafterthefirst six preferences1113             9%Belowthelinevoterpreferencesequencewasbrokentooearlywithinthefirst twelve preferences1113             9%Belowthelinevoterpreferencesequencewasbrokentooearlyafterthefirst twelve preferences11             3%Voterpreferencesequencewasbrokentoolate(additionalpreferenceswere recorded)1113             9%Vote recorded as formal when it should have been informal1225             15%Incorrect preference type accepted11             3%Total exceptions related to the interpretation of voter intent7         8         2         3         5         5         2         1         33           100%CSS state and territory Location
+
+
+--- Page 4 ---
+
+Australian Electoral Commission | July 2022 
+
+2. VOTER DISENFRANCHISED  
+
+A  voter  is  disenfranchised  when  a  vote  is  recorded  as  informal  when  the  voter  expressed  a  valid 
+
+2.1 
+preference(s).  
+
+NSW 
+
+BPRS did not recognise a number 1 in column W Above the Line (ATL) and recorded the vote as informal. 
+
+2.2 
+The vote should have been formal ATL admitted to 6 preferences.  
+
+Ballot paper: 27966NSWHUGH0124320000097_01_001 
+
+BPRS did not recognise a number 1 in column G ATL and recoded the vote as informal. The vote should 
+
+2.3 
+have been formal ATL admitted to 1 preference.  
+
+Ballot paper: 27966NSWSHOR0148651700109_01_004 
+
+VIC 
+
+2.4 
+The voter recorded six preferences ATL on the ballot paper (columns: L, P, Q, V, W and X). They also 
+marked all other boxes with an ‘x’. BPRS rejected the vote. The vote should have been formal ATL admitted to 
+6 preferences.  
+
+Ballot paper: 27966VICFRAS0321538200305_01_004 
+
+  External statistical assurance of the Senate ballot papers 
+
+2
+
+
+--- Page 5 ---
+
+Australian Electoral Commission | July 2022 
+
+2.5 
+The voter recorded six preferences ATL on the ballot paper (columns: C, D, H, K, L, P and W). They also 
+marked all other boxes with an ‘x’. BPRS rejected the vote. The vote should have been formal ATL admitted to 
+7 preferences.  
+
+Ballot paper: 27966VICMONA0323566200401_01_002 
+
+QLD 
+
+2.6 
+The voter recorded twelve preferences Below The Line (BTL) on the ballot paper (columns: L, P, Q, V, 
+W and X). BPRS did not record the first preference in column A. BPRS rejected the vote. The vote should have 
+been formal BTL admitted to 12 preferences.  
+
+Ballot paper: 27966QLDLILL0169227400110_01_001 
+
+WA 
+
+2.7 
+The voter recorded an unbroken sequence of 9 preferences BTL on the ballot paper (columns: B, D, L, 
+O, R, T, U). BPRS recorded preference 9 in column D as a 4. BPRS rejected the vote. The vote should have been 
+formal BTL admitted to 9 preferences.  
+
+Ballot paper: 27966WA-PEAR0244135200105_01_001 
+
+  External statistical assurance of the Senate ballot papers 
+
+3
+
+
+--- Page 6 ---
+
+Australian Electoral Commission | July 2022 
+
+TAS 
+
+2.8 
+The voter recorded 11 preferences ATL on the ballot paper (columns: A, B, C, D, E, G, I, J, K, M and N). 
+BPRS recorded the preference in column A as a 1 instead of an 11. BPRS rejected the vote. The vote should have 
+been formal ATL admitted to 11 preferences.  
+
+Ballot paper: 27966TASBRAD0193023900501_01_002 
+
+ACT 
+
+2.9 
+The voter recorded a first preference ATL in column D on the ballot paper. The voter crossed off all 
+other boxes (except for column A where a 6 was recorded). These crossed out boxes were recorded as / in BPRS 
+(signalling a first preference tick). BPRS rejected the vote. The vote should have been formal ATL admitted to 1 
+preference.  
+
+Ballot paper: 27966ACTCANB0101002800103_01_005 
+
+  External statistical assurance of the Senate ballot papers 
+
+4
+
+
+--- Page 7 ---
+
+Australian Electoral Commission | July 2022 
+
+2.10 
+The voter recorded six preferences ATL (columns: A, B, C, D, H and K). The first preference in column D 
+was recorded as a 7 in BPRS. BPRS rejected the vote. The vote should have been formal  ATL admitted to 6 
+preferences.  
+
+Ballot paper: 27966ACTBEAN0318035400236_01_001 
+
+  External statistical assurance of the Senate ballot papers 
+
+5
+
+
+--- Page 8 ---
+
+Australian Electoral Commission | July 2022 
+
+3. ATL PREFERENCE SEQUENCE BROKEN TOO EARLY WITHIN THE FIRST 
+
+SIX PREFERENCES  
+
+NSW 
+
+BPRS did recognise a number 3 in column E ATL. BPRS recorded the vote as admitted to 2 preferences. 
+
+3.1 
+The vote should have been formal ATL admitted to 6 preferences.  
+
+Ballot paper: 27966NSWKSMI0127364301401_01_001 
+
+BPRS  recorded  a  4  in  column  S  ATL  when  it  was  a  7.  BPRS  recorded  the  vote  as  admitted  to  3 
+
+3.2 
+preferences. The vote should have been formal ATL admitted to 7 preferences.  
+
+Ballot paper: 27966NSWGREE0122305900015_01_005 
+
+VIC 
+
+BPRS  recorded  an  8  in  column  H  ATL  instead  of  a  3.  BPRS  recorded  the  vote  as  admitted  to  2 
+
+3.3 
+preferences. The vote should have been formal ATL admitted to 6 preferences.  
+
+Ballot paper: 27966VICLTRO0223351600882_01_006 
+
+  External statistical assurance of the Senate ballot papers 
+
+6
+
+
+--- Page 9 ---
+
+Australian Electoral Commission | July 2022 
+
+BPRS  did  not  recognise  a  number  3  in  column  I  ATL.  BPRS  recorded  the  vote  as  admitted  to  2 
+
+3.4 
+preferences. The vote should have been formal ATL admitted to 3 preferences.  
+
+Ballot paper: 27966VICCASE0204080600154_01_004 
+
+WA 
+
+BPRS recorded a 3 in column U ATL instead of a 5. BPRS recorded the vote as admitted to 2 preferences. 
+
+3.5 
+The vote should have been formal ATL admitted to 12 preferences.  
+
+Ballot paper: 27966WA-SWAN0247169100018_01_003 
+
+SA 
+
+3.6 
+BPRS did not accurately record the preferences on the ballot paper. BPRS recorded a 2 in column B and 
+3 in column C. This did not match the ballot paper where a 3 was in column B and a 2 in column C. BPRS recorded 
+the  vote  as  admitted  to  6  preferences.  The  vote  should  have  been  formal  ATL  admitted  to  6  for  different 
+preferences.  
+
+Ballot paper: 27966SA-SPEN0325170601603_01_001 
+
+  External statistical assurance of the Senate ballot papers 
+
+7
+
+
+--- Page 10 ---
+
+Australian Electoral Commission | July 2022 
+
+TAS 
+
+BPRS recorded a 6 in column K ATL instead of a 9. BPRS recorded the vote as admitted to 5 preferences. 
+
+3.7 
+The vote should have been formal ATL admitted to 13 preferences.  
+
+Ballot paper: 27966TASBRAD0193023500202_01_002 
+
+BPRS did not record a 6 in column C ATL. BPRS recorded the vote as admitted to 5 preferences. The 
+
+3.8 
+vote should have been formal ATL admitted to 12 preferences.  
+
+Ballot paper: 27966TASLYON0196052400106_01_004 
+
+  External statistical assurance of the Senate ballot papers 
+
+8
+
+
+--- Page 11 ---
+
+Australian Electoral Commission | July 2022 
+
+4. ATL PREFERENCE SEQUENCE BROKEN TOO EARLY AFTER THE FIRST SIX 
+
+PREFERENCES  
+
+VIC 
+
+BPRS  recorded  a  12  in  column  H  ATL  instead  of  a  17.  BPRS  recorded  the  vote  as  admitted  to  11 
+
+4.1 
+preferences. The vote should have been formal ATL admitted to 22 preferences.  
+
+Ballot paper: 27966VICNICH0324582101812_01_002 
+
+QLD 
+
+BPRS  recorded  a  16  in  column  V  ATL  instead  of  a  10.  BPRS  recorded  the  vote  as  admitted  to  9 
+
+4.2 
+preferences. The vote should have been formal ATL admitted to 12 preferences.  
+
+Ballot paper: 27966QLDBLAI0304420800117_01_005 
+
+SA 
+
+BPRS  recorded  a  19  in  column  Q  ATL  instead  of  a  17.  BPRS  recorded  the  vote  as  admitted  to  16 
+
+4.3 
+preferences. The vote should have been formal ATL admitted to 19 preferences.  
+
+Ballot paper: 27966SA-BARK0180027901502_01_003 
+
+  External statistical assurance of the Senate ballot papers 
+
+9
+
+
+--- Page 12 ---
+
+Australian Electoral Commission | July 2022 
+
+5. BTL PREFERENCE SEQUENCE BROKEN TOO EARLY WITHIN THE FIRST 
+
+TWELVE PREFERENCES  
+
+VIC 
+
+BPRS recorded a 1 in column S BTL instead of an 11. This made the ballot paper BTL informal. BPRS then 
+
+5.1 
+admitted ATL preferences to 6. The vote should have been BTL formal admitted to 12 preferences.  
+
+Ballot paper: 27966VICCHIS0205095700375_01_003 
+
+WA 
+
+BPRS did not record an 8 in column P BTL. BPRS admitted BTL preferences to 7. The vote should have 
+
+5.2 
+been BTL formal admitted to 12 preferences.  
+
+Ballot paper: 27966WA-COWA0237036600204_01_003 
+
+  External statistical assurance of the Senate ballot papers  10
+
+
+--- Page 13 ---
+
+Australian Electoral Commission | July 2022 
+
+NT 
+
+BPRS did not record a 7 in column B BTL. BPRS admitted BTL preferences to 6. The vote should have 
+
+5.3 
+been BTL formal admitted to 10 preferences.  
+
+Ballot paper: 27966NT-LING0306001800108_01_004 
+
+  External statistical assurance of the Senate ballot papers  11
+
+
+--- Page 14 ---
+
+Australian Electoral Commission | July 2022 
+
+6. BTL PREFERENCE SEQUENCE BROKEN TOO EARLY AFTER THE FIRST 
+
+TWELVE PREFERENCES  
+
+TAS 
+
+BPRS recorded a 27 in column K BTL instead of a 17. BPRS admitted BTL preferences to 16. The vote 
+
+6.1 
+should have been BTL formal admitted to 39 preferences.  
+
+Ballot paper: 27966TASLYON0196058500119_01_002 
+
+  External statistical assurance of the Senate ballot papers  12
+
+
+--- Page 15 ---
+
+Australian Electoral Commission | July 2022 
+
+7. VOTER PREFERENCE SEQUENCE BROKEN TOO LATE  
+
+NSW 
+
+BPRS recorded a 7 in column M ATL instead of a 2. BPRS admitted ATL preferences to 7. The vote should 
+
+7.1 
+have been formal admitted to 1 preference.  
+
+Ballot paper: 27966NSWCOOK0112135000098_01_002 
+
+SA 
+
+BPRS recorded a 4 in column Q and 5 in column R ATL which had been crossed out. BPRS admitted ATL 
+
+7.2 
+preferences to 10. The vote should have been formal admitted to 3 preferences.  
+
+Ballot paper: 27966SA-BOOT0182040400292_01_003 
+
+TAS 
+
+BPRS recorded an unusual mark as a 7 in column L. BPRS admitted ATL preferences to 7. The vote should 
+
+7.3 
+have been formal admitted to 6 preferences.  
+
+Ballot paper: 27966TASBASS0192001400107_01_001 
+
+  External statistical assurance of the Senate ballot papers  13
+
+
+--- Page 16 ---
+
+Australian Electoral Commission | July 2022 
+
+8. VOTE RECORDED AS FORMAL WHEN IT SHOULD HAVE BEEN 
+
+INFORMAL  
+
+NSW 
+
+BPRS recorded a 7 in column M ATL as a 1. BPRS admitted ATL preferences to 2. The vote should have 
+
+8.1 
+been informal and rejected from the count.  
+
+Ballot paper: 27966NSWLIND0128379500216_01_005 
+
+VIC 
+
+BPRS recorded an unusual mark in column A ATL as a 1. BPRS admitted ATL preferences to 1. The vote 
+
+8.2 
+should have been informal and rejected from the count.  
+
+Ballot paper: 27966VICMELB0228417500315_01_005 
+
+BPRS recorded an unusual mark in column G ATL as a 1. BPRS admitted ATL preferences to 6. The vote 
+
+8.3 
+should have been informal and rejected from the count.  
+
+Ballot paper: 27966VICSCUL0232447300204_01_003 
+
+  External statistical assurance of the Senate ballot papers  14
+
+
+--- Page 17 ---
+
+Australian Electoral Commission | July 2022 
+
+SA 
+
+BPRS recorded an unusual mark in column B ATL as a 1. BPRS admitted ATL preferences to 1. The vote 
+
+8.4 
+should have been informal and rejected from the count.  
+
+Ballot paper: 27966SA-GREY0183069601108_01_005 
+
+BPRS recorded an unusual mark in column A ATL as a 1. BPRS admitted ATL preferences to 1. The vote 
+
+8.5 
+should have been informal and rejected from the count.  
+
+Ballot paper: 27966SA-KING0186097800275_01_004 
+
+  External statistical assurance of the Senate ballot papers  15
+
+
+--- Page 18 ---
+
+Australian Electoral Commission | July 2022 
+
+9. INCORRECT PREFERENCE TYPE ACCEPTED  
+
+NSW 
+
+9.1 
+BPRS recorded unusual marks as BTL preferences in column E. BPRS admitted BTL preferences to 7. The 
+vote should have been admitted ATL formal to 7 preferences (different set of preferences to those recorded 
+BTL).  
+
+Ballot paper: 27966NSWNENG0135486100247_01_003 
+
+  External statistical assurance of the Senate ballot papers  16

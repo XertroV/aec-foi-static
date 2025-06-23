@@ -1,0 +1,50 @@
+
+
+--- Page 1 ---
+
+From: Vanessa Teague <Vanessa.Teague@anu.edu.au> 
+Sent: Tuesday, 31 August 2021 3:40 PM
+To: Tom Rogers 
+Cc: andrewstvcount@greatcactus.org
+Subject: Corrections to the Senate Counting algorithm
+
+; Thomas Ryan 
+
+CAUTION: This email originated from outside of the Australian Federal Government. Do not click links
+or open attachments unless you recognise the sender and know the content is safe.
+
+Dear Mr Rogers and Mr Ryan,
+
+Please find attached our report on the AEC's Senate count.
+
+We have found one instance in which the software breaks ties in a way that is not what is
+specified in the Electoral Act. We have also noted some other ambiguities that need to be
+resolved either by amending the Act or by otherwise committing to the exact counting
+algorithm.
+
+We would be very happy to help you correct the code - you can see our implementation here
+https://github.com/AndrewConway/ConcreteSTV.  We could easily make the necessary
+adjustments to the official code if it was similarly published online.
+
+Also, we support recent proposals to audit randomly selected paper ballots at the end of the
+digitizing process to give everyone evidence of the accuracy of the process. We would be
+happy to help the AEC implement these measures securely and transparently.
+
+Yours Sincerely,
+
+Vanessa Teague and Andrew Conway.
+
+Vanessa Teague
+
+CEO, Thinking Cybersecurity Pty. Ltd.
+
+
+--- Page 2 ---
+
+A/Prof (Adj.), Research School of Computer Science
+The Australian National University | Canberra ACT 2601
+E: vanessa.teague@anu.edu.au
+
+W: https://researchers.anu.edu.au/researchers/teague-v
+
+CRICOS Provider #00120C

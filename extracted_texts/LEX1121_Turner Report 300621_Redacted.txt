@@ -1,0 +1,2106 @@
+
+
+--- Page 1 ---
+
+Report of Dr Michael Turner 
+
+Acknowledgement, Instructions & Details About the Author 
+
+1.  Name & Address 
+
+1.1. 
+
+1.2. 
+
+My name is Michael Thomas Eugeniusz Turner PhD MSc BSc CMRS 
+
+My place of work is C|T Group Research. Strategies. Results., Level 26, 
+Governor Macquarie Tower, 1 Farrer Place, Sydney, 2000, New South Wales, 
+Australia 
+
+2.  Acknowledgement 
+
+2.1. 
+
+I confirm that I have read the following documents and agree to be bound by 
+them: 
+2.1.1. 
+
+The Federal Court of Australia: Harmonised Expert Witness Code 
+of Conduct 
+The AAT guidelines on Persons Giving Expert and Opinion 
+The Federal Court of Australia: Expert Evidence Practice Note 
+
+2.1.2. 
+2.1.3. 
+
+3.  Instructions 
+
+3.1. 
+
+Attached is a letter of instruction that I received from Harpur Phillips dated 
+3rd March 2021 to undertake a voter research survey with appropriate 
+parameters and provide a report in relation to the results of that survey 
+(Appendix 7). 
+
+3.2.  On 18th March 2021, I provided to Harpur Philips, the research report that is 
+
+contained in appendix 6. 
+
+3.3. 
+
+Attached is a letter of instruction from Harpur Phillips dated 29th June 2021, 
+to provide a further supplementary report in relation to the original research 
+report (Appendix 8). 
+
+4.  Qualifications & Experience 
+
+4.1. 
+
+I am a trained social and political scientist, having worked in the fields of 
+social, political and market research for more than a decade. I am qualified in 
+the practice of research methods, having completed methods-based courses 
+at both Bachelors and Masters degree level. My full curriculum vitae is 
+provided in appendix 1. 
+
+4.2.  My Masters degree in Social Research covered many areas of research 
+
+methods, including quantitative data analysis, survey design, sampling and 
+analysis of quantitative results. My Masters thesis focused on the 
+quantitative analysis of public opinion data. 
+
+1
+
+
+--- Page 2 ---
+
+4.3. 
+
+4.4. 
+
+4.5. 
+
+4.6. 
+
+4.7. 
+
+I continued methods training during my doctoral studies in Political Science 
+at The Elections Centre, Plymouth University. My PhD thesis focused 
+significantly on the quantitative analysis of elections results and survey data1. 
+
+Since my academic studies, I have continued training, attending many 
+renowned courses on survey design and analysis, across several institutions 
+and industry bodies. Most relevant to this research, are the methods courses 
+that I have attended at the University of Essex, the University of Vienna, and 
+the University of Oxford. 
+
+I have also conducted industry recognised short courses in experimental 
+survey designs run by the Market Research Society in the UK. All these 
+courses have some relevance for the conduct and analysis of this research 
+project. 
+
+I am a certified member of the Market Research Society (MRS), a member of 
+the Research Society (RS) and a Fellow of The Royal Statistical Society 
+(RSS).  
+
+Being members of these industry bodies binds me to higher standards of 
+professional practice of research and statistical analysis. I am obliged, in my 
+professional activities, to uphold the MRS Code of Conduct, to comply with 
+the RS Code and abide by the RSS Code of Conduct. 
+
+4.8.  My experience also includes working to produce representative and accurate 
+
+surveys that gather official population estimates, for the Office for National 
+Statistics (ONS), the national statistics agency for the UK. 
+
+4.9. 
+
+4.10. 
+
+4.11. 
+
+During my time as an Assistant Methodologist in the methodology 
+department at the ONS, I specialised in sample design and estimation, 
+working on projects such as the Census Non-Response Linkage Study 
+(CNRLS), which sought to understand how to make opt-in surveys more 
+accurate by using data from the Census, which is compulsory. 
+
+I was also responsible for the sample design of several key surveys, to 
+ensure that they were representative of the population. 
+
+Since my time at the ONS, I have held senior positions at several leading 
+social, political and market research firms. 
+
+4.12.  Though I am a methods generalist, I have built up substantial expertise in 
+quantitative survey methods, design, and analysis. I have produced robust 
+research and insight for a range of academic institutions, corporations, 
+media, charitable organisations, government, and official agencies, including 
+the ONS and the Electoral Commission in the UK. 
+
+1 Turner, M (2014). Incumbency Effects in English Local Elections 1974-2010: Assessing the Advantage of 
+Electoral Defence, University of Plymouth, URL: https://pearl.plymouth.ac.uk/handle/10026.1/2994 
+
+2
+
+
+--- Page 3 ---
+
+Research Design & Methodology 
+
+5.  Purpose of the Project & Considerations 
+
+5.1. 
+
+The purpose of this research project was to provide robust evidence to 
+identify the impact of including a political party named “The New Liberals” 
+into the voting process in Australian Federal elections. The following 
+questions guided the research design and analysis of results: 
+5.1.1. 
+
+Does the inclusion of a party called ‘The New Liberals’ make it more 
+difficult for voters to correctly identify the political party that they 
+want to vote for? 
+Does the inclusion of a political party called ‘The New Liberals’ lead 
+to confusion, among voters, about the nature of the relationship 
+between ‘The New Liberals’ and other political parties, that are 
+already registered? 
+
+5.1.2. 
+
+5.3. 
+
+5.4. 
+
+5.2.  When designing the research approach required to sufficiently answer these 
+research questions, several primary criteria were taken into account. 
+First, it is important to have the ability to simulate the voting process as 
+closely as practically possible in a private environment, free from interviewer 
+and social desirability biases.  
+The voting process is a text-based exercise for voters. They follow written 
+instructions, not oral ones. The ballot paper is not read aloud for all voters by 
+polling officials. As is outlined in the Australian Electoral Commission’s 
+(AEC’s) own official resources, it is important “to read and follow the 
+directions on the ballot paper to make sure your vote is counted”2. In other 
+words, the best way to simulate the voting process is for our sample to take a 
+text-based, self-completion approach. 
+Second, to firmly establish whether voters were confused, or truly able to 
+correctly identify their political party of choice, the ability to convey more 
+detailed information to voters, about each political party, after they have 
+given their vote intention, would be required. 
+To know if The New Liberals are seen by voters as a separate political party 
+from existing ones, or a related, or even the same political party, we must be 
+able to corroborate voters’ intentions. We can do this by presenting them 
+with non-political, factual information about each party, that will not appear 
+on the ballot paper, and therefore cannot be considered simply in the act of 
+voting. 
+Information such as the party leader, the year of their formation and the 
+nature of the relationship between the parties has to be presented to voters 
+
+5.6. 
+
+5.5. 
+
+5.7. 
+
+2 Voting in Australia, Australian Electoral Commission, pp14, URL: https://education.aec.gov.au/teacher-
+resources/files/voting-in-australia.pdf 
+
+3
+
+
+--- Page 4 ---
+
+5.8. 
+
+5.9. 
+
+for them to make an informed decision about who the party is, and whether 
+they intended to vote for them. 
+Finally, the ability to run an experimental design is essential in order to 
+provide robust evidence that establishes the causal effect of inclusion of ‘The 
+New Liberals’ on the ballot, and the magnitude of any electoral impact. 
+For this reason, a sample size of more than n=2,000 would be required to 
+provide sufficient confidence in the estimates provided. This will mean that 
+each of the four different ballot papers required to be evaluated will have a 
+minimum sample of approximately n=500. 
+
+5.10.  The ballot designs were as follows.  
+
+Ballot A: The New Liberals are not displayed (a control ballot A to compare 
+results against).  
+Ballot B: The New Liberals are displayed below the Liberal Party (test ballot). 
+Ballot C: The New Liberals are displayed above the Liberal Party (test ballot). 
+Ballot D: New Liberals are displayed but the Liberal Party is not displayed 
+(test ballot). 
+By simulating different levels of prominence for the Liberal Party and The 
+New Liberals, while keeping other factors constant, the experimental design 
+ballot evaluation can confirm whether inclusion of The New Liberals 
+disproportionately confuses Liberal voters. 
+If voters felt The New Liberals were an entirely separate party, unrelated to 
+the Liberal Party, then there is no reason to suggest that their inclusion and 
+position on the ballot would disproportionately impact on the Liberal party, 
+while leaving other political parties, across the political spectrum, relatively 
+unchanged. 
+
+5.11. 
+
+5.12. 
+
+5.13.  An example ballot paper for Federal elections to the House of 
+
+Representatives (Figure 1, Appendix 4) shows clearly that a Liberal Party of 
+Australia candidate and a candidate for The New Liberals can be placed 
+some distance away from each other (due to random order of the 
+candidates/political parties). Therefore, there is a high chance that voters will 
+see and read ‘The New Liberals’ before knowing if there is a candidate 
+standing for the Liberal Party. 
+In this scenario, ballot order effects are very likely to lead to erroneous 
+results if voters conflate the two parties or if they feel that two parties are 
+related or connected in the same way that other the Coalition parties are, or 
+divisions within political parties.  
+
+5.14. 
+
+4
+
+
+--- Page 5 ---
+
+5.15.  The ballot order effect is well-known phenomenon confirmed by the 
+
+academic publications for both experimental election design3 and for actual 
+election results in the UK4, and Australia5. 
+
+5.16.  Given these primary considerations, it is clear that a computer-assisted, self-
+completion, text-based approach would be required for this research. 
+It is worth noting that a telephone survey approach was ruled out on several 
+grounds, including, but not limited to: 
+5.17.1. 
+
+5.17. 
+
+5.17.2. 
+
+5.17.3. 
+
+5.17.4. 
+
+First, that the introduction of an interviewer in the process could 
+lead to erroneous effects, such as interviewer and social 
+desirability biases, which are well known in social and market 
+research6. 
+Second, the inability to simulate as closely as practically possible, 
+the voting process, such as reading instructions and observing a 
+mock ballot. 
+Third, in order to verify whether voters intended to vote for a 
+particular party, there is a requirement to convey significant and 
+detailed information about several political parties to voters. It is an 
+unreasonable expectation for voters to answer this question on an 
+informed basis, without it available to them to consider in written 
+form. 
+Fourth, telephone response rates have been in significant decline in 
+recent years7, and when probability-based survey designs have low 
+response rates, the tools that are used for remediation, are similar, 
+if not identical, to those used for non-probability samples8. This 
+means there is likely no benefit in taking a telephone or a paper-
+based approach from a sampling perspective. The bias introduced 
+by high levels of non-response is unlikely to guarantee more 
+accurate results than an adequately weighted non-probability 
+design. 
+
+5.18.  The only probability-based survey approach that would yield any material 
+
+benefit to the sample design, whilst meeting the modal criteria, would have 
+been a simple random sample, household, computer assisted personal 
+
+3 Johnson, J & Miles, C (2011). Order effects of ballot position without information-induced confirmatory bias, 
+British Politics, pp479-490, URL: https://link.springer.com/article/10.1057/bp.2011.26 
+4 Webber, R et al (2012). Ballot Order Positional Effects in British Local Elections, 1973-2011, Parliamentary 
+Affairs, Vol 67(1), pp119-136, URL: https://academic.oup.com/pa/article-abstract/67/1/119/1539298 
+5 King, A & Leigh, A (2009). Are Ballot Order Effects Heterogeneous?, Social Science Quarterly, Vol 90(1), 
+pp71-87, URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6237.2009.00603.x 
+6 Alazar, M (1990). Interviewer Bias: How it Affects Survey Research, AHAOHN Journal, Vol 38(12), pp568-
+569, URL: https://journals.sagepub.com/doi/pdf/10.1177/216507999003801203 
+7 Kennedy, C & Hartig, H (2019). Response rates in telephone surveys have resumed their decline. Pew 
+Research Center. 27/02/2019, URL: https://www.pewresearch.org/fact-tank/2019/02/27/response-rates-
+in-telephone-surveys-have-resumed-their-decline/ 
+8 Kennedy, C et al (2016). Evaluating Online Nonprobability Surveys. Pew Research Center, 02/05/2016, 
+URL: https://www.pewresearch.org/methods/2016/05/02/evaluating-online-nonprobability-surveys/ 
+
+5
+
+
+--- Page 6 ---
+
+interview (CAPI) approach. A computer-based, self-completion survey that is 
+delivered to households via trained interviewers. 
+
+5.19.  This approach would have been both impractical, and prohibitively expensive 
+to conduct, for little additional benefit to a research project of this scope and 
+nature. Even for a very short survey, the fieldwork required would have taken 
+several weeks, and could have cost several hundred thousand dollars. 
+5.20.  Trained and experienced researchers regularly make judgements about the 
+
+5.21. 
+
+size and scope of studies that are required to give adequate evidence to 
+answer research questions. Researchers identify the appropriate approach 
+and design, based on the timeframe, resources and level of precision 
+required to come to a set of conclusions that we can be confident about. 
+In conclusion, given the objectives of this research project, and key 
+considerations outlined above, it is my expert view that the optimal approach 
+and most appropriate research design for this project, was for the survey to 
+be conducted online, via a self-completion survey approach, of sufficient 
+sample size (n=2000+), using commercially available panel providers, taking 
+careful consideration of the sample design (i.e. stratification), and following 
+best practice guidance on questionnaire design and analysis of results. 
+
+6.  Overview of Approach 
+
+6.1. 
+
+6.2. 
+
+6.3. 
+
+6.4. 
+
+The overall approach taken was typical of much of the high-quality public 
+opinion and market research that is produced for academic, commercial, and 
+public policy focused organisations. Though there are very slight differences 
+across the designs, the general approach is similar to polls such as ANUPoll9, 
+Newspoll10, the Global Consumer Confidence Index11, and polling by the Lowy 
+Institute12. 
+The research findings are based on results from survey responses of 
+n=2,036 voters aged 18 years and over, who are eligible to vote in Australian 
+Federal Elections. 
+The fieldwork was conducted between the 6th and 9th of March 2021 using an 
+online approach. 
+The online research panel comprised a number of traditional actively 
+managed market research panels that either adhere to the ESOMAR 
+standards or are ISO20252 certified. Multi-source sampling approach aimed 
+to mitigate any potentially inherent bias that might occur from using a single 
+source of online sample. 
+
+9 Methodology, ANUPoll, Australian National University, 
+https://csrm.cass.anu.edu.au/research/surveys/anupoll/methodology 
+10 Ramadila, N (2018). Australian Polling Council: Public Polling Methodology Statements, YouGov, 
+18/05/2021, https://au.yougov.com/news/2021/05/18/apc/ 
+11 Jackson, C & Silverstein, K (2021). Global consumer confidence at highest reading since March 2020, 
+Ipsos, 17/06/2021, URL: https://www.ipsos.com/en/global-consumer-confidence-June-2021 
+12 The Lowey Institute Poll, 2021 Methodology, https://poll.lowyinstitute.org/report/2021/methodology 
+
+6
+
+
+--- Page 7 ---
+
+6.5. 
+
+6.6. 
+
+6.7. 
+
+6.8. 
+
+Participation was by invitation only. Invitations were sent at random (a 
+double-blinded selection process) to members of online panels, via a 
+stratified design with proportions set according to age-sex interlocking and 
+state/territory. These were based on Australian Bureau of Statistics (ABS) 
+Census results from 2016. 
+The questionnaire design, fieldwork, and analysis of survey results followed 
+code of conduct and best practice guidance from both The Research 
+Society13 and the Market Research Society14. 
+As per industry standards, all participants gave their consent for survey 
+responses to be used for market research purposes, by opting-in to the 
+study via a process of informed consent. 
+Calibration weights were used to ensure that the final sample was 
+representative of the Australian electorate, using weighting targets derived 
+from official population statistics, and Federal election results collected by 
+the Australian Electoral Commission (AEC). 
+
+7.  Questionnaire Design 
+
+7.1. 
+
+7.2. 
+
+7.3. 
+
+7.4. 
+
+7.5. 
+
+The questionnaire (Appendix 1) was developed with the intention of collecting 
+quantitative evidence that is both representative and statistically 
+generalisable, to help answer the research questions detailed above. 
+Careful consideration was given to the questionnaire design. Specifically, 
+care was taken to minimise any bias that may arise from question ordering, 
+wording, or the order of response options. 
+To ensure that the survey conformed to the established understanding of 
+survey response processes, such as ensuring the comprehension of 
+questions, that they have reasonable retrieval and judgement requirements, 
+and have adequate response frames15, the survey was drafted entirely by me, 
+drawing on my more than 10 years of experience as a social researcher and 
+a highly qualified market research professional. 
+As is standard practice in market research, the survey was then piloted on a 
+small sample of respondents (n=30). An optional, text response, feedback 
+box was given at the end of the survey, which returned no queries or 
+concerns about the design of questions, or the questionnaire overall. 
+The feedback box was then removed, before the survey was full launched for 
+the remaining n=2,006 responses. 
+
+7.6.  Where practical, the order of questions, and question response options were 
+
+randomised. These have been detailed in the questionnaire (Appendix 1). 
+
+13 Best practice for interviews and questionnaires, The Research Society, April 2021, URL: 
+https://researchsociety.com.au/documents/item/2800 
+14 MRS Guidelines for Online Research (2014), Market Research Society, URL: 
+https://www.mrs.org.uk/pdf/2014-09-01%20Online%20Research%20Guidelines.pdf  
+15 Tourangeau, R et al (2000). The Psychology of Survey Response, Cambridge University Press, pp7-16 
+
+7
+
+
+--- Page 8 ---
+
+7.7. 
+
+Key considerations that were taken into account in the questionnaire design 
+include: 
+7.7.1. 
+
+Ensuring that key prevalence questions, such as 9a, 9b, 9c, 9d, 11, 
+12, 13, and 14, were placed earlier in the survey to ensure that 
+statements containing both the name and details of ‘The New 
+Liberals’ did not have an influence on responses to these questions. 
+Prevalence questions are designed to accurately measure the 
+proportion of people with a particular view, or voting intention, at a 
+particular timepoint. To get accurate results it is important to 
+minimise the placement of subjective content that may raise their 
+awareness of an issue, or in this case a political party, in advance of 
+asking them. 
+Questions that were less likely to be impacted by the presentation 
+of new information to respondents, such as attitudinal statements 
+requiring judgment, or clarification of previous responses, were 
+asked towards the end of the survey in order to ensure that the 
+new information did not impact on questions that sought to identify 
+what voters understood about the specific nature of the 
+relationship between the Liberal Party of Australia, and ‘The New 
+Liberals’. 
+
+7.7.2. 
+
+7.7.3.  Where practically possible, question answer options were either 
+
+randomly rotated, or the direction of agree/disagree Likert scales16 
+was randomly assigned (i.e. randomly ‘flipped’) in order to ensure 
+that the order of response options did not impact or bias results in 
+a particular way (Appendix 2). 
+
+7.8. 
+
+7.9. 
+
+Given the requirement for quantitative results that are both robust and 
+generalisable, the use of clear and plain language closed questions was 
+favoured over ‘loosely framed’ open questions. 
+Survey researchers tend to favour closed-ended questions as they are 
+simpler to understand and help clarify the meaning of the question for 
+respondents (see Tourangeau et al. 200017). 
+
+7.10.  Open-ended questions can suffer from issues of generalisability, 
+
+categorisation, and bias, including but not limited to: 
+7.10.1. 
+
+Respondents to open-ended questions will often give different 
+degrees of detail when answering, which can be associated with 
+different levels of engagement. If more engaged respondents give 
+clearer, more thorough, and more detailed responses, then this will 
+significantly bias the coding and classification of their responses in 
+favour of a more highly engaged set of respondents. 
+
+16 A Likert scale is a closed-ended scale question, that enables people to self-report the extent to which 
+they agree or disagree with a given proposition. 
+17 Tourangeau, R et al (2000). The Psychology of Survey Response, Cambridge University Press, pp231 
+
+8
+
+
+--- Page 9 ---
+
+7.10.2.  Using open-ended questions can lead to some answers becoming 
+unconnected or lost in detail that is either insignificant or irrelevant 
+to the topic we are interested in. An average voter cannot be 
+expected to understand intricate detail of the Commonwealth 
+Electoral Act. So, in circumstances where the subject matter may 
+be difficult to understand, or requires significant expertise, or 
+background knowledge, it is better for research professionals to 
+craft clear and easy to understand closed questions. 
+
+7.10.3.  Analysis can become too focused on answers from respondents of 
+
+advantaged groups, such as the highly literate, older respondents, 
+those who regularly write or use computers, which will bias results 
+in favour of the experienced and technically skilled18, and could 
+result in greater survey drop-out rates19. 
+
+7.11. 
+
+These concerns are just some that led the report author to conclude that 
+open-ended questions would provide little, if any, additional benefit for this 
+research project. Consequently, the questionnaire design favoured an 
+approach that gave respondents as much freedom of response as was 
+reasonable, within a closed-end response environment. 
+
+7.12.  The questionnaire design followed code of conduct and best practice 
+
+guidance from both The Research Society and the Market Research Society. 
+Market research industry guidance includes a requirement that participants 
+of any market research process should give their consent to participate in 
+the study on an informed basis about how their response data will be used. 
+This is the case, no matter the mode through which data is collected, online, 
+telephone, or face-to-face. 
+
+7.13.  All respondents of this study were informed that their responses would be 
+anonymised and used for market research purposes (Appendix 1). The final 
+sample of respondents opted-in to the research process by giving their 
+consent for use of their data for research purposes. 
+
+8.  Survey Sample 
+
+8.1. 
+
+The process taken to achieve a representative sample of Australian voters 
+for this research project, is similar in nature, to other online market research 
+projects that I have been commissioned to undertake in the past. It is now a 
+standard industry approach used regularly by social and market research 
+firms, for commercial and government clients, in Australia and globally. 
+
+18 Reja, U et al (2003). Open-ended vs. Close-ended Questions in Web Questionnaires, Advances in 
+Methodology and Statistics, Vol 19, pp173-174, URL: https://1library.net/document/zp7dm34z-open-ended-
+vs-close-ended-questions-web-questionnaires.html 
+19 Desai, S & Reimers, (2019). Comparing the use of open and closed questions for Web-based measures of 
+the continued-influence effect, Behavior Research Methods, Vol 51, pp1426-1440, URL: 
+https://link.springer.com/article/10.3758/s13428-018-1066-z 
+
+9
+
+
+--- Page 10 ---
+
+8.2. 
+
+8.3. 
+
+8.4. 
+
+8.5. 
+
+8.6. 
+
+8.7. 
+
+The survey was conducted online, with invitations sent to a sample of online 
+panellists via a random invitation stratified design that was representative of 
+adult voters in Australia. 
+In order to send invitations to a sample of residents, I used an intermediary 
+exchange, who gave access to a number of specialist panel companies, 
+sometimes referred to as ‘panel providers’. These panel providers are 
+responsible for engaging, recruiting, and managing approximately 1.57 million 
+residents living in Australia. 
+Participants are typically paid a small and standardised fee to take part in 
+market research surveys, based on the length of each survey that they 
+complete. 
+A wide range of social and market research studies, for commercial and 
+government clients, is conducted in this way. 
+Although I was responsible for the sample design (i.e. setting the strata and 
+final sample targets), and for designing and hosting the online questionnaire, I 
+was not responsible for inviting Australian residents to participate and had no 
+knowledge or means to invite people to take part. This was the responsibility 
+of the panel provider. 
+Respondents were invited through a randomised, double-blinded process. 
+Neither me, nor the online panels, nor respondents, influenced which specific 
+individuals could take part. The process for selecting panellists to invite, is an 
+automated and randomised one. 
+
+8.8.  Once the stratification targets were set, panellists were selected at random 
+
+within key strata. Sample stratification targets were age-sex interlocking and 
+state/territory. These were based on Australian Bureau of Statistics 
+population estimates and data from the 2016 Census. The target sample 
+structure can be found in table 1, below. 
+These selected panellists were then invited to take part in a study, the 
+content of which they did not know. 
+In total, 71 panels were used, via an intermediary exchange. 
+The panel provider sends all randomly selected panellists a notification, 
+usually via email, but also via other means, that contains the length of the 
+survey, the expected reward for completion, and a web address link to the 
+survey. No information about the survey’s subject or content is provided in 
+advance. 
+If they have received the invitation, and would like to take part, then they can 
+click the link in the invitation where they will be taken to the start of the online 
+hosted survey. The survey was hosted and run by me. 
+
+8.9. 
+
+8.10. 
+8.11. 
+
+8.12. 
+
+8.13.  When they arrive at the web address, they are given information about how 
+
+their data may be used and the length of the survey. They will be asked to 
+consent to their data being used for market research purposes, which forms 
+the basis of question 1 of the questionnaire (Appendix 2). 
+
+10
+
+
+--- Page 11 ---
+
+8.14. 
+
+‘Soft’ quota survey completion caps were set for age-sex groups (10%), and 
+state/territories (25%) in order to mitigate the effects of differential non-
+response. This is a typical approach used widely in market and social 
+research20. 
+
+8.15.  Approximately 11,110 respondents were invited to take part in the survey. 
+8.16.  The total number of eligible residents who started the survey was n=2,265, 
+
+this puts the estimated response rate at approximately 20.4%, which is 
+considered typical for online research21. 
+
+8.17.  After screening, the survey had a completion rate of 90%, meaning that of 
+
+the 2,265 people who started the survey, 2,036 completed it. 
+
+8.18.  The final completed sample size was n=2,036 respondents, who were all 
+
+8.19. 
+
+Australian residents aged 18 years and over, and eligible to vote in Australian 
+Federal elections. This forms the final dataset used for analysis.  
+It is now standard in the social and market research industry to assign 
+confidence intervals to similarly designed online survey research. Examples 
+include but are not limited to; YouGov’s Newspoll22 which takes a classical 
+approach to calculating the margin of error, and online polling conducted by 
+market research firm Ipsos MORI23 which uses Bayesian Credibility 
+Intervals24. 
+
+8.20.  Online, random invitation, stratified design approaches have also been shown 
+
+to be as accurate, if not more so, than modern-day random digit dial (RDD) 
+telephone surveys, with the correct weighting approach25. 
+
+8.21.  The ‘panel providers’ used were actively managed market research suppliers, 
+
+and all are ISO2025226 compliant and all comply with the standards that 
+ESOMAR27 provides. 
+
+8.22.  These suppliers recruit panellists using a variety of approaches, including but 
+not limited to, random probability designed surveys, face-to-face and 
+telephone studies, referral programmes, direct marketing, and online adverts. 
+In order to mitigate any inherent bias that might occur from using a single 
+source of panel provider, based on their recruitment or management style, a 
+
+8.23. 
+
+20 What are opinion polls? Guidance on how to read opinion polls, The Research Society, January 2021, 
+https://researchsociety.com.au/documents/item/3063 
+21 Nulty, D (2008). The adequacy of response rates to online and paper surveys: what can be done?, 
+Assessment & Evaluation in Higher Education, Vol 33(3), pp301-314, URL: 
+https://www.tandfonline.com/doi/abs/10.1080/02602930701293231 
+22  Ramadila, N (2018). Australian Polling Council: Public Polling Methodology Statements, YouGov, 
+18/05/2021, URL: https://au.yougov.com/news/2021/05/18/apc/ 
+23 Polling Methodology Disclosure Statements, Ipsos, URL: https://www.ipsos.com/en-au/polling-
+methodology-disclosure-statements 
+24 Credibility Intervals for Online Polling (2012). Ipsos Public Affairs, URL: 
+https://www.ipsos.com/sites/default/files/2017-03/IpsosPA_CredibilityIntervals.pdf 
+25 Kennedy, C et al (2016). Evaluating Online Nonprobability Surveys. Pew Research Center, 02/05/2016, 
+URL: https://www.pewresearch.org/methods/2016/05/02/evaluating-online-nonprobability-surveys/ 
+26 ISO20252 is the international standard for organisations that produce market, opinion, and social 
+research, including insights and data analytics. 
+27 European Society for Opinion and Marketing Research (ESOMAR) is a membership organization for 
+market, social, and opinion researchers. 
+
+11
+
+
+--- Page 12 ---
+
+
+
+
+--- Page 13 ---
+
+8.28.  The results show that final, pre-weighting sample is reasonably close to 
+
+expected counts based on official population statistics. This suggests that 
+the sample is, generally, of a good quality. 
+
+9.  Post-Fieldwork Weighting 
+
+9.1. 
+
+To ensure the results were both accurate, and generalisable, calibration 
+weights were applied to the final collected data. Calibration weighting is an 
+approach for reducing the error of population estimates that are produced 
+from a survey sample by, applying mild adjustments to the sample. 
+Calibration weighting does this by adjusting certain ‘calibration’ variables, to 
+equal known, or better-estimated population totals. 
+
+9.2.  Weighting targets included age-sex interlocking, state/territory, level of 
+
+9.3. 
+
+9.4. 
+
+9.5. 
+
+9.6. 
+
+9.7. 
+
+9.8. 
+
+9.9. 
+
+education and 2019 Federal election primary vote. 
+Targets were derived from population statistics collected by the Australian 
+Bureau of Statistics (ABS), as well as the results of the 2019 Federal election 
+collected by the Australian Electoral Commission (AEC). 
+A raking technique was used for calculating the weights, which is a typical 
+approach in market and social research28. 
+The smallest weight assigned was 0.46, and the largest weight was 2.32, 
+suggesting that the weighting efficiency was good, and the final collected 
+sample was reasonably close to national population statistics for weighting 
+targets. 
+The effective sample size is a measure of the precision of a survey sample. 
+Even if a survey research study has a sample of 1,000 respondents, an 
+effective sample size of 500 would suggest that the final weighted results 
+are no more robust than a well-executed, but un-weighted simple random 
+sample of 500 respondents. So, it is important to take the weighting design 
+into consideration when assigning confidence to survey research. 
+Taking the weighting design into account, the final efficiency for this study 
+was 91.5%. This means that across the study as a whole, results for the poll 
+had an approximate effective sample size of n=1,863. 
+Please note that efficiency estimates will vary slightly across the question 
+results as the impact of the weight differs slightly for different statistics 
+calculated. 
+An approximate margin of error breakdown has been calculated for the study 
+toplines at the 95% confidence level (Table 2 below). 
+
+28 Mercer, A et al (2018). For Weighting Online Opt-In Samples, What Matters Most? Pew Research Center, 
+26/01/2018. https://www.pewresearch.org/methods/2018/01/26/how-different-weighting-methods-work/ 
+
+13
+
+
+--- Page 14 ---
+
+
+
+
+--- Page 15 ---
+
+
+
+
+--- Page 16 ---
+
+
+
+
+--- Page 17 ---
+
+Appendix 1 – Michael Turner PhD MSc BSc CMRS – 
+Curriculum Vitae 
+
+Academic Qualifications 
+PhD, Political Science, The Elections Centre, Plymouth University, 2009-2013 
+
+My doctoral study included the detailed quantitative analysis of survey and elections 
+data to examine whether electoral advantage can be assigned to incumbency, and if so, 
+to estimate its magnitude. 
+
+Thesis: Incumbency Effects in English Local Elections 1974-2010: Assessing the 
+Advantage of Electoral Defence. 
+
+Synopsis: The thesis serves as a major quantitative examination of the effects of 
+incumbency and campaigns in English local elections. The research presents evidence in 
+support of the hypothesis, that councillors have a mild, yet significant advantage and 
+constructs models to estimate its nature and electoral effect. The study utilises both 
+elections results and survey data. 
+
+Supervisors: Professor Colin Rallings & Professor Michael Thrasher 
+
+MSc, Social Research, Plymouth University, 2008-2009 – Pass with Merit 
+
+My postgraduate study focused extensively on social research fundamental design, 
+methods, analysis, and reporting of results, with modules teaching both quantitative and 
+qualitative approaches to research practice. Survey design, sampling, analysis, and 
+reporting were included as part of the programme. 
+
+Thesis: Do Londoners View the Implementation of a Directly Elected Mayor as a 
+Success of Failure? 
+
+Synopsis: The thesis assessed the introduction of a directly elected mayor in the capital 
+and whether it was viewed as a success through the eyes of Londoners. Primarily a 
+quantitative analysis, the research utilised elections, aggregate polling, and survey data. 
+The results showed that Londoner’s were relatively unfamiliar with the nuances of the 
+Supplementary Vote electoral system, that they treated the mayoral post in a 
+representative democracy style and were willing to break with their traditional party ties 
+to vote for candidates they believed to hold the best personal qualities to run the city. 
+
+Supervisor: Professor Colin Rallings 
+
+BSc, International Relations with Politics, University of Plymouth, 2004-2008 – 
+Upper Second Class with Honours 
+
+My undergraduate study included several modules that taught social research methods, 
+including primary data collection, data analysis, and reporting practice. 
+
+17
+
+
+--- Page 18 ---
+
+Thesis: An Analysis of the European Union’s Energy Security 
+
+Supervisor: Professor Karl Cordell 
+
+Relevant Professional Courses 
+Quantitative Data Analysis – Pass with Distinction - July 2012, Dr Sona Golder, 45th 
+Essex Summer School in Social Science Data Analysis – University of Essex 
+
+Course details: The Essex Summer School in Social Science Data Analysis provides 
+intensive social science methods training with instruction from an internationally 
+renowned faculty. The course covered a wide range of statistical methods for analysing 
+survey data, including core statistical methods, such as crosstabulation, t-tests, analysis 
+of variance, correlation, and various forms of regression. These methods are widely used 
+by academic and professional researchers in a range of fields such as political, social 
+and market research. 
+
+Comparative Cross-National Survey Design – Pass with Distinction – February 2012, Dr 
+Ineke Stoop, European Consortium of Political Research Winter School in Methods and 
+Techniques, University of Vienna 
+
+Course details: The European Consortium of Political Research (ECPR) is the leading 
+scholarly society for political scientists in Europe. The Winter School is designed to 
+equip participants with valuable new knowledge for their research. The course covered 
+key information about how to robustly design survey research, but also how to 
+systematically collect good-quality data for statistical analysis, how to compile and 
+manage these data. 
+
+Conjoint Analysis Masterclass - November 2017, Ray Poynter – Market Research 
+Society 
+
+Course details: The Market Research Society runs a number of short courses for 
+research professionals. This course provided detail on how to manage, design, and 
+interpret a wide range of experimental design projects, including conjoint analysis, 
+MaxDiff scaling and other variants of Discrete Choice Modelling (DCM) This course 
+covered material directly relevant to the experimental design ballot evaluation 
+conducted in this research. 
+
+Other professional courses 
+
+Mixed Methods Research – Unassessed - August 2010, Dr Jason Seawright, 43rd Essex 
+Summer School in Social Science Data Analysis – University of Essex 
+
+Multilevel Analysis - April 2012, Prof Tom Snijders & Daniel Stegmueller, Oxford Spring 
+School in Quantitative Methods for Social Research – University of Oxford 
+
+18
+
+
+--- Page 19 ---
+
+A Practical Application of Behavioural Economics in Research – Understanding Consumer 
+Behaviour – December 2017, Laura Parker - MRS 
+
+Introduction to Behavioural Economics – November 2017, Anthony Tasgal – MRS 
+
+Professional Experience 
+Head of Research (Director) – C|T RSR (Jan 2019 – Present) 
+
+In my current role, I specialise in producing public opinion, communications, social, public 
+policy and political insight for major corporations and organisations, in Australia and 
+across the globe. 
+
+The research tends to involve the collection of primary data, via quantitative and 
+qualitative approaches. This includes online surveys, which then feed into the production 
+of strategic research reports through statistical analysis of the data. 
+
+At C|T, I work across the full range of subject areas, and tailor research approaches and 
+methods to the project requirements, often utilising online panel-invitation survey 
+designs, when necessary, to produce accurate statistics and robust insight for our 
+partners and clients. 
+
+I am responsible for ensuring that C|T RSR’s research outputs are produced to the 
+highest standards of practice and oversee the design and analysis of all major research 
+projects, including online survey research projects. 
+
+I continue to produce research projects end-to-end, from inception and design to 
+analysis and reporting. 
+
+Director of Research & Head of Polling - BMG Research (May 2015 – Jan 2019) 
+
+I specialised in the conduct of public opinion, public policy, elections, and social 
+research. I led the research approach and methodology design for major projects for the 
+business and worked across the full range of quantitative survey research methods and 
+statistical analyses. 
+
+I was the company representative to the British Polling Council (BPC) and principal 
+academic liaison. I was programme leader for the BMG Research Graduate Training 
+Programme & the summer placements scheme, principally because of my academic 
+background and methods training. 
+
+I designed, managed, analysed, and reported on more than two hundred survey research 
+projects that required a detailed understanding of sample design, survey design, 
+statistical analysis, and reporting to the highest industry standards, across a range of 
+approaches, including online survey research. 
+
+I produced research for several key institutions including universities, government 
+departments and official agencies. These include but are not limited to; the Office for 
+National Statistics (ONS), the UK Electoral Commission, the Department for the 
+
+19
+
+
+--- Page 20 ---
+
+Environment, Farming and Agriculture (Defra), Department for Transport, Department 
+for Business, Energy and Industrial Strategy (BEIS), the Home Office, the Department 
+for International Trade (DIT), the University of Essex, and the University of Sheffield. 
+
+Director of Political & Social Research, Survation (Oct 2014 – May 2015) 
+
+During my time at Survation, I specialised in the conduct of elections, political and social 
+research. I worked across the full range of research methods, including online and 
+telephone survey research approaches. 
+
+I was responsible for designing, managing, analysing, and reporting on survey research 
+projects which required a detailed understanding of sample design, survey design, 
+statistical analysis, and reporting to industry standards. 
+
+Assistant Methodologist, Office for National Statistics (ONS) (Sep 2013 – Oct 2014) 
+
+During my time as an Assistant Methodologist at the ONS, I worked in the methodology 
+department, and was responsible for the sample design and calculation of corrective 
+weights for several major surveys. 
+
+My work on sample design was to ensure that major national surveys were 
+representative of the adult population, and my work calculating weights was to help 
+produce more accurate population estimates and official statistics which the ONS was 
+responsible for collecting. 
+
+While I was at the ONS, I worked on several major projects, including the Census Non-
+Response Linkage Study (CNRLS), which was a study that sought to identify and 
+correct for those residents who took part in the compulsory Census, but tended not to 
+opt-in to other types of survey conducted by the ONS. This is a set of skills and 
+experience that I have taken forward, into the rest of my professional career. 
+
+My time at the ONS gave me valuable skills, experience, and expertise in the designing 
+of representative and accurate surveys, across a variety of modes of fieldwork and 
+interview completion. 
+
+Associate Lecturer, School of Management, Plymouth University (Sep 2009 – Jul 
+2013) 
+
+Research Assistant, The Elections Centre, Plymouth University (Mar 2012 – Apr 
+2013) 
+
+Membership of Professional Bodies 
+Certified Member of the Market Research Society – No. 2201375 
+
+20
+
+
+--- Page 21 ---
+
+The Market Research Society is the professional body and regulator of the market 
+research industry in the UK. They promote the highest professional standards 
+throughout the sector via the MRS Code of Conduct35. 
+
+Certified membership is the higher professional grade of membership and recognises 
+academic achievements and career experience of individuals in market research. It is 
+awarded to senior market research practitioners who have progressed to a leadership 
+level in research, insight, or analytics. Michael’s membership binds him to uphold the 
+MRS Code of Conduct. 
+
+Member of The Research Society 
+
+The Research Society is the highest level of organisation in Australia for those engaged 
+in market, social and opinion research. The Research Society regulates research 
+professionals by compelling its members to adhere to the Code of Professional 
+Behaviour36 that aligns with Australian Privacy requirements. 
+
+The Code is intended to foster public confidence and to demonstrate practitioners' 
+recognition of their ethical and professional responsibilities when carrying out research, 
+and Michael’s membership binds him to comply with the Code in his professional 
+activities. 
+
+Fellow of the Royal Statistical Society (RSS) 
+
+The Royal Statistical Society is a professional and learned society which, through its 
+members, has an obligation in the public interest to provide the best possible statistical 
+service and advice. 
+
+Professional membership of the Society is an assurance of ability and integrity. Fellows 
+are required to abide by the Code of Conduct37. In particular, they must: 
+
+1)  Act in the public interest 
+2)  Fulfil their obligations to employers and clients 
+3)  Fulfil their obligations to the profession and the Society 
+4)  Show professional competence and integrity at all times 
+
+The Code is mandatory for all professionally qualified fellows, and it is recommended to 
+all levels of fellow of the Society. 
+
+35 https://www.mrs.org.uk/pdf/MRS-Code-of-Conduct-2019.pdf  
+36 https://researchsociety.com.au/standards/code-of-professional-behaviour  
+37 https://rss.org.uk/RSS/media/File-library/About/2019/RSS-Code-of-Conduct-2014.pdf  
+
+21
+
+
+--- Page 22 ---
+
+Appendix 2 – Questionnaire 
+
+ASK ALL 
+1) Thank you for taking part in this survey. We hope you will find it interesting. 
+
+The survey takes, on average, around 10 minutes to complete and we have allowed 
+plenty of time for you to consider your responses carefully. 
+
+Please note, your responses will be treated in the strictest confidence. We abide by 
+the Market Research Society Code of Conduct, and your personal data will not be 
+passed on to any third parties. 
+
+If you agree for your survey response data to be used for market research purposes, 
+please click the 'Yes' below to begin the survey. If you would rather that your 
+responses are not used, then please select ‘No’. 
+[SINGLE CODE, RESPONSE OPTIONS FIXED POSITION] 
+
+1)  Yes 
+2)  No [SCREEN OUT] 
+
+ASK ALL 
+2) Which state or territory are you from? 
+[SINGLE CODE, RESPONSE OPTIONS FIXED POSITION] 
+
+1)  New South Wales 
+2)  Victoria 
+3)  Queensland 
+4)  South Australia 
+5)  Western Australia 
+6)  Tasmania 
+7)  Australian Capital Territory 
+8)  Northern Territory 
+9)  Other Commonwealth Territory [SCREEN OUT] 
+10) Elsewhere [SCREEN OUT] 
+
+ASK ALL 
+3) And to ensure we have a representative sample; can you please enter your 
+postcode in the box below? 
+[OPEN TEXT RESPONSE] 
+
+ASK ALL 
+4) Are you eligible and enrolled to vote in Australian Federal and State Elections? 
+[SINGLE CODE, RESPONSE OPTIONS FIXED POSITION] 
+
+1)  Yes - I am enrolled to vote 
+2)  No - I am not enrolled to vote [SCREEN OUT] 
+3)  Unsure [SCREEN OUT] 
+4)  Refused [SCREEN OUT] 
+
+ASK ALL 
+5) Please indicate your gender 
+
+22
+
+
+--- Page 23 ---
+
+[SINGLE CODE, RESPONSE OPTIONS FIXED POSITION] 
+
+1)  Male 
+2)  Female 
+3)  Prefer not to say 
+4)  Other (please specify): __________ 
+
+ASK ALL 
+6) Which age group do you fall into? 
+[SINGLE CODE, RESPONSE OPTIONS FIXED POSITION] 
+
+1)  17 or under [SCREEN OUT] 
+2)  18 – 19 
+3)  20 – 24 
+4)  25 – 29 
+5)  30 – 34 
+6)  35 – 39 
+7)  40 – 44 
+8)  45 – 49 
+9)  50 – 54 
+10) 55 – 59 
+11)  60 – 64 
+12) 65 – 69 
+13) 70 – 74 
+14) 75+ 
+15) Prefer not to say 
+
+ASK ALL 
+7) Which one of the following best describes your current employment situation? 
+[SINGLE CODE, RESPONSE OPTIONS FIXED POSITION] 
+1)  Employed full-time (more than 35 hours per week) 
+2)  Employed part-time / casual (less than 35 hours per week) 
+3)  Self Employed 
+4)  Retired / Pensioner 
+5)  Unemployed 
+6)  Not in the Labour force 
+7)  Home duties 
+8)  Student 
+9)  Other (please specify): _________ 
+
+ASK ALL 
+8) What is the highest level of education you have received? 
+[SINGLE CODE, RESPONSE OPTIONS FIXED POSITION] 
+
+1)  None - I have no qualifications 
+2)  Certificate 1 or 2 
+3)  Year 9 or below 
+4)  Diploma 
+5)  Certificate 3 or 4 
+6)  Year 10 – 12 
+7)  Bachelor’s degree 
+8)  Master’s degree or higher 
+
+23
+
+
+--- Page 24 ---
+
+9)  Other (please specify): __________ 
+
+RANDOMLY ASSIGNED EITHER 9A, 9B, 9C OR 9D 
+9a) If a Federal Election were held today, which party would you give your first 
+preference vote to in the House of Representatives? 
+[SINGLE CODE, RESPONSE OPTIONS 1-15 IN RANDOM POSITION, ELSE FIXED] 
+
+1)  Liberal Party [SHOW IN ALL OTHER THAN QLD + NT] 
+2)  Liberal National Party [SHOW ONLY IN QLD] 
+3)  Country Liberals [SHOW ONLY IN NT] 
+4)  Australian Labor Party 
+5)  The Greens 
+6)  The Nationals [SHOW IN ALL OTHER THAN QLD + NT] 
+7)  United Australia Party 
+8)  An Independent Candidate 
+9)  Pauline Hanson’s One Nation 
+10) Animal Justice Party 
+11)  Christian Democratic Party 
+12) Katter's Australian Party 
+13) Anning Conservative National 
+14) Centre Alliance 
+15) Shooters, Fishers and Farmers 
+16) Other (please specify): __________ 
+17) Unsure 
+18) Refuse 
+
+9b) If a Federal Election were held today, which party would you give your first 
+preference vote to in the House of Representatives? 
+[SINGLE CODE, RESPONSE OPTIONS 1-15 IN RANDOM POSITION, ELSE FIXED] 
+
+1)  Liberal Party [SHOW IN ALL OTHER THAN QLD + NT] 
+2)  Liberal National Party [SHOW ONLY IN QLD] 
+3)  Country Liberals [SHOW ONLY IN NT] 
+4)  Australian Labor Party 
+5)  The Greens 
+6)  The Nationals [SHOW IN ALL OTHER THAN QLD + NT] 
+7)  United Australia Party 
+8)  An Independent Candidate 
+9)  Pauline Hanson’s One Nation 
+10) Animal Justice Party 
+11)  Christian Democratic Party 
+12) Katter's Australian Party 
+13) Anning Conservative National 
+14) Centre Alliance 
+15) Shooters, Fishers and Farmers 
+16) The New Liberals 
+17) Other (please specify): __________ 
+18) Unsure 
+19) Refuse 
+
+24
+
+
+--- Page 25 ---
+
+9c) If a Federal Election were held TODAY, which party would you give your first 
+preference vote to in the House of Representatives? 
+[SINGLE CODE, RESPONSE OPTIONS 2-16 IN RANDOM POSITION, ELSE FIXED] 
+
+1)  The New Liberals 
+2)  Australian Labor Party 
+3)  The Greens 
+4)  The Nationals [SHOW IN ALL OTHER THAN QLD + NT] 
+5)  United Australia Party 
+6)  An Independent Candidate 
+7)  Pauline Hanson’s One Nation 
+8)  Animal Justice Party 
+9)  Christian Democratic Party 
+10) Katter's Australian Party 
+11)  Anning Conservative National 
+12) Centre Alliance 
+13) Shooters, Fishers and Farmers 
+14) Liberal Party [SHOW IN ALL OTHER THAN QLD + NT] 
+15) Liberal National Party [SHOW ONLY IN QLD] 
+16) Country Liberals [SHOW ONLY IN NT] 
+17) Other (please specify): __________ 
+18) Unsure 
+19) Refuse 
+
+9d) If a Federal Election were held TODAY, which party would you give your first 
+preference vote to in the House of Representatives? 
+[SINGLE CODE, RESPONSE OPTIONS 1-13 IN RANDOM POSITION, ELSE FIXED] 
+
+1)  The New Liberals 
+2)  Australian Labor Party 
+3)  The Greens 
+4)  The Nationals [SHOW IN ALL OTHER THAN QLD + NT] 
+5)  United Australia Party 
+6)  An Independent Candidate 
+7)  Pauline Hanson’s One Nation 
+8)  Animal Justice Party 
+9)  Christian Democratic Party 
+10) Katter's Australian Party 
+11)  Anning Conservative National 
+12) Centre Alliance 
+13) Shooters, Fishers and Farmers 
+14) Other (please specify): __________ 
+15) Unsure 
+16) Refuse 
+
+ASK ALL 
+10) Under the preferential voting system, you must assign a preference to either the 
+Liberal Party/LNP or the Australian Labor Party. Regardless of WHERE you would 
+place them in your preference list, would you put the Liberal Party/LNP ahead of the 
+Labor Party or the Labor Party ahead of the Liberal Party/LNP? 
+[SINGLE CODE, RESPONSE OPTIONS 1-4 IN RANDOM POSITION, ELSE FIXED] 
+
+25
+
+
+--- Page 26 ---
+
+1)  Liberal Party [SHOW IN ALL OTHER THAN QLD + NT] 
+2)  Liberal National Party [SHOW ONLY IN QLD]  
+3)  Country Liberal [SHOW ONLY IN NT] 
+4)  Australian Labor Party 
+5)  Unsure 
+6)  Refused 
+
+ASK ALL 
+11) The New Liberals may stand a candidate in your area at the next Federal election. 
+From the list below, who do you think the current leader of the New Liberals is? 
+[SINGLE CODE, RESPONSE OPTIONS 1-7 IN RANDOM POSITION, ELSE FIXED] 
+
+1)  Victor Kline 
+2)  Scott Morrison 
+3)  Anthony Albanese 
+4)  Adam Bandt 
+5)  Michael McCormack 
+6)  Pauline Hanson 
+7)  Clive Palmer 
+8)  Other (please specify): __________ 
+9)  Unsure 
+10) Refused 
+
+ASK ALL 
+12) From the list of options below, please select the parties that you think form part 
+of the Liberal-National Coalition, commonly known as the Coalition? 
+
+Please select all those options that you feel apply 
+[MULTI CODE, RESPONSE OPTIONS 1-11 IN RANDOM POSITION, ELSE FIXED] 
+
+1)  The Liberals 
+2)  The LNP 
+3)  The Nationals 
+4)  The Country Liberals 
+5)  The New Liberals 
+6)  Labor 
+7)  The Greens 
+8)  Pauline Hanson’s One Nation 
+9)  United Australia party 
+10) Katter's Australian party 
+11)  Shooters Fishers and Farmers 
+12) Unsure 
+13) Refused 
+
+ASK ALL 
+13) Below is a list of political parties. 
+
+From the list below, please select those that you feel are connected, or have an 
+existing relationship with the Liberal Party? 
+
+Please select all that apply 
+
+26
+
+
+--- Page 27 ---
+
+[MULTI CODE, RESPONSE OPTIONS 1-11 IN RANDOM POSITION, ELSE FIXED] 
+
+1)  The Liberal National Party 
+2)  The Country Liberal Party 
+3)  The National Party 
+4)  The New Liberals 
+5)  The Australian Labor Party 
+6)  The Green Party 
+7)  Pauline Hanson’s One Nation 
+8)  The New Progressives 
+9)  The Green Progressives 
+10) None 
+11)  Unsure 
+12) Refused 
+
+ASK ALL 
+14) Do you think the Liberal Party and The New Liberals are both part of the same 
+party or different parties? 
+[SINGLE CODE, RESPONSE OPTIONS 1-2 IN RANDOM POSITION, ELSE FIXED] 
+
+1)  Different parties 
+2)  The same party 
+3)  Unsure 
+4)  Refused 
+
+ASK ALL 
+15) As far as you are aware, does a relationship exist between the Liberal Party and 
+the New Liberals? 
+[SINGLE CODE, RESPONSE OPTIONS 1-2 IN RANDOM POSITION, ELSE FIXED] 
+
+1)  They have no existing relationship 
+2)  They have an existing relationship 
+3)  Something else 
+4)  Unsure 
+5)  Refused 
+
+ASK ALL 
+16) If a party standing at a Federal election, had the word ‘New’ in front of an existing 
+name in party politics (for example, New Labor, New Liberals, New Greens); in your 
+view, which of the following options best represents who the party is? 
+[SINGLE CODE, RESPONSE OPTIONS 1-5 IN RANDOM POSITION, ELSE FIXED] 
+
+1)  A new political party entirely separate to existing parties with no relationship to 
+
+them 
+
+2)  A separate party but has a connection or relationship with them 
+3)  A national rebrand of an existing political party 
+4)  Localised branding of an existing party 
+5)  A separate division within an existing party 
+6)  Other (please specify): __________ 
+7)  Unsure 
+8)  Refused 
+
+27
+
+
+--- Page 28 ---
+
+ASK ALL 
+17) The New Liberals may stand a candidate in your area at the next Federal election. 
+From what you know, which of the following options best represents who you think 
+the New Liberals are? 
+[SINGLE CODE, RESPONSE OPTIONS 1-5 IN RANDOM POSITION, ELSE FIXED] 
+
+1)  A new party entirely separate to the Liberal Party with no relationship to them 
+2)  A separate party from the Liberal Party but has a connection or relationship with 
+
+them 
+
+3)  A national rebrand of the Liberal Party 
+4)  Localised branding of the Liberal Party 
+5)  A separate division within the Liberal Party 
+6)  Other (please specify): __________ 
+7)  Unsure 
+8)  Refused 
+
+ASK ALL 
+18) Which of the following is closest to your view? 
+[SINGLE CODE, RESPONSE OPTIONS 1-2 IN RANDOM POSITION, ELSE FIXED] 
+
+1)  The name ‘The New Liberals’ sounds like it is a completely separate organisation 
+
+from the 'Liberal Party' with no connection or relationship 
+
+2)  The name ‘The New Liberals’ sounds like it is a rebrand of the 'Liberal Party', with 
+
+slightly changed priorities 
+3)  Something else: ___________ 
+4)  Unsure 
+5)  Refused 
+
+ASK ALL 
+19) Which of the following is closest to your view? 
+[SINGLE CODE, RESPONSE OPTIONS 1-2 IN RANDOM POSITION, ELSE FIXED] 
+
+1)  The name ‘The New Liberals’ sounds like it is a completely separate organisation 
+
+from the ‘Liberal Party’ with no connection or relationship 
+
+2)  The name ‘The New Liberals’ sounds like it is a division within the ‘Liberal Party’ 
+3)  Something else: ___________ 
+4)  Unsure 
+5)  Refused 
+
+ASK ALL 
+20) Which of the following is closest to your view? 
+[SINGLE CODE, RESPONSE OPTIONS 1-2 IN RANDOM POSITION, ELSE FIXED] 
+
+1)  The name ‘The New Liberals’ sounds like it is a completely separate organisation 
+
+from the ‘Liberal Party’ with no connection or relationship 
+
+2)  The name ‘The New Liberals’ sounds like it is a new and fresh party that is 
+
+separate from the ‘Liberal Party’ but is connected and works closely with them 
+
+3)  Something else: ___________ 
+4)  Unsure 
+5)  Refused 
+
+ASK ALL 
+
+28
+
+
+--- Page 29 ---
+
+21) Which of the following is closest to your view? 
+[SINGLE CODE, RESPONSE OPTIONS 1-2 IN RANDOM POSITION, ELSE FIXED] 
+1)  The name ‘The New Liberals’ sounds like it is completely separate from the 
+
+‘Liberal Party’ 
+
+2)  The name ‘The New Liberals’ sounds like it is connected in some way to the 
+
+‘Liberal Party’ 
+
+3)  Something else: ___________  
+4)  Unsure 
+5)  Refused 
+
+ASK ALL 
+22) Do you think that placing the term ‘New’ in front of an existing party name is 
+sufficient for voters to fully understand that this party has no relationship with an 
+existing party? 
+[SINGLE CODE, RESPONSE OPTIONS 1-2 IN RANDOM POSITION, ELSE FIXED] 
+
+1)  Yes – it is sufficient 
+2)  No – it is not sufficient 
+3)  Unsure 
+4)  Refused 
+
+ASK ALL 
+23) Do you think that placing the term ‘New’ in front of an existing party name is 
+sufficient for voters to fully understand that this party is a completely separate 
+entity from an existing political party? 
+[SINGLE CODE, RESPONSE OPTIONS 1-2 IN RANDOM POSITION, ELSE FIXED] 
+
+1)  Yes – it is sufficient 
+2)  No – it is not sufficient 
+3)  Unsure 
+4)  Refused 
+
+ASK THOSE WHO SELECTED ‘THE NEW LIBERALS’ AT 9A, 9B, 9C OR 9D. 
+24) Earlier you said that you would most likely vote for The New Liberals. 
+
+The New Liberals are a new political party led by Victor Kline, which is seeking 
+registration, with no connection or relationship to the Liberal Party currently in 
+government. 
+
+Having been given this information, can you confirm that you intended to vote for 
+The New Liberals earlier, or did you intend to vote for another party? 
+
+I meant to vote for... 
+[SINGLE CODE, RESPONSE OPTIONS 2-8 IN RANDOM POSITION, ELSE FIXED] 
+
+1)  The New Liberals, led by Victor Kline, currently seeking registration 
+2)  The Liberal Party, currently led by Scott Morrison, currently in government and 
+
+established in 1944 
+
+3)  The Liberal National Party of Queensland, established in 2008 
+4)  The Country Liberal Party, established in 1974 
+
+29
+
+
+--- Page 30 ---
+
+5)  The Australian Labor Party, currently led by Anthony Albanese, currently in 
+
+opposition and established in 1901 
+
+6)  The Australian Greens, currently led by Adam Bandt, established in 1992 
+7)  Pauline Hanson’s One Nation Party, led by Pauline Hanson, established in 1997 
+8)  The National Party, led by Michael McCormack, established in 1920 
+9)  Other (please specify): __________ 
+10) Unsure 
+11)  Refused 
+
+ASK ALL 
+25) If they were on the same ballot paper, would you find it clear or confusing, to 
+correctly identify the party you wish to vote for when choosing between ‘The New 
+Liberals’ or the ‘Liberals’? 
+[SINGLE CODE, RESPONSE OPTIONS 1-4 RANDOMLY FLIP, ELSE FIXED] 
+
+1)  Very confusing 
+2)  Fairly confusing 
+3)  Fairly clear 
+4)  Very clear 
+5)  Unsure 
+6)  Refused 
+
+ASK ALL 
+26) Can you say whether you agree, or disagree with the following statements? 
+[SINGLE CODE, RANDOM POSITION OF STATEMENTS A-F] 
+
+Statement  Text 
+
+A 
+
+B 
+
+C 
+
+D 
+
+E 
+
+F 
+
+The names ‘Liberal’ and ‘The New Liberals’ very clearly tell me that they 
+are entirely separate organisations from one another 
+
+The Liberal Party and The New Liberals have names that are too similar 
+for me to be sure who I am voting for 
+
+It sounds like there is no difference between the Liberal Party and The 
+New Liberals 
+
+By voting for The New Liberals, I am helping to elect a Liberal 
+government 
+
+A vote for The New Liberals goes to the Liberal Party 
+
+‘The New Liberals’ and ‘Liberal Party’ sound like they have an existing 
+relationship and are connected to one another in some way 
+
+[RESPONSE OPTIONS, SCALE RANDOMLY FLIP 1-5] 
+
+1)  Strongly agree 
+2)  Somewhat agree 
+
+30
+
+
+--- Page 31 ---
+
+3)  Neither agree, nor disagree 
+4)  Somewhat disagree 
+5)  Strongly disagree 
+6)  Unsure 
+7)  Refused 
+
+ASK ALL 
+27) Can you say whether you agree, or disagree with the following statements? 
+[SINGLE CODE, RANDOM POSITION OF STATEMENTS A-E] 
+
+Statement  Text 
+
+A 
+
+B 
+
+C 
+
+D 
+
+E 
+
+If both a 'New Liberals' candidate, and a 'Liberal' candidate stood in my 
+electorate, I might feel confused about which party to preference above 
+the other 
+
+The Liberals and The New Liberals sound very similar to me 
+
+If candidates from both the Liberals and The New Liberals stood in my 
+electorate at the next election, I would find the voting experience much 
+more difficult 
+
+The New Liberals is just a marketing exercise from the Liberals to get 
+more votes 
+
+If a Party uses the name The New Liberals, it will confuse voters into 
+voting for a party they do not intend to vote for 
+
+[RESPONSE OPTIONS, SCALE RANDOMLY FLIP 1-5] 
+
+1)  Strongly agree 
+2)  Somewhat agree 
+3)  Neither agree, nor disagree 
+4)  Somewhat disagree 
+5)  Strongly disagree 
+6)  Unsure 
+7)  Refused 
+
+ASK ALL 
+28) Thinking back to the 2019 Federal Election, who did you vote for in the house of 
+representatives? 
+[SINGLE CODE, RESPONSE OPTIONS FIXED POSITION] 
+
+1)  Liberal Party or LNP or Country Liberals 
+2)  Labor Party 
+3)  Greens Party 
+4)  National Party [SHOW IN ALL OTHER THAN QLD + NT] 
+5)  Pauline Hanson's One Nation Party 
+6)  United Australia Party 
+7)  An independent 
+
+31
+
+
+--- Page 32 ---
+
+8)  Other (please specify): __________ 
+9)  Unsure 
+10) Refused 
+11)  I did not vote 
+
+ASK ALL 
+29) Which of the following best describes your living situation? 
+[SINGLE CODE, RESPONSE OPTIONS FIXED POSITION] 
+
+1)  Own home with a mortgage 
+2)  Own home outright 
+3)  Private Renting 
+4)  Social Housing 
+5)  Other (please specify): __________ 
+6)  Refused 
+
+32
+
+
+--- Page 33 ---
+
+
+
+
+--- Page 34 ---
+
+Appendix 4 – Sample House of Representatives Ballot 
+Paper 
+
+Figure 1: Sample House of Representatives Ballot Paper 
+
+This is a sample ballot paper taken from the Australian Electoral Commission’s 
+website38. Please note that on the ballot paper, candidate and therefore party names, 
+are placed in a column, with positions being determined by random lot39. It demonstrates 
+that there can be substantial distance between candidate and party names. 
+
+38 https://www.aec.gov.au/Voting/How_to_vote/practice/practice-house-of-reps.htm 
+39 
+https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pu
+bs/rp/RP0708/08rp05#preferential 
+
+34
+
+
+--- Page 35 ---
+
+
+
+
+--- Page 36 ---
+
+
+
+
+--- Page 37 ---
+
+
+
+
+--- Page 38 ---
+
+
+
+
+--- Page 39 ---
+
+
+
+
+--- Page 40 ---
+
+
+
+
+--- Page 41 ---
+
+
+
+
+--- Page 42 ---
+
+
+
+
+--- Page 43 ---
+
+
+
+
+--- Page 44 ---
+
+
+
+
+--- Page 45 ---
+
+
+
+
+--- Page 46 ---
+
+
+
+
+--- Page 47 ---
+
+
+
+
+--- Page 48 ---
+
+
+
+
+--- Page 49 ---
+
+
+
+
+--- Page 50 ---
+
+
+
+
+--- Page 51 ---
+
+Appendix 6 – Research Report 
+
+51
+
+
+--- Page 52 ---
+
+52
+
+
+--- Page 53 ---
+
+53
+
+
+--- Page 54 ---
+
+54
+
+
+--- Page 55 ---
+
+55
+
+
+--- Page 56 ---
+
+56
+
+
+--- Page 57 ---
+
+57
+
+
+--- Page 58 ---
+
+58
+
+
+--- Page 59 ---
+
+59
+
+
+--- Page 60 ---
+
+60
+
+
+--- Page 61 ---
+
+61
+
+
+--- Page 62 ---
+
+62
+
+
+--- Page 63 ---
+
+63
+
+
+--- Page 64 ---
+
+64
+
+
+--- Page 65 ---
+
+65
+
+
+--- Page 66 ---
+
+66
+
+
+--- Page 67 ---
+
+67
+
+
+--- Page 68 ---
+
+68
+
+
+--- Page 69 ---
+
+69
+
+
+--- Page 70 ---
+
+70
+
+
+--- Page 71 ---
+
+71
+
+
+--- Page 72 ---
+
+72
+
+
+--- Page 73 ---
+
+73
+
+
+--- Page 74 ---
+
+74
+
+
+--- Page 75 ---
+
+75
+
+
+--- Page 76 ---
+
+76
+
+
+--- Page 77 ---
+
+77
+
+
+--- Page 78 ---
+
+78
+
+
+--- Page 79 ---
+
+79
+
+
+--- Page 80 ---
+
+80
+
+
+--- Page 81 ---
+
+81
+
+
+--- Page 82 ---
+
+82
+
+
+--- Page 83 ---
+
+83
+
+
+--- Page 84 ---
+
+84
+
+
+--- Page 85 ---
+
+85
+
+
+--- Page 86 ---
+
+
+
+
+--- Page 87 ---
+
+
+
+
+--- Page 88 ---
+
+88
+
+
+--- Page 89 ---
+
+89
+
+
+--- Page 90 ---
+
+
+
+
+--- Page 91 ---
+
+91
+
+
+--- Page 92 ---
+
+
+
+
+--- Page 93 ---
+
+93
+
+
+--- Page 94 ---
+
+94
+
+
+--- Page 95 ---
+
+95
+
+
+--- Page 96 ---
+
+96
+
+
+--- Page 97 ---
+
+97
+
+
+--- Page 98 ---
+
+98
+
+
+--- Page 99 ---
+
+99
+
+
+--- Page 100 ---
+
+100
+
+
+--- Page 101 ---
+
+101
+
+
+--- Page 102 ---
+
+102
+
+
+--- Page 103 ---
+
+103
+
+
+--- Page 104 ---
+
+104
+
+
+--- Page 105 ---
+
+105
+
+
+--- Page 106 ---
+
+106
+
+
+--- Page 107 ---
+
+107
+
+
+--- Page 108 ---
+
+108
+
+
+--- Page 109 ---
+
+109
+
+
+--- Page 110 ---
+
+110

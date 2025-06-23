@@ -1,0 +1,120 @@
+
+
+--- Page 1 ---
+
+
+
+
+--- Page 2 ---
+
+
+
+
+--- Page 3 ---
+
+
+
+
+--- Page 4 ---
+
+and I last week on Thursday 21 July. At that meeting we discussed the ABS 
+
+Thank you for meeting with 
+methodology for sampling and testing membership of political parties used by the AEC. You kindly reviewed some 
+questions we had and considered some issues raised by applications for review of the decision to deregister 
+VoteFlux.Org | Upgrade Democracy! (the Party). The purpose of this email is to summarise the key points raised in 
+that discussion. I would be grateful if you could confirm that I have set out your advice correctly. If not, I would be 
+grateful if you could edit the response or reply clarify any points.  
+
+If possible, we would be grateful for your response by Monday 1 July 2022. We may provide this information to the 
+Electoral Commission for the purposes of their review of the decision to deregister the Party. 
+
+1. What conclusions can be drawn in relation to the list of 4680 names in the Party’s list, following the delegate’s 
+decision to test the top 1,650 names of that list (the sub-list)? 
+
+With respect to the test conducted it is not the randomisation or not that is causing the false rejection (or false 
+acceptance) rate to land outside the limits. It is the sample size that control the test conditions. If you had 
+randomised you would have been able to say something about the whole list as the final sample (probabilistically) 
+would have referred to the 4680 not just the 1650. Nevertheless you still would have needed a bigger sample size to 
+get the desired risk rates.  
+
+You advised that as the Party’s list was not randomised before the sub-list was made (as only the top 1650 names 
+were selected) it is not possible to draw any meaningful statistical conclusions about the Party’s whole list of 4680 
+from the results of testing the sub-list. You can only say something about the selected 1650. This is because, without 
+randomisation there is no chance of the other records being selected. You explained this by the analogy of 
+attempting to sample from a deck of cards for aces. Having failed to first shuffle the deck, chunking the bottom half 
+away, and then sample from what is left will not give you useful information about all original cards. Those thrown 
+away were never in the running. 
+
+The test done indicates a list with low proportion of eligible members among the 1650. 
+
+DELETE As would usually be the case, as the test of the sub-list failed, it is possible to conclude (to the level of 
+confidence to which the test is set) that the sub-list of 1,650 did not include 1,500 members.  
+
+2. What are the alternative options for testing the larger list? 
+
+You explained that a larger sample size would be required to test a large list to the same degree of confidence. 
+Current sampling is calibrated so that the probability of accepting an invalid list is less than 2%, and the probability 
+of falsely rejecting a valid list is less than 6%. You estimated that the sample size required to test the full list of 4680 
+names would be over 300. You also advised that excel spreadsheet calculator provided to the AEC could provide 
+information about the sample size required to test a list of 4680 names to different levels of confidence.  
+
+We have now used the calculator (attached), to calculate that sampling a list of 4680 members, where the desired 
+probability of false rejection is 6% and the desired probability of false acceptance is 2%, would require an 
+approximate sample size of 564 and a maximum number of denials allowed of 399.     
+
+3. Does filtering names affect the error rates? 
+
+You explained that in your view, the arguments made in 
+ paper with respect to filtering names increasing 
+the error rate are without foundation. You explained that, provided the filtering process is done in accordance with 
+the ABS methodology, filtering names works in favour of parties by removing from a list members who would not 
+have been capable of meeting the requirements.  
+
+Correct this would improve the ‘quality’ of the list and decrease the occurrence of finding denials (non-members) in 
+the list sample. 
+
+4
+
+section 47FS 47F
+
+
+--- Page 5 ---
+
+4. Your general comments on 
+
+ paper 
+
+ hypothetical example. That example 
+You considered that it was not instructive to consider in depth 
+started from the premise that the party has more than 1,500 and sought to prove that a specific list could be 
+rejected by the sampling methodology.  
+
+You agreed with the general proposition that if the correct sampling size was not adopted in relation to a larger list, 
+the likelihood of false rejection increased. This is shown by the calculator.  
+
+We also discussed generally the rationale for requiring a smaller sampling size as a practical and fair method for 
+testing party lists. We discussed the difficulties of testing a larger list.  Since the requirement is minimum 1500 a 
+party with a very large list that is ‘low quality’ in the sense that it contains a high percentage of non-members will 
+require a very big sample size to control false rejection risks. This relates to the incentives of parties to keep good 
+records of their members and provide the AEC with a high quality list. Providing large low quality lists should be 
+discouraged.  
+
+Legal Services Section | Legal & Procurement Branch 
+Australian Electoral Commission 
+
+DISCLAIMER: 
+
+If you have received this transmission in error please notify us immediately by return email and delete all copies.  If 
+this email or any attachments have been sent to you in error, that error does not constitute waiver of any 
+confidentiality, privilege or copyright in respect of information in the email or attachments.  
+
+DISCLAIMER: 
+
+If you have received this transmission in error please notify us immediately by return email and delete all copies.  If 
+this email or any attachments have been sent to you in error, that error does not constitute waiver of any 
+confidentiality, privilege or copyright in respect of information in the email or attachments.  
+
+5
+
+section 47Fsection 47FS 47FS 47F

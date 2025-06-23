@@ -1,0 +1,1236 @@
+
+
+--- Page 1 ---
+
+
+
+
+--- Page 2 ---
+
+Item 2: Review of the delegate’s decision to deregister the Seniors United Party of Australia 
+
+Table of Contents 
+
+1.  Authority .........................................................................................................................................................2 
+
+2.  Decision under review ....................................................................................................................................2 
+
+3.  Relevant law and the continued 500-member threshold ..............................................................................2 
+
+4.  Review of Register ..........................................................................................................................................4 
+
+5.  Assessment of October 2020 membership list ...............................................................................................5 
+
+6.  Assessment of February 2021 membership list ..............................................................................................6 
+
+7.  Application for review of Delegate’s Decision ................................................................................................7 
+
+8. 
+
+Issues for review .............................................................................................................................................8 
+
+9.  Recommendations ....................................................................................................................................... 13 
+
+10.  Notice of Decision ........................................................................................................................................ 14 
+
+11.  Table of Attachments................................................................................................................................... 14 
+
+Australian Electoral Commission Meeting | Agenda Item 2 
+
+Page 1
+
+
+--- Page 3 ---
+
+Item 2: Review of the delegate’s decision to deregister the Seniors United Party of Australia 
+
+1. Authority 
+
+1.1.  Section 141 of the Commonwealth Electoral Act 1918 (the Electoral Act). 
+
+2. Decision under review 
+
+2.1.  The decision for review by the Electoral Commission is the decision of the delegate to deregister 
+the Seniors United Party of Australia (the Party) dated 9 March 2021 (the Delegate’s Decision) 
+[Attachment A]. 
+
+3. Relevant law and the continued 500-member threshold  
+
+3.1.  Unless otherwise indicated, all references to legislative provisions in this Commission Paper are 
+
+references to the Electoral Act. 
+
+3.2.  On 3 September 2021, after the Delegate’s Decision, the Electoral Legislation Amendment (Party 
+Registration Integrity) Act 2021 (the 2021 Amendment Act) amended ss 123, 126, and 137 and 
+replaced s 126 with new s 123A. Amongst other things, the 2021 Amendment Act increased the 
+membership  threshold  for  being  registered  as  a  non-Parliamentary  party  from  ‘at  least  500 
+members’ to ‘at least 1,500 members’. 
+
+3.3.  Under s 20(3) of the 2021 Amendment Act, that Act’s amendment to the provision in the Electoral 
+Act upon which the Delegate’s Decision was based (being s 137(1)(b)) do not come into effect 
+until 3 December 2021.  
+
+3.4.  Accordingly, this review must be conducted on the basis as to whether the Electoral Commission 
+is  satisfied  on  reasonable  grounds  that  the  Party  ‘has  ceased  to  have  at  least  500  members’ 
+(emphasis added). 
+
+Register review — s 138A 
+
+3.5.  Under  s  138A(1),  the  Electoral  Commission  may  review  the  Register  of  Political  Parties 
+established and maintained under s 125 (the Register) to determine whether one or more of the 
+parties included in the Register: 
+
+(a) 
+
+is an eligible political party (s 138A(1)(a)); or 
+
+(b)  should be deregistered under ss 136 or 137 (s 138A(1)(b)). 
+
+3.6.  A review under s138A(1) can be conducted at any time except during an election writ period (s 
+
+138A(2)).  
+
+3.7.  For the purposes of a review under s 138A(1), the Electoral Commission may request that the 
+registered  officer  of  a  party  provide  specified  information  regarding  the  party’s  eligibility  to  be 
+registered (s 138A(3)). 
+
+Definitions relevant to eligibility to be registered — ss 123, 123A and 126 
+
+3.8. 
+
+Immediately prior to amendments made on 3 September 2021,  s 123(1) provided that: 
+
+(a)  an ‘eligible political party’ means a political party that: 
+
+(a) 
+
+either: 
+
+(i) 
+
+(ii) 
+
+is a Parliamentary party; or 
+
+has at least 500 members; and 
+
+(b) 
+
+is established on the basis of a written constitution (however described) that sets 
+out the aims of the party; and 
+
+Australian Electoral Commission Meeting | Agenda Item 2 
+
+Page 2
+
+
+--- Page 4 ---
+
+Item 2: Review of the delegate’s decision to deregister the Seniors United Party of Australia 
+
+(b)  a ‘Parliamentary party’ means a political party at least one member of which is a member 
+
+of the Parliament of the Commonwealth. 
+
+3.9.  Under  ss  123(3)  and  126(2A),  and  under  the  succeeding  ss  123(3)  and  123A  that  came  into 
+effect on 3 September 2021, members relied on by a party to satisfy the membership requirement 
+must be on the Commonwealth electoral Roll (the Roll) and cannot be relied on by another non-
+Parliamentary party for the purpose of qualifying or continuing to qualify as an eligible political 
+party. 
+
+Deregistration due to insufficient membership — s 137 
+
+3.10. Under s 137(1)(b) as has been in effect at all relevant times and is still in effect, if the Electoral 
+Commission is satisfied on reasonable grounds that a registered non-Parliamentary party has 
+ceased to have at least 500 members, it must give the registered officer of the party notice, in 
+writing, that it is considering deregistering the party under that section (with reasons and other 
+specified information).  
+
+3.11. Where a notice is given under s 137(1), the registered officer of the party may, within 1 month 
+after the date on which the notice was given, lodge with the Electoral Commission a written and 
+signed statement that sets out reasons why the party should not be deregistered (s 137(2)). 
+
+3.12. Where  a  statement  is  lodged  under  s  137(2),  the  Electoral  Commission  shall  consider  that 
+statement and determine whether the political party should be deregistered for the reason set 
+out in the s 137(1) notice (s 137(5)). 
+
+3.13. Where,  under  s  137(5),  the  Electoral  Commission  determines  that  a  political  party  should  be 
+
+deregistered, it shall: 
+
+(a)  deregister the party (s 137(6)(a)); and 
+
+(b)  give  the  person  who  was  the  last  registered  officer  of  the  party  written  notice  of  the 
+deregistration, setting  out  its  reasons  for rejecting the reasons  set  out  in the  statement 
+lodged under s 137(2) (s 137(6)(b)). 
+
+3.14. The methodology and formula employed by the AEC to test membership lists of 500 individuals 
+was  first  supplied  to  the  AEC  by  the  Australian  Bureau  of  Statistics  (the  ABS)  in  2010  (with 
+modifications  in  2011  and  2017).  It  was  re-endorsed  by  the  Electoral  Commission  in  2017 
+[Attachment  B].  The  Electoral  Commission  has  consistently  found  that,  absent  any  relevant 
+factors to the contrary, a failure to satisfy this test alone  will constitute reasonable grounds on 
+which it can be satisfied that a political party does not have, or has ceased to have, at least 500 
+members. 
+
+Delegation of relevant powers 
+
+3.15. Under s 16, the Electoral Commission may by resolution delegate to an appointed Commissioner, 
+an electoral officer or a member of the staff of the Electoral Commission all or any of its powers 
+under the Electoral Act (other than its powers under Part IV).  
+
+3.16. Under  an  Instrument  of  Delegation  executed  on  29  March  2019,  the  relevant  powers  of  the 
+Electoral  Commission  set  out  in  ss  137,  138 and 138A  have  been  delegated  to  the  Assistant 
+Commissioner, Disclosure, Assurance and Engagement Branch. 
+
+Internal review of a delegate’s deregistration decision  
+
+3.17. Under  s  141(1),  a decision  of  a delegate of the Electoral  Commission to  deregister  a political 
+
+party under s 137(6) is a ‘reviewable decision’. 
+
+3.18. Under s 141(2), a person affected by a reviewable decision of a delegate who is dissatisfied with 
+
+the decision may make an application for review of that decision by the Electoral Commission. 
+
+3.19. An application under s 141(2): 
+
+•  must be made within the period of 28 days after the day on which the decision first comes 
+
+Australian Electoral Commission Meeting | Agenda Item 2 
+
+Page 3
+
+
+--- Page 5 ---
+
+Item 2: Review of the delegate’s decision to deregister the Seniors United Party of Australia 
+
+to  the  notice  of  the  person,  or  within  such  further  period  as  the  Electoral  Commission 
+(either before or after the expiration of that period) allows; 
+
+•  must be made in writing to the Electoral Commission;  
+
+•  must specify an address of the applicant; and  
+
+•  must include reasons for making the application (s 141(3)).  
+
+3.20. Under s 141(4), upon receipt of an application for review, the Electoral Commission must review 
+
+the delegate’s decision and either: 
+
+(a)  affirm the decision; 
+
+(b)  vary the decision; or  
+
+(c)  set aside the decision and make a decision in substitution. 
+
+3.21. In Shi v Migration Agents Registration Authority [2008] HCA 31 (Shi), the High Court of Australia 
+held that, when reviewing a decision to cancel a migration agent’s registration, the Administrative 
+Appeals Tribunal (the AAT) was entitled to consider all evidence available to the AAT as at the 
+time of the AAT’s review, including relevant actions taken by an agent after the decision under 
+review.  
+
+3.22. In John Mulholland and Australian Electoral Commission and Anthony Zegenhagen [2011] AATA 
+717, the AAT considered Shi and accepted that the review should be based on the latest material 
+(and made as at the latest point of time available) unless there is a contrary requirement in the 
+legislation under which the decision is being made. 
+
+3.23. Like the AAT in Shi, the Electoral Commission can consider all evidence available to the Electoral 
+Commission as at the time of the Electoral Commission’s review. It is therefore submitted that 
+the Electoral Commission should consider the reasoning applied in Shi to be highly persuasive 
+in a review under s141(2), and consider itself empowered to request and consider information 
+that has been provided by the applicant subsequent to the Delegate’s Decision.  
+
+4. Review of Register  
+
+Request for membership list 
+
+4.1.  On 20 August 2020, pursuant to a review of the Register under s 138A(1), the AEC issued a 
+notice  to  the  registered  officer  of  the  Party, 
+,  under  s  138A(3)  of  the 
+Electoral Act (the Notice) [Attachment C]. The Notice requested that the Party provide the AEC 
+with a membership list of between 500 and 550 members, in electronic format, in order for the 
+AEC to determine the Party’s eligibility to remain registered. 
+
+4.2.  On 8 October 2020, the registered officer responded to the Notice, providing with it the requested 
+
+documentation, including a membership list (the October 2020 List) [Attachment D]. 
+
+Suspension of processing 
+
+4.3.  On  26  October  2020,  a  writ  for  a  by-election  for  the  federal  electoral  division  of  Groom  (the 
+
+Groom by-election) was issued.  
+
+4.4.  Under s 138A(2), the Electoral Commission may not review the Register to determine whether a 
+
+party should be deregistered during an election writ period. 
+
+4.5.  Similarly, under s 127, during an election writ period, no action is permitted to be taken in relation 
+to any application for the registration of a political party. This is taken to include any deregistration 
+proceedings.  
+
+4.6.  On 26 October 2020, The AEC sent correspondence to the registered officer of the Party advising 
+
+of the suspension of processing [Attachment E].  
+
+Australian Electoral Commission Meeting | Agenda Item 2 
+
+Page 4 
+
+Out of scope
+
+
+--- Page 6 ---
+
+Item 2: Review of the delegate’s decision to deregister the Seniors United Party of Australia 
+
+Resumption of processing 
+
+4.7.  On  2  December  2020,  the  writ  for  the  Groom  by-election  was  returned.  The  AEC  sent 
+correspondence to the registered officer of the Party advising that processing could recommence, 
+inviting the Party to provide an updated membership list, and notifying the Party that the deadline 
+by which they must reply to the Notice had been extended to 18 January 2021 [Attachment F]. 
+
+4.8.  On 7 December 2020, the registered officer of the Party confirmed that the AEC could continue 
+
+testing the October 2020 List [Attachment G]. 
+
+5. Assessment of October 2020 membership list 
+
+Testing of the October 2020 List 
+
+5.1.  Between 9 October 2020 and 17 December 2020, the AEC conducted membership testing to 
+determine  how  many  of  the  individuals  contained  in  the  October  2020  List  satisfied  the 
+requirements of ss 123(3) and 126(2A) as in effect at the time: 
+
+(a)  On 9 October 2020, the AEC automatically checked the October 2020 List against the Roll 
+using the AEC’s Roll Management System (RMANS). This identified that 458 of the 549 
+individuals named in the list were electors on the Roll. 
+
+(b)  The  AEC  manually  checked  the  October  2020  List  against  the  Roll  using  the  AEC’s 
+General Enrolment Election Support and Information System (GENESIS). As a result, an 
+additional 71 of the individuals named in the list were identified as being electors, while 
+six were not enrolled or were unable to be matched to the Roll, and 14 were deceased. 
+This resulted in the identification of 529 claimed members. 
+
+(c)  The AEC uploaded the list of 529 names to the AEC’s Funding And Disclosure Client & 
+Return  Management  (FCRM)  system.  This  resulted  in  the  identification  of  525  claimed 
+members as four of the individuals named were identified as duplicates within the list. 
+
+(d)  The ABS testing methodology (mentioned above at paragraph 3.13) recommends that in 
+testing  a  list  of  525  the  AEC  should  obtain  confirmation  from  a  random  sample  of  37 
+individuals  [Attachment  H].  If  more  than  three  of  the  37  individuals  were  to  deny 
+membership,  there  would  be  insufficient  statistical  confidence  in  the  number  of  total 
+members in the list being at least 500. 
+
+(e)  Using the randomising functionality in Microsoft Excel, AEC staff identified a sample size 
+of 74 individuals from the 525 names in list. Individuals from this sample were contacted 
+between  7  December  2020  and  16  December  2020  and  asked  if  they  were  current 
+members  of  the  Party  [Attachment  I].  Of  the  59  individuals  contacted  to  obtain  the 
+required 37 responses: 
+
+• 
+
+• 
+
+• 
+
+22 provided a neutral response or were not contactable; 
+
+29 confirmed being members of the Party; and 
+
+eight denied being members of the Party. 
+
+Delegate’s determination and s 137 Notice 
+
+5.2. 
+
+In accordance with the ABS testing methodology, eight denials out of 37 responses exceeded 
+the three denials permitted to provide statistical confidence that the Party’s list had at least 500 
+members. 
+
+5.3.  On that basis, on 11 January 2021, the delegate of the Electoral Commission determined that 
+the Party had failed to satisfy the requirements of s 123(1)(a)(ii), and should be considered for 
+deregistration under s 137(1)(b) [Attachment J]. 
+
+Australian Electoral Commission Meeting | Agenda Item 2 
+
+Page 5
+
+
+--- Page 7 ---
+
+Item 2: Review of the delegate’s decision to deregister the Seniors United Party of Australia 
+
+5.4.  On 12 January 2021, the delegate of the Electoral Commission gave a notice to the registered 
+officer  of  the  Party  under  s  137(1)  (the  s  137  Notice)  that  the  Electoral  Commission  was 
+considering deregistering the Party as it was satisfied on reasonable grounds that the Party has 
+ceased to have at least 500 members. 
+
+6. Assessment of February 2021 membership list 
+
+Party response to s 137 Notice  
+
+6.1.  On  3  February  2021,  the  Party  responded  to  the  s  137  Notice,  providing  a  statement  in 
+accordance with s 137(2) and a second membership list of between 500 and 550 members in 
+electronic form (the February 2021 List) [Attachment K]. 
+
+Testing of the February 2021 List 
+
+6.2.  Between  3  February  2021  and 24  February  2021,  the  AEC  conducted membership  testing  to 
+determine  how  many  of  the  individuals  contained  in  the  February  2021  List  satisfied  the 
+requirements of ss 123(3) and 126(2A): 
+
+(a)  On 3 February 2021, the AEC automatically checked the February 2021 List against the 
+Roll using RMANS. This identified that 474 of the 550 individuals named in the list were 
+electors on the Roll. 
+
+(b)  The AEC manually checked the February 2021 List against the Roll using GENESIS. As 
+a  result,  an  additional  70  of  the  individuals  named  in  the  list  were  identified  as  being 
+electors, while one was not enrolled to vote or unable to be matched to the Roll, and five 
+were deceased. This resulted in the identification of 544 claimed members. 
+
+(c)  The  AEC  uploaded  the  list  of  544  names  to  the  FCRM  system.  This  resulted  in  the 
+identification of 539 claimed members, as four of the individuals named were identified as 
+duplicates within the list and one was identified as supporting the registration of another 
+party. 
+
+(d)  The ABS testing methodology (mentioned above at paragraph 1.14) recommends that in 
+testing  a  list  of  539  the  AEC  should  obtain  confirmation  from  a  random  sample  of  44 
+individuals  [Attachment  L].  If  more  than  five  of  the  44  individuals  were  to  deny 
+membership,  there  would  be  insufficient  statistical  confidence  in  the  number  of  total 
+members in the list being at least 500. 
+
+(e)  Using the randomising functionality in Microsoft Excel, AEC staff identified a sample size 
+of 88 individuals from the 539 names in list. Individuals from this sample were contacted 
+between 12 March 2021 and 19 March 2021 and asked if they were current members of 
+the  Party  [Attachment  M].  Of  the  64  individuals  contacted  to  obtain  the  required  44 
+responses: 
+
+• 
+
+• 
+
+• 
+
+20 provided a neutral response or were not contactable; 
+
+35 confirmed being members of the Party; and 
+
+nine denied being members of the Party.  
+
+Delegate’s determination under s 137(5) 
+
+6.3. 
+
+In accordance with the ABS testing methodology, nine denials out of 44 responses exceeded the 
+five  denials  permitted  to  provide  statistical  confidence  that  the  Party’s  list  had  at  least  500 
+members. 
+
+6.4.  On 9 March 2021, the delegate of the Electoral Commission determined under s 137(5) that the 
+Party had failed to satisfy the requirements of s 123(1)(a)(ii), and should be deregistered on the 
+basis that it had ceased to have at least 500 members [Attachment A]. 
+
+Australian Electoral Commission Meeting | Agenda Item 2 
+
+Page 6
+
+
+--- Page 8 ---
+
+Item 2: Review of the delegate’s decision to deregister the Seniors United Party of Australia 
+
+6.5.  On  10 March  2021, the delegate  of the  Electoral  Commission  gave  a notice  to  the  registered 
+officer of the Party under s 137(6) (the Deregistration Notice) of her determination that the Party 
+be deregistered on the grounds that it had ceased to have at least 500 members.  
+
+7. Application for review of Delegate’s Decision 
+
+Application for review from 
+
+7.1.  On  21  March  2021, 
+
+  submitted  an  application  to  the  Electoral  Commission 
+under  s  141(2)  of  the  Electoral  Act  by  email,  requesting  review  of  the  Delegate’s  Decision 
+[Attachment N].  
+
+7.2.  On  22  March  2021,  the  Commission  Secretariat  acknowledged  receipt  of 
+
+application by email [Attachment O]. 
+
+7.3.  On 25 March 2021, 
+
+ submitted further material in support of his reasons for making 
+
+his internal review application [Attachment P]. 
+
+7.4.  On 7 July 2021 at 11.09am, the Commission Secretariat emailed 
+
+ to invite 
+
+to submit an updated membership list on or before 30 July 2021 [Attachment R]. 
+
+7.5.  On 7 July 2021 at 3.05pm, 
+
+ emailed the Commission Secretariat to acknowledge the 
+
+invitation for an updated membership list [Attachment S]. 
+
+Extensions given 
+
+ due to Greater Sydney COVID-19 lockdown  
+
+7.6.  On  15  July  2021, 
+
+  emailed  the  Commission  Secretariat  to  request  a  two-week 
+extension  on  the  30  July  2021  deadline,  on  account  of  the  COVID019  lockdown  in  Greater 
+Sydney preventing his access to the Roll at local AEC offices [Attachment T]. 
+
+7.7.  On  16  July  2021  at  12.36pm,  the  Commission  Secretariat  emailed 
+
+to  confirm  the 
+
+requested two-week extension to 13 August 2021 [Attachment U]. 
+
+7.8.  On  16  July  2021  at  2.43pm, 
+
+emailed  the  Commission  Secretariat  to  express  his 
+
+gratitude for the two-week extension [Attachment V] 
+
+7.9.  On 28 July 2021, 
+
+emailed the Commission Secretariat to request a further extension 
+to 28 August 2021, on account of the four-week extension of the COVID-19 lockdown in Greater 
+Sydney [Attachment W]. 
+
+7.10. On  29  July  2021,  the  Commission  Secretariat  emailed 
+
+  to  confirm  the  requested 
+
+extension to 28 August 2021 [Attachment X]. 
+
+7.11. On 4 August 2021, 
+
+ emailed the Commission Secretariat to repeat his request for a 
+further extension to 28 August 2021, on account of the four-week extension of the COVID-19 
+lockdown in Greater Sydney [Attachment Y]. 
+
+7.12. On 5 August 2021 at 10.18am, the Commission Secretariat emailed 
+
+ to note that his 
+request for an extension to 28 August 2021 had already been given, and requesting an estimate 
+from 
+
+as to when his membership list would be ready. [Attachment Z]  
+
+7.13. On 5 August 2021 at 5.58pm, 
+
+emailed the Commission Secretariat to request a further 
+extension to the date that is two weeks after the offices of the AEC re-opens [Attachment ZA].  
+
+ request for access to ELIAS and continued extensions 
+
+7.14. On 15 August 2021, 
+
+ emailed the Commission Secretariat to request that the Party be 
+given access to the AEC’s Electoral Information Access System (ELIAS) in the same manner as 
+is  given  to  registered  political  parties,  due  to the  exceptional  circumstances  of  the  COVID-19 
+pandemic in Greater Sydney [Attachment ZB] . 
+
+7.15. On  18  August  2021  at  3.21pm, 
+
+  emailed  the  Commission  Secretariat  to  note  his 
+
+request for access to ELIAS and to request a further two-week extension [Attachment ZC]. 
+
+Australian Electoral Commission Meeting | Agenda Item 2 
+
+Page 7 
+
+Out of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scope
+
+
+--- Page 9 ---
+
+
+
+
+--- Page 10 ---
+
+Item 2: Review of the delegate’s decision to deregister the Seniors United Party of Australia 
+
+8.2.  The  term  ‘person  affected’  is  not  defined  within  the  Electoral  Act,  nor  has  the  term  received 
+
+judicial consideration within the context of electoral law. 
+
+8.3. 
+
+8.4.  This advice and its conclusions support the view that the broad public interest in decisions under 
+Part XI does not create an automatic right of standing for all electors. While each case is a matter 
+of  fact  and  degree,  the  person  seeking  review  of  a  decision,  or  outcome  of  the  decision,  in 
+comparison with the public at large. 
+
+[Attachment ZR]. 
+
+8.5. 
+
+8.6. 
+
+In his application for internal review, 
+dissatisfied with the decision to deregister the party’, 
+
+identifies himself as ‘a person affected by, and 
+
+was  not  a  signatory  to  the  Party’s  statement  of  3  February  2021  (see  para.  6.1). 
+However, his name appears on the membership list that accompanied that statement (i.e. the 
+February 2021 List), and he was contacted during membership testing of that list as his name 
+was included in a random sample. 
+
+8.7.  On 28 May 2021, the AEC received correspondence addressed from 
+
+via post, which 
+
+contained a Change Registered Officer form dated 18 May 2021 and signed by 
+
+ to change the registered officer of the Party from 
+
+ to 
+
+[Attachment  ZS].  This  document,  however,  cannot  be  processed  whilst  the  Party  is  not 
+registered. 
+
+8.8.  On 22 October 2021, in otherwise unrelated correspondence, 
+ is Chairperson of the Party [Attachment ZT]. 
+
+that 
+
+8.9.  Taking  this  information  on  its  face,  AEC  Legal  Services  is  of  the  view  that 
+special interest in the matter and can be considered a ‘person affected’ by it.  
+
+advised 
+
+  has  a 
+
+Reasons given by applicant regarding testing of October 2020 and February 2021 Lists 
+
+8.10. In his reasons for making an internal review application given on 21 March 2021 and 25 March 
+ submitted that the AEC’s membership testing methodology was not a ‘true and 
+
+2021, 
+fair’ method of testing in respect of the Party.  
+
+8.11. The following is a summary of the matters 
+
+submitted for the Electoral Commission’s 
+
+consideration: 
+
+(a)  The Party membership is comprised mainly of elderly members, and has a higher death 
+rate than other political parties, resulting in a higher turnover or ‘attrition’ of its membership. 
+
+(b)  The Party membership incurs a higher incidence of health issues (including terminal / end 
+
+of life issues) that prevent its members from participating. 
+
+(c)  The Party membership incurs a much higher rate of ‘dementia, or loss of memory’, which 
+prevents members recalling that they are members when the AEC calls, causing members 
+to answer negatively to membership questions. 
+
+(d)  The elderly are increasingly concerned with phone scammers, particularly people imitating 
+government employees on the phone, causing them to refuse to respond to questioning, 
+or  even  to  answering  the  phone  to  unknown  numbers.  They  are  much  more  likely  to 
+respond with a “No” to any question put to them over a phone. 
+
+(e)  The finding by the AEC that four duplications existed on both the October 2020 List and 
+February  2021  List,  and  five  deceased  individuals  existed  on  the  February  2021  List, 
+despite 
+personally purging the list after the failure of the October 2020 List, 
+suggests that the AEC made an error in its assessment. 
+
+Australian Electoral Commission Meeting | Agenda Item 2 
+
+Page 9 
+
+Out of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopes 42Out of scope
+
+
+--- Page 11 ---
+
+Item 2: Review of the delegate’s decision to deregister the Seniors United Party of Australia 
+
+(f) 
+
+If the figures for duplications and deaths in the February 2021 List were removed, the list 
+would be much closer to passing, and the remaining denials could have been substituted 
+for other members by the Party. 
+
+(g)  Whereas political parties can have scrutineers on polling day, the fact that scrutineers are 
+not  allowed  during  membership  testing  amounts  to  procedural  unfairness  against  the 
+Party. 
+
+(h)  The Party represents a demographic for which no other political party provides specialist 
+
+representation. There is a public interest in permitting its continued registration. 
+
+(i)  The Party’s ability to attract donations is significantly lower than that of other parties as its 
+donations are not tax-deductible. The Party has no other source of funding, and it therefore 
+is  at  a  disadvantage  in  conducting  its  affairs,  including  in  respect  of  communicating, 
+advertising and employing officers. 
+
+(j)  As  the  Party’s  members  are  mostly  pensioners  or  part-pensioners,  the  Party  is  at  a 
+disadvantage  in  finding  appropriate  individuals  who  can  afford  to  be  candidates  at 
+elections. 
+
+Consideration of reasons given by applicant 
+
+8.12. In  respect  of  reason  (a),  it  would  seem  a  logical  conclusion  that  a  party  with  an  elderly 
+membership base is more likely than some other parties to see members removed from the Roll 
+(due to death, or objection under s 114(1A)) in the course of the registration or review process. 
+However, this would seem to only (potentially) affect the sample size that the AEC tests (and the 
+associated number of denials permitted). It would not follow that it would affect the rate of denials. 
+Neither of the membership lists tested by the AEC fell below the minimum of 500 names due to 
+those names not appearing on the Roll.  
+
+8.13. In  respect  of  reason  (b),  the  ability  of  members  to  participate  in  the  affairs  of  the  Party  (e.g. 
+responding to AEC contact) would not seem to have any bearing on positive or negative response 
+rates,  only  neutral  response  (non-response)  rates,  which  do  not  affect  the  outcome  of 
+membership testing. 
+
+8.14. In respect of reasons (c) and (d), the applicant does not offer any evidence in support of these 
+assertions. There is no evidence or information before the Electoral Commission to indicate that 
+these assertions are true (i.e. that the relevant individual would reply in the negative instead of 
+providing a neutral answer).  
+
+(a)  The AEC’s Party Registration Guide has made clear at all relevant times that a person 
+whose  name  is  included  on  a  party’s  membership  list  must  formally  acknowledge 
+membership of the party when contacted by the AEC. 
+
+(b)  Section 123 (immediately before and after the 2021 Amending Act) contemplates neither 
+the attribution of membership of a political party upon unwilling individuals, nor an analysis 
+of the motivations or reasons of individuals who deny membership of a political party.  
+
+(c)  The Electoral Commission has previously found that the confirmations and denials made 
+to  AEC  officers 
+formal 
+acknowledgments required to test membership, and the testing methodology applied by 
+the AEC is consistent with the Electoral Act.  
+
+the  process  of  membership 
+
+testing  constitute 
+
+the 
+
+in 
+
+8.15. In respect of reason (e), the Parliamentary Engagement and Party Registration Section (PEPRS) 
+of the AEC has reviewed its records of the testing of the October 2020 List and February 2021 
+List and has found no error in its assessment [Attachment ZU] 
+
+(a)  Two of the duplicates in the October 2020 List appear again in the February 2021 List. 
+The  remaining  two  duplicates  in  the  October  2020  List  were  omitted,  but  two  new 
+duplicates appeared in the February 2021 List. This suggests that
+ successfully 
+identified and removed two of the duplicates from the October 2020 List, but replaced them 
+with two new duplicates. 
+
+Australian Electoral Commission Meeting | Agenda Item 2 
+
+Page 10 
+
+Out of scope
+
+
+--- Page 12 ---
+
+Item 2: Review of the delegate’s decision to deregister the Seniors United Party of Australia 
+
+(b)  Of the 14 deceased individuals in the October 2020 List, four of those individuals appear 
+among  the  five  deceased  individuals  in  the  February  2021  List.  This  suggests  that 
+
+successfully  identified  and  removed  10  of  the  deceased  individuals  from  the 
+October  2020  List.  PEPRS  identified  that  the  fifth  deceased  individual  on  the  February 
+2021 List died in December 2020 (i.e. in the period between the testing of each list).  
+
+8.16. In  respect  of  reason  (f), 
+
+  appears  to  misunderstand  elements  of  the  membership 
+testing methodology. Duplicated and deceased members are not counted as negative responses 
+(denials). The removal of these individuals from a membership list would only lead to a potential 
+reduction in the testing sample size. A reduction in sample size does usually reduce the absolute 
+number  of  permitted  denials  by  a  roughly  proportional  amount.  However,  as  duplicates  and 
+deceased electors are not eligible under the Electoral Act to be members on which a party can 
+rely, it is in fact beneficial to parties that they be removed from the membership list by the AEC 
+instead of being counted as negative responses. 
+
+8.17. In respect of reasons (g) to (j), these matters are not relevant to the issue of whether the Party 
+
+has ceased to have 500 members.  
+
+(a)  Nominated candidates in an election have a statutory right to appoint scrutineers for polling 
+day under s 217, and those scrutineers have an statutory right to attend a polling booth on 
+polling  day  under  s  218.  The  Electoral  Act  does  not  provide  political  parties  with  any 
+equivalent right of scrutiny in the Electoral Commission’s decision-making process under 
+ss 137(1) or 137(5). 
+
+(b)  The  500-member  requirement  for  registration  is  a  statutory  one.  Where  the  Electoral 
+Commission  is  satisfied  on  reasonable  grounds  that  a  party  has  ceased  to  have  500 
+members,  it  must  deregister  the  party  (s  137(6)(a)).  The  Electoral  Commission  has  no 
+discretion once it is satisfied of this fact on reasonable grounds.  
+
+(c) 
+
+In  any  case,  in  the  interests  of  political  neutrality  it  would  not  be  appropriate  for  the 
+Electoral Commission to take into account the policies or demographics of a political party 
+in the assessment of its eligibility for registration, or to apply different membership tests to 
+different parties. 
+
+Testing of September 2021 List 
+
+8.18. Between 28 September 2021 and 19 October 2021, the AEC conducted membership testing to 
+determine  how  many  of  the  individuals  contained  in  the  September  2021  List  satisfied  the 
+requirements of ss 123(3) and 123A: 
+
+(a)  On 28 September 2021, the AEC automatically checked the September 2021 List against 
+the  Roll  using  RMANS. This  identified  that  473 of  the  550  individuals  named  in the  list 
+were electors on the Roll. 
+
+(b)  On 29 September 2021, the AEC manually checked the September 2021 List against the 
+Roll using GENESIS. As a result, an additional 69 of the individuals named in the list were 
+identified as being electors, while five were not enrolled to vote or unable to be matched 
+to the  Roll,  and three  were  deceased.  This resulted  in the  identification of  542  claimed 
+members on the Roll. 
+
+(c)  On 8 October 2021, the AEC uploaded the list of 542 names to the FCRM system. This 
+resulted  in the  identification  of  538  claimed  members,  as four  of the  individuals  named 
+were identified as supporting the registration of another party [Attachment ZV].  
+
+(d)  The ABS testing methodology recommends that in testing a list of 538 the AEC should 
+obtain  confirmation  from  a random  sample  of  44  individuals  [Attachment  ZW].  If  more 
+than  five  of  the  44  individuals  were  to  deny  membership,  there  would  be  insufficient 
+statistical confidence in the number of total members in the list being at least 500. 
+
+(e)  On  8  October  2021,  using  the  randomising  functionality  in  Microsoft  Excel,  AEC  staff 
+identified a sample size of 88 individuals from the 539 names in list. Individuals from this 
+
+Australian Electoral Commission Meeting | Agenda Item 2 
+
+Page 11 
+
+Out of sOut of scope
+
+
+--- Page 13 ---
+
+Item 2: Review of the delegate’s decision to deregister the Seniors United Party of Australia 
+
+sample were contacted between 15 October 2021 and 19 October 2021 and asked if they 
+were current members of the Party [Attachment ZX]. Of the 57 individuals contacted to 
+obtain the required 44 responses: 
+
+• 
+
+• 
+
+• 
+
+• 
+
+Conclusions 
+
+nine provided a neutral response or were not contactable; 
+
+43 confirmed being members of the Party; 
+
+one denied being a member of the Party; and 
+
+a further four members of the party responded to the AEC after the conclusion 
+of the membership test. 
+
+8.19. In  accordance  with  the  ABS  testing  methodology,  one  denial  out  of  44  responses  provides 
+statistical  confidence  that  the  Party’s  September  2021  list  has  at  least  500  members 
+[Attachment ZY]. 
+
+8.20. Based on the membership testing of the September 2021 List, despite the consideration above 
+of the applicant’s reasons for making an internal review application, the AEC is of the view that it 
+is open to the Electoral Commission: 
+
+(a)  not to be satisfied on reasonable grounds that the Party has ceased to have 500 members; 
+
+and 
+
+(b) 
+
+to set aside the decision of the delegate of 9 March 2021 to deregister the Party under       
+s 137(6), and substitute a decision to re-register the Party.  
+
+Australian Electoral Commission Meeting | Agenda Item 2 
+
+Page 12
+
+
+--- Page 14 ---
+
+Item 2: Review of the delegate’s decision to deregister the Seniors United Party of Australia 
+
+9. Recommendations 
+
+Decision on review 
+
+9.1. 
+
+It  is  recommended  that  the  Electoral  Commission  set  aside  the  decision  of  the  delegate  of  9 
+March  2021  to  deregister  the  Party  under  s  137(6)  and  substitute  a  decision  to  maintain  the 
+registration of the Party by re-registering the Party. 
+
+REVIEW DECISION: AFFIRMED / VARIED / SET ASIDE AND SUBSTITUTED AS RECOMMENDED 
+ABOVE 
+
+Dated this ______ day of November 2021 
+
+The Hon Justice Susan Kenny AM 
+
+Chairperson 
+
+       November 2021 
+
+Mr Tom Rogers 
+
+Electoral Commissioner 
+
+       November 2021 
+
+Dr David Gruen 
+
+Australian Statistician (non-judicial member) 
+
+       November 2021 
+
+Australian Electoral Commission Meeting | Agenda Item 2 
+
+Page 13
+
+
+--- Page 15 ---
+
+Item 2: Review of the delegate’s decision to deregister the Seniors United Party of Australia 
+
+10.  Notice of Decision 
+
+10.1. Once a decision on the review has been made by the Electoral Commission, the Legal Services 
+
+section will prepare a formal Notice of Decision for consideration by the Electoral Commission. 
+
+11.  Table of Attachments  
+
+Attachment 
+
+Description 
+
+Attachment A 
+
+Delegate’s decision to deregister the Seniors United Party of Australia dated 9 March 
+2021. 
+
+Attachment B 
+
+Commission  paper  of  20  March  2017  (meeting  number  262)  endorsing  ABS  party 
+registration membership testing methodology in relation 500 members.  
+
+Attachment C 
+
+The s 138A(3) notice to the Registered Officer of the Party on 20 August 2020. 
+
+Attachment D 
+
+1.  The registered officer’s response to the s 138A notice.  
+
+2.  Attached membership list (the October 2020 List) to the s 138A response. 
+
+Attachment E 
+
+Section 127 – Correspondence to the registered officer of the Party advising of the 
+suspension of the register for the Groom by-election. 
+
+Attachment F 
+
+Groom by-election writ returned correspondence to the registered officer of the Party 
+advising that processing could recommence, inviting the Party to provide an updated 
+membership list or continue testing the October 2020 List. 
+
+Attachment G 
+
+Email from the registered officer of the Party advising that the AEC could continue 
+testing the October 2020 List. 
+
+Attachment H 
+
+The ABS testing methodology table for a list of 525 individuals. 
+
+Attachment I 
+
+Record of individuals contacted between 7 December 2020 and 16 December 2020 
+and a record of the outcomes of those individuals. 
+
+Attachment J 
+
+The delegate of the Electoral Commission’s determination of 11 January 2021, that 
+the  Party  had  failed  to  satisfy  the  requirements  of  s  123(1)(a)(ii),  and  should  be 
+considered for deregistration under s 137(1)(b). 
+
+Attachment K 
+
+1.  The  Party’s  response  to  the  s  137  Notice,  including  a  statement  in 
+
+accordance with s 137(2); and  
+
+2.  a  second  membership  list  of  between  500  and  550  members  in  electronic 
+
+form (the February 2021 List). 
+
+Attachment L 
+
+The ABS testing methodology table for a list of 539 individuals. 
+
+Attachment M 
+
+Record of individuals contacted between 12 March 2021 and 19 March 2021 and a 
+record of the outcomes in relation to those individuals. 
+
+Attachment N 
+
+Application  from 
+Electoral Act by email, requesting review of the Delegate’s Decision. 
+
+to  the  Electoral  Commission  under  s  141(2)  of  the 
+
+Australian Electoral Commission Meeting | Agenda Item 2 
+
+Page 14 
+
+Out of scope
+
+
+--- Page 16 ---
+
+Item 2: Review of the delegate’s decision to deregister the Seniors United Party of Australia 
+
+Attachment 
+
+Description 
+
+Attachment O 
+
+Acknowledged  receipt  of 
+Secretariat. 
+
+  application  by  email  from  the  Commission 
+
+Attachment P 
+
+Further submission of 25 March 2021 from 
+making his internal review application. 
+
+ in support of his reasons for 
+
+Attachment R 
+
+Email  dated  7  July  2021  from  Secretariat  to 
+updated membership list. 
+
+  inviting  submission  of  an 
+
+Attachment S 
+
+Email dated 7 July 2021 from 
+
+ Secretariat, acknowledging invitation. 
+
+Attachment T 
+
+Email dated 15 July 2021 from 
+
+ to Secretariat, requesting extension. 
+
+Attachment U 
+
+Email  dated  16  July  2021  from  Secretariat  to 
+extension to 13 August 2021. 
+
+  confirming  requested 
+
+Attachment V 
+
+Email  dated  16  July  2021  from 
+extension. 
+
+to  Secretariat,  thanking  for  confirmed 
+
+Attachment W 
+
+Email dated 28 July 2021 from 
+August 2021. 
+
+to Secretariat, requesting extension to 28 
+
+Attachment X 
+
+Email  dated  29  July  2021  from  Secretariat  to 
+extension to 28 August 2021. 
+
+  confirming  requested 
+
+Attachment Y 
+
+Email  dated  4  August  2021  from 
+extension to 28 August 2021. 
+
+to  Secretariat,  repeating  request  for 
+
+Attachment Z 
+
+Email  dated  5  August  2021  from  Secretariat  to 
+extension to 28 August 2021 had already been confirmed. 
+
+  noting  the  requested 
+
+Attachment ZA  Email dated 5 August 2021 from 
+
+ to Secretariat, requesting extension to 
+
+the date that is two weeks after the re-opening of AEC offices. 
+
+Attachment ZB  Email  dated  15  August  2021  from 
+
+to  Secretariat,  requesting  access  to 
+
+ELIAS. 
+
+Attachment ZC  Email  dated  18  August  2021  from 
+
+to  Secretariat,  noting  ELIAS  access 
+
+request and requesting further extension to 11 September 2021. 
+
+Attachment ZD  Email  dated  18  August  2021  from  Secretariat  to 
+
+  acknowledging 
+
+  request  for  ELIAS  access  and  confirming  requested  extension  to  11 
+
+September 2021. 
+
+Attachment ZE  Email  dated  19  August  2021  from 
+
+to  Secretariat,  thanking  for  further 
+
+extension to 11 September 2021. 
+
+Attachment ZF  Email dated 27 August 2021 from Secretariat to 
+
+ denying his request for 
+
+access to ELIAS. 
+
+Attachment ZG  Email dated 1 September 2021 from 
+
+ to Secretariat, requesting two-week 
+
+extension. 
+
+Australian Electoral Commission Meeting | Agenda Item 2 
+
+Page 15 
+
+Out of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scope
+
+
+--- Page 17 ---
+
+Item 2: Review of the delegate’s decision to deregister the Seniors United Party of Australia 
+
+Attachment 
+
+Description 
+
+Attachment ZH  Email dated 3 September 2021 from Secretariat to 
+extension to 25 September 2021. 
+
+ confirming requested 
+
+Attachment ZI 
+
+Email dated 3 September 2021 from 
+extension to 25 September 2021. 
+
+to  Secretariat, thanking for further 
+
+Attachment ZJ  Email dated 15 September 2021 from Secretariat to 
+
+ providing update in 
+
+relation to the 2021 Amendment Act. 
+
+Attachment ZK  Email dated 21 September 2021 from 
+
+to Secretariat, confirming his desire 
+
+for his application for review to proceed. 
+
+Attachment ZL  Email dated 23 September 2021 from 
+
+ to Secretariat, providing an updated 
+
+membership list for the Party (the September 2021 List). 
+
+Attachment ZM  September 2021 List. 
+
+Attachment ZN  Email  dated  24  September  2021  from  Secretariat  to 
+
+  acknowledging 
+
+submission of the September 2021 List. 
+
+Attachment ZO  Email dated 24 September 2021 from 
+
+ to Secretariat, requesting a Greek 
+
+speaker in membership testing. 
+
+Attachment ZP  Email dated 13 October 2021 from Secretariat to 
+
+ providing update that 
+
+testing of the September 2021 List would commence. 
+
+Attachment ZQ  Email dated 13 October 2021 from 
+
+to Secretariat, acknowledging update. 
+
+Attachment ZR 
+
+Attachment ZS  Change Registered Officer form signed and dated 18 May 2021. 
+
+Attachment ZT  Complaint dated 22 October 2021 from Mr 
+
+Attachment ZU  Correspondence between PEPRS and Legal Services showing review by PEPRS of 
+its assessment of membership testing records in respect of duplicate and deceased 
+members. 
+
+Attachment ZV  FCRM identification of duplicates dated 8 October 2021. 
+
+Attachment ZW  The ABS testing methodology table for a list of 538 individuals. 
+
+Attachment ZX  Record of individuals contacted between 15 October 2021 and 19 October 2021 and 
+
+a record of the outcomes in relation to those individuals. 
+
+Attachment ZY  Breakdown of Membership Numbers dated 19 October 2021. 
+
+Australian Electoral Commission Meeting | Agenda Item 2 
+
+Page 16 
+
+Out of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopeOut of scopes 42

@@ -1,0 +1,1539 @@
+
+
+--- Page 1 ---
+
+
+
+
+--- Page 2 ---
+
+Contents 
+
+Introduction ................................................................................................................... 5 
+
+Purpose ...................................................................................................................... 5 
+
+Scope ......................................................................................................................... 5 
+
+The importance of effective complaints management ................................................. 5 
+
+Other policies and procedures governing complaints management ............................ 6 
+
+Operation during electoral event periods .................................................................... 6 
+
+Roles and responsibilities ........................................................................................... 6 
+
+All staff ................................................................................................................... 6 
+
+Public engagement staff ......................................................................................... 6 
+
+State/territory Managers and Assistant Commissioners ......................................... 7 
+
+Assistant Commissioner, Education and Communications ..................................... 7 
+
+Public Engagement Contact Tool ............................................................................... 7 
+
+Record keeping .......................................................................................................... 7 
+
+Supporting resources ................................................................................................. 8 
+
+Complaints Management .............................................................................................. 9 
+
+Definition of a complaint ............................................................................................. 9 
+
+Types of complaints .................................................................................................... 9 
+
+Principles for complaints management ....................................................................... 9 
+
+First point of contact resolution ................................................................................... 9 
+
+Complaint management service standards ................................................................. 9 
+
+Acknowledgment .................................................................................................... 9 
+
+Response ............................................................................................................... 9 
+
+The Complaints Management Process ...................................................................... 11 
+
+1. 
+
+Receipt ........................................................................................................... 11 
+
+Channels for receipt of complaints ....................................................................... 11 
+
+Extra support available to assist lodgement ......................................................... 11 
+
+Complaints of a serious or complex nature lodged in person or phone ................ 12 
+
+Complaints lodged anonymously or using a pseudonym ...................................... 12 
+
+Complaints lodged indicating ‘no further contact’ ................................................. 12 
+
+Page 1    Complaints Management Procedures | 2015
+
+
+--- Page 3 ---
+
+Complaints which do not fall within AEC responsibility ......................................... 12 
+
+Managing difficult behaviour at lodgement ........................................................... 12 
+
+Managing unreasonable complaints ..................................................................... 13 
+
+2. 
+
+Assessment .................................................................................................... 14 
+
+Understanding the complaint ................................................................................ 14 
+
+Factors to assess the complaint ........................................................................... 14 
+
+Complaints lodged without sufficient information .................................................. 15 
+
+3. 
+
+Assignment ..................................................................................................... 15 
+
+Resolving complaint at first point of contact ......................................................... 15 
+
+Escalating complaints .......................................................................................... 16 
+
+i) 
+
+ii) 
+
+Escalating legal, fraud, privacy and Public Interest Disclosure complaints ... 16 
+
+Escalating general complaints ..................................................................... 17 
+
+Receiving an escalated complaint ........................................................................ 17 
+
+4. 
+
+Acknowledgement ........................................................................................... 18 
+
+Responsibility for acknowledgement .................................................................... 18 
+
+Timeframe for acknowledgement ......................................................................... 18 
+
+Content of acknowledgement ............................................................................... 18 
+
+Channel of acknowledgement .............................................................................. 19 
+
+5. 
+
+Investigation .................................................................................................... 19 
+
+Level of investigation required .............................................................................. 19 
+
+How to conduct an investigation ........................................................................... 19 
+
+Further escalation of complaint ............................................................................ 20 
+
+Delay in timeframe for investigation ..................................................................... 20 
+
+6. 
+
+Response........................................................................................................ 20 
+
+Seeking approval for the response ....................................................................... 20 
+
+Content of the response ....................................................................................... 21 
+
+Channel of response ............................................................................................ 21 
+
+Timeframe for response ....................................................................................... 21 
+
+Recording in the Public Engagement Contact Tool .............................................. 22 
+
+An overview of the complaints management process ............................................... 23 
+
+Internal review ............................................................................................................. 24 
+
+Definition of an internal review .................................................................................. 24 
+
+Page 2    Complaints Management Procedures | 2015
+
+
+--- Page 4 ---
+
+When is dissatisfaction not cause for an internal review ........................................... 24 
+
+When not to use the internal review process ............................................................ 24 
+
+The Internal Review Process ...................................................................................... 25 
+
+Receiving an internal review request ........................................................................ 25 
+
+Extra support available to assist lodgement ......................................................... 26 
+
+Requests for an internal review lodged anonymously or using a pseudonym ....... 26 
+
+Request for an internal review lodged with no contact details .............................. 26 
+
+Request for an internal review lodged indicating ‘no further contact’ .................... 26 
+
+Escalating a request for an internal review ............................................................... 26 
+
+External Review .......................................................................................................... 28 
+
+Reporting arrangements ............................................................................................. 29 
+
+Monitoring performance ............................................................................................ 29 
+
+Regular review of complaints management data .................................................. 29 
+
+Sampling of complainants .................................................................................... 29 
+
+Non-election complaints reporting arrangements ...................................................... 29 
+
+Quantitative monthly reports ................................................................................ 29 
+
+Consolidated quarterly reports ............................................................................. 30 
+
+Annual reporting ................................................................................................... 30 
+
+Electoral event complaints reporting arrangements .................................................. 30 
+
+Business improvements ............................................................................................ 30 
+
+Identification of business improvements ............................................................... 30 
+
+Internal communications ...................................................................................... 30 
+
+Attachment A ............................................................................................................... 31 
+
+Template acknowledgement and response documents ............................................ 31 
+
+1.  Complaint acknowledgement templates ...................................................... 32 
+
+2.  Advice of delay in provision of response ...................................................... 34 
+
+3.  Seeking further information to investigate a complaint ................................. 36 
+
+4.  Advice of no investigation and further contact.............................................. 38 
+
+5.  Complaint response templates .................................................................... 39 
+
+Attachment B ............................................................................................................... 41 
+
+National Office general referral points for escalating complaints ............................... 41 
+
+Page 3    Complaints Management Procedures | 2015
+
+
+--- Page 5 ---
+
+Page 4    Complaints Management Procedures | 2015
+
+
+--- Page 6 ---
+
+Introduction 
+
+Purpose  
+The Australian Electoral Commission’s (AEC’s) Complaints Management Procedures (the 
+Procedures) are designed to assist staff to manage complaints in compliance with the 
+AEC’s Complaints Management Policy (the Policy). 
+
+The Policy, the Procedures and the Internal Review Management Procedures are part of 
+the AEC’s Complaints Management Framework (the Framework).  The Framework is 
+designed to provide a consistent professional structure for the decentralised management 
+of complaints within the AEC.  
+
+The AEC’s Service Charter explains the standard of service that the AEC is expected to 
+provide. The Framework acknowledges that the public and other stakeholders have a right 
+to make a complaint where it is viewed that the AEC has not met this quality of service, 
+and the AEC has an obligation to manage complaints in compliance with the Framework. 
+
+Scope 
+The Framework applies to complaints that originate from external parties and are lodged 
+with the AEC. Complaints management is a decentralised responsibility handled at the 
+divisional, state/territory and National Office level. The Procedures are designed to 
+provide consistent, national direction for complaints management that must be followed by 
+all staff when managing complaints.   
+
+If a particular work area, such as a state/territory office or branch, creates localised 
+complaints management arrangements to support the implementation of the Policy or the 
+Procedures, the localised arrangements must not contradict the national Framework.  
+
+These Procedures should be read alongside the Policy and Internal Review Management 
+Procedures.   
+
+The importance of effective complaints management 
+Managing complaints is one of the most important stakeholder relationship activities that 
+staff undertake on behalf of the AEC.  Effective complaints management is important 
+because it provides us with the opportunity to: 
+•  resolve an issue of dissatisfaction raised by a member of the public or stakeholder  
+•  ensure that a complainant’s overall experience of our services is positive 
+• 
+•  review our organisational performance 
+• 
+implement business improvements, and  
+•  strengthen our organisational reputation. 
+
+improve the way we do business so that we reduce the volume of complaints received 
+
+Page 5    Complaints Management Procedures | 2015
+
+
+--- Page 7 ---
+
+Other policies and procedures governing complaints 
+management 
+There are also specific AEC policies and procedures that prescribe how legal, fraud, 
+privacy and public interest disclosure complaints are to be managed, in order to meet 
+specific legislative requirements.  
+
+These complaints are managed by the relevant business areas only, in compliance with 
+the Framework and these other governing policy and procedures. The Procedures provide 
+guidance on escalating these complaints to these business areas.  
+
+Operation during electoral event periods 
+The Framework applies at all times including during electoral events. During electoral 
+events priority must be given for the acknowledgement of, and response to, electoral 
+event related complaints. 
+
+Roles and responsibilities 
+
+All staff 
+All staff have a role in, and are responsible for, the effective management of complaints.  
+
+Whether managing a complaint, or providing information and assistance to another 
+managing a complaint, all staff must understand their responsibilities in this process.   
+
+Staff responsibilities include: 
+• 
+• 
+• 
+
+understanding the Framework and how it relates to their role  
+
+acting in compliance with the Policy and these Procedures  
+
+understanding any localised complaints management arrangements that support the 
+implementation of the Policy and Procedures and acting in compliance with them 
+
+• 
+
+acting in accordance with broader legislation, APS Code of Conduct and other 
+requirements as AEC employees. 
+
+These responsibilities must be undertaken in a timely manner to ensure that complaints 
+are resolved at the earliest opportunity. 
+
+Public engagement staff 
+Staff with specific responsibilities for public engagement, such as those with frontline roles 
+in divisional offices, are likely to be the first point of contact for most complaints received 
+by the AEC.  It is especially important that these staff fully understand and comply with the 
+Policy and Procedures.   
+
+Page 6    Complaints Management Procedures | 2015
+
+
+--- Page 8 ---
+
+State/territory Managers and Assistant Commissioners 
+State/territory managers and Assistant Commissioners are responsible for ensuring that 
+their staff undertake complaint management in compliance with the Framework, Policy 
+and Procedures, and for providing management support within their workplaces.   
+
+Assistant Commissioner, Education and Communications 
+The Assistant Commissioner, Education and Communications, is responsible for the 
+Complaints Management Framework, which includes establishing and monitoring of the 
+Policy, Procedures, other supporting documents and the system for recording and 
+managing complaints, the Public Engagement Contact Tool. The Assistant Commissioner, 
+
+Education and Communications is also the internal central contact for the receipt and 
+escalation of internal review requests. 
+
+Public Engagement Contact Tool 
+The Public Engagement Contact Tool (the Tool) is the national system that supports the 
+management of enquiries, complaints and feedback to the AEC.   
+
+Every complaint received by the AEC must be recorded in the Public Engagement 
+Contact Tool.  This includes less complex complaints that are resolved at first point of 
+contact. 
+
+facilitating the efficient resolution of complaints 
+
+improving communication in complaint management 
+
+Recording all complaints in the Tool provides organisational benefits including:  
+• 
+• 
+• 
+• 
+• 
+• 
+
+providing information to monitor performance in managing complaints 
+
+providing information to review organisational performance 
+
+supporting staff in their engagement with complainants 
+
+providing information on trends and issues that can lead to business improvements. 
+
+The Tool is also the mechanism to escalate complaints to other staff and business areas 
+for their response.  A reference guide is available which provides instructions on how to 
+record and manage a complaint in the Tool.  
+
+Record keeping 
+Staff must understand their recordkeeping obligations and responsibilities and adhere to 
+the AEC’s recordkeeping policy and supporting procedures in the management of 
+complaints.  
+
+The record of a complaint in the Tool should include as attachments, all key 
+correspondence that relates to the complaint. If there are any confidentiality or privacy 
+issues with a complaint, identifying information should not be entered into or attached to 
+the tool, but a file reference made to where it is kept. 
+
+Page 7    Complaints Management Procedures | 2015
+
+
+--- Page 9 ---
+
+In addition to the online Tool, it is expected that each state/territory and branch office will 
+maintain consolidated files in relation to their complaint management.  
+
+Supporting resources 
+These procedures should be read alongside: 
+• 
+• 
+
+AEC Complaints Management Policy 
+
+AEC Service Charter 
+
+Engaging with Stakeholders at the AEC – A Best Practice Guide 
+
+Further information on public enquiries and client contact is available on the AEC intranet: 
+• 
+• 
+• 
+• 
+
+Managing Public Enquiries and Dealing with Difficult People  
+
+List of recommended national office contact referral points for complaints (at 
+attachment b) 
+
+Public Enquiries intranet page 
+
+Page 8    Complaints Management Procedures | 2015
+
+
+--- Page 10 ---
+
+Complaints Management 
+
+Definition of a complaint 
+A complaint is where an individual or organisation has expressed dissatisfaction to the 
+AEC in relation to an AEC service, process or program, or where it is viewed the AEC has 
+not met its expected quality of service.     
+
+Complaints are one form of contact that the AEC has with the public and stakeholders 
+through its external engagement channels.  The vast majority of contact is in the form of 
+an enquiry which is defined as a request for information or service, or the provision of 
+feedback such as a suggestion or compliment.  These must be managed in compliance 
+with the information on the Public Enquiries and client contact intranet page.  
+
+Types of complaints 
+The Policy defines complaints into the broad categories – general nature, legal nature, 
+regarding electoral fraud, breach of privacy, Public Interest Disclosure and those that are 
+outside AEC responsibilities.  
+
+Principles for complaints management 
+The Policy outlines six principles – accessibility, responsiveness, confidentiality, fairness, 
+transparency and efficiency – that are fundamental to an effective complaints 
+management process.  It is important that you understand and follow these principles 
+when managing complaints. 
+
+First point of contact resolution 
+Wherever possible, complaints should be resolved at the first point of contact.  This 
+means that the complaint is resolved by the person who initially receives the complaint 
+and often at the same time the complaint is received.  
+
+Complaint management service standards 
+
+Acknowledgment 
+A complaint must be acknowledged within three working days of its receipt by the AEC.  
+
+During electoral event periods, acknowledging an election-related complaint must be 
+given priority. 
+
+Response 
+A complainant should be provided with a response within ten working days of its receipt, 
+unless they have been specifically informed the investigation will take longer.  
+
+Page 9    Complaints Management Procedures | 2015
+
+
+--- Page 11 ---
+
+During electoral event periods, an election-related complaint must be given priority and 
+resolved as soon as possible after its receipt. 
+
+If a complaint is found to be more complex than originally expected and advised, a 
+complainant must be advised of a revised timeframe for response as soon as 
+practicable. 
+
+Page 10    Complaints Management Procedures | 2015
+
+
+--- Page 12 ---
+
+
+
+
+--- Page 13 ---
+
+Extra assistance is available for: 
+•  people who are deaf or have a hearing or speech impairment who can contact the AEC 
+
+through the National Relay Service  
+
+•  people who would prefer to contact the AEC in a language other than English who can 
+
+contact the AEC through the telephone interpreter service. 
+
+The AEC may also be able to provide other assistance to a complainant to assist them in 
+the complaints process, on request.  You should work with the complainant to ensure that 
+they are adequately, and reasonably, supported during the complaints management 
+process. 
+
+Complaints of a serious or complex nature lodged in person or phone 
+If a complaint is received in person or over the phone, and it is apparent that it is of a 
+complex or serious nature, you should request that the complainant lodges their complaint 
+in writing, wherever possible. 
+
+If it is not possible for a complainant to lodge their complaint in writing, it is critical that you 
+promptly record all details of the complaint, along with the contact details of the 
+complainant in the Tool.   
+
+Complaints lodged anonymously or using a pseudonym 
+The Policy outlines the right for complainants to lodge their complaint anonymously or 
+using a pseudonym.   
+
+Complaints lodged anonymously are to be managed, as far as possible, in line with the 
+Policy and these Procedures, however, if relevant information is not provided, and there is 
+no other reasonable way to gain it, there may be limitations to the process.  
+
+Complaints lodged indicating ‘no further contact’ 
+The Policy outlines the option for complainants to specify whether they wish to be 
+contacted regarding the complaint. If a complainant indicates that they do not wish to be 
+contacted, the complaint is to be investigated but no acknowledgment or response is 
+provided to the complainant.  
+
+Complaints which do not fall within AEC responsibility 
+If it is clear that the nature of the complaint relates to matters outside the AEC’s area of 
+responsibility, you should inform the complainant that the complaint cannot be managed 
+by the AEC.  In such cases, wherever possible, you should provide the details of an 
+appropriate organisation to which the complainant can refer their complaint.  
+
+Managing difficult behaviour at lodgement 
+If a complaint is lodged with aggressive or rude behaviour or language, you are supported 
+in communicating to complainants that their behaviour is not tolerated in our workplace.  
+
+Page 12    Complaints Management Procedures | 2015
+
+
+--- Page 14 ---
+
+
+
+
+--- Page 15 ---
+
+
+
+
+--- Page 16 ---
+
+
+
+
+--- Page 17 ---
+
+
+
+
+--- Page 18 ---
+
+If you are unsure you should consult with your manager.  Alternatively, you can 
+contact the specialist business area above, by phone, and discuss with them the 
+complaint that you have received. 
+
+Once a fraud/privacy/Public Interest Disclosure/legal request has been escalated to the 
+relevant area, you are no longer responsible for management of the complaint. 
+
+The relevant area will be responsible for entering the complaint into the Tool. 
+
+Escalating general complaints 
+
+ii) 
+If the complaint is a general complaint then you are to record the details of the complaint 
+in the Tool, and attach copies of related correspondence. This will assign the complaint 
+with a unique identification number which is to be used in any further correspondence with 
+the complainant. 
+
+You are then to use the Tool to escalate the complaint, by assigning the complaint to a 
+selected staff member or business area. 
+
+A list of contact points for escalating complaints, such as the Roll Management Helpdesk 
+or Funding and Disclosure Helpdesk is available.  When available, the generic contact 
+point for the business area that the complaint relates to is the preferred referral point.   
+
+If a generic contact point or specific staff member, based on their job title, cannot be 
+identified, you should consult with your manager to determine who the complaint should 
+be escalated to.  
+
+If a complaint has been assessed as high in terms of risk, complexity, urgency or 
+seriousness, once you have escalated it via the Tool you should also phone the relevant 
+staff member/business area to draw their attention to it.   
+
+If there are any confidentiality or privacy issues with a complaint, identifying information 
+should not be entered into or attached to the tool, but provided separately to the 
+escalation point. 
+
+Once the complaint has been escalated you are no longer responsible for the 
+management of the complaint. 
+
+Receiving an escalated complaint 
+If you have been escalated a complaint to manage via the Tool, you will receive advice via 
+an email.  You are now responsible for conducting the management of the complaint from 
+step four ‘Acknowledgement’. 
+
+It is also suggested that you revisit the assessment of the complaint against the factors 
+outlined in step two ‘Assessment’ on page 14. 
+
+Page 17    Complaints Management Procedures | 2015
+
+
+--- Page 19 ---
+
+
+
+
+--- Page 20 ---
+
+
+
+
+--- Page 21 ---
+
+
+
+
+--- Page 22 ---
+
+receive it before you provide any response to the complainant.  If you are not sure 
+whether any approval is needed, you should consult with your manager. 
+
+If a complaint has been assessed as high in terms of risk, complexity or seriousness the 
+
+state/territory manager or Assistant Commissioner must provide approval for the 
+response. You must also comply with any localised approval arrangements in place. 
+
+Content of the response 
+Once you have approval for your response you should advise the complainant as soon as 
+practicable.  In your response you should include: 
+
+• 
+• 
+
+• 
+
+• 
+• 
+
+a clear statement of the AEC’s decision in response to the complaint 
+
+an explanation of the investigation undertaken including reference to any relevant 
+legislation or policy 
+
+an explanation of any corresponding action that we may be taking (for example, 
+
+amending a process or updating information on our website)  
+
+an apology, if there has been any AEC mistake or misunderstanding, and 
+
+the internal review process available to them if they are dissatisfied with the process 
+used to investigate their complaint, or with our response to their complaint. 
+
+Complaint response templates 
+The complaint response templates must be used when providing a response to a 
+complaint.  
+
+If the complainant has requested that they not be contacted regarding the outcome of their 
+complaint then do not provide them with a response. 
+
+Channel of response 
+When responding to a complaint, generally you should provide the response in the 
+channel that the complaint was received.  For example, if the complaint was received via 
+email you should provide the response by return email.   
+
+However, there may be some cases when specific consideration is needed to determine 
+whether using the same channel is appropriate to provide the response.  This is 
+particularly the case for more complex complaints that are received over the phone, via 
+social media, or in person. 
+
+Timeframe for response 
+A complainant should be provided with a response within ten working days of its receipt, 
+unless they have been specifically informed the investigation will take longer.  
+
+During electoral event periods, an election-related complaint must be given priority and 
+resolved as soon as possible after its receipt. 
+
+Page 21    Complaints Management Procedures | 2015
+
+
+--- Page 23 ---
+
+If a complaint is found to be more complex than originally expected and advised, a 
+complainant must be advised of a revised timeframe for response as soon as 
+practicable. A template response is available. 
+
+Recording in the Public Engagement Contact Tool 
+After the response has been provided to the complainant, details of the investigation 
+undertaken and the response provided must be entered and/or attached to the complaint 
+
+record in the Tool.   
+
+If there are any confidentiality or privacy issues with a complaint, identifying information 
+should not be entered into or attached to the tool, but a file reference made to where it is 
+kept. 
+
+Where a written response is not provided, it is important to record the response given over 
+the phone or in person in the Tool.  You should also include detail as to whether the 
+complainant appeared satisfied with the response provided. 
+
+In addition to recording the details in the Tool, staff must understand their recordkeeping 
+obligations and responsibilities and adhere to the recordkeeping policy and supporting 
+procedures. It is expected that each state/territory and branch office will maintain 
+consolidated files in relation to their complaint management.  
+
+Page 22    Complaints Management Procedures | 2015
+
+
+--- Page 24 ---
+
+An overview of the complaints management process 
+
+Page 23    Complaints Management Procedures | 2015
+
+
+--- Page 25 ---
+
+
+
+
+--- Page 26 ---
+
+
+
+
+--- Page 27 ---
+
+Extra support available to assist lodgement 
+You should make any complainant who may require particular assistance aware that there 
+is extra assistance available to support them. This is part of the AEC’s commitment to 
+having an accessible complaint management process. 
+
+Extra assistance is available for: 
+
+•  People who are deaf or have a hearing or speech impairment who can contact the 
+
+AEC through the National Relay Service  
+
+•  People who would prefer to contact the AEC in a language other than English who 
+
+can contact the AEC through the telephone interpreter service. 
+
+The AEC may also be able to provide other assistance to a complainant to assist them in 
+the complaints process, on request.  You should work with the complainant to ensure that 
+they are adequately, and reasonably, supported during the complaints management 
+process. 
+
+Requests for an internal review lodged anonymously or using a 
+pseudonym 
+The Policy outlines a complainant’s right to lodge a request for an internal review 
+anonymously or using a pseudonym.  A request for an internal review lodged 
+anonymously is still to be escalated.   
+
+Request for an internal review lodged with no contact details 
+The Policy requests complainants to provide contact details. If a complainant does not 
+provide any/sufficient contact details, the request for an internal review is still to be 
+escalated.  
+
+Request for an internal review lodged indicating ‘no further contact’ 
+The Policy outlines the option for complainants to specify whether they wish to be 
+contacted regarding their request for an internal review. If a complainant indicates they do 
+not wish to be contacted, the request for an internal review is still to be escalated. 
+
+Escalating a request for an internal review 
+If you receive a request for an internal review, you must escalate it to the Assistant 
+Commissioner, Education and Communications via the Tool. 
+
+This escalation should occur immediately, but as soon as possible on the same 
+working day, of receiving a request for an internal review. 
+
+When escalating the request, you should include as much detail as possible in the Tool, 
+including specifically stating that the complainant has requested an internal review, and 
+the time and date that they requested it.   
+
+Page 26    Complaints Management Procedures | 2015
+
+
+--- Page 28 ---
+
+Any supporting documentation to accompany the request, such as an email exchange 
+between the complainant and the AEC, or a letter from the complainant, must be scanned 
+and attached to the entry in the Tool. 
+
+If you believe that the complainant has not provided sufficient information for the AEC to 
+undertake an internal review, you must still escalate the request.  You should not seek 
+further information yourself.  When the request is assigned to staff to undertake the 
+review, if there is not sufficient information then they will seek it themselves. 
+
+If you assess the request as high in terms of risk, complexity, urgency or seriousness, 
+once you have escalated it via the Tool you should contact the Assistant Commissioner, 
+Education and Communications to draw their attention to it. 
+
+If there are any confidentiality or privacy issues with a complaint, identifying information 
+should not be entered into or attached to the Tool, but should be provided separately to 
+the Assistant Commissioner, Education and Communications. 
+
+Whilst you may be called upon to assist during the internal review process, once a request 
+for an internal review has been escalated to the Assistant Commissioner, Education and 
+
+Communications, you are no longer responsible for the review. 
+
+Page 27    Complaints Management Procedures | 2015
+
+
+--- Page 29 ---
+
+External Review 
+
+Whilst we recommend that complainants use the AEC internal review process in the first 
+instance, all complainants have the right to seek an external review if they are dissatisfied 
+with the process used to investigate their complaint or with our response, or if they remain 
+dissatisfied following the conduct of a review.  
+
+The conduct of any external review will be undertaken according to the policy and 
+procedures of the relevant organisation or body. The Policy outlines some options for 
+external review, and the AEC’s responsibility to cooperate with legal requirements of any 
+external review.  
+
+General advice, such as the options available for external review, may be provided to 
+complainants seeking an external review, however, you are not to enter into any 
+discussion about whether any external body will accept a request for a review or what the 
+possible response could be from any external review process.    
+
+Page 28    Complaints Management Procedures | 2015
+
+
+--- Page 30 ---
+
+Reporting arrangements 
+
+Properly managing complaints is not just about dealing with and resolving individual 
+complaints but it is also important in helping to deliver AEC services and to evaluate and 
+make continuous improvement in the delivery. 
+
+Monitoring performance   
+The Policy outlines the AEC’s commitment to monitoring our performance in managing 
+complaints against the set service standards. This will be achieved by: 
+
+Regular review of complaints management data 
+The complaints information in the Tool is subject to ongoing review by all business areas 
+with regard to the content of complaints but also AEC staff performance in meeting the set 
+service standards. The Public Engagement Team in NO Education and Communications 
+Branch will provide oversight for this through the reporting arrangements outlined below, 
+but all managers are independently required to establish regular mechanism to monitor 
+performance in their business area.  
+
+Sampling of complainants 
+The AEC will also at least once in each calendar year contact a sample of complainants to 
+seek their external feedback on how we managed their complaint. Complainants who 
+make a complaint via the complaints form on our website are advised that the AEC may 
+contact them for feedback about how we managed their complaint.  At this time, 
+complainants who make a complaint via post, phone, social media or in person will not 
+form part of this feedback.     
+
+Non-election complaints reporting arrangements  
+The reporting listed below is coordinated by the Public Engagement Team but requires 
+the assistance of all staff through the consistent and accurate recording of complaints 
+data in the Tool, and the assistance of other NO areas that manage specialist types of 
+
+complaints.  
+
+These arrangements will be reviewed in its first year of operation, and any changes will be 
+updated in the Procedures. 
+
+Quantitative monthly reports 
+A monthly report on the number of complaints recorded in the Tool will be provided to 
+Assistant Commissioner Education and Communications.  
+
+This report will provide for each month: 
+• 
+• 
+
+the overall number of complaints recorded in the Tool 
+
+breakdown by complaint categories, channels for receipt, state/territory  
+
+Page 29    Complaints Management Procedures | 2015
+
+
+--- Page 31 ---
+
+• 
+• 
+
+comparison of overall number to previous months 
+
+detection of any key recurring issues.   
+
+Following the identification of a key issue, the Assistant Commissioner Education and 
+Communications will provide the report to the relevant state/territory managers or NO 
+branch manager with responsibility for the business area the issue relates to. 
+
+Consolidated quarterly reports 
+A quarterly report on complaints management over the previous quarter will be provided 
+to the Operational Compliance Group. This report will provide for that quarter: 
+• 
+
+the overall number of complaints recorded in the Tool, consolidated with complaints 
+recorded in the Legal register 
+
+• 
+• 
+• 
+• 
+
+breakdown by complaint categories, channels for receipt,  state/territory  
+
+comparison of overall number to previous quarter 
+
+feedback from the sampling of complainants feedback (if undertaken in the quarter) 
+
+detection of any key recurring issues. 
+
+Annual reporting 
+A consolidated financial year report will be provided to meet the legislative requirement to 
+report on complaint management within each financial year within the agency’s annual 
+report.  
+
+Electoral event complaints reporting arrangements  
+During an electoral event, the reporting of public complaints will be integrated into the 
+Election dashboard and closely monitored by the Public Engagement Team. The number 
+and nature of complaints will also be integrated into the post-event evaluations and 
+
+incorporated in Public Engagement Team Quarterly reporting. 
+
+Business improvements 
+
+Identification of business improvements 
+The provision of the complaints reporting provides an accurate and regular mechanism for 
+the analysis of complaints data. This will assist the AEC to detect any systemic issues, to 
+actively inform service delivery and identify potential business improvements. The 
+responsibility for the analysis and implementation of improvements lies with the relevant 
+business area. 
+
+Internal communications 
+Key examples of the input of complaints data into identifying business improvements will 
+be highlighted to AEC staff through intranet news features. 
+
+Page 30    Complaints Management Procedures | 2015
+
+
+--- Page 32 ---
+
+Attachment A  
+
+Template acknowledgement and response documents 
+
+1.  Complaint acknowledgement  
+
+To be used when a complaint has not been resolved at first point of contact and the 
+resolution of the complaint will take longer than three days 
+
+1a. 
+1b. 
+1c. 
+
+Acknowledgment by letter 
+Acknowledgment by email 
+Key messages for acknowledgment by phone/person 
+
+2.  Advice of delay in provision of response  
+
+To be used when a complaint acknowledgement has been provided but the resolution will 
+take longer than initially advised. 
+
+2a. 
+2b. 
+2c. 
+
+Advice by letter 
+Advice by email 
+Key messages for advice by phone/in person 
+
+3.  Advice of seeking further information to investigate a complaint 
+
+To be used when a complaint is made but the issue or facts of the complaint are not able 
+to be determined. 
+
+3a. 
+3b. 
+3c. 
+
+Advice by letter 
+Advice by email 
+Key messages for advice by phone/in person 
+
+4.  Advice of no investigation and further contact  
+
+To be used when a complaint has been made but the issue or facts of the complaint are 
+not able to be determined and no further clarification information is provided following 
+contact with the complainant. 
+
+4a. 
+4b. 
+4c. 
+
+Advice by letter 
+Advice by email 
+Key messages for advice by phone/in person 
+
+5.  Response to complaint  
+
+To be used in responding to all complaints. This does not have to be used for complaints 
+resolved at first point of contact. 
+
+5a. 
+5b. 
+5c. 
+
+Response by letter 
+Response by email 
+Script for response by phone 
+
+Page 31    Complaints Management Procedures | 2015
+
+
+--- Page 33 ---
+
+1. 
+
+Complaint acknowledgement templates 
+
+1a. Acknowledgement by letter 
+
+Dear [Name] 
+
+Reference number: [Insert] 
+
+Thank you for bringing your concerns to the attention of the Australian Electoral 
+Commission in your complaint dated [date]. 
+
+I am examining the issue/s you have raised and will provide you with a response within 10 
+working days. [NB - this is the service standard, but adjust down accordingly]  
+
+Please find enclosed a copy of the AEC’s Complaints Management Policy. This policy 
+explains how I will manage your complaint as well as your rights and responsibilities as a 
+complainant.  
+
+In the meantime, if you have any questions, please do not hesitate to contact me.  
+
+Yours sincerely 
+
+[Name] 
+[Title] 
+[Address] 
+[Email] 
+[Phone] 
+
+1b. Acknowledgement by email 
+
+Dear [Name] 
+
+Reference number: [Insert] 
+
+Thank you for bringing your concerns to the attention of the Australian Electoral 
+Commission in your complaint emailed on [date]. 
+
+I am examining the issue/s you have raised and will provide you with a response within 10 
+working days. [NB - this is the service standard, but adjust down accordingly] 
+
+Please find a link to the AEC’s Complaints Management Policy on our website. This policy 
+explains how I will manage your complaint as well as your rights and responsibilities as a 
+complainant.  
+
+In the meantime, if you have any questions, please do not hesitate to contact me.  
+
+Yours sincerely 
+[signature block] 
+
+Page 32    Complaints Management Procedures | 2015
+
+
+--- Page 34 ---
+
+1c. Acknowledgement by phone/person 
+
+These are key messages to cover: 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+Thank you for bringing your concerns to attention of the Australian Electoral 
+
+Commission. 
+
+I have logged your complaint into our system and assigned it with a unique 
+reference number which you are welcome to record, for your reference – [number]. 
+
+I will exam the issue/s you have raised and will provide you with a response 
+within 10 working days [NB - this is the service standard, but adjust down 
+accordingly] 
+
+We have a formal Complaints Management Policy, which explains how I will 
+manage your complaint as well as your rights and responsibilities as a 
+complainant.  The policy is available to view on our website or alternatively I can 
+post or email you a copy. 
+
+In the meantime, if you have any questions, please do not hesitate to contact me 
+
+on [email], [phone]. 
+
+Page 33    Complaints Management Procedures | 2015
+
+
+--- Page 35 ---
+
+2. 
+
+Advice of delay in provision of response  
+
+2a. 
+
+Advice by letter 
+
+Dear [Name] 
+
+Reference number: [Insert] 
+
+I am writing to update you on the progress of your complaint of [date] which I previously 
+wrote to you on [date].  
+
+My investigation into the concerns you raised is taking longer than I initially advised and I 
+will now provide you with a response by [insert new anticipated response date]. 
+
+I apologise for the delay. If you have any questions, please do not hesitate to contact me. 
+
+Yours sincerely 
+
+[Name] 
+[Title] 
+[Address] 
+[Email] 
+[Phone] 
+
+2b. Advice by email 
+
+Dear [Name] 
+
+Reference number: [Insert] 
+
+I am emailing to update you on the progress of your complaint of [date] which I previously 
+emailed you on [date].  
+
+My investigation into the concerns you raised is taking longer than initially advised and I 
+will now provide you with a response by [insert new anticipated response date]. 
+
+I apologise for the delay.  If you have any questions, please do not hesitate to contact me. 
+
+Yours sincerely 
+
+[signature block] 
+
+Page 34    Complaints Management Procedures | 2015
+
+
+--- Page 36 ---
+
+2c. 
+
+Advice by phone/in person 
+
+These are key messages to cover: 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+I am calling with regards to the complaint that you made on [date]. 
+
+Unfortunately, my investigation into your concerns has taken longer than initially 
+
+anticipated and I will not be able to provide you with a response by [insert previous 
+date] as previously advised.   
+
+I now will provide you with a response by [insert new anticipated response time].     
+
+As I mentioned previously, we have a formal Complaints Management Policy, which 
+explains how I will manage your complaint as well as your rights and responsibilities 
+as a complainant.  The policy is available from our website or alternatively, I can 
+post or email you a copy if you wish. 
+
+In the meantime, if you have any questions, please do not hesitate to contact me on 
+[email], [phone]. 
+
+Page 35    Complaints Management Procedures | 2015
+
+
+--- Page 37 ---
+
+3. 
+
+Seeking further information to investigate a complaint 
+
+3a. Advice by letter 
+
+Dear [Name] 
+
+Reference number: [Insert] 
+
+I am writing in response to your complaint of [date].  
+
+Unfortunately I am unable to ascertain the nature of your complaint from the information 
+that you provided.  
+
+In order for me to investigate your complaint further, I would appreciate if you could 
+provide some additional information about the issues that you would like the Australian 
+Electoral Commission (AEC) to investigate and the resolution that you are seeking from 
+the AEC. (Consider if you can adjust this to specify what information you require)  
+
+If you have any questions please do not hesitate to contact me.  
+
+Yours sincerely 
+
+[Name] 
+[Title] 
+[Address] 
+[Email] 
+[Phone] 
+
+3b. 
+
+Advice by email 
+
+Dear [Name] 
+
+Reference number: [Insert] 
+
+I am emailing in response to your complaint of [date].  
+
+Unfortunately I am unable to ascertain the nature of your complaint from the information 
+that you provided.  
+
+In order for me to investigate your complaint further, I would appreciate if you could 
+provide some additional information about the issues that you would like the Australian 
+Electoral Commission (AEC) to investigate and the resolution that you are seeking from 
+the AEC. (Consider if you can adjust this to specify what information you require) 
+
+If you have any questions please do not hesitate to contact me.  
+
+Yours sincerely 
+
+[signature block] 
+
+Page 36    Complaints Management Procedures | 2015
+
+
+--- Page 38 ---
+
+3c. 
+
+Advice by phone/in person 
+
+These are key messages to cover: 
+
+• 
+
+• 
+
+• 
+
+I am calling in response to your email/letter/phone call/complaint of [date].  
+
+Unfortunately, I am unable to determine the nature of your complaint from the 
+information provided. 
+
+So I can investigate your complaint further, I would appreciate if you could explain 
+to me a little bit more about the issues that you are seeking the AEC to look into. 
+
+[In the case that the complaint is complex in nature]: 
+• 
+
+Thank you for providing that further explanation. Is there any chance that you 
+would be able to provide that information in writing to me at [select the option most 
+appropriate – email/letter/online form]. 
+
+[In the case that the sufficient information has been provided]: 
+
+•  Thank you for providing that information. I  will now exam the issue/s you have 
+
+raised and will provide you with a response  within 10 working days[NB - this is the 
+service standard, but adjust down accordingly]  
+
+• 
+
+I have logged your complaint into our system and assigned it with a unique 
+
+reference number which you are welcome to record, for your reference – [number]. 
+
+•  We have a formal Complaints Management Policy, which explains how I will 
+manage your complaint as well as your rights and responsibilities as a 
+complainant, which is available to view on our website.  Alternatively, I can post or 
+email you a copy. 
+
+• 
+
+In the meantime, if you have any questions, please do not hesitate to contact me 
+on [email], [phone]. 
+
+[In the case sufficient information has NOT been provided]: 
+
+•  Unfortunately I am still not clear about the issue that wish to raise with the AEC 
+
+and so I am unable to look into this any further.  
+
+• 
+
+ May I suggest that if you do get additional information that you call me again or 
+
+provide it in writing via the complaints form on the AEC website. 
+
+Page 37    Complaints Management Procedures | 2015
+
+
+--- Page 39 ---
+
+4. 
+
+Advice of no investigation and further contact  
+
+4a. Advice by letter 
+
+Dear [Name] 
+
+Reference number: [Insert] 
+
+I am writing in response to your complaint of [date], which I previously wrote to you on 
+[date] seeking further information which was required to investigate the complaint.  
+
+Thank you for responding to me on [date] but unfortunately I am still not able to ascertain 
+the issue/s you are raising with the Australian Electoral Commission, and as such am not 
+able to take any further action on this matter. 
+
+Please find enclosed a copy of the AEC’s Complaints Management Policy. The policy 
+details the information to provide when making a complaint and the process the AEC 
+undertakes to investigate a complaint.     
+
+Yours sincerely 
+
+[Name] 
+[Title] 
+[Address] 
+[Email] 
+
+[Phone] 
+
+4b. Advice by email 
+
+Dear [Name] 
+
+Reference number: [Insert] 
+
+I am emailing in response to your complaint of [date], which I previously emailed you on 
+[date] seeking further information which was required to investigate the complaint.  
+
+Thank you for responding to me on [date] but unfortunately I am still not able to ascertain 
+the issue/s you are raising with the Australian Electoral Commission, and as such am not 
+able to take any further action on this matter. 
+
+Please find a link to the AEC’s Complaints Management Policy on our website. The policy 
+details the information to provide when making a complaint and the process the AEC 
+undertakes to investigate a complaint.     
+
+[signature block] 
+
+4c. Phone/person 
+Refer to 3c. message under: [In the case sufficient information has NOT been provided]: 
+
+Page 38    Complaints Management Procedures | 2015
+
+
+--- Page 40 ---
+
+5. 
+
+Complaint response templates 
+
+5a. 
+
+Response by letter 
+
+Dear [Name] 
+
+Reference number: [Insert] 
+
+I am writing in response to your complaint of [date] concerning [insert your understanding 
+of the issues of concern, using a bulleted or numbered list if there is more than one point]. 
+
+I have investigated the points that you raised and [insert]: 
+• 
+• 
+
+a clear statement of the AEC’s decision,  
+
+an explanation of the investigation undertaken including reference to any relevant law 
+or policy,  
+
+• 
+• 
+
+an explanation of any corresponding action that we may be taking, and 
+
+an apology, if there has been any AEC mistake or misunderstanding]. 
+
+Please find enclosed a copy of the AEC’s Complaints Management Policy. This policy 
+explains the process I undertook in investigating your complaint and explains some of the 
+review processes available to you. 
+
+If you have any questions about my response, or if I can be of any further assistance, 
+please do not hesitate to contact me.  
+
+Yours sincerely 
+
+[Name] 
+[Title] 
+[Address] 
+[Email] 
+[Phone] 
+
+5b. 
+
+Response by email 
+
+Dear [Name] 
+
+Reference number: [Insert] 
+
+I am emailing in response to your complaint of [date] concerning [insert your 
+understanding of the issues of concern, using a bulleted or numbered list if there is more 
+than one point]. 
+
+I have investigated the points that you raised and [insert response including: 
+• 
+
+a clear statement of the AEC’s decision,  
+
+Page 39    Complaints Management Procedures | 2015
+
+
+--- Page 41 ---
+
+• 
+
+• 
+• 
+
+an explanation of the investigation undertaken including reference to any relevant law 
+or policy,  
+
+an explanation of any corresponding action that we may be taking, 
+
+and an apology, if there has been any AEC mistake or misunderstanding]. 
+
+Please find attached a copy of the AEC’s Complaints Management Policy. This policy 
+explains the process I undertook in investigating your complaint and explains some of the 
+review processes available to you. 
+
+If you have any questions about my response, or if I can be of any further assistance, 
+
+please do not hesitate to contact me.  
+
+Yours sincerely 
+
+[signature block] 
+
+5c. 
+
+Response by phone 
+
+These are key messages to cover: 
+
+• 
+
+• 
+
+• 
+
+I am calling with regards to the complaint that you made regarding [state your 
+
+understanding of the issues of concern].   
+
+I have investigated the points that you raised and as a result the AEC will [insert 
+what is the AEC’s decision and an explanation of any action that we may be 
+taking]  
+
+As I mentioned previously, we have a Complaints Management Policy, which 
+explains the process I undertook in investigating your complaint. 
+
+[In the case of any AEC mistake or misunderstanding]. 
+• 
+
+I also apologise for the inconvenience that this has caused you. 
+
+ [In the case that the complainants is not satisfied with the response]  
+• 
+
+I would like to further explain to you why this is the decision that the AEC has 
+
+taken.    
+
+[In the case that the complainants remains not satisfied with the response]  
+• 
+
+If you feel that I have not resolved the issues that you raised, the policy also 
+outlines review options that may be available to you.   
+
+• 
+
+The Policy is available from our website or alternatively, I can post or email you a 
+copy if you wish. 
+
+Page 40    Complaints Management Procedures | 2015
+
+
+--- Page 42 ---
+

@@ -1,0 +1,3230 @@
+
+
+--- Page 1 ---
+
+
+
+
+--- Page 2 ---
+
+Contents 
+1. 
+
+Introduction .................................................................................................................. 4 
+
+Scope .................................................................................................................................................................4 
+
+Commonwealth Resource Management Framework .................................................................................4 
+
+How to use these Procedures ........................................................................................................................4 
+
+Exclusions..........................................................................................................................................................4 
+
+Resources and Templates ..............................................................................................................................4 
+
+2.  Procurement and Contract Management in the AEC ................................................. 5 
+
+Election Procurement Strategy.......................................................................................................................5 
+
+AEC Procurement Structure and responsibilities ........................................................................................5 
+
+When to engage CLP? ....................................................................................................................................6 
+
+3.  Procurement ................................................................................................................. 8 
+
+Overview ............................................................................................................................................................8 
+
+Procurement workflow .....................................................................................................................................9 
+
+4.  Plan the procurement process .................................................................................. 11 
+
+What is the business requirements? .......................................................................................................... 11 
+
+Do other business areas have the same or similar requirements within the AEC? ............................ 12 
+
+What does the supply market dictate about the requirements? ............................................................. 12 
+
+What are the procurement risks? ................................................................................................................ 12 
+
+What is the estimated value? ...................................................................................................................... 13 
+
+What procurement method can/should I use? .......................................................................................... 13 
+
+Is there an Indigenous enterprise that I can approach? .......................................................................... 14 
+
+Are there any existing arrangements that can meet the AEC’s business requirements? .................. 14 
+
+What documentation / templates do I need? ............................................................................................ 16 
+
+What are the record keeping requirements? ............................................................................................. 16 
+
+5.  Conduct the procurement process ........................................................................... 17 
+
+Procuring from an Existing Arrangement (ie. Panels) ............................................................................. 17 
+
+Procuring through an Open tender approach ........................................................................................... 21 
+
+Procuring through a Limited tender approach .......................................................................................... 26 
+
+6.  Premises ..................................................................................................................... 31 
+
+Agreements for Business as Usual ............................................................................................................ 31 
+
+Off-site scrutiny centers (including Out-posted Centres and Central Senate Scrutiny) ..................... 31 
+
+All other election premises (including Statics, Pre-poll Voting Centres, training, etc.) ....................... 31 
+
+7.  Vehicle hire ................................................................................................................. 33 
+
+Whole of Australia Government arrangement (WoAG) ........................................................................... 33 
+
+Alternative providers ..................................................................................................................................... 33 
+
+Indemnities ..................................................................................................................................................... 33 
+
+PGPA Section 60 Blanket Approval and Risk Assessment .................................................................... 33
+
+
+--- Page 3 ---
+
+Other points to note when hiring vehicles .................................................................................................. 34 
+
+Questions about the travel policy should be directed to AEC Travel.Error! Bookmark not defined. 
+
+8.  Contract Management ............................................................................................... 35 
+
+Overview ......................................................................................................................................................... 35 
+
+Handover (or transition in) ........................................................................................................................... 35 
+
+Manage Contract start-up ............................................................................................................................ 35 
+
+Administer the Contract ................................................................................................................................ 36 
+
+Relationship Management ........................................................................................................................... 36 
+
+Stakeholder and Communication Management ....................................................................................... 37 
+
+Performance Management .......................................................................................................................... 37 
+
+AEC Escalation Framework ......................................................................................................................... 38 
+
+Risk and Work Health Safety (WHS) .......................................................................................................... 39 
+
+Contract variations and options to extend ................................................................................................. 39 
+
+Options to extend .......................................................................................................................................... 40 
+
+Termination..................................................................................................................................................... 40 
+
+Handover (or transition out) ......................................................................................................................... 40 
+
+Evaluation and lessons learned .................................................................................................................. 40 
+
+9.  Useful links ................................................................................................................. 42 
+
+10.  Definitions and interpretation ................................................................................ 43 
+
+11.  Appendices ............................................................................................................. 47 
+
+Appendix 1 – Market Research and drafting a Statement of Requirement .......................................... 47 
+
+Appendix 2 – Risk Management ................................................................................................................. 51 
+
+Appendix 3 – Indigenous Procurement Policy .......................................................................................... 53 
+
+Appendix 4 – Value for Money assessment and Evaluation of Supplier Responses ......................... 55 
+
+Appendix 5 – My Procurement, Record Keeping and AusTender Reporting ...................................... 57 
+
+Appendix 6 – Responsibilities of AEC Financial Delegates .................................................................... 60 
+
+Appendix 7 – Confidentiality and Unfair Contract Terms ........................................................................ 62 
+
+Appendix 8 – Ethics and Probity ................................................................................................................. 67 
+
+Appendix 9 – Political Neutrality.................................................................................................................. 73 
+
+Appendix 10 – Consultancies ...................................................................................................................... 74 
+
+Appendix 11 – Contingent Liabilities .......................................................................................................... 77 
+
+Appendix 12 – AEC Escalation Framework .............................................................................................. 79 
+
+Appendix 13 – Contract Management Checklists .................................................................................... 83 
+
+Appendix 14 – Commonwealth Contracting Suite and DS4P ................................................................ 87 
+
+Appendix 15 – Government Procurement (Judicial Review) Act ........................................................... 89 
+
+Appendix 16 – Black Economy Procurement Connected Policy ........................................................... 90
+
+
+--- Page 4 ---
+
+1.  Introduction 
+
+Scope 
+The Procurement and Contract Management Procedures (the Procedures) are intended to allow AEC 
+personnel to better understand the Commonwealth’s procurement policy and framework. The Procedures 
+emphasise the responsibilities of AEC personnel, and the AEC’s expectations in undertaking 
+procurements of any value on behalf of the AEC and the Australian Government. 
+
+AEC personnel who are required to spend public money of any value or enter into an Agreement must 
+comply with the Commonwealth Resource Management Framework. 
+
+In these Procedures all monetary figures are inclusive of GST, unless otherwise specified. 
+
+Commonwealth Resource Management Framework 
+AEC personnel must procure Services in accordance with the: 
+
+(a)  Public Governance, Performance and Accountability Act 2013 (PGPA Act), 
+
+(b)  Public Governance, Performance and Accountability Rules 2014 (PGPA Rules),  
+
+(c)  Commonwealth procurement framework, including: 
+
+(i) 
+
+the Commonwealth Procurement Rules (CPRs);  
+
+(ii)  Resource Management Guides; 
+
+(iii) 
+
+templates such as the Commonwealth Contracting Suite (CCS); and 
+
+(iv) 
+
+the Department of Finance’s procurement policy website and guidance,  
+
+(d)  Commonwealth Indigenous Procurement Policy (IPP); and 
+
+(e)  AEC internal procedures and operational guidelines, including: 
+
+(i) 
+
+the Accountable Authority Instructions (AAIs), specifically AAIs (Part 2); and 
+
+(ii) 
+
+these Procedures. 
+
+How to use these Procedures 
+The Procedures provide information and processes for AEC personnel completing procurement and 
+contract management activities. Additional information on key areas of the Procedures are included in 
+the Appendices. 
+
+Exclusions 
+Travel arrangements for AEC personnel are only considered in these Procedures to the extent that the 
+arrangements require a legal review (e.g. Contingent Liabilities). Contact AEC Travel for further 
+information on arranging travel.  
+
+Grants are not included in these Procedures. 
+
+Resources and Templates 
+Relevant links referenced in the Procedures are as follows: 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 4 of 90
+
+
+--- Page 5 ---
+
+
+
+
+--- Page 6 ---
+
+
+
+
+--- Page 7 ---
+
+
+
+
+--- Page 8 ---
+
+3.  Procurement 
+
+Overview 
+Procurement encompasses the whole process of procuring goods and services, beginning when a need 
+has been identified and a decision has been made on the procurement requirement. 
+
+At a high level a procurement activity follows the below process flow: 
+
+Establish business 
+requirement(s)
+
+Retrieve approval to 
+proceed (Business 
+case or other)
+
+Plan the 
+procurement
+
+Consider probity 
+obligations
+
+Draft Approach to 
+Market (ATM) 
+documentation
+
+Retrieve approval for 
+ATM
+
+Release ATM
+
+Evaluate responses 
+to ATM
+
+Document evaluation 
+process and outcome
+
+Retrieve spending 
+approval
+
+Negotiate contract
+
+Execute contract
+
+When taking part in a procurement activity, AEC personnel and AEC Financial Delegates must:  
+
+(a)  act in accordance with legislation, policy and procedural requirements; 
+
+(b)  act within appropriation, authorisation or delegation;  
+
+(c) 
+
+act ethically, fairly and impartially; 
+
+(d)  achieve VFM at all times; 
+
+(e)  act in an open, accountable and transparent manner; and 
+
+(f) 
+
+encourage competition and non-discrimination. 
+
+Irrespective of the size or nature of any procurement, AEC personnel must seek to achieve VFM in 
+accordance with the CPRs to ensure AEC Financial Delegates are satisfied that a VFM outcome has 
+been reached. 
+
+When a business requirement arises, AEC personnel should consider how a procurement will deliver 
+the best VFM outcome. This should begin by clearly understanding and expressing the goals and 
+purpose of the procurement, and must include consideration to leverage any existing AEC 
+arrangements. 
+
+AEC personnel must exercise caution to ensure they do not enter into an Agreement orally (or give the 
+perception of) or by the exchange of non-contractual documents, letters or emails. Unknowingly 
+entering into an Agreement can occur, for example, where a AEC personnel instruct a Supplier to 
+proceed with the Services before the commencement date of an Agreement. 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 8 of 90
+
+
+--- Page 9 ---
+
+Important Note: VFM and proper use of public resources 
+
+Achieving  VFM  is  the  core  rule  of  the  CPRs.  VFM  is  not  determined  by  which  response  is  the 
+cheapest.  Dollar  value  is  just  one  component  of  an  overall  VFM  assessment.  All  of  the  VFM 
+considerations (including non-pricing considerations) must be analysed, all decisions/outcomes are 
+to be well substantiated and fully documented to establish a transparent and defensible VFM outcome 
+for the AEC.  
+
+Notable considerations for the VFM assessment are: 
+
+  Consideration of full tendered contract value, including whole-of-life costs, 
+  Comparison  of  the  tendered  contract  value  to  the  estimated  contract  value  as  per  the 
+
+procurement plan, 
+
+  Competition noted within the procurement process, including:  
+
+o  how many submissions were received, 
+o  analysis of trends in pricing submissions; and 
+o  negotiations undertaken to reduce tendered values. 
+
+  Value adds and benefits to the AEC, 
+  Document any changes in scope from initial estimate,  
+  Any clarification undertaken to ensure consistency in respondent approach; and 
+  Risk exposure to the AEC presented in submissions. 
+
+AEC personnel responsible for a procurement must be satisfied, after reasonable enquiries, that the 
+procurement achieves a VFM outcome. Refer CPRs Division 1: Rules for all procurements. 
+
+VFM should always be considered throughout the entire procurement process, including when looking 
+to extend or vary a contract that increases the contract value. 
+
+AEC Delegates are responsible for ensuring that the commitment of relevant money is a proper use of 
+public resources - efficient, effective, economical and ethical - that is consistent with the policies of the 
+Commonwealth. AEC Delegates must assure themselves that a procurement activity has: 
+
+facilitates accountable and transparent decision making,  
+
+  encouraged competition and is non-discriminatory, 
+ 
+  encourages appropriate engagement and management of risk; and  
+ 
+
+is commensurate with the scale and scope of the business requirement. 
+
+Procurement workflow 
+The following flowchart depicts the basic workflow for a procurement process. However, tasks required 
+to comply with the CPRs will vary depending on the procurement method, value, complexity and risk, 
+and as such these Procedures must be read as a whole. 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 9 of 90
+
+
+--- Page 10 ---
+
+
+
+
+--- Page 11 ---
+
+
+
+
+--- Page 12 ---
+
+Do other business areas have the same or similar requirements within 
+the AEC? 
+
+AEC personnel must understand what the market for the Services required is within the AEC: 
+
+(a)  Do other business areas require similar or the same Services? 
+
+(b)  Does another business area already have an Agreement in place for the Services? 
+
+(c) 
+
+Is there a sufficient requirement in the AEC to establish a panel arrangement for those Services? 
+
+AEC personnel should also look at the Election Procurement Strategy to answer these questions. 
+
+What does the supply market dictate about the requirements? 
+
+To fully understand the market associated with a procurement AEC personnel should conduct market 
+research to a scale appropriate to the procurement activity as a whole. For the purposes of 
+procurement, market research is the act of gathering, analysing and interpreting information about 
+the particular market in which the AEC is proposing to conduct a procurement. 
+
+Market research can provide a strategic understanding of: 
+
+(a)  how a market works, 
+
+(b) 
+
+the direction in which a market is moving (e.g. technological advancement), 
+
+(c) 
+
+the competitiveness of a market, 
+
+(d) 
+
+key suppliers, 
+
+(e) 
+
+sustainability options in the market; and 
+
+(f) 
+
+how to manage price variations over time or between suppliers. 
+
+Methods for conducting market research include: 
+
+(a)  online research,  
+
+(b) 
+
+contacting other Australian Government agencies, 
+
+(c) 
+
+consulting subject matter experts, 
+
+(d)  phone surveys, 
+
+(e) 
+
+visits to local potential supplier, 
+
+(f) 
+
+conducting workshops; and 
+
+(g) 
+
+conducting a request for expression of interest (EOI) or request for information (RFI).  
+
+Tip: Care must be taken to avoid the perception that any Potential Supplier has received information 
+that provides them with an unfair competitive advantage, or the perception that work has been 
+promised. Additional information on market research can be found in Appendix 1 of these Procedures. 
+
+What are the procurement risks? 
+
+AEC personnel must identify, analyse, allocate and treat risk throughout the entire procurement and 
+contract management process. 
+
+Depending on an initial assessment and value, a full risk assessment may be required. 
+
+Additional information on Procurement and Contract Risk can be found in Appendix 2 of these 
+Procedures. 
+
+As part of managing risk, the AEC Financial Delegate may require additional assurance by way of a 
+financial analysis of the procurement and/or any Potential Suppliers. For any procurements valued at 
+$200k and above, it is recommended that business areas seek financial advice from the Financial 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 12 of 90
+
+
+--- Page 13 ---
+
+
+
+
+--- Page 14 ---
+
+Open tenders 
+
+An open tender involves publishing a Request for Tender (RFT) to the market and inviting 
+Submissions from any interested Suppliers via the AusTender website. 
+
+Limited tenders 
+
+Limited tenders involve approaching one or more Potential Suppliers to make Submissions when the 
+procurement process does not meet the rules for open tenders. 
+
+For procurements valued at or above the threshold of $80 000, a limited tender can only be conducted 
+in accordance with paragraph 10.3 of the CPRs or when a procurement is exempt, as detailed in 
+Appendix A of the CPRs, as supported by a business case, approved by the AEC Financial Delegate 
+and attached to the Approach to Market in My Procurement. 
+
+AEC personnel must contact CLP if considering undertaking a limited tender valued at or above $80, 
+000. 
+
+Is there an Indigenous enterprise that I can approach? 
+
+The Indigenous Procurement Policy (IPP) mandates that Indigenous Enterprises be considered for the 
+delivery of Services valued between $80,000 and $200,000, on a value for money basis prior to 
+approaching the market. 
+
+Additional information on the Indigenous Procurement Policy can be found in Appendix 3 of these 
+Procedures. 
+
+Are there any existing arrangements that can meet the AEC’s business 
+requirements? 
+
+Accessing Services through Existing Arrangements established by the AEC or other Commonwealth 
+agencies (often referred to as ‘piggybacking’) may save the AEC time, resources and expense in 
+conducting separate procurement processes. It can also enable the AEC to access more favourable 
+rates and conditions that other larger agencies were able to negotiate. 
+
+Procurements from Existing Arrangements are only subject to the rules in Division 1 of the CPRs. 
+However, the establishment of an Existing Arrangement is subject to both Division 1 and 2 of the 
+CPRs. 
+
+Where there is an Existing Arrangement available to the AEC, with a scope that clearly meets the 
+AEC’s requirements, AEC personnel may use that Arrangement. 
+
+Important: If you intend on accessing an Existing Arrangement instead of completing an Open 
+Tender procurement process, a business case, approved by the AEC Financial Delegate and 
+attached to the Approach to Market in My Procurement, is required to outline the decision making 
+process. The business case must include the following information at a minimum: 
+
+  why the Arrangement is being accessed,  
+  how the scope of the Arrangement meets the AEC’s business needs,  
+  what Potential Suppliers will be approached; and  
+  why you have selected those Potential Suppliers. 
+
+Important: IF you intend on accessing an Existing Arrangement, AEC Contact Officers should 
+consider how many Potential Suppliers are to be approached. Note that it will be very difficult to 
+assess and demonstrate the achievement of value for money if only one Potential Supplier is 
+approached. 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 14 of 90
+
+
+--- Page 15 ---
+
+Existing Arrangements may include: 
+
+(a)    Whole of Australian Government (WoAG) arrangements 
+
+These are Arrangements, some of which are mandated, established by the Department of 
+Finance to benefit Commonwealth agencies for the procurement of Services. 
+
+The Department of Finance procurement website provides the full consolidated list of these 
+arrangements. When purchasing from an Arrangement, AEC personnel must ensure that the: 
+
+(i) 
+
+Services required are within the scope of the Arrangement; 
+
+(ii) 
+
+terms and conditions of the Arrangement are not being materially altered; and 
+
+(iii) 
+
+relevant templates are used to procure the Services. 
+
+An Agreement is formed under an Arrangement when a Work Order is issued, or executed by 
+both parties, as specified in the Head Agreement or Deed of Standing Offer. The Work Order 
+together with the Head Agreement or Deed of Standing Offer form the Agreement. 
+
+(b)    AEC National Panels 
+
+The AEC has established National Panels for the provision of furniture and equipment, logistics 
+and ballot material printing to ensure nationally consistent arrangements for key election 
+services. 
+
+Refer to the Election Procurement Strategy intranet page for guidance on procuring under these 
+Arrangements. 
+
+(b)    Recruitment and labour hire services 
+
+National Work Orders (WOs) are in place with six (6) providers for the provision of 
+recruitment and related services (excludes ICT recruitment). These WOs can be used by any 
+business area within the AEC to fulfil recruitment and labour hire needs for both BAU and 
+elections (as a contingency only to fulfil larger TEW requirements). 
+
+It is not mandatory to use these WOs but it is considered to be good practice should they 
+meet your business requirements. 
+
+These WOs do not replace any existing contracts for recruitment services. 
+
+These WOs can be accessed using a simple 5-step process. Guidance on how to use these 
+arrangements includes FAQs and applicable templates, as well as a capability matrix that 
+provides contact details of providers and their service capabilities and jurisdictions. This 
+document, as well as other relevant documents, are available through the CLP’s SharePoint 
+site. AEC staff need permission to access this site. Submit a request to access the site by 
+contacting Commercial Law and Procurement. 
+
+ (c)    Panel arrangements 
+
+A panel arrangement (also known as Standing Offer Panel) is the end result of a procurement 
+process, where a number of Suppliers are appointed through a head agreement or deed of 
+standing offer. 
+
+A list of Existing (Panel) Arrangements that the AEC has access to can be found on the CLP’s 
+SharePoint site.  AEC personnel wishing to utilise one of these Existing Arrangements should 
+first contact the relevant AEC Panel Manager to obtain general information and guidance on 
+approaching the Existing Arrangement. Existing Arrangement documentations i.e. Agreements, 
+templates and related documents can be found on DS4P. If an AEC Official requires access to 
+DS4P they must contact CLP. 
+
+Piggybacking off an Arrangement 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 15 of 90
+
+
+--- Page 16 ---
+
+
+
+
+--- Page 17 ---
+
+
+
+
+--- Page 18 ---
+
+
+
+
+--- Page 19 ---
+
+
+
+
+--- Page 20 ---
+
+
+
+
+--- Page 21 ---
+
+
+
+
+--- Page 22 ---
+
+
+
+
+--- Page 23 ---
+
+
+
+
+--- Page 24 ---
+
+
+
+
+--- Page 25 ---
+
+
+
+
+--- Page 26 ---
+
+
+
+
+--- Page 27 ---
+
+
+
+
+--- Page 28 ---
+
+
+
+
+--- Page 29 ---
+
+
+
+
+--- Page 30 ---
+
+
+
+
+--- Page 31 ---
+
+
+
+
+--- Page 32 ---
+
+
+
+
+--- Page 33 ---
+
+7.  Vehicle hire 
+
+Whole of Australia Government arrangement (WoAG) 
+All vehicle hires within Australia must be made through the WoAG contracted provider, Hertz.  
+
+If vehicle hire is being arranged with domestic flights, it can be booked through the Online Booking Tool.  
+
+If you are only hiring a vehicle, you can book direct with Hertz, online or by telephone. The terms and 
+conditions for hiring vehicles from Hertz are contained in the Deed between the Department of Finance 
+and Hertz.  
+
+Upon collection of a vehicle from Hertz, the AEC official may be required to sign a document. The 
+purpose of this document is to identify the Authorised Driver. Clause 14.2 of the Deed that the 
+Department of Finance has in place with Hertz confirms this by stating that the Deed prevails over any 
+other rental agreements, provisions or terms. Accordingly, the legal risk to the AEC is low if an AEC 
+official is required to sign other terms and conditions as the terms of the Deed can be relied on. To limit 
+the risk further however, we recommend resisting the requirement to sign any other document. 
+
+More information about vehicle hire under the WoAG arrangement can be found on the Department of 
+Finance's website. In particular you may find the Department of Finance's FAQ section useful. 
+
+General AEC procedures for hiring vehicles are contained in the AEC's Travel Procedures.  
+
+Alternative providers 
+Where a Hertz rental office is not within reasonable proximity, or no vehicles are available, AEC personnel 
+may use an alternative provider that represents best value for money.  
+
+In such instances, AEC personnel must: 
+
+a.  seek Commercial Law and Procurement section advice on the alternative provider's terms and 
+
+conditions before you enter into any agreement; and 
+
+b.  advise AEC Travel in order that it can be reported to Department of Finance for contract review 
+
+and compliance purposes.  
+
+To help make this process quicker for business areas, legal advice has been provided below for 
+alternative providers that the AEC has previously used. If a business area uses a provider on a regular 
+basis and they are not listed on the Vehicle Hire intranet page, please provide the terms and conditions to 
+CLP for review as soon as possible. Further, if a business area becomes aware that a provider listed on 
+the Vehicle Hire intranet page has changed their terms and conditions, please provide the updated terms 
+and conditions to CLP for review as soon as possible. 
+
+Indemnities 
+MOST vehicle hire arrangements, including those under the WoAG arrangement, require the AEC to 
+indemnify the provider. Under section 60 of the Public Governance, Performance and Accountability 
+(PGPA) Act 2013, the AEC cannot grant an indemnity in any arrangement unless there is delegate 
+approval.  
+
+PGPA Section 60 Blanket Approval and Risk Assessment 
+To simplify the PGPA section 60 approval process and support compliance, the Chief Legal Officer has 
+provided blanket approval based on a standard risk assessment for vehicle hire which can be found on 
+the Vehicle Hire intranet page. 
+
+Note that this PGPA section 60 blanket approval only applies where:  
+
+a.  a provider is used under the WoAG arrangement (ie. Hertz); or 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 33 of 90
+
+
+--- Page 34 ---
+
+b.  another provider is engaged and their standard terms and conditions have been reviewed by CLP 
+
+and legal advice provided; and 
+the risks of hire are adequately addressed in the risk assessment attached to the blanket approval. 
+
+c. 
+
+For the avoidance of doubt, if an AEC official determines that the risks of hire (including through Hertz 
+under the WoAG arrangement) are not adequately addressed in the standard risk assessment, a new risk 
+assessment and PGPA section 60 approval will need to be undertaken separately. 
+
+Other points to note when hiring vehicles 
+PGPA Rule 18 approval is required prior to the hire of a vehicle from any provider (Hertz or alternative 
+provider).  
+
+The email for financial delegate approvals under $10,000 can be used for Hertz vehicle hire, or alternative 
+provider vehicle hire where the cost is less than $10,000 (GST inclusive) and the purchase will be made 
+by an AEC Corporate Credit Card.  
+
+All other vehicle hire (of any value) from an alternative provider must be entered into My 
+Procurement and Rule 18 approval obtained through the Spending Proposal (Stage 2) process.  
+
+Questions about the travel policy should be directed to AEC Travel.  
+
+AEC Procurement and Contract Management Procedures 
+
+Page 34 of 90
+
+
+--- Page 35 ---
+
+
+
+
+--- Page 36 ---
+
+(d) 
+
+(e) 
+
+complete a contract risk assessment and risk mitigation plan if required; (d)    address any 
+issues that were not resolved when the Contract was signed; 
+
+follow up with the Supplier/s on key initial obligations, such as obtaining evidence of their 
+insurances , financial viability and signed Deed Polls from Specified Personnel; 
+
+(f) 
+
+identify how the achievement of deliverables will be measured; 
+
+(g)  establish processes for monitoring and reporting on the performance of the Supplier in relation 
+
+to the key performance indicators; and 
+
+(h)  establish roles and responsibilities for internal stakeholders. 
+
+Note: The above items are inclusions within the CMP template developed for your use. 
+
+Administer the Contract 
+
+To assist with the overall management of the Contract, it is important that Contract Managers: 
+
+(a) 
+
+regularly review and update the Contract Management Plan including risk assessment when 
+appropriate; 
+
+(b)  maintain up to date records of key personnel and contact details; 
+
+(c) 
+
+(d) 
+
+schedule meetings at specific times throughout the life of the Contract, giving the time, place 
+and purpose of the meeting as well as any planned reviews or other key actions;  
+
+inspect Services on delivery (particularly where delivery will be phased) to ensure they meet the 
+standards specified in the Contract, 
+
+(e)  make payments only in accordance with the terms of the Contract, 
+
+(f) 
+
+(g) 
+
+document  any  changes,  significant  decisions  or  events  and  file  all  documentation  and 
+correspondence in relation to any procurement; 
+
+report to senior management and stakeholders on the status of the Contract at appropriate 
+intervals; and, 
+
+(h)  develop and maintain an effective and professional relationship with the Suppli er. 
+
+Relationship Management 
+
+Relationship management is an essential element to contract management, and a basis for this 
+relationship can often be established in the procurement phase. However, if a Contract Manager is 
+new to the procurement or the contractual arrangement, the Contract Manager must undertake to 
+understand the relationship that already exists between the AEC and the Supplier. This includes 
+understanding any problems or issues that occurred earlier in the procurement process. 
+
+The type of contract (including size, duration, deliverables, personalities involved) will influence the 
+relationship between the parties to the arrangement, and the structure of your approach to managing 
+the relationship. It is important to develop and maintain a constructive relationship with regular 
+communication and this can be achieved through both informal (e.g. day to day discussions and 
+interactions), and formal (e.g. formal contract management meetings and performance reviews with 
+nominated personnel) means. Formal meetings should be captured in your CMP. 
+
+An effective relationship with your Supplier can allow the quick and simple identification and resolution 
+of issues, before they become critical to the delivery of the contract.  Maintaining a good relationship 
+does not mean that the terms of a contract are not enforced, rather it is about professionally enforcing 
+the terms of a contract based on evidence of contractual performance. 
+
+Relationships should be managed professionally and be based on cooperation and mutual 
+understanding. It is important to remember that this relationship is a professional one and should not 
+become too intimate, as this can affect your ability to manage the arrangement and can bring ethics 
+and probity considerations into question. 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 36 of 90
+
+
+--- Page 37 ---
+
+Stakeholder and Communication Management 
+
+It is important to ensure that stakeholders to the contract are kept informed of relevant matters such as 
+contract developments, and are continually engaged or consulted where required throughout the life of 
+the contract. In order to achieve this you should first identify the internal and external stakeholders, 
+and their role in relation to the Arrangement. 
+
+A key item to consider at this point is any other AEC contractual arrangement that may have 
+intersecting contract deliverables. This is an important step in developing a system to manage 
+information between Suppliers with intersecting deliverables, to ensure a coordinated and seamless 
+delivery of the operational activity relating to the arrangements. Intersecting contract deliverables could 
+include scenarios such as; the manufacturer for Cardboard material and the Supplier contracted to 
+manage collection/delivery; or, a hired premise and a furniture hire company; or a Ballot Material 
+Printing Supplier and the Supplier contracted to manage collection/delivery. 
+
+Communication Plan 
+
+A Communication Plan should be developed as part of a CMP to identify the type of information that 
+needs to be shared with/between Stakeholders, the frequency, the method and where the 
+responsibility sits for sharing the information. 
+
+This should include how you will communicate Services to be delivered under the contract to end 
+users; how you will receive feedback on Supplier Performance from end users; how you will engage 
+with your Supplier for ongoing contract requirements (including performance issues); how you will 
+engage with other Internal / External stakeholders. 
+
+Performance Management 
+
+Effective management of a Contract is the most efficient means of ensuring performance is in line with 
+contractual obligations. Contract Managers must undertake performance management over the life of 
+the Contract in accordance with the provisions of the Contract, including non-performance provisions. 
+
+Performance management involves: 
+
+(a)  performance monitoring to ensure that progress is being made in line with agreed time frames, 
+and that the Supplier is performing in accordance with the Contract. Contract Managers should 
+focus on monitoring the key deliverables outlined in the Contract, as very deta iled monitoring 
+can be costly and shift the focus away from achieving outcomes; 
+
+(b)  determining whether performance meets the AEC’s needs through performance assessments.  
+
+(c)  The primary responsibility for performance rests with the Contract Manager, who should en sure 
+
+that standards and targets are met on time and within budget; 
+
+(d) 
+
+taking appropriate action such as correcting areas of underperformance through contract 
+management mechanisms, or amending the contract requirements to meet changing needs. If 
+performance issues  cannot  be resolved  by the  AEC  Contract  Manager,  this  should  be 
+escalated in accordance with the escalation process identified in your CMP (see the AE C 
+Escalation Framework section of these Procedures and Appendix 12); 
+
+(e)  making  reasonable  enquiries   to   determine   compliance   with   any   applicable   Standards 
+
+including:  
+
+(i) 
+
+gathering evidence of relevant certifications; and 
+
+(ii) 
+
+periodic auditing of compliance by an independent assessor, and 
+
+(f) 
+
+seeking reasonable evidence to satisfy the AEC that contractors have not breached the regulations 
+and/or regulatory frameworks and have demonstrated their sustainability credentials. 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 37 of 90
+
+
+--- Page 38 ---
+
+It is important that Contract Managers attempt to address any issues with the Supplier (including under 
+performance) at the lowest possible level in the first instance. It should also be considered what role 
+the AEC may have played in contributing to the issue, as a contract includes obligations on both 
+parties to the arrangement. 
+
+Managing under performance 
+
+(a)  Contract Managers should address any problems with the Supplier promptly, in accordance with 
+the terms of the Contract. While there is no set procedure for managing under performance, it is 
+essential to clearly address poor performance as soon as the problem is identified, including 
+providing timeframes for resolution if appropriate. The longer poor performance is allowed to 
+continue, the more difficult it becomes to attain a satisfactory resolution. 
+
+(b)  When addressing issues of non-performance with a Supplier, Contract Managers should 
+
+specifically identify the problem, and determine how wide the gap is between what is expected, 
+and what is being delivered. Contract Managers should address the issue with the Supplier in a 
+professional, fair and just manner, documenting all meetings and communications. 
+
+(c)  Generally, consequences for under performance will be addressed in the Contract, and may involve: 
+
+(i) 
+
+replacing Specified Personnel; 
+
+(ii) 
+
+using additional Specified Personnel; 
+
+(iii)  amending progress reporting procedures to make status reports more frequent;  
+
+(iv)  modifying processes or systems; 
+
+(v) 
+
+clarifying the AEC’s requirements with the Supplier, escalation involving senior management 
+from both parties in formal discussions or written communications; or 
+
+(vi)  withholding payments until the performance returns to an acceptable level (this remedy must 
+reflect the seriousness of the underperformance, and careful consideration needs to be given 
+when adopting this approach). 
+
+(d)  In formally addressing underperformance, Contract Managers must follow any formal escalation 
+procedures as identified in the Contract where necessary. Contract Managers should contact 
+CLP for advice when dealing with formal under performance.   Any formal management of a 
+performance issue should must be recorded in the Supplier Performance Register section of the 
+CLP’s SharePoint site (for procurements valued at or above $80 000). 
+
+(e)  All major stakeholders should be regularly informed of the status of the Contract and Supplier’s 
+
+performance, particularly where there are any issues. 
+
+Managing disputes 
+
+(a)  Disagreements and disputes often arise when the parties cannot agree on issues related to the 
+
+interpretation of the provisions of the Contract, the definition of deliverables, meeting performance 
+standards and/or the effect of unexpected events.  In most circumstances, disputes will be reduced 
+where both parties have a sound understanding of their roles and responsibilities under the 
+Contract. 
+
+(b)  However, where a dispute arises, it is important that it is dealt with as quickly as possible in order 
+
+to prevent escalating the matter, which may impact on deliverables. 
+
+(c)  Contract Managers must strictly follow the dispute resolution procedures provided in the Contract. 
+
+AEC Escalation Framework 
+
+Contract management may at times involve managing and resolving issues that arise during and after 
+the delivery of services by a contracted supplier. It is the responsibility of the nominated AEC Contract 
+Manager to effectively and actively manage their contract, including resolving any issues experienced 
+during the term of the agreement. However, at times a Contract Manager may be unable to adequately 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 38 of 90
+
+
+--- Page 39 ---
+
+influence the situation with the Supplier’s Contract Manager, or may require approval or decisions to 
+be made by the AEC that are above their level of authority. At these times, it may be required to 
+escalate the issue in the appropriate channel within the AEC. 
+
+The appropriate escalation channel within the AEC will vary for each contract, and it is important that  
+Contract Managers identify this when establishing the CMP. 
+
+The AEC Escalation Framework has been developed to assist Contract Managers in understanding 
+their responsibilities in identifying the escalation process applicable to their contract, and prompt the 
+development of communication channels with end users and identified escalation points to assist in 
+effective management of the contract. The AEC Escalation Framework incorporates information in 
+these Procedures, a Stepped Escalation Diagram including worked scenarios (see Appendix 12), in 
+addition to sections included within the CMP template. 
+
+Risk and Work Health Safety (WHS) 
+
+Risk must be considered at all stages of the procurement process, including the contract management 
+phase. It is important that a risk assessment is completed within your CMP to identify and mitigate 
+potential risks that may impact on successful delivery of the contract. Additional information on Risk 
+can be found in Appendix 2. 
+
+The AEC must ensure that the work health safety of workers engaged by the AEC under contracts; 
+and the safety of products the AEC procures and supplies to others. Entering into contracts creates 
+shared WHS legislative duties for the AEC and the other party to the contract. 
+
+AEC shared duties can be discharge in two ways: 
+
+(a)  Directly - taking the necessary actions required, or 
+
+(b) 
+
+Indirectly - by requiring necessary actions to be taken by the AEC contracted Supplier on the 
+AEC’s behalf, and then ensuring or verifying that the Supplier has completed these actions. 
+
+The management of the WHS aspects of your contract should be recorded in your Contract 
+Management Plan. Additional information on WHS legislation and requirements of AEC personnel can be 
+found on the AEC intranet site for WHS and Safety. 
+
+Contract variations and options to extend 
+
+A variation is an amendment to a Contract that changes the Contract’s original terms or conditions. For 
+example, you may need to vary a Contract if there is a change to the Services required, personnel or 
+pricing. Provisions which allow for Contract variations should be outlined in the Contract. 
+
+Variations must not significantly change the Contract requirement, or a substantial part of the original 
+Contract. 
+
+Important: Any proposed variation to an agreement must be assessed to ensure that the contract will 
+continue to deliver value for money to the AEC, and does not breach the CPR’s. 
+
+Tip: A variation to extend a Contract beyond the terms of the original Contract (rather than exercising an 
+extension option within the terms of a Contract), is a new procurement that must be conducted in 
+accordance with the CPRs. Variations to include new extension options generally increase the scope of 
+the Contract and are therefore not allowed. 
+
+An option to extend the term of a Contract is a legal right within a Contract to unilaterally extend the 
+term of the Contract by a specified period. 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 39 of 90
+
+
+--- Page 40 ---
+
+Provisions that allow for Contract variations must be outlined and exercised in accordance with the 
+Contract and prior to the expiry date. A Contract cannot be varied to include extension options. 
+
+Important: Before any extension option is taken, a Contract Evaluation must be completed. A contract 
+evaluation template is available on the AEC Contract Management Intranet site for use. All contract 
+evaluations are to be recorded in the Supplier Performance Register section of the CLP’s SharePoint 
+Site SharePoint site. 
+
+Options to extend 
+
+Process 
+
+(a)  Complete a variation request in My Contracts and submit to CLP.  
+
+(b)  CLP will draft the required document (Deed of Variation or Letter of Extension) and email it to the 
+
+Contract Manager.  
+
+(c)  Once the request has been approved by CLP and the AEC Financial Delegate in My Contracts, the 
+
+document can be issued to the Supplier.  
+
+(d)  Contract  Managers  must  ensure  they  clearly  document  the  reasons  for varying the contract 
+
+and/or exercising  the extension option and update the Contract Management Plan. 
+
+(e)  The Contract Management Checklists in Appendix 13 can guide you in extending a Contract. 
+
+Termination 
+
+Termination of an Agreement is a serious step with potential probity and legal risks that must be 
+considered before any decision is made. For this reason CLP must be consulted prior to any considering 
+any termination. 
+
+Handover (or transition out) 
+
+Where a handover from the outgoing Supplier to a new Supplier is to occur, the process must be carefully 
+managed. Ideally, handover arrangements should involve an agreed period of overlap where the new 
+Supplier works alongside the outgoing Supplier to achieve as seamless a transition as possible. 
+
+Attention should be paid to conditions in the Contract which relate to the handover, including any financial 
+matters, intellectual property, transfer of material, and training procedures for the incoming Supplier. 
+
+Evaluation and lessons learned  
+
+A Contract Evaluation should be undertaken at the end of each Contract and should include an overall 
+performance of the contract, including the AEC’s management of the contract. This can be useful in 
+identifying lessons that have been learned throughout the life of the contract to better understand and 
+improve overall contract management in future. 
+
+When a transition from one Contract to another is to occur, it is best practice for an evaluation to be 
+undertaken before the Contract ends so that any problems that have occurred with aspects of the 
+Contractual arrangement are identified, and where appropriate, improvements made and implemented in 
+future Contractual arrangements. 
+
+AEC personnel are required to report to CLP any variations to any Contracts (eg. final expenditure is less 
+than the Spending Value) in order that AusTender can be updated. 
+
+The Contract Evaluation Template available on the AEC Contract Management intranet site can guide you 
+in evaluating a Contract. 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 40 of 90
+
+
+--- Page 41 ---
+
+The CLP SharePoint site includes a ‘Supplier Performance Register’ that must be used by business areas 
+to record Contract Evaluations that have been completed at the end of a Contract. The Supplier 
+Performance Register is intended to assist business areas in leveraging supplier performance 
+information from across the AEC network and benchmark supplier performance. It may also be used to 
+assist in conducting market research by identifying Suppliers that have provided excellent quality Goods / 
+Services to the AEC.
+
+AEC Procurement and Contract Management Procedures 
+
+Page 41 of 90
+
+
+--- Page 42 ---
+
+
+
+
+--- Page 43 ---
+
+Supply Nation 
+
+Membership body dedicated to growing diversity in supply chains. Enables 
+searches of Indigenous Enterprises. 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 44 of 90
+
+
+--- Page 44 ---
+
+
+
+
+--- Page 45 ---
+
+
+
+
+--- Page 46 ---
+
+
+
+
+--- Page 47 ---
+
+AEC Procurement and Contract Management Procedures 
+
+Page 46 of 90
+
+
+--- Page 48 ---
+
+11. Appendices 
+
+Appendix 1 – Market Research and drafting a Statement of Requirement 
+
+Market Research 
+
+Overview 
+
+Conducting market research is an important step to assist in planning your procurement. Collecting 
+information about the market enables the AEC to: 
+
+(a)     understand how the market works, its competitiveness, capabilities or constraints;  
+
+(b)     better define AEC requirements; 
+
+(c)     identify Potential Suppliers; 
+
+(d)     better anticipate costs and timeframes; 
+
+(e)     achieve value for money; 
+
+(f)      minimise risks; and 
+
+(g)     identify lessons learnt. 
+
+The  results  of  market  research  should  be  documented  to  assist  in  justifying  any  decisions  made based 
+on that research, and inform future market research conducted by the AEC. 
+
+When conducting market research, care must be taken to avoid the perception that any Potential Supplier 
+has received information that provides them with an unfair competitive advantage, or that work has been 
+promised through this process. 
+
+Sources 
+
+Commensurate  with  the  scope,  scale,  value,  type  of  Services  required  and  estimated  risk  of  the 
+procurement, market research can be undertaken: 
+
+(a)     informally by: 
+
+(i) 
+
+contacting other Commonwealth agencies or other users of similar Services;  
+
+(ii)  meet or call known or key stakeholders; 
+
+(iii)  contacting the business area within the AEC relevant to the Services being procured for 
+
+knowledge or advice (eg. ICT); 
+
+(iv) 
+
+reviewing existing market research conducted by a business area, 
+
+(v) 
+
+searching  My Procurement  for  previous  procurements  undertaken  or  Agreements  entered 
+into; 
+
+(vi)  attending industry exhibitions; 
+
+(vii)  searching the Yellow Pages; 
+
+(viii)  conducting searches on AusTender; and/or 
+
+(ix)  conducting searches on the internet. 
+
+(b)     formally via AusTender by undertaking an open approach to market through a multi-stage 
+
+procurement process. Note that if you are intending to use a multi-stage approach, you must 
+consult with CLP early in the planning stage as specific procurement rules apply. 
+
+(c)     in rare cases, sourcing a specialist consultant to conduct the market research which in itself would 
+
+be a separate procurement exercise. 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 47 of 90
+
+
+--- Page 49 ---
+
+Analysis 
+
+Following are some questions to consider when researching the market to determine how you will 
+structure your approach to the market: 
+
+(a)     Where do my requirements fit in the market? Is it insignificant, significant or innovative? 
+
+(b)     What is the capability of the market in order to meet the AEC’s needs? Is it a well-developed, 
+
+emerging or immature market? Is it dynamic and does it have a high level of business activity? Or is 
+the industry on the decline or under threat? 
+
+(c)     What is the risk profile of the market? Is there a risk to supply? 
+
+(d)    What is the capacity of the market? Do skill shortages exist? Is the industry at full capacity?  Are 
+
+there any seasonal factors? 
+
+(e)     Are there any Australian standards, certifications, licences or professional accreditations 
+
+applicable to the goods or services being procured? 
+
+(f)      Do  any  relevant  regulations  and/or  regulatory  frameworks  apply  (eg.  National  Construction Code 
+or Safework Australia regulatory framework)? (g)     What is the potential number of suppliers? 
+
+(h)     How attractive are the requirements to suppliers? High or low? Can it be made more attractive? 
+
+(i)      Are there any sensitivity or probity issues in the market  that my affect the procurement? Is there a 
+
+high level of political interest or public sensitivity? 
+
+In accordance with paragraph 10.30 of the Commonwealth Procurement Rules, if the procurement is 
+valued above $4m, AEC personnel must consider what the economic benefit of the procurement is to the 
+Australian economy. 
+
+Consider how the Australian economy may benefit from the procurement activity. Consider what economic 
+benefit information will be collected, and how it will be used as an evaluation criteria to assess value for 
+money. 
+
+The level of information collected should be commensurate with the procurement. It should not introduce 
+excessive red tape and cost for tenderers bidding for government contracts. 
+
+Drafting Statements of Requirements 
+
+Overview 
+
+The Statement of Requirements (SoR) is fundamental to the overall success of a procurement as it forms 
+the foundation of the Agreement. The SoR should be comprehensively developed during the planning 
+stage as this provides the best opportunity to consider what you want to achieve and clearly define the 
+requirements. This will then guide the development of evaluation criteria for the procurement. 
+
+What is an SoR? 
+
+A  SoR  (also  known  as  business  requirements,  specifications  or  statement  of  work)  must  clearly, 
+concisely and logically describe the Services that the AEC plans to procure. 
+
+The SoR ensures that: 
+
+(a)     Potential Suppliers can; clearly understand what is expected; calculate their quotation; confirm their 
+
+capabilities and resources; and, develop an accurate response; 
+
+(b)     the evaluation criteria can be easily and clearly defined. Responses can then be evaluated against clear 
+
+criteria to assist in identifying overall value for money; 
+
+(c)      the AEC can monitor performance and confirm that the goods and services are delivered according to our 
+
+requirements; and 
+
+(d)     potential risks are reduced. 
+
+Commonwealth Procurement Rules (CPRs) 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 48 of 90
+
+
+--- Page 50 ---
+
+
+
+
+--- Page 51 ---
+
+Tip: The CPRs require minimum standard of information that must be included in request documentation 
+(10.6), including estimated quantities (if the quantity is not known), the relative importance of evaluation 
+criteria, and any known dates for the delivery of goods and services 
+
+Structure of a SoR 
+
+A SoR template  is available for use  as  a base when commencing to draft your requirements and may 
+be amended as appropriate to address your particular requirements. 
+
+Other considerations: 
+
+     Service Level Agreements; 
+
+     Key Performance Indicators; 
+
+     Fee Credits; Performance payments; 
+
+     Milestone payments; and, 
+
+     Volume Discounts. 
+
+In clearly detailing the AEC business requirements through developing a SoR, you can identify what 
+contract mechanisms may be appropriate for your procurement and can be included in your 
+documentation to market. This may include mechanisms such as a Service Level Agreements, Key 
+Performance Indicators, a Fee Credit / Performance payment regime, Milestone Payments or a request for 
+volume discounts. 
+
+Service Level Agreements* / Key Performance Indicators* 
+
+A Service Level Agreement (SLA) formalises the minimum level of service that is expected from Supplier.  
+A  SLA  must  be specific,  measurable  and achievable and should be based on  the requirements 
+included within the SoR. 
+
+Key Performance Indicators is a conventional method of monitoring the performance of Suppliers and a 
+contract. They are a set of agreed measures or metrics that are used to define and evaluate the critical 
+success factors in a contract – a measure of how well something is being done. 
+
+There are similarities between these mechanisms and different contract / procurements may be better 
+suited to either of these approaches. Regardless of which mechanism is being used, the critical 
+performance elements of the contract deliverables must be identified by the AEC Business Area before 
+any agreement can be drafted. 
+
+Fee Credits* / Performance Payments regimes* 
+
+Fee Credits and Performance payments are often linked to SLA’s and KPI’s in contracts, and act as an 
+incentive for Suppliers to meet the level of performance that is required in the contract. 
+
+Milestone Payments and Volume Discounts 
+
+AEC personnel should also consider if a milestone payment approach, or volume discounts, is appropriate 
+to  include  within their procurement.  Milestone payments  may assist in  managing performance of a 
+contract, and volume discounts may assist in demonstrating that Value for Money is achieved. 
+
+* CLP is able to provide guidance and assist in drafting these items if required. 
+
+“It’s often said that a requirement that is not specified up front is just a  
+contract variation waiting to happen”
+
+AEC Procurement and Contract Management Procedures 
+
+Page 50 of 90
+
+
+--- Page 52 ---
+
+
+
+
+--- Page 53 ---
+
+Where the estimated overall risk or risk ratings for premises or vehicle hire are considered high, alternate 
+premises or vehicle hire should be sought. 
+
+AEC personnel must ensure that risk assessments are regularly reviewed and updated throughout the entire 
+procurement process so that any new risks or changes are identified and managed accordingly. 
+
+Financial Management Service Level Options  
+
+As part of managing risk, this may include assurance that the AEC Financial Delegate is satisfied with a 
+financial analysis of the procurement and/or suppliers. For any procurements valued at $200k and 
+above, it is recommended that business areas seek financial advice from the Financial Management 
+Section. The services that can be provided by the Financial Management Section and how to request 
+are outlined in the Financial Management Service Level Options for Procurements. 
+
+Contract Management 
+
+A Contract Management Plan (CMP) must be completed for Agreements valued over $80k or above, or for 
+high risk, complex or significant election related Agreements. The Contract Management Plan includes a risk 
+assessment that must be completed and regularly reviewed and updated when appropriate throughout the 
+term of the Agreement. 
+
+Tip: as outlined earlier, your contract Risk Assessment should focus on risks associated with management 
+of the agreement, including delivery of Goods/Services. 
+
+Further Information and Assistance 
+
+The Disclosure, Assurance and Engagement Branch has responsibility for risk assessment and 
+management within the AEC.  The Risk and Assurance section provides advice and assistance to AEC 
+personnel on how to undertake risk assessments. For assistance contact 
+
+. 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 52 of 90 
+
+s22
+
+
+--- Page 54 ---
+
+Appendix 3 – Indigenous Procurement Policy 
+
+Overview 
+
+The  mandatory  Indigenous  Procurement  Policy  (IPP)  aims  to  stimulate  the  Indigenous  business sector 
+by leveraging the Commonwealth’s purchasing power to boost Indigenous Enterprises. An Indigenous 
+Enterprise is any business that is 50 per cent or more Indigenous owned. 
+
+The IPP has three main parts: 
+
+(a)     a target number of contracts that need to be awarded to Indigenous Enterprises; 
+
+(b)     a mandatory set-aside of  contracts for Indigenous  Enterprises to apply in certain situations; and 
+
+(c)     mandatory minimum  requirements for  Indigenous  employment  and Indigenous  supplier  use applying 
+
+to certain high value Commonwealth contracts. 
+
+Further information and a copy of the IPP can be accessed at https://www.niaa.gov.au/resource-
+centre/indigenous-affairs/indigenous-procurement-policyMandatory set-aside 
+
+While Indigenous Enterprises can bid for any Approach to Market, the IPP requires that the AEC first check 
+whether an Indigenous Enterprise can deliver Services if the procurement is: 
+
+(a) 
+
+valued between $80 000 and $200 000 of the initial agreement period; and/or 
+
+(b)  a Remote Procurement (see  RIPP Location Map); and/or 
+
+(c) 
+
+the goods/services total $7.5 million during the initial agreement period AND where 50% of the 
+agreement value is being delivered anywhere in Australia AND the goods/services are in any of  the 8 
+industry categories listed on Section 4, Page 32 of the IPP. 
+
+Note:  The  mandatory  set-aside  does  not  apply  if  the  procurement  method  is  to  approach  a 
+mandatory whole of government arrangement. 
+
+Prior to approaching the market, AEC personnel must: 
+
+Step 1: Search Supply Nation to determine if there is an Indigenous Enterprise that provides the Services 
+within the scope of your requirements. 
+
+The  search  (eg.  screen  capture)  for  Indigenous  Enterprises  must  be  saved  to  the Approach to Market 
+raised in My procurement. 
+
+Step 2: 
+
+Where a suitable Indigenous Enterprise(s) is identified: 
+
+(a) 
+
+(b) 
+
+If through the initial search suitable Indigenous Enterprise(s) are identified (commensurate to the 
+scale, scope and risk of the procurement) the AEC Official must take steps to determine whether the 
+Indigenous Enterprise can deliver the required Services through an Approach to Market. 
+
+If an Indigenous Enterprise is identified as representing best value for money through the Approach to 
+Market, an Agreement awarded to the Indigenous Enterprise (under Exemption 17 of the 
+Commonwealth Procurement Rules). The Commonwealth Contracting Suite (CCS) Contract template 
+must be used to enter into an Agreement as outlined at Appendix 13 of these Procedures. 
+
+(c)  All information must be entered into the Approach to Market in My Procurement as outlined at 
+
+Appendix 5 of these Procedures. 
+
+Where no suitable Indigenous Enterprise(s) are identified: 
+
+(d) 
+
+If no suitable Indigenous Enterprise(s) are identified, then normal procurement processes apply 
+according to value. 
+
+Tip: Just prior to entering into any Agreement, it is recommended that AEC personnel conduct another 
+search of Supply Nation to confirm that the business(es) is still considered an Indigenous Enterprise(s). 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 53 of 90
+
+
+--- Page 55 ---
+
+Note: The  AEC may use  Exemption  17  of the CPRs  to contract  with  an Indigenous  Enterprise, 
+regardless of whether the Indigenous Enterprise is registered with Supply Nation. In these instances, the 
+AEC Official must satisfy themselves that the business is at least 50 per cent Indigenous owned and follow 
+Step 2 of the process outlined above.
+
+AEC Procurement and Contract Management Procedures 
+
+Page 54 of 90
+
+
+--- Page 56 ---
+
+Appendix 4 – Value for Money assessment and Evaluation of Supplier 
+Responses 
+
+Value for Money Assessments 
+
+Overview 
+
+The CPRs identify that a thorough consideration of value for money should begin with a clear 
+understanding and statement of the goals and purpose of the procurement. When a business requirement 
+is identified, AEC personnel should consider if a procurement will deliver the best value for money. This 
+consideration should include: 
+
+(a) 
+
+stakeholder input; 
+
+(b) 
+
+the scale and scope of the identified business requirement;  
+
+(c) 
+
+the AEC’s resourcing and budget; 
+
+(d)  obligations and opportunities under other existing Arrangements;  
+
+(e) 
+
+relevant Commonwealth policies; and, 
+
+(f)  
+
+the capacity of the market to competitively respond to a procurement. 
+
+The above items should be used to inform AEC personnel when a procurement represents the best value 
+for money, and in considering the most appropriate procurement approach for the activity. It is important 
+that this consideration is recorded in writing and maintained with procurement documentation in 
+accordance with AEC record keeping requirements. 
+
+Achieving Value for Money 
+
+Achieving Value for Money is the core rule of the Commonwealth Procurement Rules. AEC personnel 
+responsible for a procurement (Delegates) must be satisfied, after reasonable enquiries, that the 
+procurement achieves a value for money outcome. 
+
+Procurements should: 
+
+(a)  encourage competition within the market and be non-discriminatory; 
+
+(b)  use  public  resources  in  an  efficient,  effective,  economical  and  ethical  manner  that  is  not 
+
+inconsistent with the policies of the Commonwealth; 
+
+(c) 
+
+facilitate accountable and transparent decision making;  
+
+(d)  encourage appropriate engagement with risk; and, 
+
+(e)  be commensurate with the scale and scope of the business requirement. 
+
+When conducting a procurement, an AEC Official must consider the relevant financial and non- financial 
+costs and benefits of each submission including, but not limited to; 
+
+(e)  the quality of the goods and services;  
+(f)  fitness for purpose of the proposal; 
+(g)  the potential supplier’s relevant experience and performance history. 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 55 of 90
+
+
+--- Page 57 ---
+
+IMPORTANT NOTE: Value for Money Assessments must be comprehensively documented and 
+recorded. It is important that you demonstrate to the Delegate that the preferred Supplier represents 
+Value for Money for the AEC. 
+
+Scenario: What if only one quote is received? How can I demonstrate Value for Money? 
+
+As outlined above, there are various aspects that should be considered in evaluating Value for 
+Money. 
+
+This includes: the quality of the goods and services; fitness for purpose of the proposal; the 
+Supplier’s experience and performance history. 
+
+When you are evaluating a procurement that has only received one response, you may also wish to 
+consider: benchmarking; looking at pricing/Services in other Commonwealth Agency panel rates; or 
+utilising consultants that have industry expertise. 
+
+Value for Money Assessment is required for all procurement activities, regardless of the value or the 
+procurement approach. A Value for Money Assessment must also be completed when taking any 
+extension option to an existing contract to ensure the Delegate can be satisfied that extending the 
+arrangement continues to deliver a value for money outcome to the AEC. 
+
+Evaluation 
+
+Please note: For all open tender procurements; Limited Tender procurements valued at $80 000 and 
+above; and, procurements valued at $200 000 and above through Existing Arrangements, a 
+formal evaluation plan and evaluation report are required. 
+
+In order to ensure probity is maintained throughout your procurement process, you must ensure that 
+your Evaluation Plan is developed, consulted, and approved by the Delegate as soon as possible in 
+the procurement process. Ideally, this would be completed prior to approaching the market/suppliers, 
+which would also provide the opportunity to confirm that clear evaluation criteria has been included 
+in the approach to supplier. At a minimum, Evaluation Reports must be approved by the Delegate 
+prior to the closing date of responses from potential suppliers. 
+
+Once the response period has passed, Submissions can be accessed and must be evaluated by the 
+evaluation in accordance with the approved Evaluation Plan. 
+
+The evaluation must be commensurate with the scale and scope of the procurement, and be sufficient 
+enough to satisfy the Delegate that Value for Money can be demonstrated. 
+
+Tip: A single AEC Official can evaluate the Submissions for procurements valued under $10 000.
+
+AEC Procurement and Contract Management Procedures 
+
+Page 56 of 90
+
+
+--- Page 58 ---
+
+Appendix 5 – My Procurement, Record Keeping and AusTender 
+Reporting 
+
+My Procurement (including My Contracts) 
+
+Overview 
+
+My Procurement and My Contracts are central access modules located within the AEC Procure-to-pay 
+System: My Procurement (My procurement). They support best practice procurement processes and 
+contract management in the AEC. 
+
+My Procurement must be used by AEC Officials to record all procurement activities, with the exception of 
+low value procurements being paid for with an AEC Corporate Credit Card, from the initial procurement 
+planning stage through to executing the final Agreement.  
+
+Once all stages have been completed in My Procurement, a contract will be created in My Contracts.     
+
+My Contracts must  be  updated  throughout  the  life  of  the  Agreement,  including to  record  any 
+variations or extensions. 
+
+Access 
+
+My Procurement and My Contracts can be accessed at: 
+
+User Guide 
+
+A   step-by-step   guide   on   how   to   use   My Procurement is available: [Link to be inserted]. 
+
+Record Keeping and Reporting 
+
+Overview 
+
+AEC personnel are responsible for ensuring that every procurement process is open and transparent, and 
+that  decisions  can  be  publicly  justified.  This  section  details  the  AEC’s  record  keeping  and 
+procurement reporting requirements, and should be used as a guide to AEC personnel to inform them of 
+their responsibilities when conducting a procurement. 
+
+AEC personnel should contact Commercial Law and Procurement for further advice on their individual 
+reporting obligations. Include reporting on Austender. 
+
+Record Keeping 
+
+AEC personnel  must use  appropriate  templates,  and  follow AEC  Recordkeeping policy.  As an 
+example, once a procurement process is concluded, AEC personnel must file all documents (executed 
+Agreements, invoices etc) on a corporate file to provide a record of procurement activity and how the 
+process has been conducted. 
+
+In order to ensure we meet our obligations under the CPR’s (Section 7.2-7.4) documentation should 
+provide accurate information on 
+
+(a) 
+
+the requirement for the procurement; 
+
+(b) 
+
+the procurement process that was followed; 
+
+(c) 
+
+any business decisions that influenced the selection of the procurement process (e.g. why a panel 
+was approached in place of an open tender procurement); 
+
+(d)  how value of money was considered and achieved; 
+
+(e) 
+
+relevant approvals; and 
+
+(f) 
+
+relevant decisions and the basis of those decisions. 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 57 of 90 
+
+s22
+
+
+--- Page 59 ---
+
+You must ensure that appropriate security classifications are listed on all documentation. It is anticipated 
+that most procurement and contractual documentation should be classified as For Official Use Only given 
+the documents will likely include commercially sensitive information. 
+
+Please Note: My Procurement is not a record management system and you are required to maintain 
+records and appropriate files. 
+
+AEC personnel should contact AEC records management area for assistance, if required. 
+
+AusTender 
+
+AusTender is the Commonwealths procurement information system. It is the central point for mandatory 
+publication of all publicly available Commonwealth Government (AEC) business opportunities for: 
+
+(a)  publishing of all publicly available Approaches To Market, Annual Procurement Plans, panel 
+
+arrangements and Agreements awarded; 
+
+(b)  electronic distribution of documentation and addenda for Approaches To Market; and 
+
+(c) 
+
+a secure lodgement for Submissions. 
+
+AusTender provides the following benefits to suppliers: 
+
+(a)  one central point to find publicly available business opportunities and planned procurements 
+
+advertised by the Commonwealth; 
+
+(b)  automatic notification of business opportunities;  
+
+(c) 
+
+automatic notification of addenda; 
+
+(d)  electronic lodgement of Submissions into a secure electronic tender box;  
+
+(e)  access 24 hours a day 7 days a week; 
+
+(f) 
+
+reduced costs, by eliminating the need to print, bind and courier Submissions; and  
+
+(g)  online access to information about panel arrangements and Agreements awarded.  
+
+Reporting 
+
+The Australian Government is required to make its procurement activities visible and transparent to the 
+public. The AEC has the following obligations in regards to the reporting of Agreements: 
+
+(a)  all  Agreements  with  a  value  of  $10  000  or  more  must  be  published  on AusTender within 42 
+
+days of entering into the Agreement; 
+
+(b)  all  amendments  (including  extensions)  to  Agreements  of  $10 000  must  be published on 
+
+AusTender within 42 days; 
+
+(c) 
+
+all  Agreements  involving  consultancy  services  valued  at  $10  000  or  above must be published in 
+the Annual Report; 
+
+(d)  Agreements valued at $100 000 or above must be published twice yearly to meet the Senate Order 
+
+on Departmental Agency Contracts; 
+
+(e)  all Agreements involving a limited tender approach above $80 000 must include the exemption or 
+
+condition from the CPR’s that supported the procurement approach; 
+
+(f) 
+
+the AEC must publish and regularly update an Annual Procurement Plan (APP) on AusTender of 
+significant planned procurements expecting to proceed to an open Approach to Market; and 
+
+(g) 
+
+in accordance with the IPP, publish every six months:  
+
+(i) 
+
+subcontracts with Indigenous Enterprises; 
+
+(ii) 
+
+agreements with Indigenous Enterprises valued at less than $10 000;  
+
+(iii)  purchases from Indigenous Enterprises using a credit card; and 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 58 of 90
+
+
+--- Page 60 ---
+
+(iv)  multi-year Agreements with Indigenous Enterprises.
+
+AEC Procurement and Contract Management Procedures 
+
+Page 59 of 90
+
+
+--- Page 61 ---
+
+Appendix 6 – Responsibilities of AEC Financial Delegates 
+
+Overview 
+
+AEC personnel must not enter into Agreements unless the appropriate approvals and authorisations have 
+been given in accordance with the PGPA Act and Rules. 
+
+AEC personnel must ensure that the following powers under the PGPA Act are exercised by AEC 
+personnel with the correct financial delegation. These are the powers to: 
+
+(a) 
+
+commit public money (s 23(3) PGPA Act) and then record that approval under PGPA Rule 
+
+18, including the commitment of future year expenditure if required; 
+
+(b)  enter into and vary an arrangement (s 23(1) PGPA Act), such as a contract; and 
+
+(c) 
+
+grant an indemnity, guarantee or warranty (s 60 PGPA Act). 
+
+Responsibilities of all AEC Financial Delegates 
+
+AEC Financial Delegates must only purport to exercise a power in accordance with:  
+
+(a) 
+
+their  Financial Delegation; 
+
+(b) 
+
+the AEC’s AAIs; and 
+
+(c) 
+
+lawful direction given from time to time in relation to the exercise of that power. 
+
+Financial Delegations Schedule 
+
+Only a select number of AEC personnel hold a financial delegation, as set out in the  Financial Delegations 
+Schedule administered by Finance and Business Services Branch. 
+
+s23(3) power to commit public money 
+
+In exercising this power, the AEC Financial Delegates must: 
+
+(a)     take all reasonable steps (including by seeking advice from specialists) to ensure that they are 
+
+sufficiently and appropriately informed  on  the  matters  that  must  be  considered  when exercising  
+their   delegation; 
+
+(b)     be satisfied that sufficient funds are available within the relevant budget to support all proposed 
+
+payments under the Agreement, costings are sound accurate; 
+
+(c)     be satisfied that the commitment of relevant money would be a proper use and management of 
+
+public resources (ie. efficient, effective, economical and ethical); 
+
+(d)     be satisfied that the benefits of entering into the arrangement outweigh the risk of locking away 
+future budget flexibility if a commitment of relevant money spans multiple financial years); 
+
+(e)     perform functions and discharge duties with the degree of care and diligence that a reasonable 
+
+person would exercise; 
+
+(f)      perform functions and discharge duties honestly, in good faith and for a proper purpose; 
+
+(g)     not improperly use their position; 
+
+(h)     not gain, or seek to gain, a benefit or an advantage for themselves or any other person; 
+
+(i)      not cause, or seek to cause, detriment to the entity, the Commonwealth or any other person;  
+
+(j)      disclose details of any material personal interest that relates to the commitment of relevant money; 
+
+(k)     make reasonable inquiries to ensure this procurement activity meets all required procurement 
+
+obligations; 
+
+(l)      consider a supplier’s political activity (if any) to determine if there are any risks to the AEC’s actual or 
+perceived political neutrality associated with the supplier’s political activities, and if so, whether those 
+risks can be mitigated; and 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 60 of 90
+
+
+--- Page 62 ---
+
+(m)    record the approval in writing as soon as practicable after giving it. 
+
+Further guidance for AEC Financial Delegates approving commitments of relevant money is available in 
+RMG-400. 
+
+s23(1) power to enter into and vary arrangements 
+
+AEC Financial Delegates must not exercise his or her delegation to enter into an arrangement unless: 
+
+(a)     the arrangement has been approved by the AEC Financial Delegate under Section 23(3) of the PGPA 
+
+Act; and 
+
+(b)     the value of the arrangement does not exceed the amount approved. 
+
+s60 power to grant an indemnity, guarantee or warranty 
+
+In exercising his or her powers to grant a contingent liability, AEC Financial Delegates must first seek legal 
+advice from CLP. Further guidance on this issue is provided in RMG-414. 
+
+Process 
+
+Approval for commitments valued under $10 000 being paid for on AEC Corporate Credit 
+Card 
+
+Approvals for procurements valued under $10 000 that are being paid for on an AEC Corporate Credit 
+must be obtained in writing. A template for seeking approvals for procurements valued under $10 000 is 
+available at Procurement procedures and templates. 
+
+Where the arrangement requires the grant of an indemnity, guarantee or warranty by the AEC, legal 
+advice from CLP must be obtained. The approval may be obtained from the AEC Financial Delegate in 
+writing (including by email). Once the arrangement is entered into, records must be provided to CLP. 
+
+Approval for commitments all values 
+
+For all procurements no matter the value (excluding those valued under $10,000 and being paid by 
+AEC Corporate Credit Card), approvals must be obtained through My Procurement. 
+
+Once an AEC Official submits an Approach to Market in My Procurement, CLP will review and workflow to 
+the AEC Financial Delegate nominated by the requesting AEC Official. The AEC Financial Delegate will 
+receive an automated email to consider the request for approval and a link to the Approach to Market in 
+My Procurement. 
+
+Where an arrangement requires the grant of an indemnity, guarantee or warranty by the AEC, this must be 
+stated in the Approach to Market in My Procurement and legal advice from CLP must be obtained. Where 
+it is so stated, the Approach to Market in My Procurement will workflow to the AEC Financial Delegate 
+nominated by the requesting AEC Official to grant the indemnity, guarantee or warranty to consider the 
+request for approval. The AEC Financial Delegate will receive an automated email to consider the request 
+for approval and a link to the Approach to Market in My Procurement. 
+
+Entry into an arrangement of any value 
+
+To enter into an arrangement usually means signing an agreement. For arrangements where a written 
+agreement is not required (usually low risk arrangements valued under $10 000), payment or confirmation 
+to proceed (whether written or verbal) may suffice. 
+
+To maintain transparency in the exercise of powers, it is important to have written evidence of an 
+arrangement, rather than rely on verbal confirmation. 
+
+To reduce the AEC’s exposure to fraud, the separation of duties is important. It is therefore best practice 
+for the powers to approve and enter to be exercised by different AEC Financial Delegates.
+
+AEC Procurement and Contract Management Procedures 
+
+Page 61 of 90
+
+
+--- Page 63 ---
+
+Appendix 7 – Confidentiality and Unfair Contract Terms 
+
+Confidentiality 
+
+Overview 
+
+The Commonwealth’s confidentiality interests must be appropriately protected and managed in accordance 
+with any relevant legislation, the Commonwealth Procurement Rules, relevant guidance  published  by  the 
+Department of Finance, and confidentiality provisions in an Agreement. 
+
+Confidentiality throughout the procurement process 
+
+Planning 
+
+When planning a procurement, AEC personnel should consider the nature of the procurement and whether 
+it is likely to raise confidentiality issues for the Commonwealth. Such issues can arise in a number of ways 
+including where: 
+
+(a)     potential Suppliers require access to confidential information in order to lodge a Submission;  
+
+(b)      Suppliers  require  access  to  confidential  information  in  order  to  fulfil  the  requirements  of  the 
+
+Agreement; or 
+
+(c)     the information generated as a result of performing the Services is confidential. 
+
+Approaching the Market 
+
+Request  documentation,  including  any  draft  Agreement,  should  reflect  the  AEC’s  requirements  for 
+confidentiality as assessed during the procurement planning process. 
+
+Evaluating 
+
+AEC personnel must ensure all Submissions are treated as confidential for the duration of the procurement 
+process and after the award of the Agreement. Where appropriate, ensure assessments include the ability 
+to meet confidentiality obligations. 
+
+Awarding an Agreement 
+
+There are two broad types of confidentiality clauses used in Agreements: 
+
+(a)     general confidentiality clauses such as legislative obligations under the Privacy Act 1988 or how to 
+
+deal with confidential information between the parties; and 
+
+(b)     specific confidentiality clauses which protect the confidentiality of all or part of the Agreement itself 
+
+or information obtained or generated in performing the Services. 
+
+The  need  to  maintain  the  confidentiality  of  information  should  always  be  balanced  against  the  public 
+accountability and transparency requirements of the Australian Government. 
+
+If a Supplier has requested that any part/s of an agreement be treated as confidential, the AEC must assess 
+the request against the criteria that comprise the Department of Finance’s ‘Confidentiality  
+
+Test’. This test includes four (4) criteria that all must be met for a Supplier’s commercial information to be 
+considered confidential by the AEC.  
+
+Suppliers  will  often  request  that  information  be  kept  confidential  even  where  it  is  unlikely  to  satisfy  the 
+Confidentiality  Test  (such  as  pricing  information).  It  is  strongly  recommended  that  you  not  accept  such 
+requests, or that you negotiate with a Supplier to amend their request so that it satisfies the Confidentiality 
+Test. If you decide to accept such a request, you must record the reasons behind your decision, including 
+the justification of how the request meets each of the four criteria in the Confidentiality Test.  
+
+Confidentiality Test Criteria are outlined below:  
+
+AEC Procurement and Contract Management Procedures 
+
+Page 62 of 90
+
+
+--- Page 64 ---
+
+
+
+
+--- Page 65 ---
+
+
+
+
+--- Page 66 ---
+
+Unfair Contract Terms 
+
+Where the AEC is carrying on a business (for example, providing fee for service elections) and enters into a 
+standard form contract with a small business (i.e. a business with less than 20 employees) where: 
+
+(a) 
+
+(for contracts for 12 months or shorter) the value of the contract is less than $300 000; or 
+
+(b) 
+
+(for contracts over 12 months) the value of the contract is less than $1 million, 
+
+any provision in that contract that is unfair can be declared by a court to be void, as if that provision had 
+never existed. 
+
+An unfair contract term is a term in a standard form contract that: 
+
+(a)     causes a significant imbalance between the parties, 
+
+(b)     is not reasonably necessary to protect the business’s interests, and 
+
+(c)     causes detriment to the small business, in the context of the entirety of the contract. 
+
+Action 
+
+Where the AEC is carrying on a business and enters into a contract with a small business, make sure 
+that the wording of the template that your contract uses has been reviewed by CLP. 
+
+Even where the AEC is not carrying on a business, always make sure that the contract you use is: 
+
+(a)  a standard Commonwealth or AEC template contract provided by CLP; or 
+
+(b)  where the supplier’s terms and conditions are used, that legal advice on the terms and conditions 
+
+have been obtained from CLP. 
+
+If you have any questions or concerns, please do not hesitate to obtain advice from CLP. 
+
+Complaints and Disputes 
+
+Overview 
+
+Paragraph 6.8 of the CPRs require that: 
+
+If a complaint about procurement is received, relevant entities must apply timely, equitable and non-
+discriminatory complaint-handling procedures, including providing acknowledgement soon after the 
+complaint has been received. Relevant entities should aim to manage the complaint process internally, 
+when possible, through communication and conciliation. 
+
+Complaints 
+
+Any general complaints that arise during a procurement process, for example complaints about an AEC 
+Official’s  conduct,  must  be  managed  in  accordance  with  the AEC  Complaints  Management Framework. 
+
+Disputes 
+
+If a Respondent disputes the conduct of a procurement, or its outcome, the disputed matter should be 
+made in writing to the AEC Official nominated in the procurement documentation. CLP must be immediately 
+notified of any likely or actual dispute, so that assistance can be provided. 
+
+The AEC will at first instance respond to the Respondent, in writing, and seek to resolve the disputed matter 
+between  the  parties  through  communication.  If  the  dispute  cannot  be  resolved  within  30 
+
+Business Days, then the matter will be escalated to the Chief Legal Officer (CLO) for consideration and 
+internal legal review by the CLO or his delegate (if required). 
+
+Should an internal legal review be required, at the conclusion of the review the Respondent will be provided 
+with a written decision, including reasons for the decision. 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 65 of 90
+
+
+--- Page 67 ---
+
+Despite the above process, a Respondent may, at any time, seek external review of the dispute matter. 
+Depending on the nature of the dispute, the dispute may be externally reviewed by the: 
+
+(a)     Commonwealth Ombudsman; 
+
+(b)     Procurement Coordinator, Department of Finance; or 
+
+(c)     court system.
+
+AEC Procurement and Contract Management Procedures 
+
+Page 66 of 90
+
+
+--- Page 68 ---
+
+Appendix 8 – Ethics and Probity 
+Overview 
+
+Probity is the evidence of ethical behaviour, and can be defined as complete and confirmed integrity, 
+uprightness and honesty in a particular process. 
+
+Probity   covers   the   core   values   for   achieving   value   for   money   and   non-discrimination   in 
+Commonwealth procurement, and must be integrated into every procurement process. 
+
+Principles 
+The principles underpinning ethics and probity in Commonwealth Procurement are: 
+
+(a)     Officials must act ethically, in accordance with the APS Values and Code of Conduct, as set out 
+
+in the Public Service Act 1999, at all times in undertaking any procurement. 
+
+(b)     Officials must not make improper use of their position. 
+
+(c)     Officials should avoid placing themselves in a position where there is the potential for claims of 
+
+bias. 
+
+(d)     Officials must not accept hospitality, gifts or benefits from any potential suppliers. 
+
+(e)     Agencies must not seek to benefit from supplier practices that may be dishonest, unethical or 
+
+unsafe. 
+
+(f) 
+
+All tenderers must be treated equitably.  This means that all tenderers must be treated fairly - it 
+does not necessarily mean that they are treated equally. 
+
+(g)     Conflicts of interest must be managed appropriately. 
+
+(h)     Probity   and   conflict   of   interest   requirements   should   be   applied   with   appropriate   and 
+
+proportionate measures informed by sound risk management principles. 
+
+(i)      Value for money outcomes are best served by effective probity measures that do not exclude 
+
+suppliers from consideration for inconsequential reasons. 
+
+(j)      Confidential information must be treated appropriately during and after a procurement process. 
+
+(k)     External  probity  specialists  should  only  be  appointed  where  justified  by  the  nature  of  the 
+
+procurement. 
+
+Applying probity in procurement 
+
+Probity provides a level of assurance to AEC Financial Delegates, Suppliers and the Commonwealth that 
+a procurement was conducted in a manner that is fair, equitable and defensible. 
+
+Fairness and impartiality 
+
+As a minimum, AEC personnel must ensure that: 
+
+(a)     each  Potential  Supplier  has  equal  access  to  the  same  material,  including  any  information 
+
+shared through communications with other Potential Suppliers; 
+
+(b)     any  market  research  activities  or  discussions  do  not  provide  an  advantage  to  Potential 
+
+Supplier; 
+
+(c)     the  Request  Documentation  clearly  details  the  conditions  for  participation  and  evaluation 
+
+criteria, and is equally available to all Potential Suppliers; 
+
+(d)     AEC personnel involved in the evaluation are not responsible for approving the expenditure; 
+
+(e)     potential tenderers are evaluated on their capability of obtaining, if selected as the preferred 
+
+tenderer, any relevant Australian Standards, certifications, licences or professional accreditations, 
+not whether they have the certification at the time of tendering, 
+
+(f)     site visits, where relevant, are offered to all Potential Suppliers and should be of similar duration; 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 67 of 90
+
+
+--- Page 69 ---
+
+(g)    Request Documentation directs Potential Suppliers to a single nominated AEC Official to respond 
+
+to queries; 
+
+(h)     all unnecessary contact with Potential Suppliers is avoided; and 
+
+(i)      there is no Conflict of Interest or bias towards a particular Respondent. 
+
+Competitive process 
+
+The procurement method selected should aim to ensure that the cost of responding does not deter 
+competent Potential Suppliers, and achieves value for money for the Commonwealth. 
+
+Reasonable timeframes should be set for any procurement process to enable Potential Suppliers to 
+confidently allocate resources to their Submissions. 
+
+Probity Briefing 
+
+A Probity Advisor is required to be assigned to the following procurements; 
+
+(a)  Procurements from Existing Arrangements valued at or above $200 000*. 
+
+(b)  Open Tender procurements of any value. 
+
+(c) 
+
+Limited Tender procurements above the procurement threshold ($80 000). 
+
+*Note that CLP will determine for each procurement if a Probity Advisor is required.  
+
+The Probity Advisor assigned to the procurement activity will provide a probity briefing to the Evaluation 
+Team. This briefing should ideally occur before the Request for Quote/Tender (RFQ/RFT) is issued to the 
+market, but must occur no later than before the closing date. The draft Evaluation Plan should be 
+provided to the Probity Advisor, with the expectation that the Evaluation Plan be finalised following the 
+probity briefing. 
+
+Conflicts of interest 
+
+AEC personnel and external advisers should avoid any conduct that has the potential to increase the risk 
+of integrity issues being raised as a matter of public concern. 
+
+AEC personnel must declare whether they have any Conflict of Interest at the commencement of a 
+procurement process, and update it should circumstances change throughout the entire procurement 
+process, particularly as Respondents are known later in the process. Any Conflict of Interest should be 
+reported to the relevant AEC Financial Delegate for direction on how it should be managed or resolved. 
+
+AEC personnel should use the Conflict of Interest declaration for this purpose; external advisers should 
+use the conflict of interest and confidentiality undertaking attached to the Evaluation and Probity Plan. 
+
+Gifts and hospitality 
+
+Any AEC Official involved in a procurement process must not seek or accept any gifts, hospitality or any 
+other benefits, including offers of employment, from any Potential Supplier. The AEC Financial Delegate 
+or chair of an evaluation team must be informed immediately if this occurs. 
+
+Security and confidentiality 
+
+AEC personnel must put measures in place to manage the security and confidentiality of all 
+documentation related to a procurement process in accordance with the Protective Security Policy 
+Framework. 
+
+Communications 
+
+If queries or requests for clarification are received from Potential Suppliers for further information or a 
+modification to the Request Documentation is required, all Potential Suppliers must be notified at the 
+same time. The notification must be provided in the same method as the original Request 
+Documentation: 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 68 of 90
+
+
+--- Page 70 ---
+
+(a)     AusTender - the Addendum template should be drafted and submitted to CLP for review and 
+
+publishing; or 
+
+(b)     Email – all Potential Suppliers must be blind copied. 
+
+Where any question or request is received, this must be included and ‘de-identified’ in the response to all 
+Potential Suppliers. 
+
+AEC personnel may need to consider that an extension to the Submission deadline may be necessary 
+depending on any modifications made to Request Documentation. 
+
+Industry briefings 
+
+Depending on the value, complexity, risk and types of Services being procured, an industry briefing can 
+provide an opportunity for Potential Suppliers to learn more about the AEC’s requirements and for 
+Potential Suppliers to ask questions. AEC personnel should provide consistent information when briefing 
+Potential Suppliers, and any questions and answers at briefing sessions should be communicated to all 
+Potential Suppliers in writing following the industry briefing. 
+
+Requests for extensions 
+
+Requests for extensions can be a difficult issue, primarily due to the deadlines in maintaining the 
+integrity and probity of the procurement process. To ensure fairness and impartiality to all Potential 
+Suppliers, if a request for extension is accepted then all Potential Suppliers need to receive the same 
+extension. 
+
+Decisions on extensions need to be made with due care and consideration as a refused requires may 
+exclude the best Respondent or place a Respondent at a disadvantage. Extensions cannot be given 
+once the deadline for Submissions has passed.  
+
+Receipt and opening of Submissions 
+
+Submissions must not be opened until: 
+
+(a)     the deadline for Submission has passed;  
+
+(b)     the evaluation plan is completed; and 
+
+(c)     all AEC personnel have declared any Conflicts of Interest. 
+
+Late Submissions 
+
+Submissions received after the deadline must not be accepted unless due to mishandling by the AEC. 
+Any late Submissions should be returned unopened, unless they must be opened to determine the return 
+address. 
+
+Shortlisting 
+
+Where an AEC Official intends to shortlist Submissions received at any stage of the evaluation, it is 
+imperative that this process be clearly outlined in the Request Documentation and evaluation plan. 
+
+The reasons for excluding a Submission from further evaluation must be defensible, properly 
+documented, and agreed by the Delegate. The final Evaluation Report must include reasons for 
+shortlisting. 
+
+Interviews and presentations 
+
+The AEC may request Respondents to attend an interview or to provide a presentation on their 
+Submission. If only shortlisted Respondents will be invited, it is best practice that this is specified in the 
+Request Documentation. 
+
+All Respondents will need to be given the same amount of notice to prepare, and all 
+presentations/interviews should be of similar duration. All Respondents must be advised that while a 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 69 of 90
+
+
+--- Page 71 ---
+
+presentation/ interview is an opportunity to highlight aspects of their Submission, it is not an opportunity 
+to revise or alter their Submission. 
+
+Clarification requests 
+
+After the initial analysis of Submissions, AEC personnel may need to seek clarification from 
+Respondents on errors of form in a submission, such as technical omissions, ambiguities and 
+anomalies. Where clarification is required, all communication with Respondents must be undertaken in 
+writing. It is integral that requests for clarification do not allow a Respondent to revise or modify their 
+Submission in any substantive way.  
+
+Compliance Statements 
+
+Submissions must state whether it complies with each clause of the Request Documentation and 
+
+Contract for the AEC to consider during evaluation of the level of risk. 
+
+As a general principle, the party best placed to manage risks should bear those risks, that is, the AEC 
+should generally not accept risks which a Supplier is better placed to manage. Similarly, where the AEC is 
+best-placed to manage a particular risk, it should not seek to inappropriately transfer that risk to a 
+Supplier. 
+
+Before accepting a non-compliance, AEC personnel must first seek the advice from CLP. 
+
+Conduct financial viability assessment 
+
+Financial viability assessments are undertaken on all Potential Tenderers that have submitted a 
+response to an approach to market on AusTender. However, depending on the value, complexity, risk 
+and types of Services being procured, a full financial viability assessment may likely need to be 
+arrangement by the Tender Evaluation Team through the Financial Services Section. This would assist 
+in reducing the risk that a Respondent may not be able to: 
+
+(a)     deliver the Services as specified in the Agreement; or 
+
+(b)     fulfil any guarantees or warranties provided for in the Agreement. 
+
+Negotiations 
+
+In some instances, it may be appropriate for AEC personnel to negotiate with the Supplier/s to finalise the 
+details of their offer and the resultant Agreement. 
+
+Generally, negotiations will focus on the identified areas of non-compliance with the draft Agreement. AEC 
+personnel should be mindful that the scope of requirements should not be part of negotiations, and the 
+negotiation stage is not an opportunity for the Suppliers to substantially amend their submission. 
+
+Develop a negotiation strategy 
+
+Negotiations are more likely to be successful when planning includes: 
+
+(a)     identification of the Agreement’s terms and conditions that will be subject to negotiation;  
+
+(b)     establishing the roles and responsibilities of the negotiating team; 
+
+(c)     identifying any problems or barriers which may affect the Supplier performing its role, as well as 
+
+opportunities, and developing an approach to address these; 
+
+(d)     defining the objectives and constraints of the negotiation; and 
+
+(e)     involving  senior  management  in  setting  the  policy parameters  and communicating  progress 
+
+and/or changes in circumstances to them. 
+
+Formal  negotiation  protocols  should  be  established  where  AEC  Officials  are  negotiating  with 
+shortlisted Respondents prior to selecting the Supplier, or where negotiations are being conducted with a 
+number of Respondents in order to establish a panel arrangement. 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 70 of 90
+
+
+--- Page 72 ---
+
+Assign roles and responsibilities 
+
+AEC personnel must ensure that the parties involved understand their responsibilities and the other 
+various tasks required to negotiate and formalise the Agreement. 
+
+When   negotiating   Agreements   identified   as   complex,   high   value   and/or   high   risk,   a   CLP 
+
+representative must be involved in the negotiation process from the outset. An AEC Official can be 
+appointed lead negotiator. 
+
+The negotiation team should have an understanding of the: 
+
+(a)     the AEC’s requirements; 
+
+(b)     basis on which the Supplier/s has been selected; 
+
+(c)     background to why certain terms and conditions are subject to negotiation (often these are as a 
+
+result of the evaluation of submissions); and 
+
+(d)     include the Contract Manager details. 
+
+Conduct negotiations 
+
+It is important that negotiations are conducted in a professional and structured manner. Addressing the 
+following issues will assist in achieving this objective: 
+
+(a)     agreeing the location and agenda for each negotiating session; 
+
+(b)  obtaining sign-off on the negotiation arrangements with the Probity Adviser; 
+
+(c) 
+
+establishing  timeframes  in  which  negotiations  of  individual  issues,  as  well  as  negotiations 
+overall, will be conducted; 
+
+(d)  establishing any interrelationships between individual issues/provisions that are subject to 
+
+negotiation to ensure these are taken into account during negotiations. For example, there will 
+generally be a relationship between service levels and pricing; 
+
+(e) 
+
+(f) 
+
+focussing on achieving the objective sought over the life of the Agreement, rather than on short term 
+gains; 
+
+keeping issues that are not negotiable to a minimum and being prepared to trade-off less important 
+requirements to achieve outcomes that are central to the AEC’s objectives; and 
+
+(g)     assigning responsibility for taking formal minutes of the negotiations and ensuring minutes are 
+
+circulated and agreed within specified timeframes. 
+
+During negotiations AEC personnel must avoid any suggestion that a Supplier/s is certain to be awarded 
+the Agreement because this could imply a commitment by the AEC, and can undermine the 
+effectiveness of the negotiations. 
+
+Debriefs 
+
+Debriefs must be conducted individually and in a professional manner and must focus on the 
+Respondent’s performance against the evaluation criteria in the Request Documentation. It is important 
+not to address any matters not covered by the evaluation criteria. 
+
+AEC personnel should plan all debriefs carefully. The confidence of the Respondents in the procurement 
+process is likely to increase if the debriefing demonstrates that the procurement decision was the result 
+of a fair and considered decision-making process. 
+
+Topics covered in debriefings may include: 
+
+(a)     project methodology and/or design issues; 
+
+(b)     organisation, management and administration;  
+
+AEC Procurement and Contract Management Procedures 
+
+Page 71 of 90
+
+
+--- Page 73 ---
+
+(c)     price; 
+
+(d)     nominated personnel including the experience and quality of operational, management and other 
+
+personnel; 
+
+(e)     experience of the Respondent generally;  
+
+(f)      work schedule issues; 
+
+(g)     vagueness or unacceptability on delivery dates if important to the decision; 
+
+(h)     facilities and equipment if inappropriate, inefficient or out-dated, or if they would increase costs or 
+
+affect timeframes; 
+
+(i)      subcontracting the arrangements where inappropriate or inefficient, including where the proposed 
+
+subcontractor lacked necessary qualifications or experience, or if a proper control system was 
+lacking; 
+
+(j)      industrial relations and/or work health and safety issues; 
+
+(k)     failure to comply with government policies or requirements; 
+
+(l)      quality management issues (such as inadequate quality assurance certification or other control 
+
+methods, or systems people and training); and 
+
+(m)    support, warranty or after sales service issues. 
+
+In all cases, AEC personnel should inform Respondents that the debrief will only include discussion of 
+their Submission. AEC personnel must not discuss other Respondents. 
+
+Probity Advisers 
+
+AEC personnel can best manage probity risks by conducting a risk assessment in the planning stage of 
+the procurement. 
+
+A Probity Adviser can provide advice as requested before and during the course of the procurement 
+process.  Appropriate  probity  advice  will  ensure  that  the  procurement  process  complies  with 
+legislation,   policies,   these   Procedures   and   the   evaluation   process   described   in   Request 
+Documentation and evaluation plan. 
+
+AEC personnel must appoint a Probity Adviser for all open tender procurements, and CLP will determine 
+if a Probity Adviser is required for Panel or Limited Tender procurements with a value over $200 000. 
+CLP has capacity to provide probity advice, and in certain circumstances CLP may recommend that a 
+Probity Adviser external to the AEC be appointed.
+
+AEC Procurement and Contract Management Procedures 
+
+Page 72 of 90
+
+
+--- Page 74 ---
+
+Appendix 9 – Political Neutrality  
+
+Political Neutrality 
+
+Overview 
+
+The AEC operates in a politically sensitive environment. Any person engaged by the AEC (inclusive of 
+Suppliers) who is, and is seen to be, active in political affairs, and intends to publicly carry on this activity, 
+may  compromise  the  strict  political  neutrality  of  the  AEC.  The  AEC’s  Political  Neutrality Policy 
+establishes the principles that underpin the political neutrality requirements. 
+
+Managing political neutrality for procurements 
+
+AEC personnel must ensure that: 
+
+(a)  Suppliers and Potential Suppliers complete political neutrality declarations within the AEC 
+
+procurement templates; and/or 
+
+(b)  when  using  an  Existing  Arrangement,  the  Agreement  incorporates  the  AEC’s  political neutrality 
+
+requirements. 
+
+AEC Financial Delegates must: 
+
+(c) 
+
+consider a Supplier’s political activity (if any) to determine if there are any risks associated with the 
+Supplier’s political activities before providing any approval; and  
+
+(d) 
+
+if risks are identified, whether those risks can be mitigated. 
+
+Funding disclosure checks 
+
+All new procurements entered into My Procurement will have the Supplier’s (including any approved 
+subcontractors) ‘political activity’ for the last three (3) financial years searched using existing Funding and 
+Disclosure Branch’s (FAD) systems. 
+
+The results of this search will be identified in the automated email to the AEC Financial Delegate following 
+approval of the Spending Proposal by CLP, with detail of any identified activities attached to the Approach 
+to Market in My Procurement. If any political activities are identified, CLP offers the following matters for 
+consideration by the AEC Financial Delegate: 
+
+(a)     Does  the  Supplier’s  political  activity  conflict  with  their  ability  to  provide  the  Services  to  the AEC? 
+
+(b)     Is  there  a  real  or  perceived  risk  (to  the  AEC’s  political  neutrality)  if  we  proceeded  with  this Supplier 
+
+and can this risk be mitigated by implementing control measures? 
+
+(c)     Should  the  approval  be  granted  on  a  conditional  basis  (ie.  the  Supplier  must  implement 
+
+identified control measures)? 
+
+CLP will not request political activity searches if: 
+
+(a)     the Supplier is a Commonwealth agency (eg. Services Australia);  
+
+(b)     the spending value is less than $10 000; or 
+
+(c)     a search for that legal entity has already been completed in the last 6 months. 
+
+Managing political neutrality for contracting 
+
+The AEC contracting templates include provisions to encompass AEC political neutrality requirements of 
+Suppliers. AEC personnel may require Deed Polls (that incorporate these requirements) to be completed by 
+specific Service Provider personnel in some circumstances. This may include 
+
+(a)  where the AEC requires Service Provider’s Advisors, Specified Personnel  or other third parties to 
+
+provide specific undertakings; 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 73 of 90
+
+
+--- Page 75 ---
+
+(b)  where a party discloses Confidential Information; 
+
+(c)  where Personnel of the Service Provider is to be given Personal Information; or, 
+
+(d)  where  the  AEC  requires  political  neutrality  undertakings  from  a  specific  Service  Provider 
+
+Personnel. 
+
+Signed Deed Polls must be attached to the relevant Approach to Market in My Procurement. 
+
+Before any Agreement is extended or varied, a funding disclosure check (if the check is older than 6 
+months) will be conducted using existing FAD systems as part of the value for money assessment. 
+
+Appendix 10 – Consultancies 
+
+Overview 
+
+The AEC is required to report if an Agreement has been entered into for the provision of consultancy 
+services on both AusTender and the AEC’s Annual Report. 
+
+Consultancy services are required for one of the following reasons: 
+
+(a)     the need for independent research or assessment; 
+
+(b)     the need for specialised or professional skills, or 
+
+(c)     the skills are currently unavailable within the AEC. 
+
+Process 
+
+When determining whether a procurement is a consultancy AEC personnel should consider whether the: 
+
+(a)     Services involve the development of an intellectual output that assists with decision making (eg. 
+outputs might include the expression of an original concept, research, findings, analysis, advice 
+and/or recommendations); 
+
+(b)     output will reflect the independent views of the supplier (eg. if the output is being produced for the 
+AEC it is likely to be a consultancy and if it is being produced on behalf of the AEC it is not likely to 
+be a consultancy); and 
+
+(c)     output  is  the  sole  or  majority  element  of  the  Agreement,  in  terms  of  relative  value  and 
+
+importance. 
+
+If all of these criteria are satisfied, then the Agreement must be reported as a consultancy. 
+
+Some Agreements will exhibit different outputs which are consistent with both consultancy and non- 
+consultancy services. In these cases AEC personnel should consider the value and relative importance of 
+the consultancy when deciding whether to report the Agreement as a consultancy. 
+
+When raising a Procurement Plan in My Procurement AEC personnel must identify whether the planned 
+procurement is a consultancy or not and the reason. 
+
+Flowchart 
+
+The  following  flowchart  may  assist  AEC  Officials  to  identify  whether  their  procurement  is  a 
+consultancy:
+
+AEC Procurement and Contract Management Procedures 
+
+Page 74 of 90
+
+
+--- Page 76 ---
+
+
+
+
+--- Page 77 ---
+
+
+
+
+--- Page 78 ---
+
+Appendix 11 – Contingent Liabilities 
+
+Overview 
+
+This Appendix provides guidance on entering into an arrangement that requires the AEC to grant an 
+indemnity, guarantee, or warranty. This is generally referred to as entering into an arrangement that gives 
+rise to contingent liabilities. 
+
+What are contingent liabilities? 
+
+Contingent liabilities are legally enforceable obligations that give rise to a liability on the occurrence of a 
+future event. Once a party enters into an arrangement that obliges that party to take on contingent liabilities, 
+the party has undertaken to accept obligations that ordinarily fall with others. RMG-414 provides detailed 
+guidance on different arrangements that may give rise to contingent liabilities. 
+
+Contingent liabilities can be difficult to identify. However, they are not present in contractual documentation 
+that are standard Commonwealth contracts, such as: 
+
+(a) 
+
+contracts that use the Commonwealth Contracting Suite terms and conditions; or 
+
+(b) 
+
+contracts that use the AEC’s standard template terms and conditions obtained from CLP. 
+
+Therefore, whenever AEC personnel are requested by suppliers to accept contractual terms and conditions 
+that are not standard Commonwealth or AEC contracts, legal advice from CLP must be sought to identify 
+whether accepting the supplier’s preferred contractual terms and conditions would hold the AEC to 
+contingent liabilities. 
+
+Controls 
+
+The PGPA Act allows AEC personnel with the appropriate level of delegation under s 60 of that Act to enter 
+into an arrangement that gives rise to contingent liabilities on behalf of the Commonwealth. Details on these 
+delegations are stated in the  Financial Delegations Schedule. By exercising this power, the AEC delegate is 
+ultimately agreeing, on behalf of the Commonwealth, to accept particular risks (often a greater level of risk) 
+so that the other party will bear less risk. 
+
+The AEC delegate can only exercise this power where a risk assessment concludes that: 
+
+(c) 
+
+the likelihood of an event occurring that exposes the AEC to contingent liability are remote(i.e. less 
+than 5%); and 
+
+(d) 
+
+the probable expenditure would not be significant (i.e. less than $30 million). 
+
+Further, the AEC’s Comcover insurance normally will not pay where the most probable expenditure that 
+would need to be made if the event giving rise to the liability occurred is over $5 million. Therefore, AEC 
+personnel must inform CLP if the risk assessment concludes that the estimated financial loss is over $5 
+million but less than $30 million, so that CLP can notify Comcover.  
+
+AEC Procurement and Contract Management Procedures 
+
+Page 77 of 90
+
+
+--- Page 79 ---
+
+
+
+
+--- Page 80 ---
+
+Appendix 12 – AEC Escalation Framework 
+
+AEC Escalation Framework 
+
+Overview 
+
+At times a Contract Manager may require approval or decisions to be made by the AEC that are above 
+their level of authority, or may require assistance in managing an issue with a Supplier. At these times, 
+escalation may be required within the AEC. 
+
+The AEC Escalation Framework is designed to assist Contract Managers in identifying the escalation 
+process applicable to their contract, and prompt the development of communication channels with end 
+users and identified escalation points to assist in effective management of the contract. The Stepped 
+Escalation Diagram and worked scenarios (intended to demonstrate how and when issues may need to be 
+escalated – and to what level) should assist Contract Managers in identifying their escalation process 
+applicable to their contract. This must be recorded in the Contract Management Plan. 
+
+If Escalating? 
+
+As a Contract Manager, if you are required to escalate any issue/decision you must first identify the 
+correct escalation points for your contract using the AEC Contract Management – Stepped Escalation 
+Process as a guide (see following page). 
+
+You should also ensure that you have made all attempts to resolve issues at the lowest possible level 
+before escalating – utilising the relationship that you have built with your Supplier. 
+
+If you are escalating an issue you must ensure that you provide the escalation point (e.g. Delegate, Panel 
+Manager) with: 
+
+(a)  a complete and comprehensive explanation of the situation; 
+
+(b)  a summary of the issue; 
+
+(c)  AEC instructions / involvement to date; 
+
+(d)  all discussions/correspondence to date; 
+
+(e)  a clear timeframe of events; and, 
+
+(f)  what you require assistance with (e.g. decision / negotiate with Supplier. 
+
+An escalation point can only act on the information with which they are provided, and it is important that 
+they are fully informed. 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 79 of 90
+
+
+--- Page 81 ---
+
+
+
+
+--- Page 82 ---
+
+Stepped Escalation Process – Contract Scenarios 
+
+Scenario 1: Furniture Hire Contract 
+
+Scenario: A Service Provider is contracted to provide furniture to the AEC at a number of venues 
+(including OPCs, PPVCs and PPs), through a Work Order issued under the AEC Panel for Furniture and 
+Equipment Hire and managed by State Office. At one venue the AEC representative notices that some of 
+the tables delivered are damaged and unsuitable for use. The AEC representative identifies that 
+replacement tables are required within a certain timeframe in order for the AEC to effectively conduct its 
+business. 
+
+Resolution and escalation: The AEC representative should not accept the unsuitable furniture, and 
+should discuss the issue with their contact at the Service Provider to attempt to receive replacement 
+furniture. The AEC representative should report the matter through the appropriate communication 
+channel to the AEC Contract Manager in State Office to ensure visibility of the performance issue. If the 
+AEC representative is not able to obtain replacement furniture by discussing the matter with their contact 
+at the Service Provider, the issue should be escalated to the AEC Contract Manager for assistance. 
+
+If further escalation is required? 
+
+In the event the AEC Contract Manager cannot resolve this performance issue, they might escalate to the 
+Panel Manager, or the Delegate. 
+
+Scenario 2: Cleaning Contract 
+
+Scenario: A Service Provider is contracted nationally to deliver cleaning Services at all AEC State, 
+Territory and National Office locations. At a number of offices, AEC employees have complained about 
+the quality of cleaning, noting it has significantly dropped in standard. It is noted that this issue has been 
+raised directly with the cleaners at these locations, however there has been no improvement. This 
+contract is managed at the National Office Level. 
+
+Resolution and escalation: This issue should be escalated to the AEC Contract Manager in National 
+Office for performance management as the issues have not been resolved at the local level. The AEC 
+Contract Manager will require detailed information on the performance issue and information on the 
+attempts made to improve Services at the local level. The AEC Contract Manager should then raise the 
+matter with the Service Provider to seek resolution. This may include developing an agreed performance 
+improvement plan and rectification process, increased reporting, and increased contract meetings to 
+monitor the delivery of Services until the performance standard is being consistently met. 
+
+If further escalation is required? 
+
+In the event the AEC Contract Manager cannot resolve this performance issue, they may seek guidance 
+from CLP and issue formal performance notices, or escalate to the Delegate. 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 81 of 90
+
+
+--- Page 83 ---
+
+Scenario 3: Logistics Contract – Critical Elections Services 
+
+Scenario: A Service Provider is contracted to the AEC to provide time critical Logistics Services in the 
+direct support of an Electoral Event. The Service Provider is contracted under a number of Work Orders 
+across multiple States/Territories. 
+
+An issue has been experienced under one Work Order in relation to invoicing, with the State disputing a 
+submitted invoice and refusing to make payment until a new invoice is issued. The Service Provider 
+disputes the changes requested by the AEC Contract Manager. 
+
+The AEC Contract Manager and Delegate have attempted to resolve the issue with the Service Provider, 
+however no agreement can be made. The Service Provider is now refusing to undertake Services 
+against any of the Work Orders until payment is made. This represents a significant risk to the successful 
+delivery of the Electoral Event, given the volume of work to be completed by this Service Provider. 
+
+Resolution and escalation: This represents a high risk and election critical performance issue and 
+should be escalated to the National Elections Manager (NEM) and the Chief Legal Officer (CLO) for 
+resolution. 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 82 of 90
+
+
+--- Page 84 ---
+
+
+
+
+--- Page 85 ---
+
+
+
+
+--- Page 86 ---
+
+
+
+
+--- Page 87 ---
+
+
+
+
+--- Page 88 ---
+
+Appendix 14 – Commonwealth Contracting Suite and DS4P 
+
+Commonwealth Contracting Suite (CCS) 
+
+Overview 
+
+The Commonwealth Contracting Suite (CCS) was introduced to create consistency across 
+Commonwealth contracts to minimise the burden on businesses contracting with the Commonwealth 
+Government and to streamline and simplify procurement processes for Commonwealth entities (AEC). 
+
+The mandatory components of the CCS are: 
+
+(a) 
+
+the Approach to Market (ATM) (incorporating the Commonwealth ATM Terms); and  
+
+(b) 
+
+the Commonwealth Contract (incorporating the Commonwealth Contract Terms). The CCS also 
+includes a range of non-mandatory documents. 
+
+To ensure that the CCS is being used appropriately, the Decision Tree smart form can assist AEC 
+personnel in the process for procurement under $200,000. 
+
+Policy 
+
+The use of the CCS is mandatory when purchasing goods or services valued under $200 000 unless an 
+exemption applies as outlined in Department of Finance RMG 420  (eg. Services are being procured through 
+a panel arrangement). 
+
+For procurements (non-construction or non ICT) valued between $200 000 and $1 000 000 (, the use of 
+the CCS is encouraged but is not mandatory. 
+
+Access 
+
+The CCS is available at the following link:  http://www.finance.gov.au/procurement/commonwealth- 
+contracting-suite/. A user login must first be created at  http://ccs.hosted-
+gov.net.au/Infiniti/Produce/wizard/eec8694a- fa4a-4a18-a13b-
+c5d0e23ff9f7/#./null?& suid=145205636728407839819597050268 to  access CCS.  
+
+It is suggested that business areas consider developing a group login to allow multiple people to access the 
+documentation developed for each procurement. 
+
+Please note: AEC personnel need to generate new documents by use of the online smart-form for each 
+new procurement activity.  This will ensure that the documentation contains relevant  content and is tailored 
+to your procurement.  
+
+Dynamic Sourcing for Panels (DS4P) 
+
+The Department of Finance (DoF) has established a system called Dynamic Sourcing for Panels (DS4P). 
+DS4P provides a new standardised and streamlined tool through AusTender for Commonwealth agencies 
+to access detailed information about panels and to conduct procurements. 
+
+DS4P enables Commonwealth agencies to issue Requests for Quote through a controlled system, rather 
+than emailing providers. Responses will be received and then downloaded through the same system. This 
+will help ensure receipt and provide an audit trail for the procurement. 
+
+A number of panels have now been made available on DS4P. Agencies are progressively publishing Panel 
+as their internal DS4P implementations are completed. As a result, the manual processes for request for 
+quotes to some Panels will continue as normal (ie. via email) until transition is complete.  
+
+No panel arrangements established by the AEC are currently available are managed through DS4P.Where 
+a Panel arrangement that you wish to approach has transitioned to DS4P, you will need to issue and 
+receive responses to the RFQ using this system.  
+
+Access to DS4P 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 87 of 90
+
+
+--- Page 89 ---
+
+In order for individuals to be granted access to DS4P, training on the system must be completed. To 
+request attendance at a training session on the system, please contact CLP. 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 88 of 90
+
+
+--- Page 90 ---
+
+
+
+
+--- Page 91 ---
+
+Appendix 16 – Black Economy Procurement Connected Policy 
+
+Overview 
+
+From 1 July 2019, businesses seeking to tender for Australian Government procurement contracts over 
+$4 million (Threshold) are required provide a statement from the Australian Taxation Office showing they 
+have a satisfactory tax record. 
+
+This change in policy is known as the Black Economy Procurement Connected Policy (PCP) and aims to 
+increase the integrity of government procurement, as recommended in the Black Economy Taskforce's 
+final report. 
+
+The AEC is required to adhere to this policy for all procurement with an estimated value of $4 million or 
+more regardless of the procurement method being undertaken. 
+
+How do I make sure my procurement adheres to the PCP? 
+
+Any procurements meeting the threshold must include a mandatory requirement for all Potential Suppli ers 
+to provide a Statement of Tax Record (STR). Potential Suppliers can request an STR using the Australian 
+Taxation Office (ATO) business or myGov portals. 
+
+If a Potential Supplier is unable to produce an STR their Submission will be excluded from consider ation 
+in the procurement process. If the Supplier has requested an STR but has not received it before the 
+submission date, it is at the AEC’s discretion to include them in evaluation activities pending production of 
+the STR. At no time will the AEC be able to enter into an Agreement over the Threshold without citing a 
+valid STR. 
+
+Additional information 
+
+•  Frequently asked questions for Commonwealth procurement officers and tenderers 
+•  Black Economy Procurement Connected Policy 
+
+AEC Procurement and Contract Management Procedures 
+
+Page 90 of 90

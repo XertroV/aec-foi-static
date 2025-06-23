@@ -1,0 +1,543 @@
+
+
+--- Page 1 ---
+
+Document No 31 
+
+AEC reference: LEX1994 
+
+By email: 
+
+By email: 
+
+Dear 
+
+ and 
+
+Review of decision under s 141(4) of the Commonwealth Electoral Act 1918 – notice of decision 
+under s 141(7) 
+
+1.
+
+2.
+
+3.
+
+ and 
+
+The Australian Electoral Commission (the Commission) refers to the written applications
+made by 
+respectively (applications for review), for review of the delegate’s decision to deregister
+VOTEFLUX.ORG | Upgrade Democracy! (VFUD) under section 137(6) of the Commonwealth
+Electoral Act 1918 (Electoral Act) (the delegate’s decision).
+
+ by emails dated 14 April 2022 and 26 April 2022
+
+The Commission notes that no action could lawfully be undertaken regarding the applications
+for review from 11 April 2022 when the writs were issued for the recent federal election until
+writs were returned on 23 June 2022.
+
+The applications for review were made under section 141(2) of the Electoral Act. In conformity
+ and
+with section 141(7), this letter is to notify the review applicants (
+
+and 
+
+(who received written notice of the delegate’s decision as the Registered Officer
+
+of VFUD) that the Commission has reviewed the delegate’s decision and affirmed the
+decision under review.
+
+Notice of decision – s 141(7) 
+
+4.
+
+5.
+
+The Commission has reviewed the delegate’s decision of 24 March 2022 to deregister VFUD.
+
+The Commission has affirmed the decision under review pursuant to section 141(4)(a) of the
+Electoral Act.
+
+Page 1 
+
+s s 4s 47F (Personal Privacy)s 47F (Personal Privacy)s 47F (Personal Privacy)s 47F (Personal Privacy)s 47F (Personal Privacy)s 47F (Personal Privacy)s 47F (Personal Privacy)s 47F (Personal Privacy)s 47F (Personal Privacy)s 47F (Personal Privacy)s 47F (Personal Privacy)s 47F (Personal Privacys 47F (Personal Privacy)
+
+
+--- Page 2 ---
+
+Reasons for making this decision 
+
+6. 
+
+In making this decision, the Commission has had regard to the material before it, including: 
+
+(a)  the applications for review and related correspondence between the review applicants 
+and the Commission Secretariat (including submissions in support of the applications 
+for review); 
+
+(b)  the delegate’s decision made under section 137(6)(a) of the Electoral Act to deregister 
+VFUD, with the notice of the reasons for the decision under section 137(6)(b) of the 
+Electoral Act dated 24 March 2022 (reasons for decision); 
+
+(c)  the material and other information before the delegate in making the delegate’s 
+
+decision, including the list of 1,649 names provided by VFUD on 7 December 2021 
+(7 December 2021 list); the list of 4,680 names provided by VFUD under cover of a 
+letter dated 13 February 2022 (13 February 2022 list); and the results of membership 
+testing of the 7 December 2021 list and the 13 February 2022 list set out at [16]-[24] of 
+the delegate’s reasons for decision; 
+
+(d)  correspondence between the Commission Secretariat and VFUD’s Registered Officer 
+
+(
+
+ relating to the Commission’s review of the delegate’s decision;  
+
+(e)  the methodology for testing membership lists as outlined in the AEC’s Party 
+
+Registration Guide and published on its website (Methodology); 
+
+(f)  Part XI of the Electoral Act. 
+
+Mr Kaye’s submissions 
+
+7. 
+
+In summary, in support of his application for review, 
+
+ submitted that: 
+
+(a)  VFUD has at least 1,500 members, as VFUD submitted a membership list of 4,680 
+
+names to the Commission; 
+
+(b)  the Methodology is an invalid means of testing whether a political party, not being a 
+
+Parliamentary party, has “at least 1,500 members” for the purposes of section 137 of 
+the Electoral Act, because the Methodology involves testing only a sample of the 
+names on a party membership list limited to 1,500 – 1,650 names;  
+
+(c)  the Methodology erroneously assumes that a membership list limited in this way is an 
+
+exhaustive list of the relevant party’s members; 
+
+(d)  the Methodology may lead to a high probability of rejecting a valid list in some 
+
+circumstances, and in the case of VFUD, the methodology used by the delegate 
+resulted in a 99% fail rate; 
+
+(e)  the filtering out of the names on a membership list that cannot be matched to the 
+
+Electoral Roll (or otherwise excluded) without replacement increases the chance that 
+a valid list will be rejected; 
+
+Page 2 
+
+s 47F (Personal Privacy)s 47F (Personal Privacy
+
+
+--- Page 3 ---
+
+(f)  the delegate’s determination to test only the top 1,650 names on the 13 February 
+
+2022 list, rather than selecting names at random from that list, invalidated the testing 
+and was unfair;  
+
+(g)  the AEC does not provide information or feedback as to the outcome of membership 
+testing for each individual checked against the Electoral Roll or asked to confirm 
+membership, and this is procedurally unfair; and 
+
+(h)  VFUD must be re-registered pending the outcome of review. 
+
+ submissions 
+
+8. 
+
+In summary, in support of his application for review, 
+
+submitted that:  
+
+(a)  VFUD should have been provided with a list of members who confirmed or denied 
+
+membership in the testing process and details of the timeframe for responses sought 
+from them; 
+
+(b)  the Commission should review the statistical method used in relation to the “top” 1,650 
+names taken from the 13 February 2022 list for testing, and whether this resulted in 
+error; and 
+
+(c)  the Commission should provide the mathematical proof of the sampling method used, 
+and review the method and determine the rate at which this method would return a 
+false negative. 
+
+Methodology  
+
+9. 
+
+The Commission noted that the Electoral Act does not provide a method for ascertaining 
+whether a political party satisfies the numerical membership requirements of the Electoral Act. 
+The Commission considered the Methodology (as outlined in the AEC’s Party Registration 
+Guide) for determining whether a non-Parliamentary party satisfies these membership 
+requirements. The Commission noted that the Methodology was the same as the sampling 
+methodology recommended by the Australian Bureau of Statistics (ABS). The Commission 
+concluded that the Methodology was appropriate for this purpose. 
+
+10. 
+
+In summary, the Methodology requires: 
+
+(a)  the provision of a membership list of between 1,500 and 1,650 names for membership 
+
+testing; 
+
+(b)  the removal from that list of:  
+
+i.  names that cannot be matched, either via an automated process or manually, 
+
+to the Electoral Roll; 
+
+ii.  names relied on by another party for the purpose of registration or continued 
+
+registration; 
+
+iii.  duplicate names.   
+
+Page 3 
+
+s 47F (Personal Privacy)s 47F (Personal Privacy)
+
+
+--- Page 4 ---
+
+
+
+
+--- Page 5 ---
+
+
+
+
+--- Page 6 ---
+
+
+
+
+--- Page 7 ---
+
+
+
+
+--- Page 8 ---
+
+The AEC requires a party to choose a maximum of 1,650 members for the 
+membership list included with their application. The AEC will return a membership list 
+in excess of 1,650 members and ask the party to lodge the membership list with 
+between 1,500 and 1,650 members.  
+
+The Commission further notes that the delegate did not in fact return the 13 February 
+2022 list, which contained the names of 4,680 individuals. Rather, contrary to the 
+Guide and the Methodology, the delegate instructed an officer of the Commission to 
+take the top 1,650 names to create another list (the top 1,650 names list) and to test 
+the top 1,650 names list as described above. The Commission accepts that it cannot 
+draw any relevant conclusion from this testing process. The Commission has therefore 
+placed no weight on its results. The Commission accepts the relevant submissions of 
+
+ and 
+submissions further.  
+
+ in this regard, and it is unnecessary to consider these 
+
+22. The Commission rejects the submission that the fact that VFUD provided a list of 4,680 names 
+
+to the Commission was sufficient evidence that VFUD has at least 1,500 members. The 
+Commission could not be satisfied that VFUD met the numerical membership requirements of 
+the Electoral Act on this basis alone; and the Commission was unable to test this list in 
+accordance with the Methodology, which is in all the circumstances a rational, practical and fair 
+way of testing the membership requirements of a non-Parliamentary party under the Electoral 
+Act. 
+
+23. The Commission also notes that the review applicants made criticisms of a more general nature 
+regarding various aspects of the Methodology. The Commission’s response to these criticisms 
+is set out below. 
+
+Filtering  
+
+24. Both 
+
+ and 
+
+objected to the Commission’s practice of filtering out the names 
+
+on a membership list that cannot be matched to the Electoral Roll (or are otherwise excluded) 
+without seeking to replace those names with the names of any additional members that a party 
+may be able to provide on the basis that it increases the error rate. 
+
+25. The Commission rejects the submission that the filtering out of these names from a membership 
+
+list containing between 1,500 to 1,650 names increases the error rate (that is, the risk of 
+erroneously rejecting a submitted membership list that in fact contains 1,500 party members). 
+The names taken out of such a list at this stage of the process are duplicate names and the 
+names of people who are ineligible to be included in counting the members of a non-
+Parliamentary Party (being the deceased, those not enrolled on the Electoral Roll, individuals 
+under 18 years or relied on for registration purposes by another party (see section 123A)). It is 
+only after these names have been taken out of a submitted list that the membership testing 
+sample size and maximum number of permitted denials can be properly calculated in 
+accordance with the Methodology. The membership testing sample size is calculated relative to 
+the size of the list of names after filtering, not before. For example, one party could submit a list 
+of 1650 names, 150 of which need to be filtered out. Another party could submit a list of 1500 
+names, none of which need to be filtered out. The sample size for both parties, in accordance 
+with ABS advice, would be 18 individuals, with 0 denials permissible to pass testing. The 
+
+Page 8 
+
+s 47F (Personal Privacy)s 47F (Personal Privacy)s 47F (Personal Privacys 47F (Personal Privacy
+
+
+--- Page 9 ---
+
+probably of rejecting a valid list of 1500 members for either hypothetical party will be 0%. 
+Clearly, the error rate remains the same in both hypothetical cases, and does not increase 
+because one party has had more names filtered out. 
+
+26. Both 
+
+ and 
+
+ challenged the fact that the Commission did not as a matter of 
+practice provide parties with details of the individuals affirming or denying party membership. 
+The Commission rejects the proposition that this constitutes a denial of procedural fairness. The 
+identity of these individuals is not relevant to the Commission’s inquiry, the purpose of which is 
+to establish whether the party meets the numerical membership requirements under and in 
+accordance with the Electoral Act by testing a membership list supplied by a party for 
+ have proposed any other relevant 
+registration purposes. Neither
+purpose. In keeping with the relevant purpose, and in conformity with section 137(2) of the 
+Electoral Act and the interests of procedural fairness, the delegate gave VFUD an opportunity to 
+provide a statement setting out why VFUD should not be deregistered under section 137. 
+ responded by letter dated 13 February 2022, both 
+VFUD’s Registered Officer, 
+challenging the Methodology and providing the 13 February 2022 list.  
+
+Excess Capacity argument 
+
+27. In his “excess capacity” argument, 
+
+ contends that the Commission’s membership 
+
+testing process assumes, contrary to fact, that the 1,500 to 1,650 names submitted on a list of 
+the kind sought by the Commission are the only members of the relevant party. 
+to demonstrate the weaknesses of this assumption by reference to statistical analyses in 
+relation to a “hypothetical case” consisting of a party with 9,000 members, of whom 4,500 are 
+not “validatable”, 1,800 would deny membership if asked by the AEC and 2,700 would be 
+“legitimate”. These analyses proceed on the basis that the “hypothetical party” has provided a 
+list to the Commission comprising 1,650 party members who have been randomly selected from 
+its pool of 4,500 “validatable” members. 
+
+ sought 
+
+28. In response to this argument, the Commission notes that the composition of the list provided for 
+
+the purpose of membership testing is for the party to determine. As noted above, the 
+Commission expects that a list provided for the express purpose of numerical membership 
+testing will be a high quality one, that is, a list that the party considers accurately records the 
+names of at least 1,500 party members (noting that the party can in fact submit up to 1,650 
+names). Accordingly, the Commission rejects the hypothetical case and statistical analyses 
+ because they start from the premise that it is reasonable for a party to 
+provided by 
+provide a list of members who have been randomly selected without regard to whether those 
+members would likely meet the requirements of the Electoral Act.  
+
+Alternative Methodology 
+
+29. While not raised by the review applicants, the Commission notes for completeness the 
+
+alternative methodology proposed by 
+letter to the delegate. That alternative methodology, as articulated in the response, is as follows: 
+
+ on behalf of VFUD in his 13 February 2022 
+
+Page 9 
+
+s 47F (Personal Privacy)s 47F (Personal Privacy)s 47F (Personal Privacy)s 47F (Personal Privacy)s 47F (Personal Privacys 47F (Personal Privacys 47F (Personal Privacys 47F (Personal Privacy
+
+
+--- Page 10 ---
+
+Bonus: a decisively superior methodology at no additional cost 
+
+We note that the AEC could, at very little cost (time, energy, expense, etc), dramatically increase the 
+confidence of their membership testing by accepting lists of more than 1650 members and following 
+this procedure: 
+
+1.  Automatically match all possible members against the electoral roll (as is already done). The 
+cost of automatically matching names against the electoral roll is constant regardless of the 
+input size (because it is done by computer). If less than 1650 names are automatically 
+matched, proceed to manual verification (as is done currently) and stop at 1650. Note that this 
+will only ever save the AEC time and money. It is economically rational to do this. 
+2.  Where more than 1650 members can be automatically matched, record this number. 
+3.  Select 1650 names from that list and conduct 53 trials. use the failure rate to estimate the 
+
+probability of a member being valid. 
+
+4.  Use this probability, combined with the length of the list in step (2) to estimate the valid 
+
+membership population of the party being tested. 
+
+5.  Calculate error measurements and confidence intervals, etc. (Or evaluate against 
+
+predetermined thresholds.) 
+
+6.  Determine eligibility. 
+
+30. In assessing this argument, it should be borne in mind that, both before the delegate and on 
+review, a party’s task is to show the Commission that it should not be deregistered for the 
+reason set out in the notice given under section 137(1) of the Electoral Act. The Commission 
+also observes that registration under the Electoral Act confers on political parties a number of 
+benefits – including the provision of public funds if certain additional criteria are met. It is, 
+therefore, incumbent on VFUD in this case to demonstrate to the Commission that it should not 
+be deregistered for the reason set out in section 137(1)(b) of the Electoral Act, being the reason 
+set out in the notice. 
+
+31. The Commission does not consider the proposed alternative methodology to be appropriate for 
+the purpose of determining whether a party has 1500 members in accordance with the Electoral 
+Act. This is because such proposed alternative methodology requires the Commission to 
+assume that the results of testing conducted on a random sample of 1,650 names drawn from a 
+broader list of members may reasonably be relied upon to form a view on the probability that 
+that broader list (which may be many multiples of 1,650) contains 1,500 members who meet the 
+requirements of the Electoral Act. The Commission is not persuaded that such an assumption 
+would be justified.  
+
+Statement of review rights 
+
+32. A statement of review rights in respect of this decision is enclosed.  
+
+Page 10
+
+
+--- Page 11 ---
+
+Yours sincerely, 
+
+The Hon Justice Susan Kenny AM  
+
+Chairperson 
+
+September 2022 
+
+Mr Tom Rogers 
+
+Electoral Commissioner 
+
+September 2022 
+
+Dr David Gruen AO 
+
+Australian Statistician  
+(non-judicial member) 
+
+September 2022 
+
+Page 11
+
+
+--- Page 12 ---
+
+Your review rights 
+
+Under s 141(5) of the Electoral Act, a person (including an organisation) affected by the 
+Commission’s decision who is dissatisfied with the decision may make an application to the 
+Administrative Appeals Tribunal (‘the AAT’) for review of the decision.  
+
+How is an application made to the AAT for a review of a Commission decision? 
+
+In accordance with s 29 of the Administrative Appeals Tribunal Act 1975, the application must: 
+
+(a)  be made in writing; 
+
+(b)  be accompanied by any prescribed fee; 
+
+(c)  contain a statement of reasons for the application; and  
+
+(d)  be made within the prescribed time. 
+
+The application should also: 
+
+(a)  specify the name of the applicant; and 
+
+(b)  include an address at which documents in relation to the AAT proceedings may be 
+
+given.  
+
+More information on how to apply to the AAT can be found on the AAT website: 
+https://www.aat.gov.au/apply-for-a-review.   
+
+Prescribed fee 
+
+The AAT’s standard application fee is $962. In certain circumstances, an applicant may be entitled to 
+pay a reduced fee of $100.  
+
+If an applicant pays the standard application fee and the AAT review is resolved in the applicant’s 
+favour, the AAT will refund the difference between the standard application fee and $100. There is no 
+refund if the applicant paid the reduced fee of $100.  
+
+Further information about fees is available on the AAT website: https://www.aat.gov.au/apply-for-a-
+review/other-decisions/fees.  
+
+Prescribed time 
+
+You may apply to the AAT for review of the Commission’s decision during the period commencing on 
+the day on which the Commission’s decision was made and ending on the twenty-eighth day after 
+this letter was given to you.  
+
+The AAT may extend the time for making an application to the AAT for a review of a decision, if an 
+application for extension is made in writing to the AAT and the AAT is satisfied that it is reasonable in 
+all the circumstances to do so.  
+
+Page 12
+
+
+--- Page 13 ---
+
+Further information about time limits is available on the AAT website:  
+https://www.aat.gov.au/apply-for-a-review/other-decisions/time-limits.  
+
+Conduct of a review by the AAT 
+
+The AAT can exercise the same powers and discretions as the Commission to make a decision on 
+an application to register a party in the Register afresh and make a decision to either:  
+
+• 
+
+• 
+
+• 
+
+affirm the decision under review; 
+
+vary the decision under review; or 
+
+set aside the decision under review and: 
+
+o  make a decision in substitution for the decision set aside; or  
+
+o 
+
+remit the matter for reconsideration in accordance with any directions or 
+recommendations of the AAT. 
+
+Further information about the review process can be found on the AAT website: 
+https://www.aat.gov.au/steps-in-a-review/other-decisions.  
+
+Freedom of Information 
+
+Under the Freedom of Information Act 1982 (‘the FOI Act’), any person has the right to request 
+access to documents held by the Commission.  
+
+For more information about access to documents under the FOI Act, please visit the Commission’s 
+“Access to AEC information” webpage at: www.aec.gov.au/information-access/index.htm.  
+
+Should you have any further queries regarding the Commission’s decision, please contact the 
+Commission Secretariat by emailing commission.secretariat@aec.gov.au. 
+
+Page 13

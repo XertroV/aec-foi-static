@@ -1,0 +1,99 @@
+
+
+--- Page 1 ---
+
+Number of declaration votes cast at the Australian High Commission in Wellington, New Zealand at each of the last four general elections. If you are 
+able to distinguish between declaration votes cast in-person, and postal votes returned to this location, please do so (Category A). 
+
+Federal election 
+Vote type 
+Votes received at post 
+
+2022 
+
+2019 
+
+2016 
+
+2013 
+
+In-person 
+0 
+
+Postal 
+800 
+
+In-person 
+667 
+
+Postal 
+5 
+
+In-person 
+474 
+
+Postal 
+9 
+
+In-person 
+469 
+
+Postal 
+4 
+
+Number of declaration votes cast in-person at the Australian Consulate-General in Auckland, New Zealand at each of the last four general elections. If 
+you are able to distinguish between declaration votes cast in-person, and postal votes returned to this location, please do so (Category B). 
+
+Federal election 
+Vote type 
+Votes received at post 
+
+2022 
+
+2019 
+
+2016 
+
+2013 
+
+In-person 
+749 
+
+Postal 
+479 
+
+In-person 
+967 
+
+Postal 
+19 
+
+In-person 
+805 
+
+Postal 
+20 
+
+In-person 
+819 
+
+Postal 
+29 
+
+Number of votes returned directly to the AEC at each of the last four general elections, that were postal votes issued to a New Zealand address. This 
+presumably would exclude postal votes returned via either of the High Commission in Wellington or Consulate-General in Auckland (Category C). 
+
+Federal election 
+Returned direct to AEC 
+
+2022 
+360 
+
+2019 
+1,389 
+
+2016 
+1,309 
+
+2013 
+-

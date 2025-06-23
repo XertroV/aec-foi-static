@@ -1,0 +1,168 @@
+
+
+--- Page 1 ---
+
+Andrew Brooks
+Wednesday, 16 November 2022 11:37 AM
+Cyber Security; 
+FW: Cyber Incident 11744 - Phishing email targeting indigenous inboxes  
+[SEC=OFFICIAL:Sensitive]
+
+From:
+Sent:
+To:
+Subject:
+
+Fyi 
+
+ maybe also the 
+
+Andrew Brooks | Director (ITSA) 
+Cyber Security & Assurance Section | Electoral Integrity and Communications Branch 
+Australian Electoral Commission 
+
+From: Andrew Brooks  
+Sent: Wednesday, 16 November 2022 11:36 AM 
+To: John Forrest 
+
+; Brian Foo 
+
+; Julie Igglesden 
+
+Subject: RE: Cyber Incident 11744 - Phishing email targeting indigenous inboxes [SEC=OFFICIAL:Sensitive] 
+
+Hi All 
+
+Regards 
+
+Andrew 
+
+Andrew Brooks | Director (ITSA) 
+Cyber Security & Assurance Section | Electoral Integrity and Communications Branch 
+Australian Electoral Commission 
+
+From: Andrew Brooks  
+Sent: Wednesday, 16 November 2022 10:36 AM 
+To: John Forrest 
+
+1
+
+s47Fs47Fs47Fs47Fs47Fs47Fs47Fs47Fs47Fs47Es47E
+
+
+--- Page 2 ---
+
+Cc: Brian Foo 
+Subject: FW: Cyber Incident 11744 - Phishing email targeting indigenous inboxes [SEC=OFFICIAL:Sensitive] 
+
+Hi John 
+
+As discussed  
+
+Regards 
+
+Andrew 
+
+Andrew Brooks | Director (ITSA) 
+Cyber Security & Assurance Section | Electoral Integrity and Communications Branch 
+Australian Electoral Commission 
+
+From: Andrew Brooks  
+Sent: Wednesday, 16 November 2022 10:08 AM 
+To: Brian Foo 
+Cc: Julie Igglesden 
+Subject: Cyber Incident 11744 - Phishing email targeting indigenous inboxes [SEC=OFFICIAL:Sensitive] 
+
+Hi Brian 
+
+Below is the current summary of the email attack targeting state indigenous group mailboxes inboxes (account 
+harvesting attempt). 
+
+Some additional points to note: 
+
+  This email campaign is very targeted 
+
+  Staff in the network managing the mailboxes have been contacted 
+  The emails are being removed from the mailboxes to avoid any future issues (completed 09:50) 
+ 
+
+ 
+
+I’ve already given Julie a quick heads up given the thematic of the campaign and expect this will want a broader 
+Integrity lens given the very specific targeting. 
+
+ along with any other relevant updates as more information 
+
+becomes available. 
+
+Regards 
+
+2
+
+s47Fs47Fs47Fs47Fs47Fs47Es47Es47Es47E
+
+
+--- Page 3 ---
+
+Regards 
+
+Andrew 
+
+Andrew Brooks | Director (ITSA) 
+Cyber Security & Assurance Section | Electoral Integrity and Communications Branch 
+Australian Electoral Commission 
+
+From: 
+Sent: Wednesday, 16 November 2022 9:40 AM 
+To: 
+Subject: Phishing email targeting indigenous inboxes [SEC=OFFICIAL] 
+
+; Andrew Brooks 
+
+Hi Andrew and 
+
+ from the Victorian State Office notified us yesterday evening at 6.19pm about a suspicious email. 
+
+After initial investigations (starting at 8.15am this morning) this appears to be a phishing campaign sent to 8 
+Indigenous AEC email accounts: 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+indigenous@aec.gov.au 
+indigenous-sa@aec.gov.au 
+indigenous-wa@aec.gov.au 
+indigenous-vic@aec.gov.au 
+indigenous-tas@aec.gov.au 
+indigenous-qld@aec.gov.au 
+indigenous-nt@aec.gov.au 
+indigenous-nsw@aec.gov.au 
+
+Using the subject line: [recipient email address] have 12 Pending incoming emails 
+
+3
+
+s47Fs47Fs47Fs47Fs47Fs47Fs47E
+
+
+--- Page 4 ---
+
+
+
+
+--- Page 5 ---
+
+| Cyber Security Analyst  
+
+Cyber Security & Assurance Section | Electoral Integrity and Communications Branch 
+Australian Electoral Commission 
+
+5
+
+s47Fs47F

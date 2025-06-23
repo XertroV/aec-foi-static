@@ -1,0 +1,170 @@
+
+
+--- Page 1 ---
+
+NEWSROOM POST – STRICTLY EMBARGOED UNTIL 12.01AM AEDT 15 MARCH 2022
+
+How Meta is Preparing for the 2022 Australian Election
+By Josh Machin, Head of Public Policy for Meta Australia
+
+● Meta has been preparing for this year’s Australian election for a long time and will be using a
+comprehensive strategy to combat misinformation, election interference, and other forms of
+abuse on our platforms.
+
+● We’re expanding our third-party fact-checking program in Australia to include RMIT FactLab.
+They’ll join Agence France Presse and Australian Associated Press to review and rate content.
+We’ll also be providing one-off grants to all our fact-checkers to increase their capacity in the
+lead up to the election.
+
+● We’re also working with the Australian Associated Press to re-run the “Check the Facts” media
+literacy campaign in three other languages - into Vietnamese, Simplified Chinese and Arabic to
+extend the benefits of the campaign even further.
+
+With the Australian Election set to take place in the coming months, Meta has been preparing for them
+for a long time. We’ve been involved in more than 200 elections around the world since 2017, and we’ve
+learned key lessons from each one about where to focus our teams, technologies, and investments so
+they will have the greatest impact. Here are some of the ways that we’re already promoting safety and
+integrity across our platforms ahead of this year’s Australian Election.
+
+Combating Abuse, Misinformation, and Election Interference Using a Comprehensive Approach
+
+We’ve made significant investments in safety and security, including approximately $5 billion/ $AU7
+billion in 2021 alone and now have more than 40,000 people around the world working on safety and
+security. These investments have allowed us to build our ability to reduce the likelihood of abuses -
+including election interference, misinformation and online harms - from happening in the first place,
+rather than just addressing them when they occur. For this year’s Australian election, this work will
+include:
+
+● Announcing a new Australian Fact-Checker. We know the importance of ensuring Australians
+have access to reliable information about the election in Australia. Therefore, we are pleased to
+announce the expansion of our third party fact checking program in Australia today. From March
+21, RMIT FactLab will join Meta’s global independent fact checking program in reviewing and
+rating the accuracy of content in the lead up to the 2022 Australian Election, alongside Agence
+France Presse and the Australian Associated Press. We'll also be providing one-off grants to all
+our fact-checkers to increase their capacity in the lead up to the election. Our fact checkers work
+to reduce the spread of misinformation across Meta’s services. When they rate something as
+
+Released under the FOI ActReleased under the FOI Act
+
+
+--- Page 2 ---
+
+false, we significantly reduce its distribution so fewer people see it. We also notify people who
+try to share something rated as false and add a warning label with a link to a debunking article.
+● Russell Skelton, Director of RMIT FactLab said, “We see this as a really important public service.
+If we can play a role in preventing the dissemination of misinformation on social media that has
+the potential to mislead or harm, then we see that as providing a really critical service.”
+
+● We are also working with expert organisations such as First Draft to increase monitoring for
+misinformation in the lead-up to the election and publish related analyses and reporting on their
+website. First Draft will also be providing pre-election training for Australian journalists on how
+to identify and prevent amplifying mis and dis information.
+
+● Empowering People to Identify False News. Since we know it’s not enough to just limit or
+
+remove harmful or misleading electoral misinformation that people see, we’re giving people
+more context about a post so they can make an informed decision on what to read, trust and
+share. We have invested in dedicated Australian initiatives including:
+
+○ Working with the Australian Associated Press to launch an education and awareness
+campaign comprising a series of short videos modelling how people can recognise and
+avoid misinformation by taking simple steps to 'Check the Facts'. The campaign will run
+again this April and will include, for the first time, content translated in three other
+languages - Vietnamese, Simplified Chinese and Arabic to extend the benefits of the
+campaign even further.
+
+○ Partnering with First Draft to develop the “Don’t be a Misinfluencer” campaign on
+
+Facebook and Instagram to help creators and influencers to share tips for spotting false
+news.
+
+Security and election interference
+
+● Combatting Influence Operations. We have specialised global teams to identify and take action
+against threats to the election, including signs of coordinated inauthentic behaviour across our
+apps. We are also coordinating with the Government's election integrity assurance taskforce and
+security agencies in the lead up to the election. We’ve also improved our AI so that we can more
+effectively detect and block fake accounts, which are often behind this activity.
+
+○ Since 2017, we have removed over 150 networks around the world including ahead of
+major democratic elections. We’re working to find and remove any networks of
+Coordinated Inauthentic Behaviour. We’ll also share publicly what we find.
+● Protecting candidates and leaders running in the Australian election. In December 2021, we
+extended our Facebook Protect security program to Australia. The program has been rolled out
+to those who might be at a higher risk of being targeted online, such as candidates and public
+officials, encouraging them to adopt stronger account security protections. We will also be
+running a Facebook security prompt to candidates and leaders to remind them to turn on two
+factor authentication. We are working with the Australian Electoral Commission and political
+parties to run training sessions for all candidates on our policies and tools and how to keep safe
+in the lead up to the election.
+
+Released under the FOI ActReleased under the FOI Act
+
+
+--- Page 3 ---
+
+Encouraging transparency around political, election and social issues ads
+
+● Mandatory transparency for political ads. Since the 2019 Australian Federal Election, we’ve
+made a series of changes for advertisers in Australia that want to run electoral, political and
+social issue ads. Advertisers are now required to go through an authorisation process using
+government-issued photo ID, and place a “Paid for by” disclaimers on their ads. This includes any
+person creating, modifying, publishing or pausing ads that reference political figures, political
+parties or elections. It also includes social issue ads that seek to influence public opinion through
+discussion, debate or advocacy for or against important topics, such as civil and social rights,
+crime, environmental politics, education or immigration. We launched these requirements for
+social issue ads last year, before the first possible election date, to ensure it was in place for the
+Australian federal election. Any political, electoral or social issue ads on Facebook and Instagram
+that do not have the correct authorisation or disclaimers will be removed from the platform and
+archived in a public Ad Library for seven years.
+
+● Allowing Australians to control their experience. While political and social issue ads play an
+important role in every election, people have told us they want the option to see fewer of them
+in their Facebook and Instagram feeds. Last year, we announced a new feature that gives people
+more control by giving them the  choice to see fewer social issues, electoral, and political ads.
+
+Encouraging civic engagement and empowering voters
+
+We want to do more than just prevent abuse on our platforms during elections. We also want to
+empower people to participate, so for this year’s Australian elections, we’re supporting civic engagement
+in a number of ways.
+
+● Developing products on the platform to encourage people to vote. Closer to election day we
+will begin running notifications at the top of Facebook’s Feed for people over 18, reminding
+them to vote, while also connecting them with reliable information about the voting process. We
+will also be launching Instagram Stories elections stickers to celebrate and encourage voter
+engagement.
+
+Released under the FOI ActReleased under the FOI Act
+
+
+--- Page 4 ---
+
+Election Day Reminder (example only)
+
+● Informing people about the latest election communications from political parties, journalists
+and the Australian Election Commission. We will release a public, Live Display on Crowdtangle
+dedicated to the Australian Election. The Live Display will provide real-time coverage of the most
+recent communications about the election on Facebook and Instagram.
+
+As we get closer to the Australian election, we’ll stay vigilant to emerging threats and take additional
+steps if necessary to prevent abuse on our platform while also empowering people in Australia to use
+their voice by voting.
+
+++++
+
+About RMIT
+
+Released under the FOI ActReleased under the FOI Act
+
+
+--- Page 5 ---
+
+RMIT FactLab is a research hub at RMIT University dedicated to debunking misinformation online and
+developing critical awareness about its origins and spread. It is devoted to social media verification,
+research and education and combating the viral spread of misinformation on social media platforms.
+RMIT FactLab brings together the best of quality journalism and academic excellence to teach and build
+awareness around the damaging impact of bad information. It also conducts original research into the
+digital news ecosystem.
+
+Released under the FOI ActReleased under the FOI Act
