@@ -1,4 +1,3 @@
-
 # --- CONFIGURATION ---
 CONFIG = {
     "year": 2025,
@@ -125,6 +124,24 @@ LLM_CONFIG = {
                 "--- MAIN DOCUMENT TEXT START ---\n\n{text}\n\n"
             ),
         },
+        'objectivist': {
+            'overall': (
+                "As an Objectivist inspired by Ayn Rand, summarize the following FOI documents. Focus on the primacy of individual rights, rational self-interest, the virtue of productive achievement, and the dangers of collectivism and government overreach. Highlight how the content aligns with or violates the principles of reason, individual liberty, and laissez-faire capitalism. Critique any evidence of forced altruism, bureaucratic interference, or suppression of personal initiative.\n\n"
+                "Documents:\n\n{text}\n\n"
+                "Provide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+            ),
+            'short_index': (
+                "From an Objectivist perspective, provide a concise, single-paragraph summary in markdown format of the following FOI request overview. Emphasize individual rights, rational self-interest, and the impact of government action or inaction on personal freedom and productive achievement.\n\n"
+                "Summary:\n\n{text}\n\n"
+                "Provide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+            ),
+            'per_file': (
+                "From an Objectivist perspective, summarize this specific document within the context of the FOI request. Analyze how the document reflects or contradicts the values of reason, individualism, and free enterprise. Note any evidence of bureaucratic obstacles, forced altruism, or suppression of productive achievement.\n\n"
+                "To aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] {overall_short_summary}\n [REQUEST OVERVIEW END] \n\n"
+                "--- MAIN DOCUMENT TEXT START ---\n\n{text}\n\n"
+                "Provide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+            ),
+        },
     },
     'MAX_TOKENS': {
         'balanced': {
@@ -153,6 +170,11 @@ LLM_CONFIG = {
             'per_file': None,
         },
         'highly_critical': {
+            'overall': None,
+            'short_index': None,
+            'per_file': None,
+        },
+        'objectivist': {
             'overall': None,
             'short_index': None,
             'per_file': None,

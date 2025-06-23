@@ -48,6 +48,10 @@
                         Highly Critical
                       </option>
                     
+                      <option value="objectivist" >
+                        Objectivist
+                      </option>
+                    
                   </select>
                 </div>
             </div>
@@ -150,6 +154,21 @@
 </div>
 
 
+<div class="overall-ai-summary" data-persona-id="objectivist" style="display:none;">
+  <button class="ai-summary-toggle" type="button">Show AI Generated Overview</button>
+  <div class="ai-summary-markdown collapsed">
+    <div class="ai-summary-markdown-content">
+      
+    </div>
+    
+    
+    <span class="ai-summary-label" data-summary-model="" data-summary-date="">
+  AI Generated <i class="info-icon">?</i>
+</span>
+  </div>
+</div>
+
+
 <div class="foi-detail-layout">
   <aside class="foi-sidebar">
     <h3>Files</h3>
@@ -237,7 +256,7 @@
     <script src="../static/lunr.min.js"></script>
     <script src="../static/search.js"></script>
     <script>
-      window.PERSONAS_LIST = ["balanced", "left_leaning", "right_leaning", "government_skeptic", "government_apologist", "highly_critical"];
+      window.PERSONAS_LIST = ["balanced", "left_leaning", "right_leaning", "government_skeptic", "government_apologist", "highly_critical", "objectivist"];
       window.DEFAULT_PERSONA = 'balanced';
     </script>
     <script src="../static/general_ui.js" defer></script>

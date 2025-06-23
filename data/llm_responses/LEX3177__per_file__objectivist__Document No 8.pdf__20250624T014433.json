@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The provided document is empty and contains no text. Therefore, no summary or analysis can be performed regarding its content, nor can it be assessed for reflection or contradiction of Objectivist values, or for evidence of bureaucratic obstacles, forced altruism, or suppression of productive achievement."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 311,
+    "candidates_token_count": 54,
+    "total_token_count": 1108,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From an Objectivist perspective, summarize this specific document within the context of the FOI request. Analyze how the document reflects or contradicts the values of reason, individualism, and free enterprise. Note any evidence of bureaucratic obstacles, forced altruism, or suppression of productive achievement.\n\nTo aid you, the overview of the FOI request is: [REQUEST OVERVIEW START] The Australian Electoral Commission's (AEC) power to deregister a political party based on arbitrary membership thresholds and intrusive statistical verification constitutes a profound violation of individual rights and productive achievement from an Objectivist perspective. Political parties are voluntary associations, formed by individuals pursuing shared goals based on their rational self-interest; for the state to dictate their very existence through coercive minimum member counts and intrusive statistical \"legitimization\" represents an illegitimate assertion of control over private initiative and freedom of association. This bureaucratic overreach, masquerading as \"integrity,\" forces individuals and private entities to divert resources from their chosen productive endeavors—advancing political aims—to appeasing state-imposed hurdles, thereby suppressing personal freedom and productive achievement. The state's proper function is solely to protect individual rights, not to regulate, manage, or dictate the terms of voluntary association or political expression, which this regulatory framework demonstrably undermines, substituting genuine individual consent and reality-based rationality with abstract, controlling bureaucratic dictates.\n [REQUEST OVERVIEW END] \n\n--- MAIN DOCUMENT TEXT START ---\n\n\n\n--- Page 1 ---\n\n\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble."
+}

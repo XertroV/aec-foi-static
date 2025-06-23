@@ -25,6 +25,7 @@ def generate_summary(text_content, prompt_template, model_name, max_output_token
     """
     prompt = None  # Always define prompt in this scope
     try:
+        # print(f"[LLM] Using API key: ...{GEMINI_API_KEY[-4:]}")
         genai.configure(api_key=GEMINI_API_KEY)
 
         # Use string-based safety_settings for compatibility (removed problematic category)
