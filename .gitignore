@@ -67,3 +67,4 @@ pdfminer.six-cache/
 # Temporary files
 *_extracted_*/
 .env
+to-rem-lfs.txt
