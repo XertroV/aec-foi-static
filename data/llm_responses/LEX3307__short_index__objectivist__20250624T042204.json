@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "The FOI request documents reveal the Australian Electoral Commission's imposition of an arbitrary 1,500-member minimum for political party registration, exemplified by the deregistration of the 'Australian People’s Party'. From an Objectivist perspective, this constitutes government overreach, directly violating the fundamental individual rights of political association and expression. Such a state-mandated numerical threshold, based on collective size rather than individual voluntary action, embodies implicit collectivism, stifling personal initiative and political entrepreneurship. It fundamentally misconstrues the proper role of government, which is to protect individual rights, not dictate the terms of their exercise or restrict political competition based on arbitrary collective quotas."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 368,
+    "candidates_token_count": 136,
+    "total_token_count": 1130,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From an Objectivist perspective, provide a concise, single-paragraph summary in markdown format of the following FOI request overview. Focus on the content of the FOI request particularly.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble.\nSummary:\n\nThe documents reveal a concerning instance of government overreach into the fundamental right of political association and expression. The Australian Electoral Commission (AEC), a government bureaucracy, is dictating the terms by which political parties can exist, specifically through the enforcement of an arbitrary 1,500-member minimum for registration, as demonstrated by the deregistration of the 'Australian People’s Party'.\n\nThis directly violates the primacy of individual rights. Rights are individual, not collective, and the freedom to associate, speak, and advocate for one's beliefs should not be contingent upon meeting an arbitrary numerical threshold imposed by the state. This bureaucratic interference stifles personal initiative and the virtue of productive achievement in the political realm. Individuals, acting on rational self-interest to advance their values and principles, should be free to form political organizations without the state acting as a gatekeeper based on collective size rather than individual merit or voluntary association.\n\nSuch a requirement constitutes a form of implicit collectivism, prioritizing the statistical mass of a group over the inherent rights of its individual members to organize and participate. It suppresses political entrepreneurship and limits the choices available to voters, thereby undermining the principles of individual liberty and laissez-faire capitalism applied to the social and political sphere. A truly free society operates on voluntary action and individual initiative, not on state-mandated quotas designed to streamline or restrict political competition. The government's role should be limited to protecting individual rights, not dictating the terms of their exercise or elevating established collectives over emergent, voluntary associations.\n\n"
+}

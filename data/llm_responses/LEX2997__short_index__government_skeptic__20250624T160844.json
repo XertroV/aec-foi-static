@@ -1,0 +1,28 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "This FOI release exposes a deeply opaque bureaucratic response from the Australian Electoral Commission to serious allegations against MP Andrew Laming, particularly concerning his alleged operation of numerous unauthorized, deceptive Facebook pages. Widespread redactions and outright withholding of documents, citing vague exemptions, strongly suggest a deliberate effort to shield the specifics of the investigation and obscure any potential misconduct. The AEC's reactive handling of these pages, only addressed after media attention, along with internal acknowledgments of public sentiment like 'AEC is biased so won't take action,' underscores a perceived lack of impartiality and effective enforcement. Furthermore, serious complaints regarding Laming's alleged misuse of privileged information for harassment remain largely hidden. The protracted, process-driven 'investigation,' veiled by extensive legal advice and internal reports, reveals a system seemingly designed more for self-preservation and procedural compliance than for genuine transparency or holding powerful individuals accountable."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0.0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 611,
+    "candidates_token_count": 179,
+    "total_token_count": 1451,
+    "cached_content_token_count": 0
+  },
+  "model_version": "gemini-2.5-flash",
+  "prompt": "From a government skeptic's viewpoint, provide a concise, single-paragraph summary in markdown format of the following FOI request overview:\n\nSummary:\n\nThese FOI documents offer a concerning glimpse into the Australian Electoral Commission's (AEC) handling of serious allegations against a sitting Member of Parliament, Andrew Laming, regarding his alleged operation of numerous \"unauthorised Facebook pages\" for political purposes. Far from exemplifying transparency, the released material highlights a deeply opaque bureaucratic process, raising significant questions about government accountability and efficiency.\n\nA substantial portion of the documents are either heavily redacted (\"Release in Part\" due to \"personal information\" or s22 exemptions) or entirely withheld (\"Exempt in Full\" under legal professional privilege (s42) and law enforcement secrecy (s37(1)(a))). This pervasive secrecy, particularly around \"Draft advice Re investigation into Dr Laming\" and communications with \"third parties,\" suggests a concerted effort to shield the specifics of the investigation, its legal basis, and its progress from public scrutiny. This lack of transparency undermines public trust and makes it impossible to fully assess the thoroughness or impartiality of the AEC's actions.\n\nThe core allegations revolve around Laming's use of \"dummy\" or \"unauthorised\" Facebook pages, some disguised as \"community\" or \"news\" groups (e.g., \"Redlands Institute,\" \"Redlands Hospital: Let's fight for fair funding\"). Documents confirm that some of these pages were only removed or belatedly authorised *after* media attention, indicating a reactive rather than proactive enforcement approach by the AEC. The public's skepticism is explicitly noted in internal AEC communications, with reports of \"Twitter activity\" expressing sentiment like \"don't expect AEC to do anything,\" \"the AEC is biased so won't take action,\" and \"they don't have any power to take action.\" This suggests a widespread public perception of governmental impotence or complicity in addressing alleged misconduct.\n\nFurther compounding concerns, a complaint noted in two documents alleges that Laming \"misused privileged information to harass people\" and \"rocking up at their homes because he wanted to have sex with them!\" This serious accusation, while only a complaint, points to potential abuse of power and personal data, yet the handling of such claims remains largely obscured by exemptions.\n\nThe documents illustrate a slow, bureaucratic response, marked by numerous internal \"ELT weekly reports\" and protracted exchanges of \"Notices under section 321F of the Commonwealth Electoral Act.\" The repeated issuance of these notices, often with extended deadlines, implies a drawn-out process that could be perceived as deferring decisive action. While the AEC claims to be \"investigating,\" the overwhelming amount of redacted legal advice and internal discussions creates a black box around the actual investigative steps, hinting at a system designed more for self-protection and procedural compliance than for swift, transparent justice.\n\nProvide only the markdown formatted summary text. Do not include any conversational filler or preamble.\n"
+}
