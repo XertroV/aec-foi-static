@@ -13,7 +13,8 @@ except ImportError:
     sys.exit(1)
 
 PORT = 8000
-BUILD_DIR = Path(__file__).parent / "docs"
+# BUILD_DIR = Path(__file__).parent / "docs"
+BUILD_DIR = Path(__file__).parent / "serve_me"
 
 if not BUILD_DIR.exists():
     print(f"Build directory '{BUILD_DIR}' does not exist. Run the build first.")
@@ -24,6 +25,6 @@ os.chdir(BUILD_DIR)
 server = Server()
 server.watch(str(BUILD_DIR / '**' / '*.*'), delay=0.5)
 
-print(f"Serving '{BUILD_DIR}' at http://localhost:{PORT} with live reload...")
-webbrowser.open(f"http://localhost:{PORT}")
+print(f"Serving '{BUILD_DIR}' at http://localhost:{PORT}/aec-foi-static/ with live reload...")
+webbrowser.open(f"http://localhost:{PORT}/aec-foi-static/")
 server.serve(root=str(BUILD_DIR), port=PORT, open_url_delay=None)
