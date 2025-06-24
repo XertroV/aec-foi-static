@@ -9,6 +9,17 @@ import concurrent.futures
 import json
 import time
 
+def is_persona_valid(*persona_ids):
+    valid_personas = set(LLM_CONFIG['PROMPT_TEMPLATES'].keys())
+    selected_personas = set([p.strip() for p in persona_ids])
+    invalid = selected_personas - valid_personas
+    if invalid:
+        print(f"Error: Invalid persona(s) specified: {', '.join(sorted(invalid))}")
+        print(f"Valid personas are: {', '.join(sorted(valid_personas))}")
+        return False
+    return True
+
+
 def main():
     import argparse
     import datetime
@@ -21,20 +32,20 @@ def main():
     parser.add_argument('--list-xlsx', action='store_true', help='List all FOI requests that have an xlsx file (from foi_data.json) and exit')
     parser.add_argument('--fill-missing-file-summaries', action='store_true', help='Generate missing per-file summaries for all files in foi_data.json and update the file incrementally')
     parser.add_argument('--fill-missing-summaries', action='store_true', help='Generate missing main and per-file summaries (overall, short, and per-file) for all FOIs in foi_data.json and update incrementally')
+    parser.add_argument('--clear-short-summaries', type=str, metavar='PERSONA', help='Clear all short_index summaries for the given persona in foi_data.json')
     args = parser.parse_args()
     config = CONFIG
     LLM_CONFIG['FORCE_SUMMARY_REGENERATION'] = args.force_summaries
     config['FORCE_EXTRACT'] = args.force_extract  # <--- propagate to config
     # Parse personas flag
     selected_personas = None
-    if args.personas:
-        valid_personas = set(LLM_CONFIG['PROMPT_TEMPLATES'].keys())
-        selected_personas = set([p.strip() for p in args.personas.split(',') if p.strip()])
-        invalid = selected_personas - valid_personas
-        if invalid:
-            print(f"Error: Invalid persona(s) specified: {', '.join(sorted(invalid))}")
-            print(f"Valid personas are: {', '.join(sorted(valid_personas))}")
-            exit(1)
+    if args.personas and not is_persona_valid(*[p.strip() for p in args.personas.split(',') if p.strip()]):
+        exit(1)
+
+    # clear_short_summaries
+    if args.clear_short_summaries:
+        clear_short_summaries(config, args.clear_short_summaries, year=args.year)
+        return
 
     if args.list_xlsx:
         foi_data_path = Path(config['data_dir']) / "foi_data.json"
@@ -263,6 +274,28 @@ def fill_missing_summaries(config, selected_personas=None, year=None, no_per_fil
             print(f"  Error generating summaries for FOI {req['id']}: {e}")
     print("Done filling missing main and per-file summaries.")
 
+def clear_short_summaries(config, persona, year=None):
+    """
+    Clear all short_index summaries for the given persona in foi_data.json.
+    """
+    foi_data_path = Path(config['data_dir']) / "foi_data.json"
+    if not foi_data_path.exists():
+        print("No foi_data.json found.")
+        return
+    with open(foi_data_path, "r", encoding="utf-8") as f:
+        foi_data = json.load(f)
+    count = 0
+    for req in foi_data:
+        if year and req.get('year') != year:
+            continue
+        print(f"Processing FOI {req['id']} ({req.get('title', '')}) for clearing short_index summaries...")
+        ai_summaries = req.get('ai_summaries', {})
+        if persona in ai_summaries and 'short_index' in ai_summaries[persona]:
+            ai_summaries[persona]['short_index'] = {'text': None}
+            count += 1
+    with open(foi_data_path, "w", encoding="utf-8") as f:
+        json.dump(foi_data, f, ensure_ascii=False, indent=2)
+    print(f"Cleared short_index summaries for persona '{persona}' in {count} FOI requests.")
 
 if __name__ == "__main__":
     main()
